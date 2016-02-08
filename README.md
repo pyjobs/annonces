@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/08 - [Lead Backend Developer - H/F en CDI à Paris](http://pyjobs.fr/job/1101/lead-backend-developer-h-f-en-cdi-a-paris "Lead Backend Developer - H/F en CDI à Paris")
 * 2016/02/05 - [Software craftsmanship Python](http://pyjobs.fr/job/1100/software-craftsmanship-python "Software craftsmanship Python")
 * 2016/02/04 - [Full-Stack Python Developer en CDI à Paris 45000-54000](http://pyjobs.fr/job/1099/full-stack-python-developer-en-cdi-a-paris-45000-54000 "Full-Stack Python Developer en CDI à Paris 45000-54000")
 * 2016/02/02 - [Stage Développeur Full Stack H/F en Stage à Paris](http://pyjobs.fr/job/637/stage-developpeur-full-stack-h-f-en-stage-a-paris "Stage Développeur Full Stack H/F en Stage à Paris")
@@ -12,9 +13,9 @@ Offres d'emploi python pour le marché français
 * 2016/02/01 - [Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly](http://pyjobs.fr/job/2/lead-developpeur-python-php-en-cdi-a-le-petit-quevilly "Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly")
 * 2016/02/01 - [Développeur Python](http://pyjobs.fr/job/71/developpeur-python "Développeur Python")
 * 2016/02/01 - [Développeur web Front & Back office](http://pyjobs.fr/job/69/developpeur-web-front-back-office "Développeur web Front & Back office")
-* 2016/02/01 - [DevOps Licence H/F](http://pyjobs.fr/job/116/devops-licence-h-f "DevOps Licence H/F")
 * 2016/02/01 - [Développeur C/C++ Réseau](http://pyjobs.fr/job/76/developpeur-c-c-reseau "Développeur C/C++ Réseau")
 * 2016/02/01 - [Data Analyst](http://pyjobs.fr/job/59/data-analyst "Data Analyst")
+* 2016/02/01 - [DevOps Licence H/F](http://pyjobs.fr/job/116/devops-licence-h-f "DevOps Licence H/F")
 * 2016/02/01 - [Lead dev Python 3](http://pyjobs.fr/job/73/lead-dev-python-3 "Lead dev Python 3")
 * 2016/01/31 - [DevOps AWS Ansible – Full LINUX H/F en CDI à Paris](http://pyjobs.fr/job/189/devops-aws-ansible-full-linux-h-f-en-cdi-a-paris "DevOps AWS Ansible – Full LINUX H/F en CDI à Paris")
 * 2016/01/31 - [Développeur PHP Backend H/F en CDI à Pau](http://pyjobs.fr/job/186/developpeur-php-backend-h-f-en-cdi-a-pau "Développeur PHP Backend H/F en CDI à Pau")
@@ -23,8 +24,8 @@ Offres d'emploi python pour le marché français
 * 2016/01/28 - [Développeur PHP junior H/F en CDI à Levallois-Perret 25000-34000](http://pyjobs.fr/job/185/developpeur-php-junior-h-f-en-cdi-a-levallois-perret-25000-34000 "Développeur PHP junior H/F en CDI à Levallois-Perret 25000-34000")
 * 2016/01/27 - [Developpeur PHP (Fullstack)  CDI H/F #start-up #paris en CDI à Paris 45000-54000](http://pyjobs.fr/job/183/developpeur-php-fullstack-cdi-h-f-start-up-paris-en-cdi-a-paris-45000-54000 "Developpeur PHP (Fullstack)  CDI H/F #start-up #paris en CDI à Paris 45000-54000")
 * 2016/01/27 - [Développeur LBS PLAN](http://pyjobs.fr/job/85/developpeur-lbs-plan "Développeur LBS PLAN")
-* 2016/01/27 - [Ingénieur d'étude en Systèmes et Réseaux](http://pyjobs.fr/job/44/ingenieur-detude-en-systemes-et-reseaux "Ingénieur d'étude en Systèmes et Réseaux")
 * 2016/01/27 - [Développeur LBS ITINERAIRE](http://pyjobs.fr/job/83/developpeur-lbs-itineraire "Développeur LBS ITINERAIRE")
+* 2016/01/27 - [Ingénieur d'étude en Systèmes et Réseaux](http://pyjobs.fr/job/44/ingenieur-detude-en-systemes-et-reseaux "Ingénieur d'étude en Systèmes et Réseaux")
 * 2016/01/27 - [Développeur LBS SEARCH](http://pyjobs.fr/job/88/developpeur-lbs-search "Développeur LBS SEARCH")
 * 2016/01/27 - [Développeur ANDROID](http://pyjobs.fr/job/79/developpeur-android "Développeur ANDROID")
 * 2016/01/26 - [Ingénieur Système Production et Réseaux H/F en CDD](http://pyjobs.fr/job/181/ingenieur-systeme-production-et-reseaux-h-f-en-cdd "Ingénieur Système Production et Réseaux H/F en CDD")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/01/14 - [Développeur web front-end (Biblissima, Saint-Denis) H/F en CDD à Saint-Denis 25000-34000](http://pyjobs.fr/job/151/developpeur-web-front-end-biblissima-saint-denis-h-f-en-cdd-a-saint-denis-25000-34000 "Développeur web front-end (Biblissima, Saint-Denis) H/F en CDD à Saint-Denis 25000-34000")
 * 2016/01/14 - [Administrateur de bases de données (DBA)](http://pyjobs.fr/job/62/administrateur-de-bases-de-donnees-dba "Administrateur de bases de données (DBA)")
 * 2016/01/13 - [Développeur Django (H/F)](http://pyjobs.fr/job/639/developpeur-django-h-f "Développeur Django (H/F)")
-* 2016/01/13 - [DevOps Python (H/F)](http://pyjobs.fr/job/647/devops-python-h-f "DevOps Python (H/F)")
 

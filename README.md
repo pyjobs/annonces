@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/12 - [Développeur Front-end - H/F en Stage à Paris](http://pyjobs.fr/job/1120/developpeur-front-end-h-f-en-stage-a-paris "Développeur Front-end - H/F en Stage à Paris")
 * 2016/02/11 - [[Stage] Développement web, automatisation, data mining (h/f) en Stage à Issy-les-Moulineaux](http://pyjobs.fr/job/1119/stage-developpement-web-automatisation-data-mining-h-f-en-stage-a-issy-les-moulineaux "[Stage] Développement web, automatisation, data mining (h/f) en Stage à Issy-les-Moulineaux")
 * 2016/02/11 - [Data Analyst H/F en CDI à Paris](http://pyjobs.fr/job/1118/data-analyst-h-f-en-cdi-a-paris "Data Analyst H/F en CDI à Paris")
 * 2016/02/11 - [Architecte Système h/f en CDI à Paris](http://pyjobs.fr/job/1117/architecte-systeme-h-f-en-cdi-a-paris "Architecte Système h/f en CDI à Paris")
@@ -18,10 +19,10 @@ Offres d'emploi python pour le marché français
 * 2016/02/01 - [Lead dev Python 3](http://pyjobs.fr/job/642/lead-dev-python-3 "Lead dev Python 3")
 * 2016/02/01 - [Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly](http://pyjobs.fr/job/2/lead-developpeur-python-php-en-cdi-a-le-petit-quevilly "Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly")
 * 2016/02/01 - [DevOps Licence H/F](http://pyjobs.fr/job/116/devops-licence-h-f "DevOps Licence H/F")
-* 2016/02/01 - [Développeur web Front & Back office](http://pyjobs.fr/job/69/developpeur-web-front-back-office "Développeur web Front & Back office")
 * 2016/02/01 - [Lead dev Python 3](http://pyjobs.fr/job/73/lead-dev-python-3 "Lead dev Python 3")
-* 2016/02/01 - [Développeur Python](http://pyjobs.fr/job/71/developpeur-python "Développeur Python")
 * 2016/02/01 - [Développeur C/C++ Réseau](http://pyjobs.fr/job/76/developpeur-c-c-reseau "Développeur C/C++ Réseau")
+* 2016/02/01 - [Développeur Python](http://pyjobs.fr/job/71/developpeur-python "Développeur Python")
+* 2016/02/01 - [Développeur web Front & Back office](http://pyjobs.fr/job/69/developpeur-web-front-back-office "Développeur web Front & Back office")
 * 2016/02/01 - [Data Analyst](http://pyjobs.fr/job/59/data-analyst "Data Analyst")
 * 2016/01/31 - [DevOps AWS Ansible – Full LINUX H/F en CDI à Paris](http://pyjobs.fr/job/189/devops-aws-ansible-full-linux-h-f-en-cdi-a-paris "DevOps AWS Ansible – Full LINUX H/F en CDI à Paris")
 * 2016/01/31 - [Développeur PHP Backend H/F en CDI à Pau](http://pyjobs.fr/job/186/developpeur-php-backend-h-f-en-cdi-a-pau "Développeur PHP Backend H/F en CDI à Pau")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/01/19 - [Data/Python Team Leader H/F en CDI à Paris](http://pyjobs.fr/job/160/data-python-team-leader-h-f-en-cdi-a-paris "Data/Python Team Leader H/F en CDI à Paris")
 * 2016/01/19 - [Développeur python](http://pyjobs.fr/job/135/developpeur-python "Développeur python")
 * 2016/01/18 - [Administrateur Système & Réseau à Lyon #performance](http://pyjobs.fr/job/1105/administrateur-systeme-reseau-a-lyon-performance "Administrateur Système & Réseau à Lyon #performance")
-* 2016/01/18 - [Développeur Python/C Confirmé (H/F)](http://pyjobs.fr/job/640/developpeur-python-c-confirme-h-f "Développeur Python/C Confirmé (H/F)")
 

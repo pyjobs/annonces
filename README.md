@@ -2,14 +2,15 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/18 - [[Stage] Développeur back end (H/F) en Stage à Paris](http://pyjobs.fr/job/1128/stage-developpeur-back-end-h-f-en-stage-a-paris "[Stage] Développeur back end (H/F) en Stage à Paris")
 * 2016/02/18 - [(Stage) Développeur Python - H/F en Stage à La Rochelle](http://pyjobs.fr/job/1127/stage-developpeur-python-h-f-en-stage-a-la-rochelle "(Stage) Développeur Python - H/F en Stage à La Rochelle")
 * 2016/02/18 - [Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune](http://pyjobs.fr/job/1126/developpeur-web-fullstack-h-f-en-cdi-a-tassin-la-demi-lune "Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune")
 * 2016/02/15 - [Développeur BackEnd GO - H/F en CDI à Paris](http://pyjobs.fr/job/1125/developpeur-backend-go-h-f-en-cdi-a-paris "Développeur BackEnd GO - H/F en CDI à Paris")
 * 2016/02/13 - [Développeur Python - H/F en Stage à Paris](http://pyjobs.fr/job/1124/developpeur-python-h-f-en-stage-a-paris "Développeur Python - H/F en Stage à Paris")
 * 2016/02/12 - [Développeur Front-end - H/F en Stage à Paris](http://pyjobs.fr/job/1120/developpeur-front-end-h-f-en-stage-a-paris "Développeur Front-end - H/F en Stage à Paris")
+* 2016/02/12 - [Développeur(se) php/python3 h/f](http://pyjobs.fr/job/1122/developpeur-se-php-python3-h-f "Développeur(se) php/python3 h/f")
 * 2016/02/12 - [Développeur(se) php/python3 h/f](http://pyjobs.fr/job/1123/developpeur-se-php-python3-h-f "Développeur(se) php/python3 h/f")
 * 2016/02/12 - [Software craftsmanship python](http://pyjobs.fr/job/1121/software-craftsmanship-python "Software craftsmanship python")
-* 2016/02/12 - [Développeur(se) php/python3 h/f](http://pyjobs.fr/job/1122/developpeur-se-php-python3-h-f "Développeur(se) php/python3 h/f")
 * 2016/02/11 - [[Stage] Développement web, automatisation, data mining (h/f) en Stage à Issy-les-Moulineaux](http://pyjobs.fr/job/1119/stage-developpement-web-automatisation-data-mining-h-f-en-stage-a-issy-les-moulineaux "[Stage] Développement web, automatisation, data mining (h/f) en Stage à Issy-les-Moulineaux")
 * 2016/02/11 - [Data Analyst H/F en CDI à Paris](http://pyjobs.fr/job/1118/data-analyst-h-f-en-cdi-a-paris "Data Analyst H/F en CDI à Paris")
 * 2016/02/11 - [Architecte Système h/f en CDI à Paris](http://pyjobs.fr/job/1117/architecte-systeme-h-f-en-cdi-a-paris "Architecte Système h/f en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/01/22 - [Développeur full stack H/F en CDI à Paris 35000-44000](http://pyjobs.fr/job/171/developpeur-full-stack-h-f-en-cdi-a-paris-35000-44000 "Développeur full stack H/F en CDI à Paris 35000-44000")
 * 2016/01/22 - [Dév Web Fullstack  PHP NodeJS bigdata en CDI à Levallois-Perret 35000-44000](http://pyjobs.fr/job/170/dev-web-fullstack-php-nodejs-bigdata-en-cdi-a-levallois-perret-35000-44000 "Dév Web Fullstack  PHP NodeJS bigdata en CDI à Levallois-Perret 35000-44000")
 * 2016/01/22 - [Lead Developper Web/Python H/F (CDI)](http://pyjobs.fr/job/641/lead-developper-web-python-h-f-cdi "Lead Developper Web/Python H/F (CDI)")
-* 2016/01/22 - [Ingénieur Big Data H/F en CDI à Lyon](http://pyjobs.fr/job/169/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data H/F en CDI à Lyon")
 

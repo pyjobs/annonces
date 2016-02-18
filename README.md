@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/18 - [(Stage) Développeur Python - H/F en Stage à La Rochelle](http://pyjobs.fr/job/1127/stage-developpeur-python-h-f-en-stage-a-la-rochelle "(Stage) Développeur Python - H/F en Stage à La Rochelle")
 * 2016/02/18 - [Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune](http://pyjobs.fr/job/1126/developpeur-web-fullstack-h-f-en-cdi-a-tassin-la-demi-lune "Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune")
 * 2016/02/15 - [Développeur BackEnd GO - H/F en CDI à Paris](http://pyjobs.fr/job/1125/developpeur-backend-go-h-f-en-cdi-a-paris "Développeur BackEnd GO - H/F en CDI à Paris")
 * 2016/02/13 - [Développeur Python - H/F en Stage à Paris](http://pyjobs.fr/job/1124/developpeur-python-h-f-en-stage-a-paris "Développeur Python - H/F en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/01/22 - [Dév Web Fullstack  PHP NodeJS bigdata en CDI à Levallois-Perret 35000-44000](http://pyjobs.fr/job/170/dev-web-fullstack-php-nodejs-bigdata-en-cdi-a-levallois-perret-35000-44000 "Dév Web Fullstack  PHP NodeJS bigdata en CDI à Levallois-Perret 35000-44000")
 * 2016/01/22 - [Lead Developper Web/Python H/F (CDI)](http://pyjobs.fr/job/641/lead-developper-web-python-h-f-cdi "Lead Developper Web/Python H/F (CDI)")
 * 2016/01/22 - [Ingénieur Big Data H/F en CDI à Lyon](http://pyjobs.fr/job/169/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data H/F en CDI à Lyon")
-* 2016/01/21 - [Dev PYTHON H/F en Stage à La Rochelle](http://pyjobs.fr/job/167/dev-python-h-f-en-stage-a-la-rochelle "Dev PYTHON H/F en Stage à La Rochelle")
 

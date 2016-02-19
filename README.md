@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/19 - [Web Development Engineer Javascript - H/F en CDI à Paris](http://pyjobs.fr/job/1197/web-development-engineer-javascript-h-f-en-cdi-a-paris "Web Development Engineer Javascript - H/F en CDI à Paris")
 * 2016/02/19 - [Web Development Engineer Python/Django (H/F) en CDI à Paris](http://pyjobs.fr/job/1194/web-development-engineer-python-django-h-f-en-cdi-a-paris "Web Development Engineer Python/Django (H/F) en CDI à Paris")
 * 2016/02/19 - [Software Engineer (Data, Cloud) - H/F en CDI à Paris](http://pyjobs.fr/job/1196/software-engineer-data-cloud-h-f-en-cdi-a-paris "Software Engineer (Data, Cloud) - H/F en CDI à Paris")
 * 2016/02/19 - [Software Engineer (backend, data mining, algorithms) - H/F en CDI à Paris](http://pyjobs.fr/job/1195/software-engineer-backend-data-mining-algorithms-h-f-en-cdi-a-paris "Software Engineer (backend, data mining, algorithms) - H/F en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/01 - [Développeur Python](http://pyjobs.fr/job/643/developpeur-python "Développeur Python")
 * 2016/02/01 - [Lead dev Python 3](http://pyjobs.fr/job/642/lead-dev-python-3 "Lead dev Python 3")
 * 2016/02/01 - [Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly](http://pyjobs.fr/job/2/lead-developpeur-python-php-en-cdi-a-le-petit-quevilly "Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly")
-* 2016/02/01 - [Dev ruby sénior/devops | visa pour san francisco](http://pyjobs.fr/job/1187/dev-ruby-senior-devops-visa-pour-san-francisco "Dev ruby sénior/devops | visa pour san francisco")
 

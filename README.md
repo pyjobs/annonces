@@ -2,6 +2,9 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/19 - [Web Development Engineer Python/Django (H/F) en CDI à Paris](http://pyjobs.fr/job/1194/web-development-engineer-python-django-h-f-en-cdi-a-paris "Web Development Engineer Python/Django (H/F) en CDI à Paris")
+* 2016/02/19 - [Software Engineer (Data, Cloud) - H/F en CDI à Paris](http://pyjobs.fr/job/1196/software-engineer-data-cloud-h-f-en-cdi-a-paris "Software Engineer (Data, Cloud) - H/F en CDI à Paris")
+* 2016/02/19 - [Software Engineer (backend, data mining, algorithms) - H/F en CDI à Paris](http://pyjobs.fr/job/1195/software-engineer-backend-data-mining-algorithms-h-f-en-cdi-a-paris "Software Engineer (backend, data mining, algorithms) - H/F en CDI à Paris")
 * 2016/02/18 - [[Stage] Développeur back end (H/F) en Stage à Paris](http://pyjobs.fr/job/1128/stage-developpeur-back-end-h-f-en-stage-a-paris "[Stage] Développeur back end (H/F) en Stage à Paris")
 * 2016/02/18 - [(Stage) Développeur Python - H/F en Stage à La Rochelle](http://pyjobs.fr/job/1127/stage-developpeur-python-h-f-en-stage-a-la-rochelle "(Stage) Développeur Python - H/F en Stage à La Rochelle")
 * 2016/02/18 - [Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune](http://pyjobs.fr/job/1126/developpeur-web-fullstack-h-f-en-cdi-a-tassin-la-demi-lune "Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune")
@@ -49,7 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/01 - [Lead dev Python 3](http://pyjobs.fr/job/642/lead-dev-python-3 "Lead dev Python 3")
 * 2016/02/01 - [Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly](http://pyjobs.fr/job/2/lead-developpeur-python-php-en-cdi-a-le-petit-quevilly "Lead Developpeur Python / PHP en CDI à Le Petit-Quevilly")
 * 2016/02/01 - [Dev ruby sénior/devops | visa pour san francisco](http://pyjobs.fr/job/1187/dev-ruby-senior-devops-visa-pour-san-francisco "Dev ruby sénior/devops | visa pour san francisco")
-* 2016/02/01 - [DevOps Licence H/F](http://pyjobs.fr/job/116/devops-licence-h-f "DevOps Licence H/F")
-* 2016/02/01 - [Lead dev Python 3](http://pyjobs.fr/job/73/lead-dev-python-3 "Lead dev Python 3")
-* 2016/02/01 - [Développeur Python](http://pyjobs.fr/job/71/developpeur-python "Développeur Python")
 

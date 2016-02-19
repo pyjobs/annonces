@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/19 - [[Stage] Développeur(se) Full Stack Python/Django/JS-React en Stage à Lyon](http://pyjobs.fr/job/1206/stage-developpeur-se-full-stack-python-django-js-react-en-stage-a-lyon "[Stage] Développeur(se) Full Stack Python/Django/JS-React en Stage à Lyon")
 * 2016/02/19 - [Web Development Engineer Javascript - H/F en CDI à Paris](http://pyjobs.fr/job/1197/web-development-engineer-javascript-h-f-en-cdi-a-paris "Web Development Engineer Javascript - H/F en CDI à Paris")
 * 2016/02/19 - [Web Development Engineer Python/Django (H/F) en CDI à Paris](http://pyjobs.fr/job/1194/web-development-engineer-python-django-h-f-en-cdi-a-paris "Web Development Engineer Python/Django (H/F) en CDI à Paris")
 * 2016/02/19 - [Software Engineer (Data, Cloud) - H/F en CDI à Paris](http://pyjobs.fr/job/1196/software-engineer-data-cloud-h-f-en-cdi-a-paris "Software Engineer (Data, Cloud) - H/F en CDI à Paris")
@@ -9,13 +10,13 @@ Offres d'emploi python pour le marché français
 * 2016/02/18 - [[Stage] Développeur back end (H/F) en Stage à Paris](http://pyjobs.fr/job/1128/stage-developpeur-back-end-h-f-en-stage-a-paris "[Stage] Développeur back end (H/F) en Stage à Paris")
 * 2016/02/18 - [(Stage) Développeur Python - H/F en Stage à La Rochelle](http://pyjobs.fr/job/1127/stage-developpeur-python-h-f-en-stage-a-la-rochelle "(Stage) Développeur Python - H/F en Stage à La Rochelle")
 * 2016/02/18 - [Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune](http://pyjobs.fr/job/1126/developpeur-web-fullstack-h-f-en-cdi-a-tassin-la-demi-lune "Développeur web fullstack - H/F en CDI à Tassin-la-Demi-Lune")
-* 2016/02/18 - [Développeur full-stack](http://pyjobs.fr/job/1200/developpeur-full-stack "Développeur full-stack")
 * 2016/02/18 - [Développeur Python expérimenté H/F](http://pyjobs.fr/job/1205/developpeur-python-experimente-h-f "Développeur Python expérimenté H/F")
+* 2016/02/18 - [Développeur full-stack](http://pyjobs.fr/job/1200/developpeur-full-stack "Développeur full-stack")
 * 2016/02/17 - [Developpeur php](http://pyjobs.fr/job/1129/developpeur-php "Developpeur php")
 * 2016/02/17 - [Data scientist](http://pyjobs.fr/job/1134/data-scientist "Data scientist")
 * 2016/02/16 - [Développeur python confirmé](http://pyjobs.fr/job/1133/developpeur-python-confirme "Développeur python confirmé")
-* 2016/02/16 - [Consultant Docker](http://pyjobs.fr/job/1199/consultant-docker "Consultant Docker")
 * 2016/02/16 - [Développeur Python](http://pyjobs.fr/job/1204/developpeur-python "Développeur Python")
+* 2016/02/16 - [Consultant Docker](http://pyjobs.fr/job/1199/consultant-docker "Consultant Docker")
 * 2016/02/16 - [DevOps licence](http://pyjobs.fr/job/1198/devops-licence "DevOps licence")
 * 2016/02/15 - [Développeur BackEnd GO - H/F en CDI à Paris](http://pyjobs.fr/job/1125/developpeur-backend-go-h-f-en-cdi-a-paris "Développeur BackEnd GO - H/F en CDI à Paris")
 * 2016/02/13 - [Développeur Python - H/F en Stage à Paris](http://pyjobs.fr/job/1124/developpeur-python-h-f-en-stage-a-paris "Développeur Python - H/F en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/02 - [Développeur confirmé python django/tornado](http://pyjobs.fr/job/1193/developpeur-confirme-python-django-tornado "Développeur confirmé python django/tornado")
 * 2016/02/02 - [Intégrateur applications mobiles](http://pyjobs.fr/job/1192/integrateur-applications-mobiles "Intégrateur applications mobiles")
 * 2016/02/02 - [Développeur applicatif (intéressé par firefox)](http://pyjobs.fr/job/1191/developpeur-applicatif-interesse-par-firefox "Développeur applicatif (intéressé par firefox)")
-* 2016/02/02 - [Développeur fullstack (back et front)](http://pyjobs.fr/job/1190/developpeur-fullstack-back-et-front "Développeur fullstack (back et front)")
 

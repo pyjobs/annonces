@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/23 - [[Stage] Développeur Full Stack PHP - H/F en Stage à Paris](http://pyjobs.fr/job/1299/stage-developpeur-full-stack-php-h-f-en-stage-a-paris "[Stage] Développeur Full Stack PHP - H/F en Stage à Paris")
 * 2016/02/23 - [Développeur Backend PHP (H/F) en CDI à Paris](http://pyjobs.fr/job/1298/developpeur-backend-php-h-f-en-cdi-a-paris "Développeur Backend PHP (H/F) en CDI à Paris")
 * 2016/02/23 - [Lead Développeur expérimenté - H/F en CDI à Paris 45000-54000](http://pyjobs.fr/job/1294/lead-developpeur-experimente-h-f-en-cdi-a-paris-45000-54000 "Lead Développeur expérimenté - H/F en CDI à Paris 45000-54000")
 * 2016/02/23 - [Développeur python/django - dreamteam](http://pyjobs.fr/job/1291/developpeur-python-django-dreamteam "Développeur python/django - dreamteam")
@@ -15,11 +16,11 @@ Offres d'emploi python pour le marché français
 * 2016/02/22 - [Administrateur Système Junior H/F en Stage à Paris](http://pyjobs.fr/job/1281/administrateur-systeme-junior-h-f-en-stage-a-paris "Administrateur Système Junior H/F en Stage à Paris")
 * 2016/02/22 - [Product Manager - H/F en CDI à La Rochelle](http://pyjobs.fr/job/1280/product-manager-h-f-en-cdi-a-la-rochelle "Product Manager - H/F en CDI à La Rochelle")
 * 2016/02/22 - [Développeur / Développeuse web](http://pyjobs.fr/job/1296/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/02/22 - [CDI - DÉVELOPPEMENT WEB "FULLSTACK"](http://pyjobs.fr/job/1288/cdi-developpement-web-fullstack "CDI - DÉVELOPPEMENT WEB "FULLSTACK"")
 * 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1287/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1282/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1297/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1286/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1282/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/02/22 - [CDI - DÉVELOPPEMENT WEB "FULLSTACK"](http://pyjobs.fr/job/1288/cdi-developpement-web-fullstack "CDI - DÉVELOPPEMENT WEB "FULLSTACK"")
+* 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1297/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/21 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1295/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/20 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1279/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/19 - [Développeur back-end sur plateforme VoIP - H/F en CDI à Sophia Antipolis](http://pyjobs.fr/job/1278/developpeur-back-end-sur-plateforme-voip-h-f-en-cdi-a-sophia-antipolis "Développeur back-end sur plateforme VoIP - H/F en CDI à Sophia Antipolis")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/17 - [Data scientist](http://pyjobs.fr/job/1134/data-scientist "Data scientist")
 * 2016/02/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1266/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1264/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1267/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

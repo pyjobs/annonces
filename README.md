@@ -2,6 +2,9 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/02/23 - [Développeur python/django - dreamteam](http://pyjobs.fr/job/1291/developpeur-python-django-dreamteam "Développeur python/django - dreamteam")
+* 2016/02/23 - [Data scientist senior pour une licorne française](http://pyjobs.fr/job/1293/data-scientist-senior-pour-une-licorne-francaise "Data scientist senior pour une licorne française")
+* 2016/02/23 - [Développeur python](http://pyjobs.fr/job/1292/developpeur-python "Développeur python")
 * 2016/02/22 - [QA Engineer (H/F) en CDI à Paris](http://pyjobs.fr/job/1290/qa-engineer-h-f-en-cdi-a-paris "QA Engineer (H/F) en CDI à Paris")
 * 2016/02/22 - [Devops Engineer (H/F) en CDI à Paris](http://pyjobs.fr/job/1289/devops-engineer-h-f-en-cdi-a-paris "Devops Engineer (H/F) en CDI à Paris")
 * 2016/02/22 - [Développeur java - app mobile à succès](http://pyjobs.fr/job/1284/developpeur-java-app-mobile-a-succes "Développeur java - app mobile à succès")
@@ -9,10 +12,10 @@ Offres d'emploi python pour le marché français
 * 2016/02/22 - [Développeur java/angular/big data](http://pyjobs.fr/job/1283/developpeur-java-angular-big-data "Développeur java/angular/big data")
 * 2016/02/22 - [Administrateur Système Junior H/F en Stage à Paris](http://pyjobs.fr/job/1281/administrateur-systeme-junior-h-f-en-stage-a-paris "Administrateur Système Junior H/F en Stage à Paris")
 * 2016/02/22 - [Product Manager - H/F en CDI à La Rochelle](http://pyjobs.fr/job/1280/product-manager-h-f-en-cdi-a-la-rochelle "Product Manager - H/F en CDI à La Rochelle")
-* 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1286/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/22 - [CDI - DÉVELOPPEMENT WEB "FULLSTACK"](http://pyjobs.fr/job/1288/cdi-developpement-web-fullstack "CDI - DÉVELOPPEMENT WEB "FULLSTACK"")
 * 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1287/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1286/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1282/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/02/22 - [CDI - DÉVELOPPEMENT WEB "FULLSTACK"](http://pyjobs.fr/job/1288/cdi-developpement-web-fullstack "CDI - DÉVELOPPEMENT WEB "FULLSTACK"")
 * 2016/02/20 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1279/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/19 - [Développeur back-end sur plateforme VoIP - H/F en CDI à Sophia Antipolis](http://pyjobs.fr/job/1278/developpeur-back-end-sur-plateforme-voip-h-f-en-cdi-a-sophia-antipolis "Développeur back-end sur plateforme VoIP - H/F en CDI à Sophia Antipolis")
 * 2016/02/19 - [[Stage] Développeur(se) Full Stack Python/Django/JS-React en Stage à Lyon](http://pyjobs.fr/job/1206/stage-developpeur-se-full-stack-python-django-js-react-en-stage-a-lyon "[Stage] Développeur(se) Full Stack Python/Django/JS-React en Stage à Lyon")
@@ -49,7 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/17 - [Développeur / Développeuse web](http://pyjobs.fr/job/1271/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/02/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1264/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1263/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/16 - [Développeur python confirmé](http://pyjobs.fr/job/1133/developpeur-python-confirme "Développeur python confirmé")
-* 2016/02/16 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1270/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/16 - [Consultant Docker](http://pyjobs.fr/job/1199/consultant-docker "Consultant Docker")
 

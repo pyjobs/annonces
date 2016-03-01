@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/03/01 - [Développeur android](http://pyjobs.fr/job/1354/developpeur-android "Développeur android")
 * 2016/03/01 - [Développeurs](http://pyjobs.fr/job/1350/developpeurs "Développeurs")
 * 2016/03/01 - [Développeur(se) back-end python expérimenté(e)](http://pyjobs.fr/job/1352/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
 * 2016/03/01 - [Développeur web/développeuse web](http://pyjobs.fr/job/1351/developpeur-web-developpeuse-web "Développeur web/développeuse web")
@@ -9,16 +10,16 @@ Offres d'emploi python pour le marché français
 * 2016/02/29 - [Chargé(e) de projet web en CDD à Marseille](http://pyjobs.fr/job/1349/charge-e-de-projet-web-en-cdd-a-marseille "Chargé(e) de projet web en CDD à Marseille")
 * 2016/02/29 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1348/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/29 - [Ingénieur Systèmes et Réseaux H/F](http://pyjobs.fr/job/1347/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
-* 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1344/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1345/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1344/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1343/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/26 - [Développeur Full Stack Django - H/F en CDI à Montpellier](http://pyjobs.fr/job/1334/developpeur-full-stack-django-h-f-en-cdi-a-montpellier "Développeur Full Stack Django - H/F en CDI à Montpellier")
 * 2016/02/26 - [Développeur Python - H/F en CDI à Paris](http://pyjobs.fr/job/1333/developpeur-python-h-f-en-cdi-a-paris "Développeur Python - H/F en CDI à Paris")
 * 2016/02/26 - [Développeur web - H/F en Stage à Paris](http://pyjobs.fr/job/1332/developpeur-web-h-f-en-stage-a-paris "Développeur web - H/F en Stage à Paris")
-* 2016/02/26 - [Ingénieur système linux experimenté H/F](http://pyjobs.fr/job/1335/ingenieur-systeme-linux-experimente-h-f "Ingénieur système linux experimenté H/F")
 * 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1340/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1342/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/02/26 - [Ingénieur système linux experimenté H/F](http://pyjobs.fr/job/1335/ingenieur-systeme-linux-experimente-h-f "Ingénieur système linux experimenté H/F")
 * 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1337/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1342/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1339/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/26 - [Développeur / Développeuse web](http://pyjobs.fr/job/1336/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1338/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/24 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1317/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/24 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1312/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/23 - [Développeur(se) Back-End Python expérimenté(e)](http://pyjobs.fr/job/1301/developpeur-se-back-end-python-experimente-e "Développeur(se) Back-End Python expérimenté(e)")
-* 2016/02/23 - [[Stage] Développeur Full Stack PHP - H/F en Stage à Paris](http://pyjobs.fr/job/1299/stage-developpeur-full-stack-php-h-f-en-stage-a-paris "[Stage] Développeur Full Stack PHP - H/F en Stage à Paris")
 

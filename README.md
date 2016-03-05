@@ -12,7 +12,10 @@ Offres d'emploi python pour le marché français
 * 2016/03/03 - [Développeur Python expérimenté H/F](http://pyjobs.fr/job/1379/developpeur-python-experimente-h-f "Développeur Python expérimenté H/F")
 * 2016/03/03 - [Développeur Full Stack (H/F) en CDI à Boulogne-Billancourt](http://pyjobs.fr/job/1377/developpeur-full-stack-h-f-en-cdi-a-boulogne-billancourt "Développeur Full Stack (H/F) en CDI à Boulogne-Billancourt")
 * 2016/03/03 - [[10 Stages] Ingénieur DEVELOPPEMENT WEB C++ (H/F) en Stage à Vélizy-Villacoublay](http://pyjobs.fr/job/1378/10-stages-ingenieur-developpement-web-c-h-f-en-stage-a-velizy-villacoublay "[10 Stages] Ingénieur DEVELOPPEMENT WEB C++ (H/F) en Stage à Vélizy-Villacoublay")
+* 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1389/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/03 - [Analyste développeur / développeuse](http://pyjobs.fr/job/1390/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1376/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1391/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur back-end - H/F en CDI à Paris-15E-Arrondissement](http://pyjobs.fr/job/1370/developpeur-back-end-h-f-en-cdi-a-paris-15e-arrondissement "Développeur back-end - H/F en CDI à Paris-15E-Arrondissement")
 * 2016/03/02 - [Testeur fonctionnel/Expert produit (h/f) Site web gd public en CDI à Paris](http://pyjobs.fr/job/1371/testeur-fonctionnel-expert-produit-h-f-site-web-gd-public-en-cdi-a-paris "Testeur fonctionnel/Expert produit (h/f) Site web gd public en CDI à Paris")
 * 2016/03/02 - [Ingénieur front-end - H/F en CDI à Paris-15E-Arrondissement](http://pyjobs.fr/job/1369/ingenieur-front-end-h-f-en-cdi-a-paris-15e-arrondissement "Ingénieur front-end - H/F en CDI à Paris-15E-Arrondissement")
@@ -49,7 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1344/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/26 - [Développeur Full Stack Django - H/F en CDI à Montpellier](http://pyjobs.fr/job/1334/developpeur-full-stack-django-h-f-en-cdi-a-montpellier "Développeur Full Stack Django - H/F en CDI à Montpellier")
 * 2016/02/26 - [Développeur Python - H/F en CDI à Paris](http://pyjobs.fr/job/1333/developpeur-python-h-f-en-cdi-a-paris "Développeur Python - H/F en CDI à Paris")
-* 2016/02/26 - [Développeur web - H/F en Stage à Paris](http://pyjobs.fr/job/1332/developpeur-web-h-f-en-stage-a-paris "Développeur web - H/F en Stage à Paris")
-* 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1337/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1340/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

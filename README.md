@@ -2,6 +2,8 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/03/06 - [Stage Administrateur Python/Bash](http://pyjobs.fr/job/1394/stage-administrateur-python-bash "Stage Administrateur Python/Bash")
+* 2016/03/06 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1395/stage-developpement-python-javascript "Stage Développement Python/Javascript")
 * 2016/03/04 - [Développeur Linux embarqué (H/F) en CDI à Saint-Jean-d'Angély](http://pyjobs.fr/job/1388/developpeur-linux-embarque-h-f-en-cdi-a-saint-jean-dangely "Développeur Linux embarqué (H/F) en CDI à Saint-Jean-d'Angély")
 * 2016/03/04 - [Ingénieur développement web (Python/Django) - H/F en CDI à Saint-Martin-d'Hères](http://pyjobs.fr/job/1387/ingenieur-developpement-web-python-django-h-f-en-cdi-a-saint-martin-dheres "Ingénieur développement web (Python/Django) - H/F en CDI à Saint-Martin-d'Hères")
 * 2016/03/04 - [Concepteur-développeur web senior](http://pyjobs.fr/job/1383/concepteur-developpeur-web-senior "Concepteur-développeur web senior")
@@ -14,16 +16,18 @@ Offres d'emploi python pour le marché français
 * 2016/03/03 - [[10 Stages] Ingénieur DEVELOPPEMENT WEB C++ (H/F) en Stage à Vélizy-Villacoublay](http://pyjobs.fr/job/1378/10-stages-ingenieur-developpement-web-c-h-f-en-stage-a-velizy-villacoublay "[10 Stages] Ingénieur DEVELOPPEMENT WEB C++ (H/F) en Stage à Vélizy-Villacoublay")
 * 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1389/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/03 - [Analyste développeur / développeuse](http://pyjobs.fr/job/1390/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1376/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1391/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1392/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1376/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur back-end - H/F en CDI à Paris-15E-Arrondissement](http://pyjobs.fr/job/1370/developpeur-back-end-h-f-en-cdi-a-paris-15e-arrondissement "Développeur back-end - H/F en CDI à Paris-15E-Arrondissement")
 * 2016/03/02 - [Testeur fonctionnel/Expert produit (h/f) Site web gd public en CDI à Paris](http://pyjobs.fr/job/1371/testeur-fonctionnel-expert-produit-h-f-site-web-gd-public-en-cdi-a-paris "Testeur fonctionnel/Expert produit (h/f) Site web gd public en CDI à Paris")
 * 2016/03/02 - [Ingénieur front-end - H/F en CDI à Paris-15E-Arrondissement](http://pyjobs.fr/job/1369/ingenieur-front-end-h-f-en-cdi-a-paris-15e-arrondissement "Ingénieur front-end - H/F en CDI à Paris-15E-Arrondissement")
 * 2016/03/02 - [Développeur front-end web mobile](http://pyjobs.fr/job/1364/developpeur-front-end-web-mobile "Développeur front-end web mobile")
 * 2016/03/02 - [Développeur Backend Python/PHP Symfony - H/F en CDI à Paris 25000-34000](http://pyjobs.fr/job/1361/developpeur-backend-python-php-symfony-h-f-en-cdi-a-paris-25000-34000 "Développeur Backend Python/PHP Symfony - H/F en CDI à Paris 25000-34000")
-* 2016/03/02 - [Développeur / Développeuse web](http://pyjobs.fr/job/1382/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1373/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1393/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1374/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/02 - [Développeur / Développeuse web](http://pyjobs.fr/job/1382/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/03/02 - [Analyste-programmeur / Analyste-programmeuse informatique](http://pyjobs.fr/job/1375/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/03/02 - [Technicien / Technicienne programmation](http://pyjobs.fr/job/1372/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1368/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -48,8 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/02/29 - [Ingénieur Systèmes et Réseaux H/F](http://pyjobs.fr/job/1347/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
 * 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1359/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1343/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1345/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1344/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/02/26 - [Développeur Full Stack Django - H/F en CDI à Montpellier](http://pyjobs.fr/job/1334/developpeur-full-stack-django-h-f-en-cdi-a-montpellier "Développeur Full Stack Django - H/F en CDI à Montpellier")
-* 2016/02/26 - [Développeur Python - H/F en CDI à Paris](http://pyjobs.fr/job/1333/developpeur-python-h-f-en-cdi-a-paris "Développeur Python - H/F en CDI à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/03/07 - [Ingénieur r&d - logiciels saas métiers](http://pyjobs.fr/job/1401/ingenieur-r-d-logiciels-saas-metiers "Ingénieur r&d - logiciels saas métiers")
 * 2016/03/07 - [Développeur openstack confirmé sur python](http://pyjobs.fr/job/1400/developpeur-openstack-confirme-sur-python "Développeur openstack confirmé sur python")
 * 2016/03/07 - [Développeur full stack H/F en CDI à Paris 35000-44000](http://pyjobs.fr/job/1397/developpeur-full-stack-h-f-en-cdi-a-paris-35000-44000 "Développeur full stack H/F en CDI à Paris 35000-44000")
 * 2016/03/07 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1399/stage-developpement-python-javascript "Stage Développement Python/Javascript")
@@ -18,9 +19,9 @@ Offres d'emploi python pour le marché français
 * 2016/03/03 - [Développeur Python expérimenté H/F](http://pyjobs.fr/job/1379/developpeur-python-experimente-h-f "Développeur Python expérimenté H/F")
 * 2016/03/03 - [Développeur Full Stack (H/F) en CDI à Boulogne-Billancourt](http://pyjobs.fr/job/1377/developpeur-full-stack-h-f-en-cdi-a-boulogne-billancourt "Développeur Full Stack (H/F) en CDI à Boulogne-Billancourt")
 * 2016/03/03 - [[10 Stages] Ingénieur DEVELOPPEMENT WEB C++ (H/F) en Stage à Vélizy-Villacoublay](http://pyjobs.fr/job/1378/10-stages-ingenieur-developpement-web-c-h-f-en-stage-a-velizy-villacoublay "[10 Stages] Ingénieur DEVELOPPEMENT WEB C++ (H/F) en Stage à Vélizy-Villacoublay")
+* 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1376/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/03 - [Développeur / Développeuse web](http://pyjobs.fr/job/1396/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/03/03 - [Analyste développeur / développeuse](http://pyjobs.fr/job/1390/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1376/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1392/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1389/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1391/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/03/01 - [Ingénieur(e) analyse programmation en informatique gestion](http://pyjobs.fr/job/1365/ingenieur-e-analyse-programmation-en-informatique-gestion "Ingénieur(e) analyse programmation en informatique gestion")
 * 2016/03/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1362/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/01 - [Développeur / Développeuse web](http://pyjobs.fr/job/1367/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/02/29 - [Chargé(e) de projet web en CDD à Marseille](http://pyjobs.fr/job/1349/charge-e-de-projet-web-en-cdd-a-marseille "Chargé(e) de projet web en CDD à Marseille")
 

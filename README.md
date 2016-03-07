@@ -2,7 +2,9 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/03/07 - [Développeur openstack confirmé sur python](http://pyjobs.fr/job/1400/developpeur-openstack-confirme-sur-python "Développeur openstack confirmé sur python")
 * 2016/03/07 - [Développeur full stack H/F en CDI à Paris 35000-44000](http://pyjobs.fr/job/1397/developpeur-full-stack-h-f-en-cdi-a-paris-35000-44000 "Développeur full stack H/F en CDI à Paris 35000-44000")
+* 2016/03/07 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1399/stage-developpement-python-javascript "Stage Développement Python/Javascript")
 * 2016/03/07 - [Stage Administration Système](http://pyjobs.fr/job/1398/stage-administration-systeme "Stage Administration Système")
 * 2016/03/06 - [Stage Administrateur Python/Bash](http://pyjobs.fr/job/1394/stage-administrateur-python-bash "Stage Administrateur Python/Bash")
 * 2016/03/06 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1395/stage-developpement-python-javascript "Stage Développement Python/Javascript")
@@ -30,11 +32,11 @@ Offres d'emploi python pour le marché français
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1373/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1374/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1393/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/02 - [Analyste-programmeur / Analyste-programmeuse informatique](http://pyjobs.fr/job/1375/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/03/02 - [Technicien / Technicienne programmation](http://pyjobs.fr/job/1372/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1363/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1368/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur / Développeuse web](http://pyjobs.fr/job/1382/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/03/02 - [Analyste-programmeur / Analyste-programmeuse informatique](http://pyjobs.fr/job/1375/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/03/01 - [Développeur android](http://pyjobs.fr/job/1354/developpeur-android "Développeur android")
 * 2016/03/01 - [Développeurs](http://pyjobs.fr/job/1350/developpeurs "Développeurs")
 * 2016/03/01 - [Développeur(se) back-end python expérimenté(e)](http://pyjobs.fr/job/1352/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
@@ -50,6 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/03/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1362/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/01 - [Développeur / Développeuse web](http://pyjobs.fr/job/1367/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/02/29 - [Chargé(e) de projet web en CDD à Marseille](http://pyjobs.fr/job/1349/charge-e-de-projet-web-en-cdd-a-marseille "Chargé(e) de projet web en CDD à Marseille")
-* 2016/02/29 - [Développeur / Développeuse web](http://pyjobs.fr/job/1355/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/02/29 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1348/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

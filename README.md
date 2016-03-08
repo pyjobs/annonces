@@ -2,16 +2,19 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/03/08 - [[Stage] Data Scientist - H/F en Stage à Issy-les-Moulineaux](http://pyjobs.fr/job/1417/stage-data-scientist-h-f-en-stage-a-issy-les-moulineaux "[Stage] Data Scientist - H/F en Stage à Issy-les-Moulineaux")
+* 2016/03/08 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1416/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/08 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1415/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/07 - [Développeur FullStack Python / Django / React JS confirmé h/f sur LYON](http://pyjobs.fr/job/1413/developpeur-fullstack-python-django-react-js-confirme-h-f-sur-lyon "Développeur FullStack Python / Django / React JS confirmé h/f sur LYON")
 * 2016/03/07 - [DevOps Python / Django confirmé h/f sur LYON](http://pyjobs.fr/job/1414/devops-python-django-confirme-h-f-sur-lyon "DevOps Python / Django confirmé h/f sur LYON")
 * 2016/03/07 - [Developpeur web-fullstack wordpress](http://pyjobs.fr/job/1402/developpeur-web-fullstack-wordpress "Developpeur web-fullstack wordpress")
 * 2016/03/07 - [Ingénieur r&d - logiciels saas métiers](http://pyjobs.fr/job/1401/ingenieur-r-d-logiciels-saas-metiers "Ingénieur r&d - logiciels saas métiers")
 * 2016/03/07 - [Développeur openstack confirmé sur python](http://pyjobs.fr/job/1400/developpeur-openstack-confirme-sur-python "Développeur openstack confirmé sur python")
 * 2016/03/07 - [Développeur full stack H/F en CDI à Paris 35000-44000](http://pyjobs.fr/job/1397/developpeur-full-stack-h-f-en-cdi-a-paris-35000-44000 "Développeur full stack H/F en CDI à Paris 35000-44000")
-* 2016/03/07 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1399/stage-developpement-python-javascript "Stage Développement Python/Javascript")
-* 2016/03/07 - [Stage Administration Système](http://pyjobs.fr/job/1398/stage-administration-systeme "Stage Administration Système")
-* 2016/03/07 - [Admin System CLOUD LINUX](http://pyjobs.fr/job/1404/admin-system-cloud-linux "Admin System CLOUD LINUX")
 * 2016/03/07 - [Développeur / Développeuse d'application](http://pyjobs.fr/job/1403/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
+* 2016/03/07 - [Admin System CLOUD LINUX](http://pyjobs.fr/job/1404/admin-system-cloud-linux "Admin System CLOUD LINUX")
+* 2016/03/07 - [Stage Administration Système](http://pyjobs.fr/job/1398/stage-administration-systeme "Stage Administration Système")
+* 2016/03/07 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1399/stage-developpement-python-javascript "Stage Développement Python/Javascript")
 * 2016/03/06 - [Stage Administrateur Python/Bash](http://pyjobs.fr/job/1394/stage-administrateur-python-bash "Stage Administrateur Python/Bash")
 * 2016/03/06 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1395/stage-developpement-python-javascript "Stage Développement Python/Javascript")
 * 2016/03/05 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1412/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -49,7 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1393/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1368/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1374/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/02 - [Développeur / Développeuse web](http://pyjobs.fr/job/1382/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1373/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/01 - [Développeur android](http://pyjobs.fr/job/1354/developpeur-android "Développeur android")
 

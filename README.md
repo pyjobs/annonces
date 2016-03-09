@@ -2,10 +2,14 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/03/09 - [Web développeur – full stack (dominante front-end)](http://pyjobs.fr/job/1421/web-developpeur-full-stack-dominante-front-end "Web développeur – full stack (dominante front-end)")
+* 2016/03/09 - [Expert développement front-end – cybersécurité](http://pyjobs.fr/job/1422/expert-developpement-front-end-cybersecurite "Expert développement front-end – cybersécurité")
 * 2016/03/08 - [[Stage] SEO pour développeur (H/F) en Stage à Nantes](http://pyjobs.fr/job/1418/stage-seo-pour-developpeur-h-f-en-stage-a-nantes "[Stage] SEO pour développeur (H/F) en Stage à Nantes")
 * 2016/03/08 - [[Stage] Data Scientist - H/F en Stage à Issy-les-Moulineaux](http://pyjobs.fr/job/1417/stage-data-scientist-h-f-en-stage-a-issy-les-moulineaux "[Stage] Data Scientist - H/F en Stage à Issy-les-Moulineaux")
-* 2016/03/08 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1416/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/08 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1415/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/08 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1420/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/08 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1419/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/08 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1416/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/07 - [Développeur FullStack Python / Django / React JS confirmé h/f sur LYON](http://pyjobs.fr/job/1413/developpeur-fullstack-python-django-react-js-confirme-h-f-sur-lyon "Développeur FullStack Python / Django / React JS confirmé h/f sur LYON")
 * 2016/03/07 - [DevOps Python / Django confirmé h/f sur LYON](http://pyjobs.fr/job/1414/devops-python-django-confirme-h-f-sur-lyon "DevOps Python / Django confirmé h/f sur LYON")
 * 2016/03/07 - [Developpeur web-fullstack wordpress](http://pyjobs.fr/job/1402/developpeur-web-fullstack-wordpress "Developpeur web-fullstack wordpress")
@@ -14,8 +18,8 @@ Offres d'emploi python pour le marché français
 * 2016/03/07 - [Développeur full stack H/F en CDI à Paris 35000-44000](http://pyjobs.fr/job/1397/developpeur-full-stack-h-f-en-cdi-a-paris-35000-44000 "Développeur full stack H/F en CDI à Paris 35000-44000")
 * 2016/03/07 - [Admin System CLOUD LINUX](http://pyjobs.fr/job/1404/admin-system-cloud-linux "Admin System CLOUD LINUX")
 * 2016/03/07 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1399/stage-developpement-python-javascript "Stage Développement Python/Javascript")
-* 2016/03/07 - [Stage Administration Système](http://pyjobs.fr/job/1398/stage-administration-systeme "Stage Administration Système")
 * 2016/03/07 - [Développeur / Développeuse d'application](http://pyjobs.fr/job/1403/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
+* 2016/03/07 - [Stage Administration Système](http://pyjobs.fr/job/1398/stage-administration-systeme "Stage Administration Système")
 * 2016/03/06 - [Stage Administrateur Python/Bash](http://pyjobs.fr/job/1394/stage-administrateur-python-bash "Stage Administrateur Python/Bash")
 * 2016/03/06 - [Stage Développement Python/Javascript](http://pyjobs.fr/job/1395/stage-developpement-python-javascript "Stage Développement Python/Javascript")
 * 2016/03/05 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1412/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -48,8 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/03/02 - [Développeur Backend Python/PHP Symfony - H/F en CDI à Paris 25000-34000](http://pyjobs.fr/job/1361/developpeur-backend-python-php-symfony-h-f-en-cdi-a-paris-25000-34000 "Développeur Backend Python/PHP Symfony - H/F en CDI à Paris 25000-34000")
 * 2016/03/02 - [Technicien / Technicienne programmation](http://pyjobs.fr/job/1372/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2016/03/02 - [Analyste-programmeur / Analyste-programmeuse informatique](http://pyjobs.fr/job/1375/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
-* 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1408/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1363/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1393/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1368/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

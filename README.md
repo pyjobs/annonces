@@ -2,6 +2,8 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/03/22 - [Développeur informatique](http://pyjobs.fr/job/1523/developpeur-informatique "Développeur informatique")
+* 2016/03/22 - [Chef d'équipe informatique](http://pyjobs.fr/job/1524/chef-dequipe-informatique "Chef d'équipe informatique")
 * 2016/03/21 - [Développeur PHP / Javascript (H/F) en CDI à Lyon 35000-44000](http://pyjobs.fr/job/1520/developpeur-php-javascript-h-f-en-cdi-a-lyon-35000-44000 "Développeur PHP / Javascript (H/F) en CDI à Lyon 35000-44000")
 * 2016/03/21 - [Devops et dev python](http://pyjobs.fr/job/1508/devops-et-dev-python "Devops et dev python")
 * 2016/03/21 - [Développeur – full stack](http://pyjobs.fr/job/1511/developpeur-full-stack "Développeur – full stack")
@@ -14,11 +16,13 @@ Offres d'emploi python pour le marché français
 * 2016/03/21 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1512/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/20 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1513/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/03/18 - [Développeur Python (H/F)](http://pyjobs.fr/job/1497/developpeur-python-h-f "Développeur Python (H/F)")
-* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1496/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1490/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1505/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1521/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/18 - [Webmaster développeur / développeuse](http://pyjobs.fr/job/1488/webmaster-developpeur-developpeuse "Webmaster développeur / développeuse")
+* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1522/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1505/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1496/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/18 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1517/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
+* 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1490/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/18 - [Développeur / Développeuse web](http://pyjobs.fr/job/1491/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/03/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1515/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/18 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1514/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -48,8 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/03/15 - [Administrateur Systèmes Linux H/F en CDI à Clichy](http://pyjobs.fr/job/1459/administrateur-systemes-linux-h-f-en-cdi-a-clichy "Administrateur Systèmes Linux H/F en CDI à Clichy")
 * 2016/03/15 - [Lead Développeur Python / Django (H/F) en CDI à Lyon](http://pyjobs.fr/job/1460/lead-developpeur-python-django-h-f-en-cdi-a-lyon "Lead Développeur Python / Django (H/F) en CDI à Lyon")
 * 2016/03/15 - [Développeur Front-End React JS confirmé(e) - H/F en CDI à Lyon](http://pyjobs.fr/job/1458/developpeur-front-end-react-js-confirme-e-h-f-en-cdi-a-lyon "Développeur Front-End React JS confirmé(e) - H/F en CDI à Lyon")
-* 2016/03/15 - [Développeur / Développeuse web](http://pyjobs.fr/job/1474/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/03/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1456/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1471/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1462/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/04/05 - [[Stage] Développeur full-stack (H/F) en Stage à Paris](http://pyjobs.fr/job/1646/stage-developpeur-full-stack-h-f-en-stage-a-paris "[Stage] Développeur full-stack (H/F) en Stage à Paris")
 * 2016/04/05 - [Ingénieur(e) Système et Exploitation en CDI à Paris](http://pyjobs.fr/job/1645/ingenieur-e-systeme-et-exploitation-en-cdi-a-paris "Ingénieur(e) Système et Exploitation en CDI à Paris")
 * 2016/04/05 - [Développeur backend php – opérateur télécom](http://pyjobs.fr/job/1640/developpeur-backend-php-operateur-telecom "Développeur backend php – opérateur télécom")
 * 2016/04/05 - [Développeur d'applis internet 3d (webgl, sketchup)](http://pyjobs.fr/job/1641/developpeur-dapplis-internet-3d-webgl-sketchup "Développeur d'applis internet 3d (webgl, sketchup)")
@@ -11,12 +12,12 @@ Offres d'emploi python pour le marché français
 * 2016/04/05 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1642/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/04/05 - [Ingénieur(e) Système et Exploitation](http://pyjobs.fr/job/1643/ingenieur-e-systeme-et-exploitation "Ingénieur(e) Système et Exploitation")
 * 2016/04/04 - [Développeur Web - H/F en CDI à Bègles](http://pyjobs.fr/job/1628/developpeur-web-h-f-en-cdi-a-begles "Développeur Web - H/F en CDI à Bègles")
-* 2016/04/04 - [Développeur / Développeuse web](http://pyjobs.fr/job/1636/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/04/04 - [Développeur / Développeuse web](http://pyjobs.fr/job/1644/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/04/04 - [AWS Cloud Computing Engineer Architect](http://pyjobs.fr/job/1629/aws-cloud-computing-engineer-architect "AWS Cloud Computing Engineer Architect")
-* 2016/04/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1635/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/04/04 - [Développeur / Développeuse web](http://pyjobs.fr/job/1636/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/04/04 - [Developpeur Python / Hadoop / Docker / Rabbit MQ / AM QP](http://pyjobs.fr/job/1630/developpeur-python-hadoop-docker-rabbit-mq-am-qp "Developpeur Python / Hadoop / Docker / Rabbit MQ / AM QP")
+* 2016/04/04 - [AWS Cloud Computing Engineer Architect](http://pyjobs.fr/job/1629/aws-cloud-computing-engineer-architect "AWS Cloud Computing Engineer Architect")
 * 2016/04/04 - [Développeur web](http://pyjobs.fr/job/1633/developpeur-web "Développeur web")
+* 2016/04/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1635/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/04/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1632/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/04/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1631/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/04/01 - [Stage Développeur/Intégrateur Web H/F](http://pyjobs.fr/job/1625/stage-developpeur-integrateur-web-h-f "Stage Développeur/Intégrateur Web H/F")
@@ -30,8 +31,8 @@ Offres d'emploi python pour le marché français
 * 2016/04/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1621/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/04/01 - [Analyste développeur / développeuse](http://pyjobs.fr/job/1634/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/04/01 - [Développeur / Développeuse web](http://pyjobs.fr/job/1627/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/04/01 - [Développeur python](http://pyjobs.fr/job/1613/developpeur-python "Développeur python")
 * 2016/04/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1622/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/04/01 - [Développeur python](http://pyjobs.fr/job/1613/developpeur-python "Développeur python")
 * 2016/04/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1619/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/03/31 - [Développeur Logiciel JAVA/J2EE - H/F en CDI à Nantes 35000-44000](http://pyjobs.fr/job/1604/developpeur-logiciel-java-j2ee-h-f-en-cdi-a-nantes-35000-44000 "Développeur Logiciel JAVA/J2EE - H/F en CDI à Nantes 35000-44000")
 * 2016/03/31 - [Ingénieur système devops - pub mobile](http://pyjobs.fr/job/1603/ingenieur-systeme-devops-pub-mobile "Ingénieur système devops - pub mobile")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/03/30 - [Développeur Front end AngularJS - H/F en CDI à Montpellier](http://pyjobs.fr/job/1585/developpeur-front-end-angularjs-h-f-en-cdi-a-montpellier "Développeur Front end AngularJS - H/F en CDI à Montpellier")
 * 2016/03/30 - [Développeur Python full stack – Cloud Computing (H/F) en CDI à Paris 45000-54000](http://pyjobs.fr/job/1584/developpeur-python-full-stack-cloud-computing-h-f-en-cdi-a-paris-45000-54000 "Développeur Python full stack – Cloud Computing (H/F) en CDI à Paris 45000-54000")
 * 2016/03/30 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1599/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/03/30 - [Développeur / Développeuse web](http://pyjobs.fr/job/1605/developpeur-developpeuse-web "Développeur / Développeuse web")
 

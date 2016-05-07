@@ -2,15 +2,19 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/05/06 - [LEAD MAYA PIPELINE](http://pyjobs.fr/job/1894/lead-maya-pipeline "LEAD MAYA PIPELINE")
+* 2016/05/06 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1893/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/05 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1891/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/05 - [Développeur / Développeuse web](http://pyjobs.fr/job/1892/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/05/04 - [Développeur PHP5 / Zend (H/F) en CDI à Paris-12E-Arrondissement](http://pyjobs.fr/job/1884/developpeur-php5-zend-h-f-en-cdi-a-paris-12e-arrondissement "Développeur PHP5 / Zend (H/F) en CDI à Paris-12E-Arrondissement")
 * 2016/05/04 - [Chargé(e) de Développement Web en CDI à Paris-4E-Arrondissement 25000-34000](http://pyjobs.fr/job/1885/charge-e-de-developpement-web-en-cdi-a-paris-4e-arrondissement-25000-34000 "Chargé(e) de Développement Web en CDI à Paris-4E-Arrondissement 25000-34000")
 * 2016/05/04 - [Ingénieur Python (H/F) en CDI à Nanterre](http://pyjobs.fr/job/1880/ingenieur-python-h-f-en-cdi-a-nanterre "Ingénieur Python (H/F) en CDI à Nanterre")
+* 2016/05/04 - [Admin Devops H/F](http://pyjobs.fr/job/1886/admin-devops-h-f "Admin Devops H/F")
 * 2016/05/04 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1889/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1887/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/04 - [Développeur Web fullstack (H/F)](http://pyjobs.fr/job/1881/developpeur-web-fullstack-h-f "Développeur Web fullstack (H/F)")
-* 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1888/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/05/04 - [Admin Devops H/F](http://pyjobs.fr/job/1886/admin-devops-h-f "Admin Devops H/F")
 * 2016/05/04 - [Ingénieur support produit H/F](http://pyjobs.fr/job/1883/ingenieur-support-produit-h-f "Ingénieur support produit H/F")
+* 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1888/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/03 - [Webdesigner intégrateur](http://pyjobs.fr/job/1876/webdesigner-integrateur "Webdesigner intégrateur")
 * 2016/05/03 - [Responsable technique /plateforme collaborative](http://pyjobs.fr/job/1878/responsable-technique-plateforme-collaborative "Responsable technique /plateforme collaborative")
 * 2016/05/03 - [Ingénieur développement backend - editeur logiciel](http://pyjobs.fr/job/1877/ingenieur-developpement-backend-editeur-logiciel "Ingénieur développement backend - editeur logiciel")
@@ -48,8 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/04/27 - [Développeur python](http://pyjobs.fr/job/1849/developpeur-python "Développeur python")
 * 2016/04/26 - [Développeur/développeuse (Web/Python)](http://pyjobs.fr/job/1844/developpeur-developpeuse-web-python "Développeur/développeuse (Web/Python)")
 * 2016/04/26 - [Développeur Python DevOps H/F](http://pyjobs.fr/job/1833/developpeur-python-devops-h-f "Développeur Python DevOps H/F")
-* 2016/04/26 - [Analyste-programmeur / Analyste-programmeuse informatique](http://pyjobs.fr/job/1847/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
-* 2016/04/26 - [Développeur / Développeuse web](http://pyjobs.fr/job/1841/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/04/26 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1839/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2016/04/26 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1840/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

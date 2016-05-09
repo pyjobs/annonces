@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/05/09 - [Software Engineer (backend, data mining, algorithms) en CDI à Paris](http://pyjobs.fr/job/1901/software-engineer-backend-data-mining-algorithms-en-cdi-a-paris "Software Engineer (backend, data mining, algorithms) en CDI à Paris")
 * 2016/05/08 - [Développeur / Développeuse Big Data](http://pyjobs.fr/job/1900/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/05/07 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1899/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/05/06 - [LEAD MAYA PIPELINE](http://pyjobs.fr/job/1894/lead-maya-pipeline "LEAD MAYA PIPELINE")
@@ -13,12 +14,12 @@ Offres d'emploi python pour le marché français
 * 2016/05/04 - [Chargé(e) de Développement Web en CDI à Paris-4E-Arrondissement 25000-34000](http://pyjobs.fr/job/1885/charge-e-de-developpement-web-en-cdi-a-paris-4e-arrondissement-25000-34000 "Chargé(e) de Développement Web en CDI à Paris-4E-Arrondissement 25000-34000")
 * 2016/05/04 - [Ingénieur Python (H/F) en CDI à Nanterre](http://pyjobs.fr/job/1880/ingenieur-python-h-f-en-cdi-a-nanterre "Ingénieur Python (H/F) en CDI à Nanterre")
 * 2016/05/04 - [Développeur Web fullstack (H/F)](http://pyjobs.fr/job/1881/developpeur-web-fullstack-h-f "Développeur Web fullstack (H/F)")
-* 2016/05/04 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1889/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2016/05/04 - [Ingénieur support produit H/F](http://pyjobs.fr/job/1883/ingenieur-support-produit-h-f "Ingénieur support produit H/F")
 * 2016/05/04 - [Admin Devops H/F](http://pyjobs.fr/job/1886/admin-devops-h-f "Admin Devops H/F")
-* 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1897/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1888/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/04 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1889/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1887/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1888/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1897/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/04 - [Ingénieur support produit H/F](http://pyjobs.fr/job/1883/ingenieur-support-produit-h-f "Ingénieur support produit H/F")
 * 2016/05/03 - [Webdesigner intégrateur](http://pyjobs.fr/job/1876/webdesigner-integrateur "Webdesigner intégrateur")
 * 2016/05/03 - [Responsable technique /plateforme collaborative](http://pyjobs.fr/job/1878/responsable-technique-plateforme-collaborative "Responsable technique /plateforme collaborative")
 * 2016/05/03 - [Ingénieur développement backend - editeur logiciel](http://pyjobs.fr/job/1877/ingenieur-developpement-backend-editeur-logiciel "Ingénieur développement backend - editeur logiciel")
@@ -27,9 +28,9 @@ Offres d'emploi python pour le marché français
 * 2016/05/03 - [Ingénieur télécom fan de vas et d'innovation](http://pyjobs.fr/job/1874/ingenieur-telecom-fan-de-vas-et-dinnovation "Ingénieur télécom fan de vas et d'innovation")
 * 2016/05/03 - [Analyste développeur / développeuse](http://pyjobs.fr/job/1890/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/05/03 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1896/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/05/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1872/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1871/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1879/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1872/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1898/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/04/29 - [Devops senior cloud - pure player célèbre](http://pyjobs.fr/job/1859/devops-senior-cloud-pure-player-celebre "Devops senior cloud - pure player célèbre")
 * 2016/04/29 - [Développeur web](http://pyjobs.fr/job/1863/developpeur-web "Développeur web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/04/27 - [Data Scientist Machine Learning](http://pyjobs.fr/job/1846/data-scientist-machine-learning "Data Scientist Machine Learning")
 * 2016/04/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1848/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/04/27 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1869/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/04/27 - [Développeur / Développeuse web](http://pyjobs.fr/job/1853/developpeur-developpeuse-web "Développeur / Développeuse web")
 

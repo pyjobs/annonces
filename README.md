@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/05/20 - [Développeur Python/Django - Education H/F en CDI à Paris](http://pyjobs.fr/job/1985/developpeur-python-django-education-h-f-en-cdi-a-paris "Développeur Python/Django - Education H/F en CDI à Paris")
 * 2016/05/20 - [Scala/hadoop pour un projet big data](http://pyjobs.fr/job/1976/scala-hadoop-pour-un-projet-big-data "Scala/hadoop pour un projet big data")
 * 2016/05/20 - [Développeur web back-end - startup](http://pyjobs.fr/job/1981/developpeur-web-back-end-startup "Développeur web back-end - startup")
 * 2016/05/20 - [Sudo apt-get install administrateur système junior](http://pyjobs.fr/job/1980/sudo-apt-get-install-administrateur-systeme-junior "Sudo apt-get install administrateur système junior")
@@ -17,15 +18,15 @@ Offres d'emploi python pour le marché français
 * 2016/05/19 - [Back-end Python Developer pour le UBER des transports en commun - H/F](http://pyjobs.fr/job/1967/back-end-python-developer-pour-le-uber-des-transports-en-commun-h-f "Back-end Python Developer pour le UBER des transports en commun - H/F")
 * 2016/05/18 - [Développeur Full-stack Python](http://pyjobs.fr/job/1960/developpeur-full-stack-python "Développeur Full-stack Python")
 * 2016/05/18 - [Webmaster développeur / développeuse](http://pyjobs.fr/job/1984/webmaster-developpeur-developpeuse "Webmaster développeur / développeuse")
-* 2016/05/18 - [Développeur / Développeuse web](http://pyjobs.fr/job/1972/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/05/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1957/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/05/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1958/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/18 - [Développeur / Développeuse web](http://pyjobs.fr/job/1972/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/05/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1970/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/05/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1958/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/18 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1974/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/05/17 - [DevOps Exploitant applicatif H/F](http://pyjobs.fr/job/1954/devops-exploitant-applicatif-h-f "DevOps Exploitant applicatif H/F")
 * 2016/05/17 - [Administrateur Systèmes Linux/Python H/F](http://pyjobs.fr/job/1955/administrateur-systemes-linux-python-h-f "Administrateur Systèmes Linux/Python H/F")
-* 2016/05/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1963/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/17 - [Développeur / Développeuse web](http://pyjobs.fr/job/1964/developpeur-developpeuse-web "Développeur / Développeuse web")
+* 2016/05/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1963/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/17 - [Développeur / Développeuse multimédia](http://pyjobs.fr/job/1961/developpeur-developpeuse-multimedia "Développeur / Développeuse multimédia")
 * 2016/05/17 - [Développeur / Développeuse web](http://pyjobs.fr/job/1962/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/05/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1973/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/05/12 - [sudo apt-get install administrateur système junior](http://pyjobs.fr/job/1934/sudo-apt-get-install-administrateur-systeme-junior "sudo apt-get install administrateur système junior")
 * 2016/05/12 - [Dev Ops (H/F) en CDI à Paris](http://pyjobs.fr/job/1923/dev-ops-h-f-en-cdi-a-paris "Dev Ops (H/F) en CDI à Paris")
 * 2016/05/12 - [Responsable Support Informatique et Imports en CDI à Paris](http://pyjobs.fr/job/1924/responsable-support-informatique-et-imports-en-cdi-a-paris "Responsable Support Informatique et Imports en CDI à Paris")
-* 2016/05/12 - [Développeur / Développeuse web](http://pyjobs.fr/job/1938/developpeur-developpeuse-web "Développeur / Développeuse web")
 

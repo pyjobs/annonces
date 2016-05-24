@@ -2,7 +2,9 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/05/23 - [Full Stack Python Developer - May 2016](http://pyjobs.fr/job/1998/full-stack-python-developer-may-2016 "Full Stack Python Developer - May 2016")
 * 2016/05/23 - [Craftsman Developer (H/F) en CDI à Paris](http://pyjobs.fr/job/1996/craftsman-developer-h-f-en-cdi-a-paris "Craftsman Developer (H/F) en CDI à Paris")
+* 2016/05/23 - [Développeur / Développeuse web](http://pyjobs.fr/job/1997/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/05/23 - [Full Stack Python Developer - Mai 2016](http://pyjobs.fr/job/1995/full-stack-python-developer-mai-2016 "Full Stack Python Developer - Mai 2016")
 * 2016/05/22 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1993/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/21 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1991/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -12,12 +14,12 @@ Offres d'emploi python pour le marché français
 * 2016/05/20 - [Sudo apt-get install administrateur système junior](http://pyjobs.fr/job/1980/sudo-apt-get-install-administrateur-systeme-junior "Sudo apt-get install administrateur système junior")
 * 2016/05/20 - [Administrateur système linux](http://pyjobs.fr/job/1979/administrateur-systeme-linux "Administrateur système linux")
 * 2016/05/20 - [Ingénieur technique webops](http://pyjobs.fr/job/1978/ingenieur-technique-webops "Ingénieur technique webops")
+* 2016/05/20 - [Développeur Python DevOps H/F](http://pyjobs.fr/job/1977/developpeur-python-devops-h-f "Développeur Python DevOps H/F")
+* 2016/05/20 - [Golang Python Linux DevOps H/F](http://pyjobs.fr/job/1975/golang-python-linux-devops-h-f "Golang Python Linux DevOps H/F")
 * 2016/05/20 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/1988/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/05/20 - [Administrateur Système Linux Web Open Source](http://pyjobs.fr/job/1982/administrateur-systeme-linux-web-open-source "Administrateur Système Linux Web Open Source")
-* 2016/05/20 - [Golang Python Linux DevOps H/F](http://pyjobs.fr/job/1975/golang-python-linux-devops-h-f "Golang Python Linux DevOps H/F")
-* 2016/05/20 - [Développeur Python (H/F)](http://pyjobs.fr/job/1986/developpeur-python-h-f "Développeur Python (H/F)")
-* 2016/05/20 - [Développeur Python DevOps H/F](http://pyjobs.fr/job/1977/developpeur-python-devops-h-f "Développeur Python DevOps H/F")
 * 2016/05/20 - [Administrateur Système Linux Web Open Source](http://pyjobs.fr/job/1983/administrateur-systeme-linux-web-open-source "Administrateur Système Linux Web Open Source")
+* 2016/05/20 - [Développeur Python (H/F)](http://pyjobs.fr/job/1986/developpeur-python-h-f "Développeur Python (H/F)")
 * 2016/05/19 - [Développeur iOS - H/F en CDI à Paris](http://pyjobs.fr/job/1968/developpeur-ios-h-f-en-cdi-a-paris "Développeur iOS - H/F en CDI à Paris")
 * 2016/05/19 - [INGÉNIEUR DÉVELOPPEMENT (H/F) en CDI à Villeurbanne](http://pyjobs.fr/job/1966/ingenieur-developpement-h-f-en-cdi-a-villeurbanne "INGÉNIEUR DÉVELOPPEMENT (H/F) en CDI à Villeurbanne")
 * 2016/05/19 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1989/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -50,6 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/05/14 - [Développeur / Développeuse web](http://pyjobs.fr/job/1950/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/05/14 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1949/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/05/14 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1951/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/05/13 - [Développeur·se full-stack Python en startup innovante (H/F)](http://pyjobs.fr/job/1933/developpeur-se-full-stack-python-en-startup-innovante-h-f "Développeur·se full-stack Python en startup innovante (H/F)")
-* 2016/05/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/1947/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

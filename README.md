@@ -3,14 +3,15 @@
 Offres d'emploi python pour le marché français
 
 * 2016/06/14 - [Développeur Python et JavaScript - Libérez la calculette impôts](http://pyjobs.fr/job/2137/developpeur-python-et-javascript-liberez-la-calculette-impots "Développeur Python et JavaScript - Libérez la calculette impôts")
+* 2016/06/14 - [Développeur / Développeuse informatique en alternance (H/F)](http://pyjobs.fr/job/2138/developpeur-developpeuse-informatique-en-alternance-h-f "Développeur / Développeuse informatique en alternance (H/F)")
 * 2016/06/13 - [Dataminer - H/F en CDI à Paris-17E-Arrondissement](http://pyjobs.fr/job/2128/dataminer-h-f-en-cdi-a-paris-17e-arrondissement "Dataminer - H/F en CDI à Paris-17E-Arrondissement")
-* 2016/06/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2136/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2135/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/06/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2136/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/10 - [Administrateur Système et Réseau / Hosting et Sécurité (H/F) en CDI à Chambéry](http://pyjobs.fr/job/2126/administrateur-systeme-et-reseau-hosting-et-securite-h-f-en-cdi-a-chambery "Administrateur Système et Réseau / Hosting et Sécurité (H/F) en CDI à Chambéry")
-* 2016/06/10 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2133/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/06/10 - [Développeur Python](http://pyjobs.fr/job/2127/developpeur-python "Développeur Python")
 * 2016/06/10 - [Développeur / Développeuse web](http://pyjobs.fr/job/2131/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/06/10 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2130/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/06/10 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2133/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/06/10 - [Développeur Python](http://pyjobs.fr/job/2127/developpeur-python "Développeur Python")
 * 2016/06/09 - [[Stage] Développeur Full Stack PHP - H/F en Stage à Paris](http://pyjobs.fr/job/2120/stage-developpeur-full-stack-php-h-f-en-stage-a-paris "[Stage] Développeur Full Stack PHP - H/F en Stage à Paris")
 * 2016/06/09 - [developpeur front end back end (F/H) (H/F)](http://pyjobs.fr/job/2121/developpeur-front-end-back-end-f-h-h-f "developpeur front end back end (F/H) (H/F)")
 * 2016/06/09 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2132/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/06/02 - [Analyste-programmeur / Analyste-programmeuse informatique](http://pyjobs.fr/job/2092/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/06/02 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2093/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/02 - [Développeur Python/Django H/F](http://pyjobs.fr/job/2078/developpeur-python-django-h-f "Développeur Python/Django H/F")
-* 2016/06/02 - [Développeur / Développeuse web](http://pyjobs.fr/job/2091/developpeur-developpeuse-web "Développeur / Développeuse web")
 

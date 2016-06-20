@@ -2,7 +2,9 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/06/20 - [Administrateur réseaux informatique et sécurité (H/F) en CDI à Sceaux 45000-54000](http://pyjobs.fr/job/2166/administrateur-reseaux-informatique-et-securite-h-f-en-cdi-a-sceaux-45000-54000 "Administrateur réseaux informatique et sécurité (H/F) en CDI à Sceaux 45000-54000")
 * 2016/06/17 - [Développeur Backend Python - H/F en CDI à Paris](http://pyjobs.fr/job/2163/developpeur-backend-python-h-f-en-cdi-a-paris "Développeur Backend Python - H/F en CDI à Paris")
+* 2016/06/17 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/2164/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/06/16 - [Développeur Web PHP (H/F) en CDI à Le Mans](http://pyjobs.fr/job/2160/developpeur-web-php-h-f-en-cdi-a-le-mans "Développeur Web PHP (H/F) en CDI à Le Mans")
 * 2016/06/16 - [Customer Experience Engineer - H/F en CDI à Paris](http://pyjobs.fr/job/2157/customer-experience-engineer-h-f-en-cdi-a-paris "Customer Experience Engineer - H/F en CDI à Paris")
 * 2016/06/16 - [Développeur ruby on rails](http://pyjobs.fr/job/2152/developpeur-ruby-on-rails "Développeur ruby on rails")
@@ -10,15 +12,16 @@ Offres d'emploi python pour le marché français
 * 2016/06/16 - [Développeur full stack](http://pyjobs.fr/job/2150/developpeur-full-stack "Développeur full stack")
 * 2016/06/16 - [Ingénieur r&d c++](http://pyjobs.fr/job/2151/ingenieur-r-d-c "Ingénieur r&d c++")
 * 2016/06/16 - [Web Developper - H/F en CDI à Montpellier 25000-34000](http://pyjobs.fr/job/2154/web-developper-h-f-en-cdi-a-montpellier-25000-34000 "Web Developper - H/F en CDI à Montpellier 25000-34000")
+* 2016/06/16 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2165/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/16 - [Développeur Unity3D (H/F)](http://pyjobs.fr/job/2162/developpeur-unity3d-h-f "Développeur Unity3D (H/F)")
 * 2016/06/15 - [Développeur Python / PHP / JavaScript - H/F en Stage à Paris](http://pyjobs.fr/job/2148/developpeur-python-php-javascript-h-f-en-stage-a-paris "Développeur Python / PHP / JavaScript - H/F en Stage à Paris")
-* 2016/06/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2161/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/15 - [Ingénieur Systèmes et Réseaux Confirmé (H/F)](http://pyjobs.fr/job/2149/ingenieur-systemes-et-reseaux-confirme-h-f "Ingénieur Systèmes et Réseaux Confirmé (H/F)")
+* 2016/06/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2161/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2159/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/06/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2145/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/06/15 - [Développeur / Développeuse informatique JAVA JEE C++ H/F (H/F)](http://pyjobs.fr/job/2146/developpeur-developpeuse-informatique-java-jee-c-h-f-h-f "Développeur / Développeuse informatique JAVA JEE C++ H/F (H/F)")
 * 2016/06/15 - [Analyste développeur / développeuse](http://pyjobs.fr/job/2158/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/06/15 - [Développeur / Développeuse web](http://pyjobs.fr/job/2155/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/06/15 - [Développeur / Développeuse informatique JAVA JEE C++ H/F (H/F)](http://pyjobs.fr/job/2146/developpeur-developpeuse-informatique-java-jee-c-h-f-h-f "Développeur / Développeuse informatique JAVA JEE C++ H/F (H/F)")
-* 2016/06/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2145/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/15 - [Développeur / Développeuse web](http://pyjobs.fr/job/2156/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/06/14 - [Développeur / Développeuse informatique en alternance (H/F)](http://pyjobs.fr/job/2138/developpeur-developpeuse-informatique-en-alternance-h-f "Développeur / Développeuse informatique en alternance (H/F)")
 * 2016/06/14 - [Développeur Python et JavaScript - Libérez la calculette impôts](http://pyjobs.fr/job/2137/developpeur-python-et-javascript-liberez-la-calculette-impots "Développeur Python et JavaScript - Libérez la calculette impôts")
@@ -49,7 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/06/08 - [Développeur / Développeuse web](http://pyjobs.fr/job/2115/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/06/07 - [Développeur logiciel](http://pyjobs.fr/job/2109/developpeur-logiciel "Développeur logiciel")
 * 2016/06/07 - [Développeur star java amateur de bigdata](http://pyjobs.fr/job/2111/developpeur-star-java-amateur-de-bigdata "Développeur star java amateur de bigdata")
-* 2016/06/07 - [Sysadmin linux senior - startup santé](http://pyjobs.fr/job/2110/sysadmin-linux-senior-startup-sante "Sysadmin linux senior - startup santé")
-* 2016/06/07 - [Développeur php junior orienté e-commerce](http://pyjobs.fr/job/2107/developpeur-php-junior-oriente-e-commerce "Développeur php junior orienté e-commerce")
-* 2016/06/07 - [Développeur Backend Python/PHP Symfony - H/F en CDI à Paris 25000-34000](http://pyjobs.fr/job/2108/developpeur-backend-python-php-symfony-h-f-en-cdi-a-paris-25000-34000 "Développeur Backend Python/PHP Symfony - H/F en CDI à Paris 25000-34000")
 

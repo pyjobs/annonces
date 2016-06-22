@@ -2,13 +2,15 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/06/22 - [Développeur / Intégrateur web (H/F) en CDI à Paris](http://pyjobs.fr/job/2189/developpeur-integrateur-web-h-f-en-cdi-a-paris "Développeur / Intégrateur web (H/F) en CDI à Paris")
+* 2016/06/22 - [Développeur Web Full-Stack - PHP (H/F) en CDI à Valbonne](http://pyjobs.fr/job/2190/developpeur-web-full-stack-php-h-f-en-cdi-a-valbonne "Développeur Web Full-Stack - PHP (H/F) en CDI à Valbonne")
 * 2016/06/22 - [[Stage] Developpeur Objets connectés/reseau/domotique (H/F) en Stage à Palaiseau](http://pyjobs.fr/job/2187/stage-developpeur-objets-connectes-reseau-domotique-h-f-en-stage-a-palaiseau "[Stage] Developpeur Objets connectés/reseau/domotique (H/F) en Stage à Palaiseau")
 * 2016/06/22 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/2186/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/06/22 - [DÉVELOPPEUR WEB (H/F)](http://pyjobs.fr/job/2188/developpeur-web-h-f "DÉVELOPPEUR WEB (H/F)")
-* 2016/06/21 - [Développeur / Développeuse Big Data](http://pyjobs.fr/job/2184/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
-* 2016/06/21 - [Développeur Web H/F](http://pyjobs.fr/job/2180/developpeur-web-h-f "Développeur Web H/F")
 * 2016/06/21 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2183/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/21 - [Administrateur Systèmes et Réseaux H/F](http://pyjobs.fr/job/2179/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux H/F")
+* 2016/06/21 - [Développeur / Développeuse Big Data](http://pyjobs.fr/job/2184/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
+* 2016/06/21 - [Développeur Web H/F](http://pyjobs.fr/job/2180/developpeur-web-h-f "Développeur Web H/F")
 * 2016/06/20 - [Ingénieur développeur (CDI) (H/F)](http://pyjobs.fr/job/2177/ingenieur-developpeur-cdi-h-f "Ingénieur développeur (CDI) (H/F)")
 * 2016/06/20 - [Ingénieur Python (H/F)](http://pyjobs.fr/job/2172/ingenieur-python-h-f "Ingénieur Python (H/F)")
 * 2016/06/20 - [Customer Experience Engineer - H/F en CDI à Paris](http://pyjobs.fr/job/2171/customer-experience-engineer-h-f-en-cdi-a-paris "Customer Experience Engineer - H/F en CDI à Paris")
@@ -18,10 +20,10 @@ Offres d'emploi python pour le marché français
 * 2016/06/19 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2167/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/17 - [Développeur Backend Python - H/F en CDI à Paris](http://pyjobs.fr/job/2163/developpeur-backend-python-h-f-en-cdi-a-paris "Développeur Backend Python - H/F en CDI à Paris")
 * 2016/06/17 - [Développeur / Développeuse web mobile](http://pyjobs.fr/job/2176/developpeur-developpeuse-web-mobile "Développeur / Développeuse web mobile")
-* 2016/06/17 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/2164/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/06/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2173/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/06/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2175/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/17 - [Développeur / Développeuse web mobile](http://pyjobs.fr/job/2181/developpeur-developpeuse-web-mobile "Développeur / Développeuse web mobile")
+* 2016/06/17 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/2164/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
+* 2016/06/17 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2175/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/16 - [Développeur Web PHP (H/F) en CDI à Le Mans](http://pyjobs.fr/job/2160/developpeur-web-php-h-f-en-cdi-a-le-mans "Développeur Web PHP (H/F) en CDI à Le Mans")
 * 2016/06/16 - [Customer Experience Engineer - H/F en CDI à Paris](http://pyjobs.fr/job/2157/customer-experience-engineer-h-f-en-cdi-a-paris "Customer Experience Engineer - H/F en CDI à Paris")
 * 2016/06/16 - [Développeur ruby on rails](http://pyjobs.fr/job/2152/developpeur-ruby-on-rails "Développeur ruby on rails")
@@ -50,6 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/06/13 - [Dataminer - H/F en CDI à Paris-17E-Arrondissement](http://pyjobs.fr/job/2128/dataminer-h-f-en-cdi-a-paris-17e-arrondissement "Dataminer - H/F en CDI à Paris-17E-Arrondissement")
 * 2016/06/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2136/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/06/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2135/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/06/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2144/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/06/10 - [Administrateur Système et Réseau / Hosting et Sécurité (H/F) en CDI à Chambéry](http://pyjobs.fr/job/2126/administrateur-systeme-et-reseau-hosting-et-securite-h-f-en-cdi-a-chambery "Administrateur Système et Réseau / Hosting et Sécurité (H/F) en CDI à Chambéry")
 

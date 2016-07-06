@@ -3,6 +3,7 @@
 Offres d'emploi python pour le marché français
 
 * 2016/07/06 - [DevOps (H/F)](http://pyjobs.fr/job/2780/devops-h-f "DevOps (H/F)")
+* 2016/07/06 - [Lead Développeur / Développeuse Python (H/F)](http://pyjobs.fr/job/2781/lead-developpeur-developpeuse-python-h-f "Lead Développeur / Développeuse Python (H/F)")
 * 2016/07/06 - [Développeur PhP/Python/Django (H/F)](http://pyjobs.fr/job/2778/developpeur-php-python-django-h-f "Développeur PhP/Python/Django (H/F)")
 * 2016/07/05 - [Développeur Backend Python - CDI - H/F - Lyon](http://pyjobs.fr/job/2777/developpeur-backend-python-cdi-h-f-lyon "Développeur Backend Python - CDI - H/F - Lyon")
 * 2016/07/05 - [Data scientist machine learning](http://pyjobs.fr/job/2767/data-scientist-machine-learning "Data scientist machine learning")
@@ -13,10 +14,10 @@ Offres d'emploi python pour le marché français
 * 2016/07/05 - [Administrateur système et réseau / hosting et sécu](http://pyjobs.fr/job/2772/administrateur-systeme-et-reseau-hosting-et-secu "Administrateur système et réseau / hosting et sécu")
 * 2016/07/05 - [Opérateur telecom, développeur ph back](http://pyjobs.fr/job/2771/operateur-telecom-developpeur-ph-back "Opérateur telecom, développeur ph back")
 * 2016/07/05 - [Directeur technique dans l'intelligence collective](http://pyjobs.fr/job/2765/directeur-technique-dans-lintelligence-collective "Directeur technique dans l'intelligence collective")
-* 2016/07/05 - [DÉveloppeur python devops (h/f)](http://pyjobs.fr/job/2774/developpeur-python-devops-h-f "DÉveloppeur python devops (h/f)")
-* 2016/07/05 - [Ingénieur Recherche conception de solutions SDN dans OpenStack F/H](http://pyjobs.fr/job/2775/ingenieur-recherche-conception-de-solutions-sdn-dans-openstack-f-h "Ingénieur Recherche conception de solutions SDN dans OpenStack F/H")
 * 2016/07/05 - [Développeur Python (H/F)](http://pyjobs.fr/job/2764/developpeur-python-h-f "Développeur Python (H/F)")
+* 2016/07/05 - [DÉveloppeur python devops (h/f)](http://pyjobs.fr/job/2774/developpeur-python-devops-h-f "DÉveloppeur python devops (h/f)")
 * 2016/07/05 - [Développeur / Développeuse web](http://pyjobs.fr/job/2779/developpeur-developpeuse-web "Développeur / Développeuse web")
+* 2016/07/05 - [Ingénieur Recherche conception de solutions SDN dans OpenStack F/H](http://pyjobs.fr/job/2775/ingenieur-recherche-conception-de-solutions-sdn-dans-openstack-f-h "Ingénieur Recherche conception de solutions SDN dans OpenStack F/H")
 * 2016/07/04 - [Développeur web full-stack - php](http://pyjobs.fr/job/2761/developpeur-web-full-stack-php "Développeur web full-stack - php")
 * 2016/07/04 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2766/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/04 - [Développeur / Développeuse full-stack](http://pyjobs.fr/job/2760/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -30,8 +31,8 @@ Offres d'emploi python pour le marché français
 * 2016/07/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2762/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2752/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2751/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/07/01 - [Administrateur Systèmes et réseaux Linux H/F](http://pyjobs.fr/job/2747/administrateur-systemes-et-reseaux-linux-h-f "Administrateur Systèmes et réseaux Linux H/F")
 * 2016/07/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2756/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
+* 2016/07/01 - [Administrateur Systèmes et réseaux Linux H/F](http://pyjobs.fr/job/2747/administrateur-systemes-et-reseaux-linux-h-f "Administrateur Systèmes et réseaux Linux H/F")
 * 2016/07/01 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2749/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/01 - [H/F Consultant technologique Messagerie Open Source](http://pyjobs.fr/job/2750/h-f-consultant-technologique-messagerie-open-source "H/F Consultant technologique Messagerie Open Source")
 * 2016/07/01 - [Devops](http://pyjobs.fr/job/2743/devops "Devops")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/06/28 - [Développeur/Développeuse PYTHON (H/F)](http://pyjobs.fr/job/2721/developpeur-developpeuse-python-h-f "Développeur/Développeuse PYTHON (H/F)")
 * 2016/06/28 - [Développeur / Développeuse web](http://pyjobs.fr/job/2735/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/06/28 - [Développeur / Développeuse d'application (H/F)](http://pyjobs.fr/job/2724/developpeur-developpeuse-dapplication-h-f "Développeur / Développeuse d'application (H/F)")
-* 2016/06/28 - [Webmaster développeur / développeuse](http://pyjobs.fr/job/2733/webmaster-developpeur-developpeuse "Webmaster développeur / développeuse")
 

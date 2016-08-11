@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/04 - [Développeur full-stack](http://www.pyjobs.fr/job/42/developpeur-full-stack "Développeur full-stack")
 * 2016/08/04 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/job/49/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/08/04 - [Développeur python](http://www.pyjobs.fr/job/46/developpeur-python "Développeur python")
 * 2016/08/04 - [Développeur coeur](http://www.pyjobs.fr/job/52/developpeur-coeur "Développeur coeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/19 - [Développeur / Développeuse Big Data](http://pyjobs.fr/job/2839/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/07/19 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2840/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/18 - [Développeur Python/ Django (H/F)](http://pyjobs.fr/job/2838/developpeur-python-django-h-f "Développeur Python/ Django (H/F)")
-* 2016/07/18 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2843/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

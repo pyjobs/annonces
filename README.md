@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/01 - [Lead Dev Python - Machine Learning H/F](http://www.pyjobs.fr/job/23/lead-dev-python-machine-learning-h-f "Lead Dev Python - Machine Learning H/F")
 * 2016/07/29 - [Administrateur système & réseau niveau 1/2](http://www.pyjobs.fr/job/169/administrateur-systeme-reseau-niveau-1-2 "Administrateur système & réseau niveau 1/2")
 * 2016/07/27 - [Développement web avec ruby on rails](http://www.pyjobs.fr/job/166/developpement-web-avec-ruby-on-rails "Développement web avec ruby on rails")
 * 2016/07/27 - [Apprenti(e) administrateur système](http://www.pyjobs.fr/job/28/apprenti-e-administrateur-systeme "Apprenti(e) administrateur système")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2832/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2833/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2837/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/07/13 - [Développeur / Développeuse web](http://pyjobs.fr/job/2826/developpeur-developpeuse-web "Développeur / Développeuse web")
 

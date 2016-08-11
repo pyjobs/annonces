@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/07/27 - [Apprenti(e) administrateur système](http://www.pyjobs.fr/job/28/apprenti-e-administrateur-systeme "Apprenti(e) administrateur système")
 * 2016/07/26 - [Expert et developpeur php](http://www.pyjobs.fr/job/164/expert-et-developpeur-php "Expert et developpeur php")
 * 2016/07/26 - [Ingénieur etude et développement java jee](http://www.pyjobs.fr/job/162/ingenieur-etude-et-developpement-java-jee "Ingénieur etude et développement java jee")
 * 2016/07/26 - [Back-end python développeur start up transport](http://www.pyjobs.fr/job/160/back-end-python-developpeur-start-up-transport "Back-end python développeur start up transport")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/13 - [Développeur / Développeuse web](http://pyjobs.fr/job/2826/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/07/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2822/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/13 - [Développeur / Développeuse web](http://pyjobs.fr/job/2820/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/07/13 - [Développeur / Développeuse web](http://pyjobs.fr/job/2821/developpeur-developpeuse-web "Développeur / Développeuse web")
 

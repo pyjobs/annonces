@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/05 - [Front-End Developer - Startup en pleine croissance](http://www.pyjobs.fr/job/6/front-end-developer-startup-en-pleine-croissance "Front-End Developer - Startup en pleine croissance")
 * 2016/08/05 - [Python Data Software Engineer - Startup en pleine croissance](http://www.pyjobs.fr/job/14/python-data-software-engineer-startup-en-pleine-croissance "Python Data Software Engineer - Startup en pleine croissance")
 * 2016/08/05 - [Développeur Python/Django](http://www.pyjobs.fr/job/11/developpeur-python-django "Développeur Python/Django")
 * 2016/08/05 - [Chargé-e support client/it](http://www.pyjobs.fr/job/25/charge-e-support-client-it "Chargé-e support client/it")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/21 - [Consultant data mining junior](http://pyjobs.fr/job/2857/consultant-data-mining-junior "Consultant data mining junior")
 * 2016/07/21 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2858/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/21 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2863/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/07/21 - [Admin sys / Devops](http://pyjobs.fr/job/2855/admin-sys-devops "Admin sys / Devops")
 

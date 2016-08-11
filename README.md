@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/02 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/job/171/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
 * 2016/08/02 - [Développeur Python, QT, POSTGRESQL](http://www.pyjobs.fr/job/73/developpeur-python-qt-postgresql "Développeur Python, QT, POSTGRESQL")
 * 2016/08/01 - [Lead Dev Python - Machine Learning H/F](http://www.pyjobs.fr/job/23/lead-dev-python-machine-learning-h-f "Lead Dev Python - Machine Learning H/F")
 * 2016/07/29 - [Administrateur système & réseau niveau 1/2](http://www.pyjobs.fr/job/169/administrateur-systeme-reseau-niveau-1-2 "Administrateur système & réseau niveau 1/2")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/14 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2830/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2827/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2832/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/07/13 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2833/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

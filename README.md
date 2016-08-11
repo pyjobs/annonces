@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/08 - [Développeur python/django #marketplace](http://www.pyjobs.fr/job/17/developpeur-python-django-marketplace "Développeur python/django #marketplace")
 * 2016/08/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/91/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/06 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/88/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/05 - [Front-End Developer - Startup en pleine croissance](http://www.pyjobs.fr/job/6/front-end-developer-startup-en-pleine-croissance "Front-End Developer - Startup en pleine croissance")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/21 - [Admin system web junior](http://pyjobs.fr/job/2859/admin-system-web-junior "Admin system web junior")
 * 2016/07/21 - [Devops aws mongodb - webmarketing saas](http://pyjobs.fr/job/2861/devops-aws-mongodb-webmarketing-saas "Devops aws mongodb - webmarketing saas")
 * 2016/07/21 - [Devops très web confirmé – groupe média](http://pyjobs.fr/job/2860/devops-tres-web-confirme-groupe-media "Devops très web confirmé – groupe média")
-* 2016/07/21 - [Consultant data mining junior](http://pyjobs.fr/job/2857/consultant-data-mining-junior "Consultant data mining junior")
 

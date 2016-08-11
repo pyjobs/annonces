@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/07/25 - [Developpeur web](http://www.pyjobs.fr/job/158/developpeur-web "Developpeur web")
 * 2016/07/25 - [Développeur Python (H/F)](http://www.pyjobs.fr/job/82/developpeur-python-h-f "Développeur Python (H/F)")
 * 2016/07/23 - [Développeur fullstack python](http://www.pyjobs.fr/job/157/developpeur-fullstack-python "Développeur fullstack python")
 * 2016/07/21 - [Admin system web junior](http://www.pyjobs.fr/job/155/admin-system-web-junior "Admin system web junior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/12 - [Ingénieur Linux](http://pyjobs.fr/job/2818/ingenieur-linux "Ingénieur Linux")
 * 2016/07/12 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2823/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/12 - [Analyste développeur / développeuse](http://pyjobs.fr/job/2817/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2016/07/12 - [DevOps e-Confiance H/F](http://pyjobs.fr/job/2816/devops-e-confiance-h-f "DevOps e-Confiance H/F")
 

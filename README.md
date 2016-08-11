@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/job/111/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/04 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/job/35/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
 * 2016/08/03 - [Développeur openstack](http://www.pyjobs.fr/job/173/developpeur-openstack "Développeur openstack")
 * 2016/08/03 - [DEVELOPPEUR JAVA SCALA PYTHON (H/F)](http://www.pyjobs.fr/job/62/developpeur-java-scala-python-h-f "DEVELOPPEUR JAVA SCALA PYTHON (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/16 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2836/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/15 - [Développeur / Développeuse multimédia](http://pyjobs.fr/job/2828/developpeur-developpeuse-multimedia "Développeur / Développeuse multimédia")
 * 2016/07/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2834/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/07/14 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2829/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

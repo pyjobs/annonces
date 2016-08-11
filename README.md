@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/07/21 - [Devops aws mongodb - webmarketing saas](http://www.pyjobs.fr/job/153/devops-aws-mongodb-webmarketing-saas "Devops aws mongodb - webmarketing saas")
 * 2016/07/22 - [developpeur/euse JAVA / J2EE / .NET](http://pyjobs.fr/job/2864/developpeur-euse-java-j2ee-net "developpeur/euse JAVA / J2EE / .NET")
 * 2016/07/21 - [Admin system web junior](http://pyjobs.fr/job/2859/admin-system-web-junior "Admin system web junior")
 * 2016/07/21 - [Devops aws mongodb - webmarketing saas](http://pyjobs.fr/job/2861/devops-aws-mongodb-webmarketing-saas "Devops aws mongodb - webmarketing saas")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/11 - [Pythonista pour automatisation (Paris)](http://pyjobs.fr/job/2814/pythonista-pour-automatisation-paris "Pythonista pour automatisation (Paris)")
 * 2016/07/11 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2824/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/11 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2825/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/07/11 - [Développeur / Développeuse web](http://pyjobs.fr/job/2819/developpeur-developpeuse-web "Développeur / Développeuse web")
 

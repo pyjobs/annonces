@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/05 - [Développeur backend php – opérateur télécom](http://www.pyjobs.fr/job/33/developpeur-backend-php-operateur-telecom "Développeur backend php – opérateur télécom")
 * 2016/08/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/job/100/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/job/113/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/102/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/21 - [Développeur / Développes informatique langage FONCTIONNEL (H/F)](http://pyjobs.fr/job/2856/developpeur-developpes-informatique-langage-fonctionnel-h-f "Développeur / Développes informatique langage FONCTIONNEL (H/F)")
 * 2016/07/20 - [Développeur / Développeuse web](http://pyjobs.fr/job/2854/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/07/20 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2852/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/07/20 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2853/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

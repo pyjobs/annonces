@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/03 - [Développeur openstack](http://www.pyjobs.fr/job/173/developpeur-openstack "Développeur openstack")
 * 2016/08/03 - [DEVELOPPEUR JAVA SCALA PYTHON (H/F)](http://www.pyjobs.fr/job/62/developpeur-java-scala-python-h-f "DEVELOPPEUR JAVA SCALA PYTHON (H/F)")
 * 2016/08/03 - [Développeur / Développeuse full-stack PYTHON (H/F)](http://www.pyjobs.fr/job/66/developpeur-developpeuse-full-stack-python-h-f "Développeur / Développeuse full-stack PYTHON (H/F)")
 * 2016/08/02 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/job/171/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/15 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2834/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/14 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2829/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/07/14 - [Analyste-programmeur / Analyste-programmeuse informatique](http://pyjobs.fr/job/2831/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
-* 2016/07/14 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2830/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

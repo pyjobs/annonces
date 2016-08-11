@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/08 - [Développeur python/django](http://www.pyjobs.fr/job/7/developpeur-python-django "Développeur python/django")
 * 2016/08/08 - [5 ux designers, ergonome des interfaces](http://www.pyjobs.fr/job/19/5-ux-designers-ergonome-des-interfaces "5 ux designers, ergonome des interfaces")
 * 2016/08/08 - [Développeur python/django #marketplace](http://www.pyjobs.fr/job/17/developpeur-python-django-marketplace "Développeur python/django #marketplace")
 * 2016/08/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/91/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/21 - [Devops aws mongodb - webmarketing saas](http://www.pyjobs.fr/job/153/devops-aws-mongodb-webmarketing-saas "Devops aws mongodb - webmarketing saas")
 * 2016/07/22 - [developpeur/euse JAVA / J2EE / .NET](http://pyjobs.fr/job/2864/developpeur-euse-java-j2ee-net "developpeur/euse JAVA / J2EE / .NET")
 * 2016/07/21 - [Admin system web junior](http://pyjobs.fr/job/2859/admin-system-web-junior "Admin system web junior")
-* 2016/07/21 - [Devops aws mongodb - webmarketing saas](http://pyjobs.fr/job/2861/devops-aws-mongodb-webmarketing-saas "Devops aws mongodb - webmarketing saas")
 

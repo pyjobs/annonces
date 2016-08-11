@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/07/23 - [Développeur fullstack python](http://www.pyjobs.fr/job/157/developpeur-fullstack-python "Développeur fullstack python")
 * 2016/07/21 - [Admin system web junior](http://www.pyjobs.fr/job/155/admin-system-web-junior "Admin system web junior")
 * 2016/07/21 - [Devops aws mongodb - webmarketing saas](http://www.pyjobs.fr/job/153/devops-aws-mongodb-webmarketing-saas "Devops aws mongodb - webmarketing saas")
 * 2016/07/22 - [developpeur/euse JAVA / J2EE / .NET](http://pyjobs.fr/job/2864/developpeur-euse-java-j2ee-net "developpeur/euse JAVA / J2EE / .NET")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/12 - [Analyste développeur / développeuse](http://pyjobs.fr/job/2817/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/07/12 - [DevOps e-Confiance H/F](http://pyjobs.fr/job/2816/devops-e-confiance-h-f "DevOps e-Confiance H/F")
 * 2016/07/11 - [Pythonista pour automatisation (Paris)](http://pyjobs.fr/job/2814/pythonista-pour-automatisation-paris "Pythonista pour automatisation (Paris)")
-* 2016/07/11 - [Développeur / Développeuse informatique](http://pyjobs.fr/job/2824/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

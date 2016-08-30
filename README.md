@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/16 - [Administrateur systèmes et réseaux niveau 1](http://www.pyjobs.fr/jobs/details/23/administrateur-systemes-et-reseaux-niveau-1 "Administrateur systèmes et réseaux niveau 1")
 * 2016/08/16 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/50/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 * 2016/08/16 - [Administrateur Systèmes et Réseaux H/F junior](http://www.pyjobs.fr/jobs/details/92/administrateur-systemes-et-reseaux-h-f-junior "Administrateur Systèmes et Réseaux H/F junior")
 * 2016/08/16 - [Administrateur Systèmes et Réseaux en Alternance](http://www.pyjobs.fr/jobs/details/33/administrateur-systemes-et-reseaux-en-alternance "Administrateur Systèmes et Réseaux en Alternance")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/03 - [DEVELOPPEUR JAVA SCALA PYTHON (H/F)](http://www.pyjobs.fr/job/62/developpeur-java-scala-python-h-f "DEVELOPPEUR JAVA SCALA PYTHON (H/F)")
 * 2016/08/03 - [Développeur / Développeuse full-stack PYTHON (H/F)](http://www.pyjobs.fr/job/66/developpeur-developpeuse-full-stack-python-h-f "Développeur / Développeuse full-stack PYTHON (H/F)")
 * 2016/08/02 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/job/171/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
-* 2016/08/02 - [Développeur Python, QT, POSTGRESQL](http://www.pyjobs.fr/job/73/developpeur-python-qt-postgresql "Développeur Python, QT, POSTGRESQL")
 

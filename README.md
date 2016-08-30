@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/09 - [Dév symfony - economie collaborative](http://www.pyjobs.fr/jobs/details/184/dev-symfony-economie-collaborative "Dév symfony - economie collaborative")
 * 2016/08/09 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/61/developpeur-symfony "Développeur symfony")
 * 2016/08/09 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/56/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
 * 2016/08/08 - [Développeur back-end/node.js | editeur](http://www.pyjobs.fr/job/4/developpeur-back-end-node-js-editeur "Développeur back-end/node.js | editeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/26 - [Back-end python développeur start up transport](http://www.pyjobs.fr/job/160/back-end-python-developpeur-start-up-transport "Back-end python développeur start up transport")
 * 2016/07/25 - [Developpeur web](http://www.pyjobs.fr/job/158/developpeur-web "Developpeur web")
 * 2016/07/25 - [Développeur Python (H/F)](http://www.pyjobs.fr/job/82/developpeur-python-h-f "Développeur Python (H/F)")
-* 2016/07/23 - [Développeur fullstack python](http://www.pyjobs.fr/job/157/developpeur-fullstack-python "Développeur fullstack python")
 

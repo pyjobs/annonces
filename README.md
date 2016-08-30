@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/95/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/26 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/57/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2016/08/26 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/16/admin-devops-h-f "Admin Devops H/F")
 * 2016/08/26 - [Développeur Python](http://www.pyjobs.fr/jobs/details/73/developpeur-python "Développeur Python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/91/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/06 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/88/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/05 - [Front-End Developer - Startup en pleine croissance](http://www.pyjobs.fr/job/6/front-end-developer-startup-en-pleine-croissance "Front-End Developer - Startup en pleine croissance")
-* 2016/08/05 - [Python Data Software Engineer - Startup en pleine croissance](http://www.pyjobs.fr/job/14/python-data-software-engineer-startup-en-pleine-croissance "Python Data Software Engineer - Startup en pleine croissance")
 

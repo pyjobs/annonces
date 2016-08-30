@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/10 - [DEVELOPPEUR JAVA SCALA PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/64/developpeur-java-scala-python-h-f "DEVELOPPEUR JAVA SCALA PYTHON (H/F)")
 * 2016/08/09 - [Développeur node.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/45/developpeur-node-js-editeur-de-logiciel "Développeur node.js | editeur de logiciel")
 * 2016/08/09 - [Développeur front-end/angular.js](http://www.pyjobs.fr/jobs/details/42/developpeur-front-end-angular-js "Développeur front-end/angular.js")
 * 2016/08/09 - [Développeur symfony sénior – top e-commerce en eur](http://www.pyjobs.fr/jobs/details/39/developpeur-symfony-senior-top-e-commerce-en-eur "Développeur symfony sénior – top e-commerce en eur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/07/27 - [Développement web avec ruby on rails](http://www.pyjobs.fr/job/166/developpement-web-avec-ruby-on-rails "Développement web avec ruby on rails")
 * 2016/07/27 - [Apprenti(e) administrateur système](http://www.pyjobs.fr/job/28/apprenti-e-administrateur-systeme "Apprenti(e) administrateur système")
 * 2016/07/26 - [Expert et developpeur php](http://www.pyjobs.fr/job/164/expert-et-developpeur-php "Expert et developpeur php")
-* 2016/07/26 - [Ingénieur etude et développement java jee](http://www.pyjobs.fr/job/162/ingenieur-etude-et-developpement-java-jee "Ingénieur etude et développement java jee")
 

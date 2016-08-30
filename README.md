@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/26 - [Open Source Gourou H/F](http://www.pyjobs.fr/jobs/details/1/open-source-gourou-h-f "Open Source Gourou H/F")
 * 2016/08/25 - [Développeur python](http://www.pyjobs.fr/jobs/details/7/developpeur-python "Développeur python")
 * 2016/08/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/91/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/job/100/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/job/113/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/102/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/08/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/job/119/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

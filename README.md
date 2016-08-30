@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/22 - [H/F Ingénieur Informatique et Développement Python](http://www.pyjobs.fr/jobs/details/6/h-f-ingenieur-informatique-et-developpement-python "H/F Ingénieur Informatique et Développement Python")
 * 2016/08/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/123/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/22 - [DevOps](http://www.pyjobs.fr/jobs/details/8/devops "DevOps")
 * 2016/08/20 - [As de la data pour une licorne française](http://www.pyjobs.fr/jobs/details/34/as-de-la-data-pour-une-licorne-francaise "As de la data pour une licorne française")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/04 - [Développeur python](http://www.pyjobs.fr/job/46/developpeur-python "Développeur python")
 * 2016/08/04 - [Développeur coeur](http://www.pyjobs.fr/job/52/developpeur-coeur "Développeur coeur")
 * 2016/08/04 - [Ingénieur big data - startup data](http://www.pyjobs.fr/job/174/ingenieur-big-data-startup-data "Ingénieur big data - startup data")
-* 2016/08/04 - [Fullstack ror python js](http://www.pyjobs.fr/job/55/fullstack-ror-python-js "Fullstack ror python js")
 

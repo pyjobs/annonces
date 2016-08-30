@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/75/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/80/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/26 - [H/F Chef de projet technique Opensource](http://www.pyjobs.fr/jobs/details/47/h-f-chef-de-projet-technique-opensource "H/F Chef de projet technique Opensource")
 * 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/95/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/08 - [Développeur python/django](http://www.pyjobs.fr/job/7/developpeur-python-django "Développeur python/django")
 * 2016/08/08 - [5 ux designers, ergonome des interfaces](http://www.pyjobs.fr/job/19/5-ux-designers-ergonome-des-interfaces "5 ux designers, ergonome des interfaces")
 * 2016/08/08 - [Développeur python/django #marketplace](http://www.pyjobs.fr/job/17/developpeur-python-django-marketplace "Développeur python/django #marketplace")
-* 2016/08/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/job/91/developpeur-developpeuse-web "Développeur / Développeuse web")
 

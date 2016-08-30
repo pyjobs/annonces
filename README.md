@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/16 - [Administrateur Systèmes et Réseaux H/F junior](http://www.pyjobs.fr/jobs/details/92/administrateur-systemes-et-reseaux-h-f-junior "Administrateur Systèmes et Réseaux H/F junior")
 * 2016/08/16 - [Administrateur Systèmes et Réseaux en Alternance](http://www.pyjobs.fr/jobs/details/33/administrateur-systemes-et-reseaux-en-alternance "Administrateur Systèmes et Réseaux en Alternance")
 * 2016/08/16 - [Ingénieur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/96/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
 * 2016/08/10 - [Développeur sénior sql / python](http://www.pyjobs.fr/jobs/details/49/developpeur-senior-sql-python "Développeur sénior sql / python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/02 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/job/171/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
 * 2016/08/02 - [Développeur Python, QT, POSTGRESQL](http://www.pyjobs.fr/job/73/developpeur-python-qt-postgresql "Développeur Python, QT, POSTGRESQL")
 * 2016/08/01 - [Lead Dev Python - Machine Learning H/F](http://www.pyjobs.fr/job/23/lead-dev-python-machine-learning-h-f "Lead Dev Python - Machine Learning H/F")
-* 2016/07/29 - [Administrateur système & réseau niveau 1/2](http://www.pyjobs.fr/job/169/administrateur-systeme-reseau-niveau-1-2 "Administrateur système & réseau niveau 1/2")
 

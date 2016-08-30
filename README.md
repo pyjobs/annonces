@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/26 - [Consultant Docker](http://www.pyjobs.fr/jobs/details/44/consultant-docker "Consultant Docker")
 * 2016/08/26 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/57/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/98/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/26 - [Développeur Python](http://www.pyjobs.fr/jobs/details/73/developpeur-python "Développeur Python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/26 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/16/admin-devops-h-f "Admin Devops H/F")
 * 2016/08/26 - [Développeur Python](http://www.pyjobs.fr/jobs/details/73/developpeur-python "Développeur Python")
 * 2016/08/26 - [Consultant Docker](http://www.pyjobs.fr/jobs/details/44/consultant-docker "Consultant Docker")
-* 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/98/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

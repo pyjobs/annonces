@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/21/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/08/28 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/9/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/75/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/80/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/08 - [Développeur back-end/node.js | editeur](http://www.pyjobs.fr/job/4/developpeur-back-end-node-js-editeur "Développeur back-end/node.js | editeur")
 * 2016/08/08 - [Ui, designer interfaces digitales](http://www.pyjobs.fr/job/13/ui-designer-interfaces-digitales "Ui, designer interfaces digitales")
 * 2016/08/08 - [Développeur python/django](http://www.pyjobs.fr/job/7/developpeur-python-django "Développeur python/django")
-* 2016/08/08 - [5 ux designers, ergonome des interfaces](http://www.pyjobs.fr/job/19/5-ux-designers-ergonome-des-interfaces "5 ux designers, ergonome des interfaces")
 

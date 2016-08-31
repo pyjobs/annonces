@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/16 - [Administrateur Systèmes et Réseaux H/F junior](http://www.pyjobs.fr/jobs/details/92/administrateur-systemes-et-reseaux-h-f-junior "Administrateur Systèmes et Réseaux H/F junior")
 * 2016/08/16 - [Administrateur Systèmes et Réseaux en Alternance](http://www.pyjobs.fr/jobs/details/33/administrateur-systemes-et-reseaux-en-alternance "Administrateur Systèmes et Réseaux en Alternance")
 * 2016/08/16 - [Ingénieur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/96/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
 * 2016/08/10 - [DEVELOPPEUR JAVA SCALA PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/64/developpeur-java-scala-python-h-f "DEVELOPPEUR JAVA SCALA PYTHON (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/17 - [Développeur web back end](http://www.pyjobs.fr/jobs/details/26/developpeur-web-back-end "Développeur web back end")
 * 2016/08/16 - [Administrateur systèmes et réseaux niveau 1](http://www.pyjobs.fr/jobs/details/23/administrateur-systemes-et-reseaux-niveau-1 "Administrateur systèmes et réseaux niveau 1")
 * 2016/08/16 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/50/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
-* 2016/08/16 - [Administrateur Systèmes et Réseaux H/F junior](http://www.pyjobs.fr/jobs/details/92/administrateur-systemes-et-reseaux-h-f-junior "Administrateur Systèmes et Réseaux H/F junior")
 

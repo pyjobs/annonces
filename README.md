@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/09 - [Développeur symfony sénior – top e-commerce en eur](http://www.pyjobs.fr/jobs/details/39/developpeur-symfony-senior-top-e-commerce-en-eur "Développeur symfony sénior – top e-commerce en eur")
 * 2016/08/09 - [Dév symfony - economie collaborative](http://www.pyjobs.fr/jobs/details/184/dev-symfony-economie-collaborative "Dév symfony - economie collaborative")
 * 2016/08/09 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/61/developpeur-symfony "Développeur symfony")
 * 2016/08/30 - [Développeur web - start-up](http://www.pyjobs.fr/jobs/details/2/developpeur-web-start-up "Développeur web - start-up")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/09 - [Développeur node.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/45/developpeur-node-js-editeur-de-logiciel "Développeur node.js | editeur de logiciel")
 * 2016/08/09 - [Développeur front-end/angular.js](http://www.pyjobs.fr/jobs/details/42/developpeur-front-end-angular-js "Développeur front-end/angular.js")
 * 2016/08/09 - [Développeur symfony sénior – top e-commerce en eur](http://www.pyjobs.fr/jobs/details/39/developpeur-symfony-senior-top-e-commerce-en-eur "Développeur symfony sénior – top e-commerce en eur")
-* 2016/08/09 - [Dév symfony - economie collaborative](http://www.pyjobs.fr/jobs/details/184/dev-symfony-economie-collaborative "Dév symfony - economie collaborative")
 

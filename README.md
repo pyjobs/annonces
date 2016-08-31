@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/30 - [Développeur web - start-up](http://www.pyjobs.fr/jobs/details/2/developpeur-web-start-up "Développeur web - start-up")
 * 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/19/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
 * 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/14/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/21/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/09 - [Développeur symfony sénior – top e-commerce en eur](http://www.pyjobs.fr/jobs/details/39/developpeur-symfony-senior-top-e-commerce-en-eur "Développeur symfony sénior – top e-commerce en eur")
 * 2016/08/09 - [Dév symfony - economie collaborative](http://www.pyjobs.fr/jobs/details/184/dev-symfony-economie-collaborative "Dév symfony - economie collaborative")
 * 2016/08/09 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/61/developpeur-symfony "Développeur symfony")
-* 2016/08/30 - [Développeur web - start-up](http://www.pyjobs.fr/jobs/details/2/developpeur-web-start-up "Développeur web - start-up")
 

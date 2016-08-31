@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/26 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/57/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2016/08/26 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/16/admin-devops-h-f "Admin Devops H/F")
 * 2016/08/25 - [Développeur python](http://www.pyjobs.fr/jobs/details/7/developpeur-python "Développeur python")
 * 2016/08/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/91/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/95/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/26 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/57/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2016/08/26 - [H/F Chef de projet technique Opensource](http://www.pyjobs.fr/jobs/details/47/h-f-chef-de-projet-technique-opensource "H/F Chef de projet technique Opensource")
-* 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/98/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

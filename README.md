@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/16 - [Ingénieur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/47/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
 * 2016/08/18 - [Expert fullstack php pour logiciel saas](http://www.pyjobs.fr/jobs/details/31/expert-fullstack-php-pour-logiciel-saas "Expert fullstack php pour logiciel saas")
 * 2016/08/17 - [Développeur full-stack dans l'intelligence collective](http://www.pyjobs.fr/jobs/details/15/developpeur-full-stack-dans-lintelligence-collective "Développeur full-stack dans l'intelligence collective")
 * 2016/08/17 - [Développeur web back end](http://www.pyjobs.fr/jobs/details/26/developpeur-web-back-end "Développeur web back end")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/23 - [Administrateur système Linux](http://www.pyjobs.fr/jobs/details/37/administrateur-systeme-linux "Administrateur système Linux")
 * 2016/08/22 - [H/F Ingénieur Informatique et Développement Python](http://www.pyjobs.fr/jobs/details/6/h-f-ingenieur-informatique-et-developpement-python "H/F Ingénieur Informatique et Développement Python")
 * 2016/08/22 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/695/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
-* 2016/08/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/123/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

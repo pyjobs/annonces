@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/5/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
 * 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/24/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/41/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/08/28 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/21/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/21/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/08/28 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/9/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/80/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/75/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

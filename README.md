@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/98/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/95/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/102/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/16 - [Administrateur systèmes et réseaux niveau 1](http://www.pyjobs.fr/jobs/details/29/administrateur-systemes-et-reseaux-niveau-1 "Administrateur systèmes et réseaux niveau 1")
 * 2016/08/16 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/52/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 * 2016/08/16 - [Ingénieur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/47/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
-* 2016/08/18 - [Expert fullstack php pour logiciel saas](http://www.pyjobs.fr/jobs/details/31/expert-fullstack-php-pour-logiciel-saas "Expert fullstack php pour logiciel saas")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/16 - [Administrateur systèmes et réseaux niveau 1](http://www.pyjobs.fr/jobs/details/29/administrateur-systemes-et-reseaux-niveau-1 "Administrateur systèmes et réseaux niveau 1")
 * 2016/08/16 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/52/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 * 2016/08/16 - [Ingénieur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/47/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
 * 2016/08/18 - [Expert fullstack php pour logiciel saas](http://www.pyjobs.fr/jobs/details/31/expert-fullstack-php-pour-logiciel-saas "Expert fullstack php pour logiciel saas")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/23 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/126/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/08/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/131/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/23 - [Administrateur système Linux](http://www.pyjobs.fr/jobs/details/37/administrateur-systeme-linux "Administrateur système Linux")
-* 2016/08/22 - [H/F Ingénieur Informatique et Développement Python](http://www.pyjobs.fr/jobs/details/6/h-f-ingenieur-informatique-et-developpement-python "H/F Ingénieur Informatique et Développement Python")
 

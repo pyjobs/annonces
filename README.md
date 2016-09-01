@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/704/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/16 - [Administrateur Systèmes et Réseaux en Alternance](http://www.pyjobs.fr/jobs/details/33/administrateur-systemes-et-reseaux-en-alternance "Administrateur Systèmes et Réseaux en Alternance")
 * 2016/08/16 - [Ingénieur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/96/ingenieur-systemes-et-reseaux-h-f "Ingénieur Systèmes et Réseaux H/F")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/702/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/17 - [Développeur full-stack dans l'intelligence collective](http://www.pyjobs.fr/jobs/details/15/developpeur-full-stack-dans-lintelligence-collective "Développeur full-stack dans l'intelligence collective")
 * 2016/08/17 - [Développeur web back end](http://www.pyjobs.fr/jobs/details/26/developpeur-web-back-end "Développeur web back end")
 * 2016/08/16 - [Administrateur systèmes et réseaux niveau 1](http://www.pyjobs.fr/jobs/details/23/administrateur-systemes-et-reseaux-niveau-1 "Administrateur systèmes et réseaux niveau 1")
-* 2016/08/16 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/50/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 

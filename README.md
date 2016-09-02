@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/02 - [DEVELOPPEUR APPLICATIONS (H/F)](http://www.pyjobs.fr/jobs/details/701/developpeur-applications-h-f "DEVELOPPEUR APPLICATIONS (H/F)")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/702/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/700/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/699/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/24 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/9/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
 * 2016/08/23 - [Administrateur système Linux](http://www.pyjobs.fr/jobs/details/53/administrateur-systeme-linux "Administrateur système Linux")
 * 2016/08/22 - [H/F Ingénieur Informatique et Développement Python](http://www.pyjobs.fr/jobs/details/19/h-f-ingenieur-informatique-et-developpement-python "H/F Ingénieur Informatique et Développement Python")
-* 2016/08/22 - [DevOps](http://www.pyjobs.fr/jobs/details/8/devops "DevOps")
 

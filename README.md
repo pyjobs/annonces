@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/02 - [Animateur/Animatrice Programmation (H/F)](http://www.pyjobs.fr/jobs/details/705/animateur-animatrice-programmation-h-f "Animateur/Animatrice Programmation (H/F)")
 * 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/707/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/02 - [Admin DevOps](http://www.pyjobs.fr/jobs/details/703/admin-devops "Admin DevOps")
 * 2016/09/02 - [DEVELOPPEUR APPLICATIONS (H/F)](http://www.pyjobs.fr/jobs/details/701/developpeur-applications-h-f "DEVELOPPEUR APPLICATIONS (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/126/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/24 - [Développeur/Développeuse Python (H/F)](http://www.pyjobs.fr/jobs/details/71/developpeur-developpeuse-python-h-f "Développeur/Développeuse Python (H/F)")
 * 2016/08/24 - [H/F Consultant technologique Messagerie Open Source](http://www.pyjobs.fr/jobs/details/93/h-f-consultant-technologique-messagerie-open-source "H/F Consultant technologique Messagerie Open Source")
-* 2016/08/24 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/9/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
 

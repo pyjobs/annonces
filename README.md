@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/129/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/26 - [DBA NoSQL](http://www.pyjobs.fr/jobs/details/61/dba-nosql "DBA NoSQL")
 * 2016/08/26 - [Consultant Docker](http://www.pyjobs.fr/jobs/details/34/consultant-docker "Consultant Docker")
 * 2016/08/26 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/15/admin-devops-h-f "Admin Devops H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/28 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/21/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/105/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/26 - [Open Source Gourou H/F](http://www.pyjobs.fr/jobs/details/3/open-source-gourou-h-f "Open Source Gourou H/F")
-* 2016/08/26 - [Développeur Python](http://www.pyjobs.fr/jobs/details/74/developpeur-python "Développeur Python")
 

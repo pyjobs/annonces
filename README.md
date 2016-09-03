@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/26 - [Open Source Gourou H/F](http://www.pyjobs.fr/jobs/details/3/open-source-gourou-h-f "Open Source Gourou H/F")
 * 2016/08/26 - [H/F Chef de projet technique Opensource](http://www.pyjobs.fr/jobs/details/38/h-f-chef-de-projet-technique-opensource "H/F Chef de projet technique Opensource")
 * 2016/08/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/129/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/26 - [DBA NoSQL](http://www.pyjobs.fr/jobs/details/61/dba-nosql "DBA NoSQL")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/24/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/41/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/08/28 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/21/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
-* 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/105/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

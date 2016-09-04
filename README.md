@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/24/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/41/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/08/28 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/21/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/105/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Ingénieur JAVA Développeur Hadoop (H/F)](http://www.pyjobs.fr/jobs/details/100/ingenieur-java-developpeur-hadoop-h-f "Ingénieur JAVA Développeur Hadoop (H/F)")
 * 2016/08/30 - [Développeur web - start-up](http://www.pyjobs.fr/jobs/details/10/developpeur-web-start-up "Développeur web - start-up")
 * 2016/08/30 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/91/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
-* 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/111/developpeur-developpeuse-web "Développeur / Développeuse web")
 

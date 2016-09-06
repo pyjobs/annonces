@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/06 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/718/developpeur-python-h-f "Développeur Python (H/F)")
 * 2016/09/06 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/719/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/717/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/105/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/30 - [Développeur web - start-up](http://www.pyjobs.fr/jobs/details/10/developpeur-web-start-up "Développeur web - start-up")
 * 2016/08/30 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/91/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/111/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/5/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
 

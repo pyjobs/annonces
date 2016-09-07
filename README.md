@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/111/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/5/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
 * 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/24/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/41/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/22 - [DevOps](http://www.pyjobs.fr/jobs/details/17/devops "DevOps")
 * 2016/08/20 - [As de la data pour une licorne française](http://www.pyjobs.fr/jobs/details/33/as-de-la-data-pour-une-licorne-francaise "As de la data pour une licorne française")
 * 2016/08/18 - [Expert fullstack php pour logiciel saas](http://www.pyjobs.fr/jobs/details/30/expert-fullstack-php-pour-logiciel-saas "Expert fullstack php pour logiciel saas")
-* 2016/08/17 - [Développeur full-stack dans l'intelligence collective](http://www.pyjobs.fr/jobs/details/9/developpeur-full-stack-dans-lintelligence-collective "Développeur full-stack dans l'intelligence collective")
 

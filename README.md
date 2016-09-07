@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/07 - [DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)](http://www.pyjobs.fr/jobs/details/724/developpeur-python-h-f-paris-16-h-f "DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/700/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/723/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/95/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/111/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/5/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
-* 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/24/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
 

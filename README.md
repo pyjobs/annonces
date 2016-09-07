@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/75/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/31 - [Ingénieur JAVA Développeur Hadoop (H/F)](http://www.pyjobs.fr/jobs/details/100/ingenieur-java-developpeur-hadoop-h-f "Ingénieur JAVA Développeur Hadoop (H/F)")
 * 2016/08/31 - [Administrateur Système Web Linux (N2)](http://www.pyjobs.fr/jobs/details/27/administrateur-systeme-web-linux-n2 "Administrateur Système Web Linux (N2)")
 * 2016/08/31 - [Administrateur Système Web Linux (N2)](http://www.pyjobs.fr/jobs/details/44/administrateur-systeme-web-linux-n2 "Administrateur Système Web Linux (N2)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/01 - [Développeur Java/Python/Bigdata (H/F)](http://www.pyjobs.fr/jobs/details/59/developpeur-java-python-bigdata-h-f "Développeur Java/Python/Bigdata (H/F)")
 * 2016/09/01 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/jobs/details/67/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
 * 2016/09/01 - [Développeur PhP/Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/86/developpeur-php-python-django-h-f "Développeur PhP/Python/Django (H/F)")
-* 2016/09/01 - [Développeur informatique en alternance (H/F)](http://www.pyjobs.fr/jobs/details/79/developpeur-informatique-en-alternance-h-f "Développeur informatique en alternance (H/F)")
 

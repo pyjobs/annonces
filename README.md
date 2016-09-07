@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/02 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/706/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/09/02 - [Animateur/Animatrice Programmation (H/F)](http://www.pyjobs.fr/jobs/details/705/animateur-animatrice-programmation-h-f "Animateur/Animatrice Programmation (H/F)")
 * 2016/09/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/714/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/02 - [DEVELOPPEUR APPLICATIONS (H/F)](http://www.pyjobs.fr/jobs/details/701/developpeur-applications-h-f "DEVELOPPEUR APPLICATIONS (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Dev front/react.js sénior](http://www.pyjobs.fr/jobs/details/11/dev-front-react-js-senior "Dev front/react.js sénior")
 * 2016/08/31 - [Développeur Python](http://www.pyjobs.fr/jobs/details/3/developpeur-python "Développeur Python")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/32/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
-* 2016/08/31 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/95/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 

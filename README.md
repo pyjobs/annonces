@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/02 - [Développeur/euse Java/Python/Bigdata (H/F)](http://www.pyjobs.fr/jobs/details/57/developpeur-euse-java-python-bigdata-h-f "Développeur/euse Java/Python/Bigdata (H/F)")
 * 2016/09/02 - [DEVELOPPEUR APPLICATIONS (H/F)](http://www.pyjobs.fr/jobs/details/80/developpeur-applications-h-f "DEVELOPPEUR APPLICATIONS (H/F)")
 * 2016/09/01 - [Ingénieur devops](http://www.pyjobs.fr/jobs/details/2/ingenieur-devops "Ingénieur devops")
 * 2016/09/01 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/jobs/details/60/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/16 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/47/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 * 2016/08/31 - [Dev front/react.js sénior](http://www.pyjobs.fr/jobs/details/13/dev-front-react-js-senior "Dev front/react.js sénior")
 * 2016/08/31 - [Développeur Python](http://www.pyjobs.fr/jobs/details/6/developpeur-python "Développeur Python")
-* 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/22/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/708/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur PhP/Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/86/developpeur-php-python-django-h-f "Développeur PhP/Python/Django (H/F)")
 * 2016/09/01 - [Développeur informatique en alternance (H/F)](http://www.pyjobs.fr/jobs/details/79/developpeur-informatique-en-alternance-h-f "Développeur informatique en alternance (H/F)")
 * 2016/08/31 - [Dev front/react.js sénior](http://www.pyjobs.fr/jobs/details/13/dev-front-react-js-senior "Dev front/react.js sénior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/30 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/105/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/127/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/131/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/99/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

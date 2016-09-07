@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/06 - [Developpeur/Developeuse Frontend (H/F)](http://www.pyjobs.fr/jobs/details/715/developpeur-developeuse-frontend-h-f "Developpeur/Developeuse Frontend (H/F)")
 * 2016/09/06 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/718/developpeur-python-h-f "Développeur Python (H/F)")
 * 2016/09/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/709/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/721/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/02 - [DEVELOPPEUR APPLICATIONS (H/F)](http://www.pyjobs.fr/jobs/details/80/developpeur-applications-h-f "DEVELOPPEUR APPLICATIONS (H/F)")
 * 2016/09/01 - [Ingénieur devops](http://www.pyjobs.fr/jobs/details/2/ingenieur-devops "Ingénieur devops")
 * 2016/09/01 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/jobs/details/60/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
-* 2016/09/01 - [Développeur PhP/Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/72/developpeur-php-python-django-h-f "Développeur PhP/Python/Django (H/F)")
 

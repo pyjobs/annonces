@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/18/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
 * 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/75/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/31 - [Ingénieur JAVA Développeur Hadoop (H/F)](http://www.pyjobs.fr/jobs/details/100/ingenieur-java-developpeur-hadoop-h-f "Ingénieur JAVA Développeur Hadoop (H/F)")
 * 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/707/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/35/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/08/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/122/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/28 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/26/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
-* 2016/08/26 - [Consultant Docker](http://www.pyjobs.fr/jobs/details/42/consultant-docker "Consultant Docker")
 

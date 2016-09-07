@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/16 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/47/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 * 2016/08/31 - [Dev front/react.js sénior](http://www.pyjobs.fr/jobs/details/13/dev-front-react-js-senior "Dev front/react.js sénior")
 * 2016/08/31 - [Développeur Python](http://www.pyjobs.fr/jobs/details/6/developpeur-python "Développeur Python")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/22/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/01 - [Ingénieur devops](http://www.pyjobs.fr/jobs/details/1/ingenieur-devops "Ingénieur devops")
 * 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/713/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/712/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/710/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

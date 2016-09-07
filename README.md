@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Administrateur Système Web Linux (N2)](http://www.pyjobs.fr/jobs/details/44/administrateur-systeme-web-linux-n2 "Administrateur Système Web Linux (N2)")
 * 2016/08/30 - [Développeur web - start-up](http://www.pyjobs.fr/jobs/details/10/developpeur-web-start-up "Développeur web - start-up")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/699/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/702/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/26 - [DBA NoSQL](http://www.pyjobs.fr/jobs/details/64/dba-nosql "DBA NoSQL")
 * 2016/08/26 - [Développeur Python](http://www.pyjobs.fr/jobs/details/77/developpeur-python "Développeur Python")
 * 2016/08/25 - [Développeur python](http://www.pyjobs.fr/jobs/details/22/developpeur-python "Développeur python")
-* 2016/08/24 - [H/F Consultant technologique Messagerie Open Source](http://www.pyjobs.fr/jobs/details/51/h-f-consultant-technologique-messagerie-open-source "H/F Consultant technologique Messagerie Open Source")
 

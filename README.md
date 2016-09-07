@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/30 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/91/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/95/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/111/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/5/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/23 - [Administrateur système Linux](http://www.pyjobs.fr/jobs/details/48/administrateur-systeme-linux "Administrateur système Linux")
 * 2016/08/22 - [H/F Ingénieur Informatique et Développement Python](http://www.pyjobs.fr/jobs/details/12/h-f-ingenieur-informatique-et-developpement-python "H/F Ingénieur Informatique et Développement Python")
 * 2016/08/22 - [DevOps](http://www.pyjobs.fr/jobs/details/17/devops "DevOps")
-* 2016/08/20 - [As de la data pour une licorne française](http://www.pyjobs.fr/jobs/details/33/as-de-la-data-pour-une-licorne-francaise "As de la data pour une licorne française")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Administrateur Système Web Linux (N2)](http://www.pyjobs.fr/jobs/details/21/administrateur-systeme-web-linux-n2 "Administrateur Système Web Linux (N2)")
 * 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/88/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/31 - [Ingénieur JAVA Développeur Hadoop (H/F)](http://www.pyjobs.fr/jobs/details/84/ingenieur-java-developpeur-hadoop-h-f "Ingénieur JAVA Développeur Hadoop (H/F)")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/29/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/111/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/5/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
 * 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/24/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
-* 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/41/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 

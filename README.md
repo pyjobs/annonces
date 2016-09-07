@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/18/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
 * 2016/08/29 - [Développeur nodejs fullstack](http://www.pyjobs.fr/jobs/details/14/developpeur-nodejs-fullstack "Développeur nodejs fullstack")
 * 2016/08/29 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/35/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/08/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/122/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/26 - [H/F Chef de projet technique Opensource](http://www.pyjobs.fr/jobs/details/38/h-f-chef-de-projet-technique-opensource "H/F Chef de projet technique Opensource")
 * 2016/08/26 - [DBA NoSQL](http://www.pyjobs.fr/jobs/details/61/dba-nosql "DBA NoSQL")
 * 2016/08/26 - [Consultant Docker](http://www.pyjobs.fr/jobs/details/34/consultant-docker "Consultant Docker")
-* 2016/09/02 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/706/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 

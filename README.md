@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/732/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/31 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/697/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/08/31 - [Administrateur Système Web Linux (N2)](http://www.pyjobs.fr/jobs/details/44/administrateur-systeme-web-linux-n2 "Administrateur Système Web Linux (N2)")
 * 2016/08/31 - [Administrateur Système Web Linux (N2)](http://www.pyjobs.fr/jobs/details/27/administrateur-systeme-web-linux-n2 "Administrateur Système Web Linux (N2)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Développeur Python](http://www.pyjobs.fr/jobs/details/6/developpeur-python "Développeur Python")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/22/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/18/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
-* 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/75/developpeur-developpeuse-web "Développeur / Développeuse web")
 

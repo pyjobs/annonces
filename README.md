@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/30 - [Développeur web - start-up](http://www.pyjobs.fr/jobs/details/10/developpeur-web-start-up "Développeur web - start-up")
 * 2016/08/30 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/91/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/702/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/698/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Ingénieur JAVA Développeur Hadoop (H/F)](http://www.pyjobs.fr/jobs/details/100/ingenieur-java-developpeur-hadoop-h-f "Ingénieur JAVA Développeur Hadoop (H/F)")
 * 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/707/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/696/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/08/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/695/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

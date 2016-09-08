@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/696/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/695/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/22/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/734/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/711/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/708/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur PhP/Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/86/developpeur-php-python-django-h-f "Développeur PhP/Python/Django (H/F)")
-* 2016/09/01 - [Développeur informatique en alternance (H/F)](http://www.pyjobs.fr/jobs/details/79/developpeur-informatique-en-alternance-h-f "Développeur informatique en alternance (H/F)")
 

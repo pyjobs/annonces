@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/744/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/733/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/732/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/727/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/18/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
 * 2016/08/31 - [Ingénieur JAVA Développeur Hadoop (H/F)](http://www.pyjobs.fr/jobs/details/100/ingenieur-java-developpeur-hadoop-h-f "Ingénieur JAVA Développeur Hadoop (H/F)")
 * 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/75/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/707/developpeur-developpeuse-web "Développeur / Développeuse web")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/01 - [Développeur informatique en alternance (H/F)](http://www.pyjobs.fr/jobs/details/79/developpeur-informatique-en-alternance-h-f "Développeur informatique en alternance (H/F)")
 * 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/711/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/712/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur PhP/Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/86/developpeur-php-python-django-h-f "Développeur PhP/Python/Django (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/02 - [Animateur/Animatrice Programmation (H/F)](http://www.pyjobs.fr/jobs/details/705/animateur-animatrice-programmation-h-f "Animateur/Animatrice Programmation (H/F)")
 * 2016/09/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/714/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/02 - [DEVELOPPEUR APPLICATIONS (H/F)](http://www.pyjobs.fr/jobs/details/701/developpeur-applications-h-f "DEVELOPPEUR APPLICATIONS (H/F)")
-* 2016/09/02 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/722/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/06 - [Developpeur/Developeuse Frontend (H/F)](http://www.pyjobs.fr/jobs/details/715/developpeur-developeuse-frontend-h-f "Developpeur/Developeuse Frontend (H/F)")
 * 2016/09/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/709/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/721/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/02 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/706/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/726/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/111/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/29 - [Developpeur (euse) python libre fan d'algo](http://www.pyjobs.fr/jobs/details/5/developpeur-euse-python-libre-fan-dalgo "Developpeur (euse) python libre fan d'algo")
-* 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/725/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Développeur Python/système H/F](http://www.pyjobs.fr/jobs/details/731/developpeur-python-systeme-h-f "Développeur Python/système H/F")
 * 2016/09/09 - [Développeur java envie de scala et spark ?](http://www.pyjobs.fr/jobs/details/739/developpeur-java-envie-de-scala-et-spark "Développeur java envie de scala et spark ?")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/738/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/06 - [Développeur / Développeuse Python PHP (H/F)](http://www.pyjobs.fr/jobs/details/716/developpeur-developpeuse-python-php-h-f "Développeur / Développeuse Python PHP (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/702/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/698/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/699/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/727/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

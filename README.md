@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/07 - [DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)](http://www.pyjobs.fr/jobs/details/724/developpeur-python-h-f-paris-16-h-f "DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/725/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/06 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/719/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/09 - [Développeur java envie de scala et spark ?](http://www.pyjobs.fr/jobs/details/739/developpeur-java-envie-de-scala-et-spark "Développeur java envie de scala et spark ?")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/732/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/727/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/08/31 - [Administrateur Système Web Linux (N2)](http://www.pyjobs.fr/jobs/details/27/administrateur-systeme-web-linux-n2 "Administrateur Système Web Linux (N2)")
-* 2016/09/09 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/740/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 

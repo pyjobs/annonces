@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/09 - [Développeur java envie de scala et spark ?](http://www.pyjobs.fr/jobs/details/739/developpeur-java-envie-de-scala-et-spark "Développeur java envie de scala et spark ?")
 * 2016/09/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/728/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/726/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur Back end](http://www.pyjobs.fr/jobs/details/729/developpeur-back-end "Développeur Back end")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/09 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/740/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/742/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/741/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/723/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
 

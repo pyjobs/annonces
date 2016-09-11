@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/09 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/740/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/742/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/741/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/723/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/22/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
 * 2016/09/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/743/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/744/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/733/developpeur-developpeuse-web "Développeur / Développeuse web")
 

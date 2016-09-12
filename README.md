@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/713/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/711/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/747/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur C++ Temps Réel (H/F)](http://www.pyjobs.fr/jobs/details/735/developpeur-c-temps-reel-h-f "Développeur C++ Temps Réel (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/01 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/jobs/details/67/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/749/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/748/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/708/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/757/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/721/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/02 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/706/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/09/02 - [Animateur/Animatrice Programmation (H/F)](http://www.pyjobs.fr/jobs/details/705/animateur-animatrice-programmation-h-f "Animateur/Animatrice Programmation (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/738/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/720/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/06 - [Développeur / Développeuse Python PHP (H/F)](http://www.pyjobs.fr/jobs/details/716/developpeur-developpeuse-python-php-h-f "Développeur / Développeuse Python PHP (H/F)")
-* 2016/09/06 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/718/developpeur-python-h-f "Développeur Python (H/F)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Front-end Developer (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3396/front-end-developer-h-f-en-cdi-a-pessac "Front-end Developer (H/F) en CDI à Pessac")
 * 2016/08/31 - [Développeur Python/système (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3395/developpeur-python-systeme-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/système (H/F) en CDI à Paris 35000-44000")
 * 2016/08/31 - [[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/3392/stage-alternance-backend-engineer-h-f-en-alternance-a-paris "[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris")
 * 2016/08/31 - [Développeur Back-end (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3391/developpeur-back-end-h-f-en-cdi-a-lyon "Développeur Back-end (H/F) en CDI à Lyon")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/744/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/13 - [Front-end Web Developer](http://www.pyjobs.fr/jobs/details/759/front-end-web-developer "Front-end Web Developer")
 * 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/723/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
-* 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/727/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

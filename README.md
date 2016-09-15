@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/15 - [Testeur logiciel](http://www.pyjobs.fr/jobs/details/3425/testeur-logiciel "Testeur logiciel")
 * 2016/09/15 - [Developpeur java python](http://www.pyjobs.fr/jobs/details/3423/developpeur-java-python "Developpeur java python")
 * 2016/09/15 - [Ingénieur Software, spécialiste « Python », Junior (H/F)](http://www.pyjobs.fr/jobs/details/3429/ingenieur-software-specialiste-python-junior-h-f "Ingénieur Software, spécialiste « Python », Junior (H/F)")
 * 2016/09/15 - [Développeur sénior sql / python](http://www.pyjobs.fr/jobs/details/3427/developpeur-senior-sql-python "Développeur sénior sql / python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3365/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/738/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/13 - [Développeur java / python](http://www.pyjobs.fr/jobs/details/756/developpeur-java-python "Développeur java / python")
-* 2016/09/15 - [Développeur python/django](http://www.pyjobs.fr/jobs/details/773/developpeur-python-django "Développeur python/django")
 

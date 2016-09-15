@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3368/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/3335/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
 * 2016/08/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3377/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/15 - [Développeur web Python Javascript (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3424/developpeur-web-python-javascript-h-f-en-stage-a-paris "Développeur web Python Javascript (H/F) en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Front-end Developer (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3396/front-end-developer-h-f-en-cdi-a-pessac "Front-end Developer (H/F) en CDI à Pessac")
 * 2016/08/31 - [Développeur Python/système (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3395/developpeur-python-systeme-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/système (H/F) en CDI à Paris 35000-44000")
 * 2016/08/31 - [[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/3392/stage-alternance-backend-engineer-h-f-en-alternance-a-paris "[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris")
-* 2016/08/31 - [Développeur Back-end (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3391/developpeur-back-end-h-f-en-cdi-a-lyon "Développeur Back-end (H/F) en CDI à Lyon")
 

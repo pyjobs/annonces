@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/15 - [Développeur web Python Javascript (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3424/developpeur-web-python-javascript-h-f-en-stage-a-paris "Développeur web Python Javascript (H/F) en Stage à Paris")
 * 2016/09/15 - [Développeur python/django](http://www.pyjobs.fr/jobs/details/3422/developpeur-python-django "Développeur python/django")
 * 2016/09/15 - [Testeur logiciel](http://www.pyjobs.fr/jobs/details/3425/testeur-logiciel "Testeur logiciel")
 * 2016/09/15 - [Developpeur java python](http://www.pyjobs.fr/jobs/details/3423/developpeur-java-python "Developpeur java python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Développeur Back-end (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3391/developpeur-back-end-h-f-en-cdi-a-lyon "Développeur Back-end (H/F) en CDI à Lyon")
 * 2016/08/31 - [Développeur Python](http://www.pyjobs.fr/jobs/details/3320/developpeur-python "Développeur Python")
 * 2016/08/31 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3365/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
-* 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/738/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

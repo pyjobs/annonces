@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/734/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/742/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/733/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/741/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/12 - [Développeur backend](http://www.pyjobs.fr/jobs/details/752/developpeur-backend "Développeur backend")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/745/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/743/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/02 - [Animateur/Animatrice Programmation (H/F)](http://www.pyjobs.fr/jobs/details/705/animateur-animatrice-programmation-h-f "Animateur/Animatrice Programmation (H/F)")
 

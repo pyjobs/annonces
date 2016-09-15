@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/769/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/771/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/13 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/772/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/748/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/764/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/765/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/763/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/750/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Front-end Developer (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3396/front-end-developer-h-f-en-cdi-a-pessac "Front-end Developer (H/F) en CDI à Pessac")
 * 2016/08/31 - [Développeur Python/système (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3395/developpeur-python-systeme-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/système (H/F) en CDI à Paris 35000-44000")
 * 2016/08/31 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3365/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/08/31 - [[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/3392/stage-alternance-backend-engineer-h-f-en-alternance-a-paris "[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/02 - [Développeur/Développeuse Web sous PYTHON](http://www.pyjobs.fr/jobs/details/3409/developpeur-developpeuse-web-sous-python "Développeur/Développeuse Web sous PYTHON")
 * 2016/09/02 - [Admin DevOps](http://www.pyjobs.fr/jobs/details/3397/admin-devops "Admin DevOps")
 * 2016/09/01 - [Développeur web (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3314/developpeur-web-h-f-en-cdi-a-paris-25000-34000 "Développeur web (H/F) en CDI à Paris 25000-34000")
-* 2016/09/01 - [Développeur informatique en alternance (H/F)](http://www.pyjobs.fr/jobs/details/3370/developpeur-informatique-en-alternance-h-f "Développeur informatique en alternance (H/F)")
 

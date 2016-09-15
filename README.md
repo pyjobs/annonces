@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/08/31 - [Développeur Back-end (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3391/developpeur-back-end-h-f-en-cdi-a-lyon "Développeur Back-end (H/F) en CDI à Lyon")
 * 2016/08/31 - [Développeur Python](http://www.pyjobs.fr/jobs/details/3320/developpeur-python "Développeur Python")
 * 2016/08/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3368/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/08/31 - [Expert Système Web Linux (N3)](http://www.pyjobs.fr/jobs/details/3335/expert-systeme-web-linux-n3 "Expert Système Web Linux (N3)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/01 - [Développeur Java/Python/Bigdata (H/F)](http://www.pyjobs.fr/jobs/details/3331/developpeur-java-python-bigdata-h-f "Développeur Java/Python/Bigdata (H/F)")
 * 2016/09/01 - [Développeur Back end](http://www.pyjobs.fr/jobs/details/3398/developpeur-back-end "Développeur Back end")
 * 2016/08/31 - [Front-end Developer (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3396/front-end-developer-h-f-en-cdi-a-pessac "Front-end Developer (H/F) en CDI à Pessac")
-* 2016/08/31 - [Développeur Python/système (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3395/developpeur-python-systeme-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/système (H/F) en CDI à Paris 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/754/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/767/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/757/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/765/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3431/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3434/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/13 - [Développeur fullstack python/javascript (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3426/developpeur-fullstack-python-javascript-h-f-en-cdi-a-paris-35000-44000 "Développeur fullstack python/javascript (H/F) en CDI à Paris 35000-44000")
-* 2016/09/13 - [Développeur java / python](http://www.pyjobs.fr/jobs/details/3428/developpeur-java-python "Développeur java / python")
 

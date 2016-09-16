@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/06 - [Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3402/python-data-software-engineer-startup-en-croissance-h-f-en-cdi-a-paris "Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris")
 * 2016/09/06 - [Développeur / Développeuse Python PHP (H/F)](http://www.pyjobs.fr/jobs/details/3410/developpeur-developpeuse-python-php-h-f "Développeur / Développeuse Python PHP (H/F)")
 * 2016/09/02 - [Lead Développeur C++ / Linux (H/F) en CDI à Issy-les-Moulineaux 45000-54000](http://www.pyjobs.fr/jobs/details/3401/lead-developpeur-c-linux-h-f-en-cdi-a-issy-les-moulineaux-45000-54000 "Lead Développeur C++ / Linux (H/F) en CDI à Issy-les-Moulineaux 45000-54000")
 * 2016/09/02 - [Admin DevOps](http://www.pyjobs.fr/jobs/details/3397/admin-devops "Admin DevOps")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/3400/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
 * 2016/09/07 - [Backend developer Go/Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3406/backend-developer-go-python-h-f-en-cdi-a-paris "Backend developer Go/Python (H/F) en CDI à Paris")
 * 2016/09/07 - [DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)](http://www.pyjobs.fr/jobs/details/3408/developpeur-python-h-f-paris-16-h-f "DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)")
-* 2016/09/06 - [Administrateur systeme devops (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3405/administrateur-systeme-devops-h-f-en-cdi-a-paris-45000-54000 "Administrateur systeme devops (H/F) en CDI à Paris 45000-54000")
 

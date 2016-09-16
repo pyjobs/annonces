@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/16 - [LEAD DEVELOPPEUR DJANGO PYTHON (CDI)](http://www.pyjobs.fr/jobs/details/3446/lead-developpeur-django-python-cdi "LEAD DEVELOPPEUR DJANGO PYTHON (CDI)")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3448/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/15 - [Développeur web Python Javascript (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3424/developpeur-web-python-javascript-h-f-en-stage-a-paris "Développeur web Python Javascript (H/F) en Stage à Paris")
 * 2016/09/15 - [Développeur python/django](http://www.pyjobs.fr/jobs/details/3422/developpeur-python-django "Développeur python/django")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/781/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/16 - [LEAD DEVELOPPEUR DJANGO PYTHON (CDI)](http://www.pyjobs.fr/jobs/details/778/lead-developpeur-django-python-cdi "LEAD DEVELOPPEUR DJANGO PYTHON (CDI)")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/783/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/15 - [Développeur python/django](http://www.pyjobs.fr/jobs/details/773/developpeur-python-django "Développeur python/django")
 

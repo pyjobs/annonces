@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/742/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/734/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/723/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/727/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3419/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3418/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/3400/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
-* 2016/09/07 - [Backend developer Go/Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3406/backend-developer-go-python-h-f-en-cdi-a-paris "Backend developer Go/Python (H/F) en CDI à Paris")
 

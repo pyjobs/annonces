@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/761/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/13 - [Front-end Web Developer](http://www.pyjobs.fr/jobs/details/755/front-end-web-developer "Front-end Web Developer")
 * 2016/09/13 - [Développeur java / python](http://www.pyjobs.fr/jobs/details/756/developpeur-java-python "Développeur java / python")
 * 2016/09/13 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/772/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3433/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/14 - [Developpeur informatique Back end (H/F)](http://www.pyjobs.fr/jobs/details/3438/developpeur-informatique-back-end-h-f "Developpeur informatique Back end (H/F)")
 * 2016/09/16 - [Développeur Frontend (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/3441/developpeur-frontend-h-f-en-cdi-a-marseille "Développeur Frontend (H/F) en CDI à Marseille")
-* 2016/09/16 - [Développeur PHP Python (H/F) en CDD à Marseille](http://www.pyjobs.fr/jobs/details/3442/developpeur-php-python-h-f-en-cdd-a-marseille "Développeur PHP Python (H/F) en CDD à Marseille")
 

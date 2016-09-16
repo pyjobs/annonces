@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3433/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/14 - [Developpeur informatique Back end (H/F)](http://www.pyjobs.fr/jobs/details/3438/developpeur-informatique-back-end-h-f "Developpeur informatique Back end (H/F)")
 * 2016/09/16 - [Développeur Frontend (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/3441/developpeur-frontend-h-f-en-cdi-a-marseille "Développeur Frontend (H/F) en CDI à Marseille")
 * 2016/09/16 - [Développeur PHP Python (H/F) en CDD à Marseille](http://www.pyjobs.fr/jobs/details/3442/developpeur-php-python-h-f-en-cdd-a-marseille "Développeur PHP Python (H/F) en CDD à Marseille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3365/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/08/31 - [[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/3392/stage-alternance-backend-engineer-h-f-en-alternance-a-paris "[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris")
 * 2016/08/31 - [Développeur Back-end (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3391/developpeur-back-end-h-f-en-cdi-a-lyon "Développeur Back-end (H/F) en CDI à Lyon")
-* 2016/08/31 - [Développeur Python](http://www.pyjobs.fr/jobs/details/3320/developpeur-python "Développeur Python")
 

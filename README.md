@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/07 - [DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)](http://www.pyjobs.fr/jobs/details/3408/developpeur-python-h-f-paris-16-h-f "DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)")
 * 2016/09/06 - [Administrateur systeme devops (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3405/administrateur-systeme-devops-h-f-en-cdi-a-paris-45000-54000 "Administrateur systeme devops (H/F) en CDI à Paris 45000-54000")
 * 2016/09/06 - [Stage en développement (H/F) en Stage à La Garenne-Colombes](http://www.pyjobs.fr/jobs/details/3404/stage-en-developpement-h-f-en-stage-a-la-garenne-colombes "Stage en développement (H/F) en Stage à La Garenne-Colombes")
 * 2016/09/06 - [IT Manager (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3403/it-manager-h-f-en-cdi-a-paris-45000-54000 "IT Manager (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/08 - [Développeur Front-End (React) (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3407/developpeur-front-end-react-h-f-en-cdi-a-paris "Développeur Front-End (React) (H/F) en CDI à Paris")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3419/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3418/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/08 - [Développeur C++ Temps Réel (H/F)](http://www.pyjobs.fr/jobs/details/3417/developpeur-c-temps-reel-h-f "Développeur C++ Temps Réel (H/F)")
 

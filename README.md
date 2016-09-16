@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3448/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [LEAD DEVELOPPEUR DJANGO PYTHON (CDI)](http://www.pyjobs.fr/jobs/details/3446/lead-developpeur-django-python-cdi "LEAD DEVELOPPEUR DJANGO PYTHON (CDI)")
 * 2016/09/15 - [Développeur web Python Javascript (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3424/developpeur-web-python-javascript-h-f-en-stage-a-paris "Développeur web Python Javascript (H/F) en Stage à Paris")
 * 2016/09/15 - [Développeur python/django](http://www.pyjobs.fr/jobs/details/3422/developpeur-python-django "Développeur python/django")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/02 - [Admin DevOps](http://www.pyjobs.fr/jobs/details/3397/admin-devops "Admin DevOps")
 * 2016/09/02 - [Développeur/Développeuse Web sous PYTHON](http://www.pyjobs.fr/jobs/details/3409/developpeur-developpeuse-web-sous-python "Développeur/Développeuse Web sous PYTHON")
 * 2016/09/01 - [Développeur web (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3314/developpeur-web-h-f-en-cdi-a-paris-25000-34000 "Développeur web (H/F) en CDI à Paris 25000-34000")
-* 2016/09/01 - [Développeur informatique en alternance (H/F)](http://www.pyjobs.fr/jobs/details/3370/developpeur-informatique-en-alternance-h-f "Développeur informatique en alternance (H/F)")
 

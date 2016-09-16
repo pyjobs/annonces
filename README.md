@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/15 - [Ingénieur Software, spécialiste « Python », Junior (H/F)](http://www.pyjobs.fr/jobs/details/3429/ingenieur-software-specialiste-python-junior-h-f "Ingénieur Software, spécialiste « Python », Junior (H/F)")
 * 2016/09/15 - [Développeur sénior sql / python](http://www.pyjobs.fr/jobs/details/3427/developpeur-senior-sql-python "Développeur sénior sql / python")
 * 2016/09/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3433/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/14 - [Developpeur informatique Back end (H/F)](http://www.pyjobs.fr/jobs/details/3438/developpeur-informatique-back-end-h-f "Developpeur informatique Back end (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/08/31 - [Front-end Developer (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3396/front-end-developer-h-f-en-cdi-a-pessac "Front-end Developer (H/F) en CDI à Pessac")
 * 2016/08/31 - [Développeur Python/système (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3395/developpeur-python-systeme-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/système (H/F) en CDI à Paris 35000-44000")
 * 2016/08/31 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3365/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
-* 2016/08/31 - [[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/3392/stage-alternance-backend-engineer-h-f-en-alternance-a-paris "[Stage/Alternance] Backend engineer (H/F) en Alternance à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/07 - [DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)](http://www.pyjobs.fr/jobs/details/724/developpeur-python-h-f-paris-16-h-f "DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/737/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/725/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/07 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/736/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/06 - [Administrateur systeme devops (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3405/administrateur-systeme-devops-h-f-en-cdi-a-paris-45000-54000 "Administrateur systeme devops (H/F) en CDI à Paris 45000-54000")
 * 2016/09/06 - [Stage en développement (H/F) en Stage à La Garenne-Colombes](http://www.pyjobs.fr/jobs/details/3404/stage-en-developpement-h-f-en-stage-a-la-garenne-colombes "Stage en développement (H/F) en Stage à La Garenne-Colombes")
 * 2016/09/06 - [IT Manager (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3403/it-manager-h-f-en-cdi-a-paris-45000-54000 "IT Manager (H/F) en CDI à Paris 45000-54000")
-* 2016/09/06 - [Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3402/python-data-software-engineer-startup-en-croissance-h-f-en-cdi-a-paris "Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris")
 

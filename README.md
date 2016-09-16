@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/07 - [Backend developer Go/Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3406/backend-developer-go-python-h-f-en-cdi-a-paris "Backend developer Go/Python (H/F) en CDI à Paris")
 * 2016/09/07 - [DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)](http://www.pyjobs.fr/jobs/details/3408/developpeur-python-h-f-paris-16-h-f "DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)")
 * 2016/09/06 - [Administrateur systeme devops (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3405/administrateur-systeme-devops-h-f-en-cdi-a-paris-45000-54000 "Administrateur systeme devops (H/F) en CDI à Paris 45000-54000")
 * 2016/09/06 - [Stage en développement (H/F) en Stage à La Garenne-Colombes](http://www.pyjobs.fr/jobs/details/3404/stage-en-developpement-h-f-en-stage-a-la-garenne-colombes "Stage en développement (H/F) en Stage à La Garenne-Colombes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/09 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/740/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/748/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/749/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/747/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

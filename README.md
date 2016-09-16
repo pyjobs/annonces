@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/01 - [Développeur web (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3314/developpeur-web-h-f-en-cdi-a-paris-25000-34000 "Développeur web (H/F) en CDI à Paris 25000-34000")
 * 2016/09/01 - [Développeur informatique en alternance (H/F)](http://www.pyjobs.fr/jobs/details/3370/developpeur-informatique-en-alternance-h-f "Développeur informatique en alternance (H/F)")
 * 2016/09/01 - [Développeur Java/Python/Bigdata (H/F)](http://www.pyjobs.fr/jobs/details/3331/developpeur-java-python-bigdata-h-f "Développeur Java/Python/Bigdata (H/F)")
 * 2016/09/01 - [Développeur Back end](http://www.pyjobs.fr/jobs/details/3398/developpeur-back-end "Développeur Back end")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/06 - [IT Manager (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3403/it-manager-h-f-en-cdi-a-paris-45000-54000 "IT Manager (H/F) en CDI à Paris 45000-54000")
 * 2016/09/06 - [Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3402/python-data-software-engineer-startup-en-croissance-h-f-en-cdi-a-paris "Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris")
 * 2016/09/06 - [Développeur / Développeuse Python PHP (H/F)](http://www.pyjobs.fr/jobs/details/3410/developpeur-developpeuse-python-php-h-f "Développeur / Développeuse Python PHP (H/F)")
-* 2016/09/02 - [Lead Développeur C++ / Linux (H/F) en CDI à Issy-les-Moulineaux 45000-54000](http://www.pyjobs.fr/jobs/details/3401/lead-developpeur-c-linux-h-f-en-cdi-a-issy-les-moulineaux-45000-54000 "Lead Développeur C++ / Linux (H/F) en CDI à Issy-les-Moulineaux 45000-54000")
 

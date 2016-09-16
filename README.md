@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/06 - [Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3402/python-data-software-engineer-startup-en-croissance-h-f-en-cdi-a-paris "Python Data Software Engineer - Startup en croissance (H/F) en CDI à Paris")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/733/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/08 - [Développeur C++ Temps Réel (H/F)](http://www.pyjobs.fr/jobs/details/735/developpeur-c-temps-reel-h-f "Développeur C++ Temps Réel (H/F)")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/741/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/747/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/740/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/749/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/750/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

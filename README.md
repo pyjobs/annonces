@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/785/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/787/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [LEAD DEVELOPPEUR DJANGO PYTHON (CDI)](http://www.pyjobs.fr/jobs/details/778/lead-developpeur-django-python-cdi "LEAD DEVELOPPEUR DJANGO PYTHON (CDI)")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/783/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/741/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/742/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/734/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/723/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
 

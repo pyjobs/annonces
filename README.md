@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/747/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/750/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3455/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/16 - [Développeur Frontend (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/3441/developpeur-frontend-h-f-en-cdi-a-marseille "Développeur Frontend (H/F) en CDI à Marseille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3419/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/07 - [Ingénieur ETL / Intégration de données](http://www.pyjobs.fr/jobs/details/3400/ingenieur-etl-integration-de-donnees "Ingénieur ETL / Intégration de données")
 * 2016/09/07 - [Backend developer Go/Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3406/backend-developer-go-python-h-f-en-cdi-a-paris "Backend developer Go/Python (H/F) en CDI à Paris")
-* 2016/09/07 - [DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)](http://www.pyjobs.fr/jobs/details/3408/developpeur-python-h-f-paris-16-h-f "DEVELOPPEUR PYTHON H/F PARIS 16 (H/F)")
 

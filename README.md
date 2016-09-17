@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/16 - [Développeur PHP Python (H/F) en CDD à Marseille](http://www.pyjobs.fr/jobs/details/3442/developpeur-php-python-h-f-en-cdd-a-marseille "Développeur PHP Python (H/F) en CDD à Marseille")
 * 2016/09/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3443/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3439/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3450/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/06 - [Administrateur systeme devops (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3405/administrateur-systeme-devops-h-f-en-cdi-a-paris-45000-54000 "Administrateur systeme devops (H/F) en CDI à Paris 45000-54000")
 * 2016/09/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/794/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/747/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/793/developpeur-developpeuse-web "Développeur / Développeuse web")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/15 - [Ingénieur Software, spécialiste « Python », Junior (H/F)](http://www.pyjobs.fr/jobs/details/3429/ingenieur-software-specialiste-python-junior-h-f "Ingénieur Software, spécialiste « Python », Junior (H/F)")
 * 2016/09/15 - [Développeur sénior sql / python](http://www.pyjobs.fr/jobs/details/3427/developpeur-senior-sql-python "Développeur sénior sql / python")
 * 2016/09/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3434/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3433/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/15 - [Testeur logiciel](http://www.pyjobs.fr/jobs/details/776/testeur-logiciel "Testeur logiciel")
 * 2016/09/15 - [Developpeur java python](http://www.pyjobs.fr/jobs/details/774/developpeur-java-python "Developpeur java python")
 * 2016/09/15 - [Ingénieur Software, spécialiste « Python », Junior (H/F)](http://www.pyjobs.fr/jobs/details/779/ingenieur-software-specialiste-python-junior-h-f "Ingénieur Software, spécialiste « Python », Junior (H/F)")
-* 2016/09/15 - [Développeur sénior sql / python](http://www.pyjobs.fr/jobs/details/775/developpeur-senior-sql-python "Développeur sénior sql / python")
 

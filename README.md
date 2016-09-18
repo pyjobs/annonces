@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/09 - [Développeur java envie de scala et spark ?](http://www.pyjobs.fr/jobs/details/739/developpeur-java-envie-de-scala-et-spark "Développeur java envie de scala et spark ?")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/749/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/740/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/748/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3414/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3415/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur Front-End (React) (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3407/developpeur-front-end-react-h-f-en-cdi-a-paris "Développeur Front-End (React) (H/F) en CDI à Paris")
-* 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3418/developpeur-developpeuse-web "Développeur / Développeuse web")
 

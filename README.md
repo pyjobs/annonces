@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/747/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/748/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/745/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3458/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3415/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/08 - [Développeur Front-End (React) (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3407/developpeur-front-end-react-h-f-en-cdi-a-paris "Développeur Front-End (React) (H/F) en CDI à Paris")
 * 2016/09/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3418/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/08 - [Développeur C++ Temps Réel (H/F)](http://www.pyjobs.fr/jobs/details/3417/developpeur-c-temps-reel-h-f "Développeur C++ Temps Réel (H/F)")
 

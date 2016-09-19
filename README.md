@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/13 - [Developpeur informatique Back end (H/F)](http://www.pyjobs.fr/jobs/details/762/developpeur-informatique-back-end-h-f "Developpeur informatique Back end (H/F)")
 * 2016/09/13 - [Front-end Web Developer](http://www.pyjobs.fr/jobs/details/759/front-end-web-developer "Front-end Web Developer")
 * 2016/09/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/761/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/12 - [Formateur developpeur freelance](http://www.pyjobs.fr/jobs/details/751/formateur-developpeur-freelance "Formateur developpeur freelance")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3430/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/14 - [Developpeur informatique Back end (H/F)](http://www.pyjobs.fr/jobs/details/3438/developpeur-informatique-back-end-h-f "Developpeur informatique Back end (H/F)")
 * 2016/09/13 - [Développeur fullstack python/javascript (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3426/developpeur-fullstack-python-javascript-h-f-en-cdi-a-paris-35000-44000 "Développeur fullstack python/javascript (H/F) en CDI à Paris 35000-44000")
-* 2016/09/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3435/developpeur-developpeuse-web "Développeur / Développeuse web")
 

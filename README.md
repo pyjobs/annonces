@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/19 - [Développeur python](http://www.pyjobs.fr/jobs/details/802/developpeur-python "Développeur python")
 * 2016/09/19 - [Développeur senior .net](http://www.pyjobs.fr/jobs/details/803/developpeur-senior-net "Développeur senior .net")
 * 2016/09/19 - [Concepteur(trice) développeur(se) de système électronique](http://www.pyjobs.fr/jobs/details/808/concepteur-trice-developpeur-se-de-systeme-electronique "Concepteur(trice) développeur(se) de système électronique")
 * 2016/09/19 - [Développeur (se) Objet (Python, JAVA C++) (H/F)](http://www.pyjobs.fr/jobs/details/806/developpeur-se-objet-python-java-c-h-f "Développeur (se) Objet (Python, JAVA C++) (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/12 - [Formateur developpeur freelance](http://www.pyjobs.fr/jobs/details/751/formateur-developpeur-freelance "Formateur developpeur freelance")
 * 2016/09/12 - [Data engineer](http://www.pyjobs.fr/jobs/details/753/data-engineer "Data engineer")
 * 2016/09/12 - [Développeur backend](http://www.pyjobs.fr/jobs/details/752/developpeur-backend "Développeur backend")
-* 2016/09/19 - [SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3471/sysadmin-devops-h-f-en-cdi-a-paris-35000-44000 "SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000")
 

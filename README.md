@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/804/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [Développeur (se) Objet (Python, JAVA C++) (H/F)](http://www.pyjobs.fr/jobs/details/806/developpeur-se-objet-python-java-c-h-f "Développeur (se) Objet (Python, JAVA C++) (H/F)")
 * 2016/09/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/800/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/801/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/754/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [Développeur python](http://www.pyjobs.fr/jobs/details/3464/developpeur-python "Développeur python")
 * 2016/09/19 - [Développeur senior .net](http://www.pyjobs.fr/jobs/details/3465/developpeur-senior-net "Développeur senior .net")
-* 2016/09/19 - [Administrateur Systèmes Linux (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/3466/administrateur-systemes-linux-h-f-en-cdi-a-bordeaux "Administrateur Systèmes Linux (H/F) en CDI à Bordeaux")
 

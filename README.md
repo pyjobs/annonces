@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/754/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [Développeur python](http://www.pyjobs.fr/jobs/details/3464/developpeur-python "Développeur python")
 * 2016/09/19 - [Développeur senior .net](http://www.pyjobs.fr/jobs/details/3465/developpeur-senior-net "Développeur senior .net")
 * 2016/09/19 - [Administrateur Systèmes Linux (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/3466/administrateur-systemes-linux-h-f-en-cdi-a-bordeaux "Administrateur Systèmes Linux (H/F) en CDI à Bordeaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3432/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/13 - [Front-end Web Developer](http://www.pyjobs.fr/jobs/details/3421/front-end-web-developer "Front-end Web Developer")
 * 2016/09/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3437/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/13 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3436/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 

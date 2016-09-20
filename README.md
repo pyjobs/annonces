@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/811/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/810/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/816/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/813/devops-junior "DevOps junior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3482/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3480/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/3479/devops-junior "DevOps junior")
-* 2016/09/20 - [Ingénieur Système junior](http://www.pyjobs.fr/jobs/details/3481/ingenieur-systeme-junior "Ingénieur Système junior")
 

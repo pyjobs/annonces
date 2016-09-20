@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/15 - [Developpeur java python](http://www.pyjobs.fr/jobs/details/774/developpeur-java-python "Developpeur java python")
 * 2016/09/15 - [Ingénieur Software, spécialiste « Python », Junior (H/F)](http://www.pyjobs.fr/jobs/details/779/ingenieur-software-specialiste-python-junior-h-f "Ingénieur Software, spécialiste « Python », Junior (H/F)")
 * 2016/09/20 - [Développeur Full Stack PHP (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3488/developpeur-full-stack-php-h-f-en-stage-a-paris "Développeur Full Stack PHP (H/F) en Stage à Paris")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3489/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/16 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3449/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3447/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3454/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3445/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

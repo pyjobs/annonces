@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/799/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/796/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/795/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/798/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/19 - [Concepteur(trice) développeur(se) de système électronique](http://www.pyjobs.fr/jobs/details/3472/concepteur-trice-developpeur-se-de-systeme-electronique "Concepteur(trice) développeur(se) de système électronique")
 * 2016/09/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3467/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [Développeur (se) Objet (Python, JAVA C++) (H/F)](http://www.pyjobs.fr/jobs/details/3469/developpeur-se-objet-python-java-c-h-f "Développeur (se) Objet (Python, JAVA C++) (H/F)")
-* 2016/09/19 - [INGÉNIEUR DÉVELOPPEMENT C/C++](http://www.pyjobs.fr/jobs/details/3470/ingenieur-developpement-c-c "INGÉNIEUR DÉVELOPPEMENT C/C++")
 

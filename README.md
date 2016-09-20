@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/2489/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
 * 2016/09/20 - [Apprenti(e) administrateur système](http://www.pyjobs.fr/jobs/details/2372/apprenti-e-administrateur-systeme "Apprenti(e) administrateur système")
 * 2016/09/20 - [Administrateur / Administratrice systèmes et réseaux - alternance](http://www.pyjobs.fr/jobs/details/2378/administrateur-administratrice-systemes-et-reseaux-alternance "Administrateur / Administratrice systèmes et réseaux - alternance")
 * 2016/09/20 - [Administrateur Systèmes et Réseaux H/F junior](http://www.pyjobs.fr/jobs/details/2384/administrateur-systemes-et-reseaux-h-f-junior "Administrateur Systèmes et Réseaux H/F junior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3460/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3457/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3456/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3455/developpeur-developpeuse-web "Développeur / Développeuse web")
 

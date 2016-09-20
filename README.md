@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [As de la data pour une licorne française](http://www.pyjobs.fr/jobs/details/2484/as-de-la-data-pour-une-licorne-francaise "As de la data pour une licorne française")
 * 2016/09/20 - [Développeur python](http://www.pyjobs.fr/jobs/details/2487/developpeur-python "Développeur python")
 * 2016/09/20 - [Développeur(se) back-end python expérimenté(e)](http://www.pyjobs.fr/jobs/details/2489/developpeur-se-back-end-python-experimente-e "Développeur(se) back-end python expérimenté(e)")
 * 2016/09/20 - [Apprenti(e) administrateur système](http://www.pyjobs.fr/jobs/details/2372/apprenti-e-administrateur-systeme "Apprenti(e) administrateur système")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3461/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3458/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3460/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3457/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

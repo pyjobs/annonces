@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/16 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/789/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/781/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/787/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/786/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3460/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3456/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3455/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/16 - [Développeur Frontend (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/3441/developpeur-frontend-h-f-en-cdi-a-marseille "Développeur Frontend (H/F) en CDI à Marseille")
 

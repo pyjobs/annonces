@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/782/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/787/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/785/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/788/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/16 - [Développeur Frontend (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/3441/developpeur-frontend-h-f-en-cdi-a-marseille "Développeur Frontend (H/F) en CDI à Marseille")
 * 2016/09/16 - [Développeur PHP Python (H/F) en CDD à Marseille](http://www.pyjobs.fr/jobs/details/3442/developpeur-php-python-h-f-en-cdd-a-marseille "Développeur PHP Python (H/F) en CDD à Marseille")
 * 2016/09/16 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3451/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3443/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

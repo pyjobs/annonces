@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/812/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/816/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/817/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/809/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/15 - [Ingénieur Software, spécialiste « Python », Junior (H/F)](http://www.pyjobs.fr/jobs/details/779/ingenieur-software-specialiste-python-junior-h-f "Ingénieur Software, spécialiste « Python », Junior (H/F)")
 * 2016/09/20 - [Développeur Full Stack PHP (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3488/developpeur-full-stack-php-h-f-en-stage-a-paris "Développeur Full Stack PHP (H/F) en Stage à Paris")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3489/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
-* 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3490/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 

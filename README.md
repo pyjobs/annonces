@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur fullstack python](http://www.pyjobs.fr/jobs/details/2342/developpeur-fullstack-python "Développeur fullstack python")
 * 2016/09/20 - [Developpeur web](http://www.pyjobs.fr/jobs/details/2348/developpeur-web "Developpeur web")
 * 2016/09/20 - [Back-end python développeur start up transport](http://www.pyjobs.fr/jobs/details/2352/back-end-python-developpeur-start-up-transport "Back-end python développeur start up transport")
 * 2016/09/20 - [Ingénieur etude et développement java jee](http://www.pyjobs.fr/jobs/details/2358/ingenieur-etude-et-developpement-java-jee "Ingénieur etude et développement java jee")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Apprenti(e) administrateur système](http://www.pyjobs.fr/jobs/details/2372/apprenti-e-administrateur-systeme "Apprenti(e) administrateur système")
 * 2016/09/20 - [Administrateur / Administratrice systèmes et réseaux - alternance](http://www.pyjobs.fr/jobs/details/2378/administrateur-administratrice-systemes-et-reseaux-alternance "Administrateur / Administratrice systèmes et réseaux - alternance")
 * 2016/09/20 - [Administrateur Systèmes et Réseaux H/F junior](http://www.pyjobs.fr/jobs/details/2384/administrateur-systemes-et-reseaux-h-f-junior "Administrateur Systèmes et Réseaux H/F junior")
-* 2016/09/20 - [Développeur Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3493/developpeur-python-h-f-en-cdi-a-paris "Développeur Python (H/F) en CDI à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3484/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3500/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Maître python ∩ expert bas niveau](http://www.pyjobs.fr/jobs/details/3494/maitre-python-expert-bas-niveau "Maître python ∩ expert bas niveau")
 * 2016/09/20 - [Ingénieur Système junior](http://www.pyjobs.fr/jobs/details/3481/ingenieur-systeme-junior "Ingénieur Système junior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/19 - [Développeur python](http://www.pyjobs.fr/jobs/details/802/developpeur-python "Développeur python")
 * 2016/09/19 - [Développeur senior .net](http://www.pyjobs.fr/jobs/details/803/developpeur-senior-net "Développeur senior .net")
 * 2016/09/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/801/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/19 - [Développeur (se) Objet (Python, JAVA C++) (H/F)](http://www.pyjobs.fr/jobs/details/805/developpeur-se-objet-python-java-c-h-f "Développeur (se) Objet (Python, JAVA C++) (H/F)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3478/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/3476/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3473/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Stage Startup Développeur Front-End Angular JS](http://www.pyjobs.fr/jobs/details/3486/stage-startup-developpeur-front-end-angular-js "Stage Startup Développeur Front-End Angular JS")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/819/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/821/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/820/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/812/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 

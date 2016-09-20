@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/812/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/811/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/810/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/809/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/13 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/772/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/766/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/13 - [Développeur java / python](http://www.pyjobs.fr/jobs/details/756/developpeur-java-python "Développeur java / python")
-* 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3475/developpeur-developpeuse-web "Développeur / Développeuse web")
 

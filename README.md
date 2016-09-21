@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Expert et developpeur php](http://www.pyjobs.fr/jobs/details/2365/expert-et-developpeur-php "Expert et developpeur php")
 * 2016/09/20 - [Développement web avec ruby on rails](http://www.pyjobs.fr/jobs/details/2371/developpement-web-avec-ruby-on-rails "Développement web avec ruby on rails")
 * 2016/09/20 - [Administrateur système & réseau niveau 1/2](http://www.pyjobs.fr/jobs/details/2376/administrateur-systeme-reseau-niveau-1-2 "Administrateur système & réseau niveau 1/2")
 * 2016/09/20 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/jobs/details/2383/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3478/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/3476/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3501/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/20 - [Cloud Builder](http://www.pyjobs.fr/jobs/details/3477/cloud-builder "Cloud Builder")
 

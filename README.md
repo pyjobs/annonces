@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Cto développeur](http://www.pyjobs.fr/jobs/details/2434/cto-developpeur "Cto développeur")
 * 2016/09/20 - [Chargé-e support client/it](http://www.pyjobs.fr/jobs/details/2438/charge-e-support-client-it "Chargé-e support client/it")
 * 2016/09/20 - [Développeur python/django #marketplace](http://www.pyjobs.fr/jobs/details/2441/developpeur-python-django-marketplace "Développeur python/django #marketplace")
 * 2016/09/20 - [5 ux designers, ergonome des interfaces](http://www.pyjobs.fr/jobs/details/2444/5-ux-designers-ergonome-des-interfaces "5 ux designers, ergonome des interfaces")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3474/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3483/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3475/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3487/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

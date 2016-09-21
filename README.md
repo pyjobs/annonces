@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3024/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3033/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3038/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3035/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/21 - [DevOps e-Confiance H/F](http://www.pyjobs.fr/jobs/details/3513/devops-e-confiance-h-f "DevOps e-Confiance H/F")
 * 2016/09/21 - [ANALYSTE JUNIOR (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3511/analyste-junior-h-f-en-cdi-a-paris "ANALYSTE JUNIOR (H/F) en CDI à Paris")
 * 2016/09/21 - [Développeur MySql (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3512/developpeur-mysql-h-f-en-cdi-a-paris "Développeur MySql (H/F) en CDI à Paris")
-* 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3505/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

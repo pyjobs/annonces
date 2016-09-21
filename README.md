@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Ingénieur big data - startup data](http://www.pyjobs.fr/jobs/details/2396/ingenieur-big-data-startup-data "Ingénieur big data - startup data")
 * 2016/09/20 - [Développeur coeur](http://www.pyjobs.fr/jobs/details/2400/developpeur-coeur "Développeur coeur")
 * 2016/09/20 - [Développeur python](http://www.pyjobs.fr/jobs/details/2407/developpeur-python "Développeur python")
 * 2016/09/20 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/2412/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3501/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3482/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3475/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/20 - [Stage Startup Développeur Front-End Angular JS](http://www.pyjobs.fr/jobs/details/3486/stage-startup-developpeur-front-end-angular-js "Stage Startup Développeur Front-End Angular JS")
 

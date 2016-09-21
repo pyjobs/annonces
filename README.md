@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/3479/devops-junior "DevOps junior")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3498/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3482/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3484/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/2412/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/09/20 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/2417/developpeur-full-stack "Développeur full-stack")
 * 2016/09/20 - [Ingénieur études et développement python](http://www.pyjobs.fr/jobs/details/2420/ingenieur-etudes-et-developpement-python "Ingénieur études et développement python")
-* 2016/09/20 - [Développeur web](http://www.pyjobs.fr/jobs/details/2423/developpeur-web "Développeur web")
 

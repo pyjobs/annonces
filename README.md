@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3487/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3471/sysadmin-devops-h-f-en-cdi-a-paris-35000-44000 "SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000")
 * 2016/09/19 - [Développeur python](http://www.pyjobs.fr/jobs/details/3464/developpeur-python "Développeur python")
 * 2016/09/19 - [Développeur senior .net](http://www.pyjobs.fr/jobs/details/3465/developpeur-senior-net "Développeur senior .net")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/2459/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
 * 2016/09/20 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/2462/developpeur-symfony "Développeur symfony")
 * 2016/09/20 - [Dév symfony - economie collaborative](http://www.pyjobs.fr/jobs/details/2465/dev-symfony-economie-collaborative "Dév symfony - economie collaborative")
-* 2016/09/20 - [Développeur symfony sénior – top e-commerce en eur](http://www.pyjobs.fr/jobs/details/2468/developpeur-symfony-senior-top-e-commerce-en-eur "Développeur symfony sénior – top e-commerce en eur")
 

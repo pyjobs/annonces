@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3487/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3482/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3485/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3495/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur web](http://www.pyjobs.fr/jobs/details/2423/developpeur-web "Développeur web")
 * 2016/09/20 - [Ingénieur études et développement python](http://www.pyjobs.fr/jobs/details/2426/ingenieur-etudes-et-developpement-python "Ingénieur études et développement python")
 * 2016/09/20 - [Développeur backend php – opérateur télécom](http://www.pyjobs.fr/jobs/details/2433/developpeur-backend-php-operateur-telecom "Développeur backend php – opérateur télécom")
-* 2016/09/20 - [Cto développeur](http://www.pyjobs.fr/jobs/details/2434/cto-developpeur "Cto développeur")
 

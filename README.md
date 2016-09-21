@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/19 - [SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3471/sysadmin-devops-h-f-en-cdi-a-paris-35000-44000 "SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000")
 * 2016/09/19 - [Développeur python](http://www.pyjobs.fr/jobs/details/3464/developpeur-python "Développeur python")
 * 2016/09/19 - [Développeur senior .net](http://www.pyjobs.fr/jobs/details/3465/developpeur-senior-net "Développeur senior .net")
 * 2016/09/19 - [Administrateur Systèmes Linux (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/3466/administrateur-systemes-linux-h-f-en-cdi-a-bordeaux "Administrateur Systèmes Linux (H/F) en CDI à Bordeaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/2462/developpeur-symfony "Développeur symfony")
 * 2016/09/20 - [Dév symfony - economie collaborative](http://www.pyjobs.fr/jobs/details/2465/dev-symfony-economie-collaborative "Dév symfony - economie collaborative")
 * 2016/09/20 - [Développeur symfony sénior – top e-commerce en eur](http://www.pyjobs.fr/jobs/details/2468/developpeur-symfony-senior-top-e-commerce-en-eur "Développeur symfony sénior – top e-commerce en eur")
-* 2016/09/20 - [Développeur front-end/angular.js](http://www.pyjobs.fr/jobs/details/2470/developpeur-front-end-angular-js "Développeur front-end/angular.js")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur web](http://www.pyjobs.fr/jobs/details/2423/developpeur-web "Développeur web")
 * 2016/09/20 - [Ingénieur études et développement python](http://www.pyjobs.fr/jobs/details/2426/ingenieur-etudes-et-developpement-python "Ingénieur études et développement python")
 * 2016/09/20 - [Développeur backend php – opérateur télécom](http://www.pyjobs.fr/jobs/details/2433/developpeur-backend-php-operateur-telecom "Développeur backend php – opérateur télécom")
 * 2016/09/20 - [Cto développeur](http://www.pyjobs.fr/jobs/details/2434/cto-developpeur "Cto développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Maître python ∩ expert bas niveau](http://www.pyjobs.fr/jobs/details/3494/maitre-python-expert-bas-niveau "Maître python ∩ expert bas niveau")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3500/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Stage Startup Développeur Front-End Angular JS](http://www.pyjobs.fr/jobs/details/3486/stage-startup-developpeur-front-end-angular-js "Stage Startup Développeur Front-End Angular JS")
-* 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/3479/devops-junior "DevOps junior")
 

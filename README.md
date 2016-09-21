@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/21 - [DevOps e-Confiance H/F](http://www.pyjobs.fr/jobs/details/3030/devops-e-confiance-h-f "DevOps e-Confiance H/F")
 * 2016/09/21 - [Développeur FRONTEND (h/f) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3037/developpeur-frontend-h-f-en-cdi-a-paris "Développeur FRONTEND (h/f) en CDI à Paris")
 * 2016/09/21 - [ANALYSTE JUNIOR (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3031/analyste-junior-h-f-en-cdi-a-paris "ANALYSTE JUNIOR (H/F) en CDI à Paris")
 * 2016/09/21 - [Développeur MySql (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3032/developpeur-mysql-h-f-en-cdi-a-paris "Développeur MySql (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/2459/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
 * 2016/09/20 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/2462/developpeur-symfony "Développeur symfony")
 * 2016/09/21 - [Développeur FRONTEND (h/f) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3516/developpeur-frontend-h-f-en-cdi-a-paris "Développeur FRONTEND (h/f) en CDI à Paris")
-* 2016/09/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3518/developpeur-developpeuse-web "Développeur / Développeuse web")
 

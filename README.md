@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/21 - [Data Scientist fan de big data - H/F](http://www.pyjobs.fr/jobs/details/3519/data-scientist-fan-de-big-data-h-f "Data Scientist fan de big data - H/F")
 * 2016/09/21 - [DevOps e-Confiance H/F](http://www.pyjobs.fr/jobs/details/3513/devops-e-confiance-h-f "DevOps e-Confiance H/F")
 * 2016/09/21 - [Développeur FRONTEND (h/f) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3516/developpeur-frontend-h-f-en-cdi-a-paris "Développeur FRONTEND (h/f) en CDI à Paris")
 * 2016/09/21 - [ANALYSTE JUNIOR (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3511/analyste-junior-h-f-en-cdi-a-paris "ANALYSTE JUNIOR (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3484/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3473/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Stage Startup Développeur Front-End Angular JS](http://www.pyjobs.fr/jobs/details/3486/stage-startup-developpeur-front-end-angular-js "Stage Startup Développeur Front-End Angular JS")
-* 2016/09/21 - [Data Scientist fan de big data - H/F](http://www.pyjobs.fr/jobs/details/3036/data-scientist-fan-de-big-data-h-f "Data Scientist fan de big data - H/F")
 

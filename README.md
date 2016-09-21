@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3467/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3462/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/19 - [Développeur (se) Objet (Python, JAVA C++) (H/F)](http://www.pyjobs.fr/jobs/details/3469/developpeur-se-objet-python-java-c-h-f "Développeur (se) Objet (Python, JAVA C++) (H/F)")
 * 2016/09/19 - [INGÉNIEUR DÉVELOPPEMENT C/C++](http://www.pyjobs.fr/jobs/details/3470/ingenieur-developpement-c-c "INGÉNIEUR DÉVELOPPEMENT C/C++")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur front-end/angular.js](http://www.pyjobs.fr/jobs/details/2470/developpeur-front-end-angular-js "Développeur front-end/angular.js")
 * 2016/09/20 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/2340/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2016/09/20 - [DBA NoSQL](http://www.pyjobs.fr/jobs/details/2346/dba-nosql "DBA NoSQL")
-* 2016/09/20 - [Intégrateur Logiciel - Chef de projet technique](http://www.pyjobs.fr/jobs/details/2349/integrateur-logiciel-chef-de-projet-technique "Intégrateur Logiciel - Chef de projet technique")
 

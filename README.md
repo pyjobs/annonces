@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Ingénieur études et développement python](http://www.pyjobs.fr/jobs/details/2426/ingenieur-etudes-et-developpement-python "Ingénieur études et développement python")
 * 2016/09/20 - [Développeur backend php – opérateur télécom](http://www.pyjobs.fr/jobs/details/2433/developpeur-backend-php-operateur-telecom "Développeur backend php – opérateur télécom")
 * 2016/09/20 - [Cto développeur](http://www.pyjobs.fr/jobs/details/2434/cto-developpeur "Cto développeur")
 * 2016/09/20 - [Chargé-e support client/it](http://www.pyjobs.fr/jobs/details/2438/charge-e-support-client-it "Chargé-e support client/it")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3500/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3498/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3484/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3473/developpeur-developpeuse-web "Développeur / Développeuse web")
 

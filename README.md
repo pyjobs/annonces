@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/19 - [Développeur python](http://www.pyjobs.fr/jobs/details/3464/developpeur-python "Développeur python")
 * 2016/09/19 - [Développeur senior .net](http://www.pyjobs.fr/jobs/details/3465/developpeur-senior-net "Développeur senior .net")
 * 2016/09/19 - [Administrateur Systèmes Linux (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/3466/administrateur-systemes-linux-h-f-en-cdi-a-bordeaux "Administrateur Systèmes Linux (H/F) en CDI à Bordeaux")
 * 2016/09/19 - [Concepteur(trice) développeur(se) de système électronique](http://www.pyjobs.fr/jobs/details/3472/concepteur-trice-developpeur-se-de-systeme-electronique "Concepteur(trice) développeur(se) de système électronique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Dév symfony - economie collaborative](http://www.pyjobs.fr/jobs/details/2465/dev-symfony-economie-collaborative "Dév symfony - economie collaborative")
 * 2016/09/20 - [Développeur symfony sénior – top e-commerce en eur](http://www.pyjobs.fr/jobs/details/2468/developpeur-symfony-senior-top-e-commerce-en-eur "Développeur symfony sénior – top e-commerce en eur")
 * 2016/09/20 - [Développeur front-end/angular.js](http://www.pyjobs.fr/jobs/details/2470/developpeur-front-end-angular-js "Développeur front-end/angular.js")
-* 2016/09/20 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/2340/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 

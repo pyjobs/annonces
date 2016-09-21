@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur openstack](http://www.pyjobs.fr/jobs/details/2388/developpeur-openstack "Développeur openstack")
 * 2016/09/20 - [Fullstack ror python js](http://www.pyjobs.fr/jobs/details/2392/fullstack-ror-python-js "Fullstack ror python js")
 * 2016/09/20 - [Ingénieur big data - startup data](http://www.pyjobs.fr/jobs/details/2396/ingenieur-big-data-startup-data "Ingénieur big data - startup data")
 * 2016/09/20 - [Développeur coeur](http://www.pyjobs.fr/jobs/details/2400/developpeur-coeur "Développeur coeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3478/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/3476/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Cloud Builder](http://www.pyjobs.fr/jobs/details/3477/cloud-builder "Cloud Builder")
-* 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/3479/devops-junior "DevOps junior")
 

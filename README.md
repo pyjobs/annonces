@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3496/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3475/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Maître python ∩ expert bas niveau](http://www.pyjobs.fr/jobs/details/3494/maitre-python-expert-bas-niveau "Maître python ∩ expert bas niveau")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3500/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur openstack](http://www.pyjobs.fr/jobs/details/2388/developpeur-openstack "Développeur openstack")
 * 2016/09/20 - [Fullstack ror python js](http://www.pyjobs.fr/jobs/details/2392/fullstack-ror-python-js "Fullstack ror python js")
 * 2016/09/20 - [Ingénieur big data - startup data](http://www.pyjobs.fr/jobs/details/2396/ingenieur-big-data-startup-data "Ingénieur big data - startup data")
-* 2016/09/20 - [Développeur coeur](http://www.pyjobs.fr/jobs/details/2400/developpeur-coeur "Développeur coeur")
 

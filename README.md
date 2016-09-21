@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur back-end/node.js | editeur](http://www.pyjobs.fr/jobs/details/2453/developpeur-back-end-node-js-editeur "Développeur back-end/node.js | editeur")
 * 2016/09/20 - [Ux manager](http://www.pyjobs.fr/jobs/details/2456/ux-manager "Ux manager")
 * 2016/09/20 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/2459/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
 * 2016/09/20 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/2462/developpeur-symfony "Développeur symfony")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3475/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3495/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3487/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/19 - [SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3471/sysadmin-devops-h-f-en-cdi-a-paris-35000-44000 "SysAdmin / DevOps (H/F) en CDI à Paris 35000-44000")
 

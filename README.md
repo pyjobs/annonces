@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/19 - [Développeur (se) Objet (Python, JAVA C++) (H/F)](http://www.pyjobs.fr/jobs/details/3469/developpeur-se-objet-python-java-c-h-f "Développeur (se) Objet (Python, JAVA C++) (H/F)")
 * 2016/09/19 - [INGÉNIEUR DÉVELOPPEMENT C/C++](http://www.pyjobs.fr/jobs/details/3470/ingenieur-developpement-c-c "INGÉNIEUR DÉVELOPPEMENT C/C++")
 * 2016/09/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3463/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/19 - [Développeur (se) Objet (Python, JAVA C++) (H/F)](http://www.pyjobs.fr/jobs/details/3468/developpeur-se-objet-python-java-c-h-f "Développeur (se) Objet (Python, JAVA C++) (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [DBA NoSQL](http://www.pyjobs.fr/jobs/details/2346/dba-nosql "DBA NoSQL")
 * 2016/09/20 - [Intégrateur Logiciel - Chef de projet technique](http://www.pyjobs.fr/jobs/details/2349/integrateur-logiciel-chef-de-projet-technique "Intégrateur Logiciel - Chef de projet technique")
 * 2016/09/20 - [Développeur node.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/2472/developpeur-node-js-editeur-de-logiciel "Développeur node.js | editeur de logiciel")
-* 2016/09/20 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/2475/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 

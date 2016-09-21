@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3480/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3478/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/3476/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3501/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Administrateur système & réseau niveau 1/2](http://www.pyjobs.fr/jobs/details/2376/administrateur-systeme-reseau-niveau-1-2 "Administrateur système & réseau niveau 1/2")
 * 2016/09/20 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/jobs/details/2383/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
 * 2016/09/20 - [Développeur openstack](http://www.pyjobs.fr/jobs/details/2388/developpeur-openstack "Développeur openstack")
-* 2016/09/20 - [Fullstack ror python js](http://www.pyjobs.fr/jobs/details/2392/fullstack-ror-python-js "Fullstack ror python js")
 

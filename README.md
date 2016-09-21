@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3484/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3473/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/20 - [Stage Startup Développeur Front-End Angular JS](http://www.pyjobs.fr/jobs/details/3486/stage-startup-developpeur-front-end-angular-js "Stage Startup Développeur Front-End Angular JS")
 * 2016/09/21 - [Data Scientist fan de big data - H/F](http://www.pyjobs.fr/jobs/details/3036/data-scientist-fan-de-big-data-h-f "Data Scientist fan de big data - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur python/django](http://www.pyjobs.fr/jobs/details/2448/developpeur-python-django "Développeur python/django")
 * 2016/09/20 - [Ui, designer interfaces digitales](http://www.pyjobs.fr/jobs/details/2451/ui-designer-interfaces-digitales "Ui, designer interfaces digitales")
 * 2016/09/20 - [Développeur back-end/node.js | editeur](http://www.pyjobs.fr/jobs/details/2453/developpeur-back-end-node-js-editeur "Développeur back-end/node.js | editeur")
-* 2016/09/20 - [Ux manager](http://www.pyjobs.fr/jobs/details/2456/ux-manager "Ux manager")
 

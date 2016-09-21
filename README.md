@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3485/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3483/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3491/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3475/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur back-end/node.js | editeur](http://www.pyjobs.fr/jobs/details/2453/developpeur-back-end-node-js-editeur "Développeur back-end/node.js | editeur")
 * 2016/09/20 - [Ux manager](http://www.pyjobs.fr/jobs/details/2456/ux-manager "Ux manager")
 * 2016/09/20 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/2459/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
-* 2016/09/20 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/2462/developpeur-symfony "Développeur symfony")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/2412/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/09/20 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/2417/developpeur-full-stack "Développeur full-stack")
 * 2016/09/20 - [Ingénieur études et développement python](http://www.pyjobs.fr/jobs/details/2420/ingenieur-etudes-et-developpement-python "Ingénieur études et développement python")
 * 2016/09/20 - [Développeur web](http://www.pyjobs.fr/jobs/details/2423/developpeur-web "Développeur web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Stage Startup Développeur Front-End Angular JS](http://www.pyjobs.fr/jobs/details/3486/stage-startup-developpeur-front-end-angular-js "Stage Startup Développeur Front-End Angular JS")
 * 2016/09/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3496/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/20 - [Cloud Builder](http://www.pyjobs.fr/jobs/details/3477/cloud-builder "Cloud Builder")
-* 2016/09/20 - [Maître python ∩ expert bas niveau](http://www.pyjobs.fr/jobs/details/3494/maitre-python-expert-bas-niveau "Maître python ∩ expert bas niveau")
 

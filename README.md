@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur node.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/2472/developpeur-node-js-editeur-de-logiciel "Développeur node.js | editeur de logiciel")
 * 2016/09/20 - [Dev java pour une app mobile de géolocalisation](http://www.pyjobs.fr/jobs/details/2475/dev-java-pour-une-app-mobile-de-geolocalisation "Dev java pour une app mobile de géolocalisation")
 * 2016/09/20 - [Administrateur systèmes et réseaux niveau 1](http://www.pyjobs.fr/jobs/details/2479/administrateur-systemes-et-reseaux-niveau-1 "Administrateur systèmes et réseaux niveau 1")
 * 2016/09/20 - [Développeur web back end](http://www.pyjobs.fr/jobs/details/2481/developpeur-web-back-end "Développeur web back end")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/19 - [Administrateur Systèmes Linux (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/3466/administrateur-systemes-linux-h-f-en-cdi-a-bordeaux "Administrateur Systèmes Linux (H/F) en CDI à Bordeaux")
 * 2016/09/19 - [Concepteur(trice) développeur(se) de système électronique](http://www.pyjobs.fr/jobs/details/3472/concepteur-trice-developpeur-se-de-systeme-electronique "Concepteur(trice) développeur(se) de système électronique")
 * 2016/09/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3467/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3462/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

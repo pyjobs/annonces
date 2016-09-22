@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur python/django](http://www.pyjobs.fr/jobs/details/2448/developpeur-python-django "Développeur python/django")
 * 2016/09/20 - [Ui, designer interfaces digitales](http://www.pyjobs.fr/jobs/details/2451/ui-designer-interfaces-digitales "Ui, designer interfaces digitales")
 * 2016/09/20 - [Développeur back-end/node.js | editeur](http://www.pyjobs.fr/jobs/details/2453/developpeur-back-end-node-js-editeur "Développeur back-end/node.js | editeur")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3524/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3483/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [Maître python ∩ expert bas niveau](http://www.pyjobs.fr/jobs/details/3494/maitre-python-expert-bas-niveau "Maître python ∩ expert bas niveau")
 * 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3475/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3487/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

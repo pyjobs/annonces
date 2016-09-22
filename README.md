@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/3479/devops-junior "DevOps junior")
 * 2016/09/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3496/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3497/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Ingénieur Système junior](http://www.pyjobs.fr/jobs/details/3481/ingenieur-systeme-junior "Ingénieur Système junior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/jobs/details/2383/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
 * 2016/09/20 - [Développeur openstack](http://www.pyjobs.fr/jobs/details/2388/developpeur-openstack "Développeur openstack")
 * 2016/09/20 - [Fullstack ror python js](http://www.pyjobs.fr/jobs/details/2392/fullstack-ror-python-js "Fullstack ror python js")
-* 2016/09/20 - [Ingénieur big data - startup data](http://www.pyjobs.fr/jobs/details/2396/ingenieur-big-data-startup-data "Ingénieur big data - startup data")
 

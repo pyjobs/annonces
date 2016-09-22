@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3495/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3485/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3498/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/3492/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/2417/developpeur-full-stack "Développeur full-stack")
 * 2016/09/20 - [Ingénieur études et développement python](http://www.pyjobs.fr/jobs/details/2420/ingenieur-etudes-et-developpement-python "Ingénieur études et développement python")
 * 2016/09/20 - [Développeur web](http://www.pyjobs.fr/jobs/details/2423/developpeur-web "Développeur web")
-* 2016/09/20 - [Ingénieur études et développement python](http://www.pyjobs.fr/jobs/details/2426/ingenieur-etudes-et-developpement-python "Ingénieur études et développement python")
 

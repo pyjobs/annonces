@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/22 - [Lead Developer start-up (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3049/lead-developer-start-up-h-f-en-cdi-a-paris "Lead Developer start-up (H/F) en CDI à Paris")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3048/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3047/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/22 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3046/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur backend php – opérateur télécom](http://www.pyjobs.fr/jobs/details/2433/developpeur-backend-php-operateur-telecom "Développeur backend php – opérateur télécom")
 * 2016/09/20 - [Cto développeur](http://www.pyjobs.fr/jobs/details/2434/cto-developpeur "Cto développeur")
 * 2016/09/20 - [Chargé-e support client/it](http://www.pyjobs.fr/jobs/details/2438/charge-e-support-client-it "Chargé-e support client/it")
-* 2016/09/20 - [Développeur python/django #marketplace](http://www.pyjobs.fr/jobs/details/2441/developpeur-python-django-marketplace "Développeur python/django #marketplace")
 

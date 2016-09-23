@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3038/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur fullstack python](http://www.pyjobs.fr/jobs/details/2342/developpeur-fullstack-python "Développeur fullstack python")
 * 2016/09/20 - [Developpeur web](http://www.pyjobs.fr/jobs/details/2348/developpeur-web "Developpeur web")
 * 2016/09/20 - [Back-end python développeur start up transport](http://www.pyjobs.fr/jobs/details/2352/back-end-python-developpeur-start-up-transport "Back-end python développeur start up transport")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3520/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/21 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3521/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/20 - [Développeur Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3493/developpeur-python-h-f-en-cdi-a-paris "Développeur Python (H/F) en CDI à Paris")
-* 2016/09/20 - [Développeur Full Stack PHP (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3488/developpeur-full-stack-php-h-f-en-stage-a-paris "Développeur Full Stack PHP (H/F) en Stage à Paris")
 

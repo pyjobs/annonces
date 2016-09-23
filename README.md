@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3066/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3065/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
 * 2016/09/23 - [Développeur Web Front End (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3063/developpeur-web-front-end-h-f-en-cdi-a-lyon-35000-44000 "Développeur Web Front End (H/F) en CDI à Lyon 35000-44000")
 * 2016/09/23 - [Developer Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3064/developer-back-end-h-f-en-cdi-a-nantes "Developer Back-end (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Developpeur web](http://www.pyjobs.fr/jobs/details/2348/developpeur-web "Developpeur web")
 * 2016/09/20 - [Back-end python développeur start up transport](http://www.pyjobs.fr/jobs/details/2352/back-end-python-developpeur-start-up-transport "Back-end python développeur start up transport")
 * 2016/09/20 - [Ingénieur etude et développement java jee](http://www.pyjobs.fr/jobs/details/2358/ingenieur-etude-et-developpement-java-jee "Ingénieur etude et développement java jee")
-* 2016/09/20 - [Expert et developpeur php](http://www.pyjobs.fr/jobs/details/2365/expert-et-developpeur-php "Expert et developpeur php")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/3476/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Cloud Builder](http://www.pyjobs.fr/jobs/details/3477/cloud-builder "Cloud Builder")
 * 2016/09/23 - [Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/3062/administrateur-systeme-devops-f-h-en-cdi-a-lyon-45000-54000 "Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000")
 * 2016/09/23 - [Développeur node.js/react.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/3059/developpeur-node-js-react-js-editeur-de-logiciel "Développeur node.js/react.js | editeur de logiciel")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Ingénieur etude et développement java jee](http://www.pyjobs.fr/jobs/details/2358/ingenieur-etude-et-developpement-java-jee "Ingénieur etude et développement java jee")
 * 2016/09/20 - [Expert et developpeur php](http://www.pyjobs.fr/jobs/details/2365/expert-et-developpeur-php "Expert et developpeur php")
 * 2016/09/20 - [Développement web avec ruby on rails](http://www.pyjobs.fr/jobs/details/2371/developpement-web-avec-ruby-on-rails "Développement web avec ruby on rails")
-* 2016/09/20 - [Administrateur système & réseau niveau 1/2](http://www.pyjobs.fr/jobs/details/2376/administrateur-systeme-reseau-niveau-1-2 "Administrateur système & réseau niveau 1/2")
 

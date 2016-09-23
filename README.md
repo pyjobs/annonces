@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/23 - [Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/3543/administrateur-systeme-devops-f-h-en-cdi-a-lyon-45000-54000 "Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000")
 * 2016/09/23 - [Développeur node.js/react.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/3540/developpeur-node-js-react-js-editeur-de-logiciel "Développeur node.js/react.js | editeur de logiciel")
 * 2016/09/23 - [Ingénieur développeur python test](http://www.pyjobs.fr/jobs/details/3541/ingenieur-developpeur-python-test "Ingénieur développeur python test")
 * 2016/09/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3542/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3478/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/3476/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Cloud Builder](http://www.pyjobs.fr/jobs/details/3477/cloud-builder "Cloud Builder")
-* 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/3479/devops-junior "DevOps junior")
 

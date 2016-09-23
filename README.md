@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3546/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
 * 2016/09/23 - [Développeur Web Front End (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3544/developpeur-web-front-end-h-f-en-cdi-a-lyon-35000-44000 "Développeur Web Front End (H/F) en CDI à Lyon 35000-44000")
 * 2016/09/23 - [Developer Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3545/developer-back-end-h-f-en-cdi-a-nantes "Developer Back-end (H/F) en CDI à Nantes")
 * 2016/09/23 - [Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/3543/administrateur-systeme-devops-f-h-en-cdi-a-lyon-45000-54000 "Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur Full Stack PHP (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3488/developpeur-full-stack-php-h-f-en-stage-a-paris "Développeur Full Stack PHP (H/F) en Stage à Paris")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3489/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3490/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
-* 2016/09/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3066/developpeur-developpeuse-web "Développeur / Développeuse web")
 

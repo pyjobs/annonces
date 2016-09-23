@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3489/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3490/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3066/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3065/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3038/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur fullstack python](http://www.pyjobs.fr/jobs/details/2342/developpeur-fullstack-python "Développeur fullstack python")
 * 2016/09/20 - [Developpeur web](http://www.pyjobs.fr/jobs/details/2348/developpeur-web "Developpeur web")
-* 2016/09/20 - [Back-end python développeur start up transport](http://www.pyjobs.fr/jobs/details/2352/back-end-python-developpeur-start-up-transport "Back-end python développeur start up transport")
 

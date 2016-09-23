@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Expert et developpeur php](http://www.pyjobs.fr/jobs/details/2365/expert-et-developpeur-php "Expert et developpeur php")
 * 2016/09/20 - [Développement web avec ruby on rails](http://www.pyjobs.fr/jobs/details/2371/developpement-web-avec-ruby-on-rails "Développement web avec ruby on rails")
 * 2016/09/20 - [Administrateur système & réseau niveau 1/2](http://www.pyjobs.fr/jobs/details/2376/administrateur-systeme-reseau-niveau-1-2 "Administrateur système & réseau niveau 1/2")
 * 2016/09/20 - [Développeur front-end/ember.js/d3.js | dataviz](http://www.pyjobs.fr/jobs/details/2383/developpeur-front-end-ember-js-d3-js-dataviz "Développeur front-end/ember.js/d3.js | dataviz")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur Full Stack PHP (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3488/developpeur-full-stack-php-h-f-en-stage-a-paris "Développeur Full Stack PHP (H/F) en Stage à Paris")
 * 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3489/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3490/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
-* 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3480/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 

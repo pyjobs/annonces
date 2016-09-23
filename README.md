@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Développeur python](http://www.pyjobs.fr/jobs/details/2407/developpeur-python "Développeur python")
 * 2016/09/20 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/2412/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/09/20 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/2417/developpeur-full-stack "Développeur full-stack")
 * 2016/09/22 - [Customer Success Engineer (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3535/customer-success-engineer-h-f-en-cdi-a-paris-35000-44000 "Customer Success Engineer (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3496/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3497/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Ingénieur Système junior](http://www.pyjobs.fr/jobs/details/3481/ingenieur-systeme-junior "Ingénieur Système junior")
-* 2016/09/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3501/developpeur-developpeuse-web "Développeur / Développeuse web")
 

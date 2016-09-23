@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/20 - [Big SysOps du Big Data - H/F](http://www.pyjobs.fr/jobs/details/3480/big-sysops-du-big-data-h-f "Big SysOps du Big Data - H/F")
 * 2016/09/20 - [DevOps Docker & AWS - H/F](http://www.pyjobs.fr/jobs/details/3478/devops-docker-aws-h-f "DevOps Docker & AWS - H/F")
 * 2016/09/20 - [Python/js développeur - objets connectés](http://www.pyjobs.fr/jobs/details/3476/python-js-developpeur-objets-connectes "Python/js développeur - objets connectés")
 * 2016/09/20 - [Cloud Builder](http://www.pyjobs.fr/jobs/details/3477/cloud-builder "Cloud Builder")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Developpeur web](http://www.pyjobs.fr/jobs/details/2348/developpeur-web "Developpeur web")
 * 2016/09/20 - [Back-end python développeur start up transport](http://www.pyjobs.fr/jobs/details/2352/back-end-python-developpeur-start-up-transport "Back-end python développeur start up transport")
 * 2016/09/20 - [Ingénieur etude et développement java jee](http://www.pyjobs.fr/jobs/details/2358/ingenieur-etude-et-developpement-java-jee "Ingénieur etude et développement java jee")
-* 2016/09/20 - [Expert et developpeur php](http://www.pyjobs.fr/jobs/details/2365/expert-et-developpeur-php "Expert et developpeur php")
 

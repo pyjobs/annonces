@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/23 - [Ingénieur développeur python test](http://www.pyjobs.fr/jobs/details/3541/ingenieur-developpeur-python-test "Ingénieur développeur python test")
 * 2016/09/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3542/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3539/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3537/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/20 - [Cloud Builder](http://www.pyjobs.fr/jobs/details/3477/cloud-builder "Cloud Builder")
 * 2016/09/20 - [DevOps junior](http://www.pyjobs.fr/jobs/details/3479/devops-junior "DevOps junior")
 * 2016/09/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3496/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2016/09/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3497/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

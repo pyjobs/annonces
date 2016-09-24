@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/21 - [Développeur MySql (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3032/developpeur-mysql-h-f-en-cdi-a-paris "Développeur MySql (H/F) en CDI à Paris")
 * 2016/09/21 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3039/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/21 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3025/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3029/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/21 - [Développeur MySql (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3512/developpeur-mysql-h-f-en-cdi-a-paris "Développeur MySql (H/F) en CDI à Paris")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3514/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3502/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3518/developpeur-developpeuse-web "Développeur / Développeuse web")
 

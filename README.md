@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3068/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3069/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3067/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3065/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3033/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3038/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/20 - [Développeur fullstack python](http://www.pyjobs.fr/jobs/details/2342/developpeur-fullstack-python "Développeur fullstack python")
-* 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3546/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
 

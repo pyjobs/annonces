@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3536/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3531/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3533/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/22 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3527/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/23 - [Ingénieur développeur python test](http://www.pyjobs.fr/jobs/details/3060/ingenieur-developpeur-python-test "Ingénieur développeur python test")
 * 2016/09/22 - [Customer Success Engineer (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3053/customer-success-engineer-h-f-en-cdi-a-paris-35000-44000 "Customer Success Engineer (H/F) en CDI à Paris 35000-44000")
 * 2016/09/22 - [Lead Developer start-up (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3049/lead-developer-start-up-h-f-en-cdi-a-paris "Lead Developer start-up (H/F) en CDI à Paris")
-* 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3048/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/23 - [Développeur node.js/react.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/3059/developpeur-node-js-react-js-editeur-de-logiciel "Développeur node.js/react.js | editeur de logiciel")
 * 2016/09/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3061/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3056/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3066/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/23 - [Developer Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3545/developer-back-end-h-f-en-cdi-a-nantes "Developer Back-end (H/F) en CDI à Nantes")
 * 2016/09/23 - [Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/3543/administrateur-systeme-devops-f-h-en-cdi-a-lyon-45000-54000 "Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000")
 * 2016/09/23 - [Développeur node.js/react.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/3540/developpeur-node-js-react-js-editeur-de-logiciel "Développeur node.js/react.js | editeur de logiciel")
-* 2016/09/23 - [Ingénieur développeur python test](http://www.pyjobs.fr/jobs/details/3541/ingenieur-developpeur-python-test "Ingénieur développeur python test")
 

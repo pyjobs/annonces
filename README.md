@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/26 - [Administrateur Système, DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3084/administrateur-systeme-devops-h-f-en-cdi-a-paris "Administrateur Système, DevOps (H/F) en CDI à Paris")
 * 2016/09/26 - [Développeur Systèmes (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3082/developpeur-systemes-h-f-en-cdi-a-paris "Développeur Systèmes (H/F) en CDI à Paris")
 * 2016/09/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3079/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3081/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/21 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3039/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/21 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3025/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3029/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3040/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

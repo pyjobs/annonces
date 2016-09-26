@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/23 - [Developer Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3064/developer-back-end-h-f-en-cdi-a-nantes "Developer Back-end (H/F) en CDI à Nantes")
 * 2016/09/23 - [Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/3062/administrateur-systeme-devops-f-h-en-cdi-a-lyon-45000-54000 "Administrateur Système / DevOps (F/H) en CDI à Lyon 45000-54000")
 * 2016/09/23 - [Développeur node.js/react.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/3059/developpeur-node-js-react-js-editeur-de-logiciel "Développeur node.js/react.js | editeur de logiciel")
 * 2016/09/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3061/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3549/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3546/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
 * 2016/09/23 - [Développeur Web Front End (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3544/developpeur-web-front-end-h-f-en-cdi-a-lyon-35000-44000 "Développeur Web Front End (H/F) en CDI à Lyon 35000-44000")
-* 2016/09/23 - [Developer Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3545/developer-back-end-h-f-en-cdi-a-nantes "Developer Back-end (H/F) en CDI à Nantes")
 

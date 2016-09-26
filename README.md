@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/21 - [ANALYSTE JUNIOR (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3031/analyste-junior-h-f-en-cdi-a-paris "ANALYSTE JUNIOR (H/F) en CDI à Paris")
 * 2016/09/21 - [Développeur MySql (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3032/developpeur-mysql-h-f-en-cdi-a-paris "Développeur MySql (H/F) en CDI à Paris")
 * 2016/09/21 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3039/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/26 - [Data Scientist - Startup - Mobile - ML (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3566/data-scientist-startup-mobile-ml-h-f-en-stage-a-paris "Data Scientist - Startup - Mobile - ML (H/F) en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/21 - [Data Scientist fan de big data - H/F](http://www.pyjobs.fr/jobs/details/3519/data-scientist-fan-de-big-data-h-f "Data Scientist fan de big data - H/F")
 * 2016/09/21 - [DevOps e-Confiance H/F](http://www.pyjobs.fr/jobs/details/3513/devops-e-confiance-h-f "DevOps e-Confiance H/F")
 * 2016/09/21 - [Développeur FRONTEND (h/f) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3516/developpeur-frontend-h-f-en-cdi-a-paris "Développeur FRONTEND (h/f) en CDI à Paris")
-* 2016/09/21 - [ANALYSTE JUNIOR (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3511/analyste-junior-h-f-en-cdi-a-paris "ANALYSTE JUNIOR (H/F) en CDI à Paris")
 

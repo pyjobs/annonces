@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/24 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3552/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/24 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3555/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3548/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3546/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3068/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3067/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3075/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/24 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3071/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 

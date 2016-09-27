@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/27 - [Développeur Back-end en startup FINTECH (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3582/developpeur-back-end-en-startup-fintech-h-f-en-stage-a-paris "Développeur Back-end en startup FINTECH (H/F) en Stage à Paris")
 * 2016/09/27 - [Ingénieur Développeur Java Full-stack](http://www.pyjobs.fr/jobs/details/3577/ingenieur-developpeur-java-full-stack "Ingénieur Développeur Java Full-stack")
 * 2016/09/27 - [Ingénieur Développeur Python Test](http://www.pyjobs.fr/jobs/details/3573/ingenieur-developpeur-python-test "Ingénieur Développeur Python Test")
 * 2016/09/27 - [H/F Développeur Web Back End (PYTHON)](http://www.pyjobs.fr/jobs/details/3581/h-f-developpeur-web-back-end-python "H/F Développeur Web Back End (PYTHON)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/22 - [Customer Success Engineer (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3535/customer-success-engineer-h-f-en-cdi-a-paris-35000-44000 "Customer Success Engineer (H/F) en CDI à Paris 35000-44000")
 * 2016/09/22 - [Lead Developer start-up (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3530/lead-developer-start-up-h-f-en-cdi-a-paris "Lead Developer start-up (H/F) en CDI à Paris")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3525/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/27 - [H/F Développeur Web Back End (PYTHON)](http://www.pyjobs.fr/jobs/details/3100/h-f-developpeur-web-back-end-python "H/F Développeur Web Back End (PYTHON)")
 

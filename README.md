@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3099/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3102/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3096/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3105/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/27 - [Stage Dev iOS  #Startup Mobile Big Data (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3571/stage-dev-ios-startup-mobile-big-data-h-f-en-stage-a-paris "Stage Dev iOS  #Startup Mobile Big Data (H/F) en Stage à Paris")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3579/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3567/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3576/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

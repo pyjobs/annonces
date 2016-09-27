@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3525/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Ingénieur Développeur Python Test](http://www.pyjobs.fr/jobs/details/3092/ingenieur-developpeur-python-test "Ingénieur Développeur Python Test")
 * 2016/09/27 - [Responsable Support Informatique (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3093/responsable-support-informatique-h-f-en-cdi-a-paris "Responsable Support Informatique (H/F) en CDI à Paris")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3095/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/22 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3046/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3044/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3055/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3050/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/24 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3551/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3110/administrateur-systeme "ADMINISTRATEUR SYSTEME")
 * 2016/09/28 - [DÉVELOPPEUR TECHNOLOGIE WEB (H/F)](http://www.pyjobs.fr/jobs/details/3114/developpeur-technologie-web-h-f "DÉVELOPPEUR TECHNOLOGIE WEB (H/F)")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3111/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3069/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3067/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/23 - [Developer R&D (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/3065/developer-r-d-h-f-en-cdi-a-nantes "Developer R&D (H/F) en CDI à Nantes")
-* 2016/09/23 - [Développeur Web Front End (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3063/developpeur-web-front-end-h-f-en-cdi-a-lyon-35000-44000 "Développeur Web Front End (H/F) en CDI à Lyon 35000-44000")
 

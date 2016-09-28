@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3117/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
 * 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3110/administrateur-systeme "ADMINISTRATEUR SYSTEME")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3115/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/24 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3071/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3072/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/24 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3070/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3591/administrateur-systeme "ADMINISTRATEUR SYSTEME")
 

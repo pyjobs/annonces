@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3120/developpeur-web-fullstack-h-f-en-cdi-a-paris-25000-34000 "Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000")
 * 2016/09/28 - [Développeur Full Stack Start-Up (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3121/developpeur-full-stack-start-up-h-f-en-cdi-a-pessac "Développeur Full Stack Start-Up (H/F) en CDI à Pessac")
 * 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3117/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
 * 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3110/administrateur-systeme "ADMINISTRATEUR SYSTEME")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3075/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/24 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3073/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/24 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3071/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
-* 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3072/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

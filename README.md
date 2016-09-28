@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/26 - [Full stack in core/scripting/AI/BigData (H/F) en CDI à Amsterdam >70000](http://www.pyjobs.fr/jobs/details/3083/full-stack-in-core-scripting-ai-bigdata-h-f-en-cdi-a-amsterdam-70000 "Full stack in core/scripting/AI/BigData (H/F) en CDI à Amsterdam >70000")
 * 2016/09/26 - [Administrateur Système, DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3084/administrateur-systeme-devops-h-f-en-cdi-a-paris "Administrateur Système, DevOps (H/F) en CDI à Paris")
 * 2016/09/26 - [Développeur Systèmes (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3082/developpeur-systemes-h-f-en-cdi-a-paris "Développeur Systèmes (H/F) en CDI à Paris")
 * 2016/09/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3080/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/27 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3587/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3589/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3579/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/26 - [Data Scientist - Startup - Mobile - ML (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3566/data-scientist-startup-mobile-ml-h-f-en-stage-a-paris "Data Scientist - Startup - Mobile - ML (H/F) en Stage à Paris")
 

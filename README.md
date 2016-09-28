@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/27 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3101/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/27 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3089/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/27 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3106/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/26 - [Data Scientist - Startup - Mobile - ML (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3085/data-scientist-startup-mobile-ml-h-f-en-stage-a-paris "Data Scientist - Startup - Mobile - ML (H/F) en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3576/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3587/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3589/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/27 - [Ingénieur Etude & Développement Python/C++ (H/F)](http://www.pyjobs.fr/jobs/details/3578/ingenieur-etude-developpement-python-c-h-f "Ingénieur Etude & Développement Python/C++ (H/F)")
 

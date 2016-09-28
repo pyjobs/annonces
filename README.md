@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/23 - [Ingénieur développeur python test](http://www.pyjobs.fr/jobs/details/3541/ingenieur-developpeur-python-test "Ingénieur développeur python test")
 * 2016/09/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3539/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Ingénieur Développeur Java Full-stack](http://www.pyjobs.fr/jobs/details/3097/ingenieur-developpeur-java-full-stack "Ingénieur Développeur Java Full-stack")
 * 2016/09/27 - [Ingénieur Développeur Python Test](http://www.pyjobs.fr/jobs/details/3092/ingenieur-developpeur-python-test "Ingénieur Développeur Python Test")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/23 - [Développeur node.js/react.js | editeur de logiciel](http://www.pyjobs.fr/jobs/details/3059/developpeur-node-js-react-js-editeur-de-logiciel "Développeur node.js/react.js | editeur de logiciel")
 * 2016/09/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3061/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/09/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3056/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3066/developpeur-developpeuse-web "Développeur / Développeuse web")
 

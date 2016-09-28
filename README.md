@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3109/developpeur-back-end-python "Developpeur back-end python")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3113/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Ingénieur Développeur Java Full-stack](http://www.pyjobs.fr/jobs/details/3097/ingenieur-developpeur-java-full-stack "Ingénieur Développeur Java Full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3591/administrateur-systeme "ADMINISTRATEUR SYSTEME")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3593/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3592/developpeur-back-end-python "Developpeur back-end python")
-* 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3590/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

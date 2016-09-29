@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/25 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3558/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/29 - [DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)](http://www.pyjobs.fr/jobs/details/3126/developpeur-logiciel-embarque-h-f "DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)")
 * 2016/09/29 - [Développeur Informatique Industrielle C Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/3123/developpeur-informatique-industrielle-c-confirme-h-f "Développeur Informatique Industrielle C Confirmé (H/F)")
 * 2016/09/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3125/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3081/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3079/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3078/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3076/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

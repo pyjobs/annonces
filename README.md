@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3068/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/09/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3075/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Construction d'un cloud privé - Ingénieur systèmes/réseaux](http://www.pyjobs.fr/jobs/details/3603/construction-dun-cloud-prive-ingenieur-systemes-reseaux "Construction d'un cloud privé - Ingénieur systèmes/réseaux")
 * 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3598/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/25 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3558/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3559/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3557/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/24 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3551/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

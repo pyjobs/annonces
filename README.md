@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3113/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [DÉVELOPPEUR TECHNOLOGIE WEB (H/F)](http://www.pyjobs.fr/jobs/details/3114/developpeur-technologie-web-h-f "DÉVELOPPEUR TECHNOLOGIE WEB (H/F)")
 * 2016/09/27 - [Ingénieur Développeur Java Full-stack](http://www.pyjobs.fr/jobs/details/3097/ingenieur-developpeur-java-full-stack "Ingénieur Développeur Java Full-stack")
 * 2016/09/27 - [Développeur Back-end en startup FINTECH (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3112/developpeur-back-end-en-startup-fintech-h-f-en-stage-a-paris "Développeur Back-end en startup FINTECH (H/F) en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/27 - [Stage Dev iOS  #Startup Mobile Big Data (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3571/stage-dev-ios-startup-mobile-big-data-h-f-en-stage-a-paris "Stage Dev iOS  #Startup Mobile Big Data (H/F) en Stage à Paris")
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3575/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/27 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3583/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/09/27 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3588/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

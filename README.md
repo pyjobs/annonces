@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3623/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/30 - [Ingénieur systèmes/réseaux - Construction d'un cloud privé](http://www.pyjobs.fr/jobs/details/3620/ingenieur-systemes-reseaux-construction-dun-cloud-prive "Ingénieur systèmes/réseaux - Construction d'un cloud privé")
 * 2016/09/30 - [Ingénieur système et réseau confirmé (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3619/ingenieur-systeme-et-reseau-confirme-h-f-en-cdi-a-paris "Ingénieur système et réseau confirmé (H/F) en CDI à Paris")
 * 2016/09/30 - [Développeur data/python](http://www.pyjobs.fr/jobs/details/3615/developpeur-data-python "Développeur data/python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3568/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3141/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3140/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3139/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

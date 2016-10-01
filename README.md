@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/30 - [Développeur-euse full-stack](http://www.pyjobs.fr/jobs/details/3134/developpeur-euse-full-stack "Développeur-euse full-stack")
 * 2016/09/30 - [Chef de projet technique web senior](http://www.pyjobs.fr/jobs/details/3131/chef-de-projet-technique-web-senior "Chef de projet technique web senior")
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3127/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3120/developpeur-web-fullstack-h-f-en-cdi-a-paris-25000-34000 "Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3593/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3604/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3590/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/28 - [Développeur en maintenance évolutive/support technique (H/F)](http://www.pyjobs.fr/jobs/details/3599/developpeur-en-maintenance-evolutive-support-technique-h-f "Développeur en maintenance évolutive/support technique (H/F)")
 

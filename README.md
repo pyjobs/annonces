@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3111/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [H/F Ingénieur informatique Python (H/F)](http://www.pyjobs.fr/jobs/details/3118/h-f-ingenieur-informatique-python-h-f "H/F Ingénieur informatique Python (H/F)")
 * 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3109/developpeur-back-end-python "Developpeur back-end python")
 * 2016/09/28 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3122/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [Développeur Full Stack Start-Up (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3601/developpeur-full-stack-start-up-h-f-en-cdi-a-pessac "Développeur Full Stack Start-Up (H/F) en CDI à Pessac")
 * 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3591/administrateur-systeme "ADMINISTRATEUR SYSTEME")
 * 2016/09/28 - [DÉVELOPPEUR TECHNOLOGIE WEB (H/F)](http://www.pyjobs.fr/jobs/details/3595/developpeur-technologie-web-h-f "DÉVELOPPEUR TECHNOLOGIE WEB (H/F)")
-* 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3592/developpeur-back-end-python "Developpeur back-end python")
 

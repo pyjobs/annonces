@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/27 - [Développeur Back-end en startup FINTECH (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3582/developpeur-back-end-en-startup-fintech-h-f-en-stage-a-paris "Développeur Back-end en startup FINTECH (H/F) en Stage à Paris")
 * 2016/09/27 - [Ingénieur Développeur Java Full-stack](http://www.pyjobs.fr/jobs/details/3577/ingenieur-developpeur-java-full-stack "Ingénieur Développeur Java Full-stack")
 * 2016/09/27 - [Ingénieur Développeur Python Test](http://www.pyjobs.fr/jobs/details/3573/ingenieur-developpeur-python-test "Ingénieur Développeur Python Test")
 * 2016/09/27 - [H/F Développeur Web Back End (PYTHON)](http://www.pyjobs.fr/jobs/details/3581/h-f-developpeur-web-back-end-python "H/F Développeur Web Back End (PYTHON)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3116/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [DÉVELOPPEUR TECHNOLOGIE WEB (H/F)](http://www.pyjobs.fr/jobs/details/3114/developpeur-technologie-web-h-f "DÉVELOPPEUR TECHNOLOGIE WEB (H/F)")
 * 2016/09/27 - [Ingénieur Développeur Java Full-stack](http://www.pyjobs.fr/jobs/details/3097/ingenieur-developpeur-java-full-stack "Ingénieur Développeur Java Full-stack")
-* 2016/09/27 - [Développeur Back-end en startup FINTECH (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3112/developpeur-back-end-en-startup-fintech-h-f-en-stage-a-paris "Développeur Back-end en startup FINTECH (H/F) en Stage à Paris")
 

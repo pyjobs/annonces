@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3607/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/29 - [DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)](http://www.pyjobs.fr/jobs/details/3608/developpeur-logiciel-embarque-h-f "DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)")
 * 2016/09/29 - [Développeur Informatique Industrielle C Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/3605/developpeur-informatique-industrielle-c-confirme-h-f "Développeur Informatique Industrielle C Confirmé (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3140/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3139/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3142/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/30 - [Ingénieur systèmes/réseaux - Construction d'un cloud privé](http://www.pyjobs.fr/jobs/details/3137/ingenieur-systemes-reseaux-construction-dun-cloud-prive "Ingénieur systèmes/réseaux - Construction d'un cloud privé")
 

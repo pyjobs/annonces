@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [H/F Ingénieur informatique Python (H/F)](http://www.pyjobs.fr/jobs/details/3118/h-f-ingenieur-informatique-python-h-f "H/F Ingénieur informatique Python (H/F)")
 * 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3109/developpeur-back-end-python "Developpeur back-end python")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3116/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3115/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/27 - [Ingénieur Développeur Java Full-stack](http://www.pyjobs.fr/jobs/details/3577/ingenieur-developpeur-java-full-stack "Ingénieur Développeur Java Full-stack")
 * 2016/09/27 - [Ingénieur Développeur Python Test](http://www.pyjobs.fr/jobs/details/3573/ingenieur-developpeur-python-test "Ingénieur Développeur Python Test")
 * 2016/09/27 - [H/F Développeur Web Back End (PYTHON)](http://www.pyjobs.fr/jobs/details/3581/h-f-developpeur-web-back-end-python "H/F Développeur Web Back End (PYTHON)")
-* 2016/09/27 - [Responsable Support Informatique (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3574/responsable-support-informatique-h-f-en-cdi-a-paris "Responsable Support Informatique (H/F) en CDI à Paris")
 

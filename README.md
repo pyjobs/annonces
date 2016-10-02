@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3590/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Développeur en maintenance évolutive/support technique (H/F)](http://www.pyjobs.fr/jobs/details/3599/developpeur-en-maintenance-evolutive-support-technique-h-f "Développeur en maintenance évolutive/support technique (H/F)")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3597/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3596/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3109/developpeur-back-end-python "Developpeur back-end python")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3111/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [H/F Ingénieur informatique Python (H/F)](http://www.pyjobs.fr/jobs/details/3118/h-f-ingenieur-informatique-python-h-f "H/F Ingénieur informatique Python (H/F)")
-* 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3115/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

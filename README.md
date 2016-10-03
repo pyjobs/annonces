@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur Full Stack Start-Up (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3121/developpeur-full-stack-start-up-h-f-en-cdi-a-pessac "Développeur Full Stack Start-Up (H/F) en CDI à Pessac")
 * 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3110/administrateur-systeme "ADMINISTRATEUR SYSTEME")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3109/developpeur-back-end-python "Developpeur back-end python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3617/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3607/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/29 - [DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)](http://www.pyjobs.fr/jobs/details/3608/developpeur-logiciel-embarque-h-f "DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/03 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/3647/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/10/03 - [Machine learning data scientist](http://www.pyjobs.fr/jobs/details/3642/machine-learning-data-scientist "Machine learning data scientist")
 * 2016/10/03 - [Architecte agile java/j2ee](http://www.pyjobs.fr/jobs/details/3643/architecte-agile-java-j2ee "Architecte agile java/j2ee")
 * 2016/10/03 - [Ingénieur big data](http://www.pyjobs.fr/jobs/details/3644/ingenieur-big-data "Ingénieur big data")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [Construction d'un cloud privé - Ingénieur systèmes/réseaux](http://www.pyjobs.fr/jobs/details/3603/construction-dun-cloud-prive-ingenieur-systemes-reseaux "Construction d'un cloud privé - Ingénieur systèmes/réseaux")
 * 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3598/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3164/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3163/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

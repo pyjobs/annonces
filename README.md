@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [H/F Ingénieur informatique Python (H/F)](http://www.pyjobs.fr/jobs/details/3118/h-f-ingenieur-informatique-python-h-f "H/F Ingénieur informatique Python (H/F)")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3115/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/3649/developpeur-full-stack "Développeur full-stack")
 * 2016/10/03 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/3647/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3606/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Construction d'un cloud privé - Ingénieur systèmes/réseaux](http://www.pyjobs.fr/jobs/details/3603/construction-dun-cloud-prive-ingenieur-systemes-reseaux "Construction d'un cloud privé - Ingénieur systèmes/réseaux")
 * 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3598/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
-* 2016/09/28 - [Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3600/developpeur-web-fullstack-h-f-en-cdi-a-paris-25000-34000 "Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000")
 

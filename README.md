@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3154/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3153/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3146/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/02 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/jobs/details/3151/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/27 - [Développeur Back-end en startup FINTECH (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3112/developpeur-back-end-en-startup-fintech-h-f-en-stage-a-paris "Développeur Back-end en startup FINTECH (H/F) en Stage à Paris")
 * 2016/09/27 - [Ingénieur Développeur Python Test](http://www.pyjobs.fr/jobs/details/3092/ingenieur-developpeur-python-test "Ingénieur Développeur Python Test")
 * 2016/09/27 - [H/F Développeur Web Back End (PYTHON)](http://www.pyjobs.fr/jobs/details/3100/h-f-developpeur-web-back-end-python "H/F Développeur Web Back End (PYTHON)")
-* 2016/10/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3632/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

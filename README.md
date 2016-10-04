@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3120/developpeur-web-fullstack-h-f-en-cdi-a-paris-25000-34000 "Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000")
 * 2016/09/28 - [Développeur Full Stack Start-Up (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3121/developpeur-full-stack-start-up-h-f-en-cdi-a-pessac "Développeur Full Stack Start-Up (H/F) en CDI à Pessac")
 * 2016/10/04 - [Développeu(r/se) full-stack Python / Web](http://www.pyjobs.fr/jobs/details/3653/developpeu-r-se-full-stack-python-web "Développeu(r/se) full-stack Python / Web")
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3654/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3607/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/29 - [DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)](http://www.pyjobs.fr/jobs/details/3608/developpeur-logiciel-embarque-h-f "DÉVELOPPEUR LOGICIEL EMBARQUE (H/F)")
-* 2016/09/29 - [Développeur Informatique Industrielle C Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/3605/developpeur-informatique-industrielle-c-confirme-h-f "Développeur Informatique Industrielle C Confirmé (H/F)")
 

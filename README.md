@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3654/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/3649/developpeur-full-stack "Développeur full-stack")
 * 2016/10/03 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/3647/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/10/03 - [Machine learning data scientist](http://www.pyjobs.fr/jobs/details/3642/machine-learning-data-scientist "Machine learning data scientist")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/29 - [Développeur Informatique Industrielle C Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/3605/developpeur-informatique-industrielle-c-confirme-h-f "Développeur Informatique Industrielle C Confirmé (H/F)")
 * 2016/09/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3606/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur Android (H/F) en Stage à Labège](http://www.pyjobs.fr/jobs/details/3160/developpeur-android-h-f-en-stage-a-labege "Développeur Android (H/F) en Stage à Labège")
-* 2016/10/03 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3159/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

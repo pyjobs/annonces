@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/04 - [Développeu(r/se) full-stack Python / Web](http://www.pyjobs.fr/jobs/details/3165/developpeu-r-se-full-stack-python-web "Développeu(r/se) full-stack Python / Web")
 * 2016/10/04 - [Administrateur Système (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3167/administrateur-systeme-h-f-en-cdi-a-paris "Administrateur Système (H/F) en CDI à Paris")
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3168/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3166/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3117/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
 * 2016/09/28 - [Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3120/developpeur-web-fullstack-h-f-en-cdi-a-paris-25000-34000 "Développeur Web Fullstack (H/F) en CDI à Paris 25000-34000")
 * 2016/09/28 - [Développeur Full Stack Start-Up (H/F) en CDI à Pessac](http://www.pyjobs.fr/jobs/details/3121/developpeur-full-stack-start-up-h-f-en-cdi-a-pessac "Développeur Full Stack Start-Up (H/F) en CDI à Pessac")
-* 2016/10/04 - [Développeu(r/se) full-stack Python / Web](http://www.pyjobs.fr/jobs/details/3653/developpeu-r-se-full-stack-python-web "Développeu(r/se) full-stack Python / Web")
 

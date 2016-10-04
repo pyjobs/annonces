@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3598/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
 * 2016/10/03 - [Développeur Android (H/F) en Stage à Labège](http://www.pyjobs.fr/jobs/details/3160/developpeur-android-h-f-en-stage-a-labege "Développeur Android (H/F) en Stage à Labège")
 * 2016/10/03 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3159/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3155/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/28 - [ADMINISTRATEUR SYSTEME](http://www.pyjobs.fr/jobs/details/3110/administrateur-systeme "ADMINISTRATEUR SYSTEME")
 * 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/28 - [Developpeur back-end python](http://www.pyjobs.fr/jobs/details/3109/developpeur-back-end-python "Developpeur back-end python")
-* 2016/09/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3111/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

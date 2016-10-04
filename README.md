@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/03 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/3649/developpeur-full-stack "Développeur full-stack")
 * 2016/10/03 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/3647/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/10/03 - [Machine learning data scientist](http://www.pyjobs.fr/jobs/details/3642/machine-learning-data-scientist "Machine learning data scientist")
 * 2016/10/03 - [Architecte agile java/j2ee](http://www.pyjobs.fr/jobs/details/3643/architecte-agile-java-j2ee "Architecte agile java/j2ee")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/04 - [Administrateur Système (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3167/administrateur-systeme-h-f-en-cdi-a-paris "Administrateur Système (H/F) en CDI à Paris")
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3168/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3166/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/03 - [Développeur Android (H/F) en Stage à Labège](http://www.pyjobs.fr/jobs/details/3160/developpeur-android-h-f-en-stage-a-labege "Développeur Android (H/F) en Stage à Labège")
 

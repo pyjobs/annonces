@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/09/28 - [Construction d'un cloud privé - Ingénieur systèmes/réseaux](http://www.pyjobs.fr/jobs/details/3119/construction-dun-cloud-prive-ingenieur-systemes-reseaux "Construction d'un cloud privé - Ingénieur systèmes/réseaux")
 * 2016/09/28 - [Développeur(se) Perl / Request Tracker](http://www.pyjobs.fr/jobs/details/3117/developpeur-se-perl-request-tracker "Développeur(se) Perl / Request Tracker")
 * 2016/10/04 - [Stage développeur Python/Django - Rennes](http://www.pyjobs.fr/jobs/details/3657/stage-developpeur-python-django-rennes "Stage développeur Python/Django - Rennes")
 * 2016/10/04 - [Administrateur système (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3658/administrateur-systeme-h-f-en-cdi-a-paris-35000-44000 "Administrateur système (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3610/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3611/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3609/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3617/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/05 - [Product & Data Manager (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3180/product-data-manager-h-f-en-cdi-a-paris "Product & Data Manager (H/F) en CDI à Paris")
 * 2016/10/05 - [Python Back-end Web Engineer - Startup (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3176/python-back-end-web-engineer-startup-h-f-en-cdi-a-paris "Python Back-end Web Engineer - Startup (H/F) en CDI à Paris")
 * 2016/10/05 - [Python Web Engineer Full Stack (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3177/python-web-engineer-full-stack-h-f-en-cdi-a-paris "Python Web Engineer Full Stack (H/F) en CDI à Paris")
 * 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3174/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/30 - [Développeur en chef](http://www.pyjobs.fr/jobs/details/3132/developpeur-en-chef "Développeur en chef")
 * 2016/09/30 - [Développeur data/python](http://www.pyjobs.fr/jobs/details/3133/developpeur-data-python "Développeur data/python")
 * 2016/09/30 - [Développeur-euse full-stack](http://www.pyjobs.fr/jobs/details/3134/developpeur-euse-full-stack "Développeur-euse full-stack")
-* 2016/10/05 - [Product & Data Manager (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3672/product-data-manager-h-f-en-cdi-a-paris "Product & Data Manager (H/F) en CDI à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3661/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3660/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3662/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3659/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/09/30 - [Développeur en chef](http://www.pyjobs.fr/jobs/details/3612/developpeur-en-chef "Développeur en chef")
 * 2016/09/30 - [Développeur polyvalent Javascript/Python](http://www.pyjobs.fr/jobs/details/3613/developpeur-polyvalent-javascript-python "Développeur polyvalent Javascript/Python")
 * 2016/09/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3610/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/04 - [Stage développeur Python/Django - Rennes](http://www.pyjobs.fr/jobs/details/3170/stage-developpeur-python-django-rennes "Stage développeur Python/Django - Rennes")
 

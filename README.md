@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/03 - [Développeur informatiqe (H/F)](http://www.pyjobs.fr/jobs/details/3162/developpeur-informatiqe-h-f "Développeur informatiqe (H/F)")
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3154/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3153/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3157/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3654/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3656/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/3649/developpeur-full-stack "Développeur full-stack")
-* 2016/10/03 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/3647/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 

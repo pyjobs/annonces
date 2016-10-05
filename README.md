@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/03 - [Machine learning data scientist](http://www.pyjobs.fr/jobs/details/3642/machine-learning-data-scientist "Machine learning data scientist")
 * 2016/10/03 - [Architecte agile java/j2ee](http://www.pyjobs.fr/jobs/details/3643/architecte-agile-java-j2ee "Architecte agile java/j2ee")
 * 2016/10/03 - [Ingénieur big data](http://www.pyjobs.fr/jobs/details/3644/ingenieur-big-data "Ingénieur big data")
 * 2016/10/03 - [Développeur web](http://www.pyjobs.fr/jobs/details/3641/developpeur-web "Développeur web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3153/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3157/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur Java & Python (H/F)](http://www.pyjobs.fr/jobs/details/3161/developpeur-java-python-h-f "Développeur Java & Python (H/F)")
-* 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3158/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

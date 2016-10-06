@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/03 - [Développeur Java & Python (H/F)](http://www.pyjobs.fr/jobs/details/3161/developpeur-java-python-h-f "Développeur Java & Python (H/F)")
 * 2016/10/06 - [Analyse et apprentissage de donnée (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3696/analyse-et-apprentissage-de-donnee-h-f-en-cdi-a-lyon "Analyse et apprentissage de donnée (H/F) en CDI à Lyon")
 * 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3688/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Data Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3690/data-engineer-h-f-en-cdi-a-paris "Data Engineer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/03 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/3647/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
 * 2016/10/03 - [Machine learning data scientist](http://www.pyjobs.fr/jobs/details/3642/machine-learning-data-scientist "Machine learning data scientist")
 * 2016/10/03 - [Architecte agile java/j2ee](http://www.pyjobs.fr/jobs/details/3643/architecte-agile-java-j2ee "Architecte agile java/j2ee")
-* 2016/10/03 - [Ingénieur big data](http://www.pyjobs.fr/jobs/details/3644/ingenieur-big-data "Ingénieur big data")
 

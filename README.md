@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3158/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3698/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3699/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Analyse et apprentissage de donnée (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3696/analyse-et-apprentissage-de-donnee-h-f-en-cdi-a-lyon "Analyse et apprentissage de donnée (H/F) en CDI à Lyon")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3656/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur full-stack](http://www.pyjobs.fr/jobs/details/3649/developpeur-full-stack "Développeur full-stack")
 * 2016/10/03 - [Administrateur linux – backup - niveau 1/2](http://www.pyjobs.fr/jobs/details/3647/administrateur-linux-backup-niveau-1-2 "Administrateur linux – backup - niveau 1/2")
-* 2016/10/03 - [Machine learning data scientist](http://www.pyjobs.fr/jobs/details/3642/machine-learning-data-scientist "Machine learning data scientist")
 

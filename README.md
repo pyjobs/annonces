@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3172/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3171/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3182/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/04 - [Stage développeur Python/Django - Rennes](http://www.pyjobs.fr/jobs/details/3170/stage-developpeur-python-django-rennes "Stage développeur Python/Django - Rennes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/05 - [Python Web Engineer Full Stack (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3665/python-web-engineer-full-stack-h-f-en-cdi-a-paris "Python Web Engineer Full Stack (H/F) en CDI à Paris")
 * 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3671/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3663/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3659/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

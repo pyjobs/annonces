@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/06 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3681/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3676/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/05 - [Product & Data Manager (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3672/product-data-manager-h-f-en-cdi-a-paris "Product & Data Manager (H/F) en CDI à Paris")
 * 2016/10/05 - [Python Back-end Web Engineer - Startup (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3664/python-back-end-web-engineer-startup-h-f-en-cdi-a-paris "Python Back-end Web Engineer - Startup (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3192/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3205/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3191/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3190/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

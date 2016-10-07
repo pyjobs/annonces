@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3210/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3213/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3209/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/3211/technicien-technicienne-programmation "Technicien / Technicienne programmation")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3168/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/03 - [Développeur Android (H/F) en Stage à Labège](http://www.pyjobs.fr/jobs/details/3160/developpeur-android-h-f-en-stage-a-labege "Développeur Android (H/F) en Stage à Labège")
 * 2016/10/07 - [Développeur web](http://www.pyjobs.fr/jobs/details/3701/developpeur-web "Développeur web")
-* 2016/10/07 - [Chef de projet it big data](http://www.pyjobs.fr/jobs/details/3702/chef-de-projet-it-big-data "Chef de projet it big data")
 

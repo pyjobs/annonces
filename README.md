@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/07 - [Front-End Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3214/front-end-developer-h-f-en-cdi-a-paris "Front-End Developer (H/F) en CDI à Paris")
 * 2016/10/07 - [Développeur Front-end (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3212/developpeur-front-end-h-f-en-cdi-a-paris-35000-44000 "Développeur Front-end (H/F) en CDI à Paris 35000-44000")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3209/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3215/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3181/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3182/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3179/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3688/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
 

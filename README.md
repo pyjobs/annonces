@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/06 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3185/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3197/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3191/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/05 - [Product & Data Manager (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3180/product-data-manager-h-f-en-cdi-a-paris "Product & Data Manager (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3685/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3705/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3691/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3693/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

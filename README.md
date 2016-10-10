@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/07 - [Directeur adjoint systèmes d'informations](http://www.pyjobs.fr/jobs/details/3700/directeur-adjoint-systemes-dinformations "Directeur adjoint systèmes d'informations")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3698/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3708/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3699/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/06 - [Data Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3200/data-engineer-h-f-en-cdi-a-paris "Data Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3199/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Artisan développeur](http://www.pyjobs.fr/jobs/details/3187/artisan-developpeur "Artisan développeur")
-* 2016/10/06 - [Développeur full-stack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3189/developpeur-full-stack-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack (H/F) en CDI à Paris 45000-54000")
 

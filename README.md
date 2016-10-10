@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3198/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Data Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3200/data-engineer-h-f-en-cdi-a-paris "Data Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3199/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Artisan développeur](http://www.pyjobs.fr/jobs/details/3187/artisan-developpeur "Artisan développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/07 - [Développeur web](http://www.pyjobs.fr/jobs/details/3701/developpeur-web "Développeur web")
 * 2016/10/07 - [Chef de projet it big data](http://www.pyjobs.fr/jobs/details/3702/chef-de-projet-it-big-data "Chef de projet it big data")
 * 2016/10/07 - [Développeur(se) back end/front end](http://www.pyjobs.fr/jobs/details/3703/developpeur-se-back-end-front-end "Développeur(se) back end/front end")
-* 2016/10/07 - [Directeur adjoint systèmes d'informations](http://www.pyjobs.fr/jobs/details/3700/directeur-adjoint-systemes-dinformations "Directeur adjoint systèmes d'informations")
 

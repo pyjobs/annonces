@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3210/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3209/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3213/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
 * 2016/10/06 - [Analyse et apprentissage de donnée (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3204/analyse-et-apprentissage-de-donnee-h-f-en-cdi-a-lyon "Analyse et apprentissage de donnée (H/F) en CDI à Lyon")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3731/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3735/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3729/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3727/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

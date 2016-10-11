@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/06 - [Développeur full-stack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/3189/developpeur-full-stack-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack (H/F) en CDI à Paris 45000-54000")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3188/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/11 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3748/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/11 - [Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3746/inge-concepteur-developpeur-iot-bluemix-h-f-en-cdi-a-lyon-35000-44000 "Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3698/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3708/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3699/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/07 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/3704/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 

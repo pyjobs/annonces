@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/06 - [Analyse et apprentissage de donnée (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/3204/analyse-et-apprentissage-de-donnee-h-f-en-cdi-a-lyon "Analyse et apprentissage de donnée (H/F) en CDI à Lyon")
 * 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3198/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Data Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3200/data-engineer-h-f-en-cdi-a-paris "Data Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3199/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3230/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/3228/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3223/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3229/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

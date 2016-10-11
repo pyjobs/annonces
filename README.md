@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3712/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3714/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/11 - [Architecte php/symfony – site média](http://www.pyjobs.fr/jobs/details/3241/architecte-php-symfony-site-media "Architecte php/symfony – site média")
 * 2016/10/11 - [Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)](http://www.pyjobs.fr/jobs/details/3242/developpeur-c-python-confirme-expert-secteur-spatial-h-f "Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3232/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3237/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3238/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/10 - [Développeur / Développeuse robotique (H/F)](http://www.pyjobs.fr/jobs/details/3236/developpeur-developpeuse-robotique-h-f "Développeur / Développeuse robotique (H/F)")
 

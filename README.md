@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/11 - [Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/3741/developpeur-back-end-python-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
 * 2016/10/11 - [Architecte php/symfony – site média](http://www.pyjobs.fr/jobs/details/3738/architecte-php-symfony-site-media "Architecte php/symfony – site média")
 * 2016/10/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3737/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/11 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3742/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3193/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3202/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3191/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3197/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

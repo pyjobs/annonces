@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/06 - [Full Stack Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3688/full-stack-engineer-h-f-en-cdi-a-paris "Full Stack Engineer (H/F) en CDI à Paris")
 * 2016/10/06 - [Data Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3690/data-engineer-h-f-en-cdi-a-paris "Data Engineer (H/F) en CDI à Paris")
 * 2016/10/11 - [Développeur Full Stack Python / Django](http://www.pyjobs.fr/jobs/details/3243/developpeur-full-stack-python-django "Développeur Full Stack Python / Django")
 * 2016/10/11 - [Architecte php/symfony – site média](http://www.pyjobs.fr/jobs/details/3241/architecte-php-symfony-site-media "Architecte php/symfony – site média")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3208/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3190/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3192/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3193/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

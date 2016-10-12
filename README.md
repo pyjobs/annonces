@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3751/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3749/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3750/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/11 - [Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3746/inge-concepteur-developpeur-iot-bluemix-h-f-en-cdi-a-lyon-35000-44000 "Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/07 - [Directeur adjoint systèmes d'informations](http://www.pyjobs.fr/jobs/details/3700/directeur-adjoint-systemes-dinformations "Directeur adjoint systèmes d'informations")
 * 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3698/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3708/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
-* 2016/10/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3699/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

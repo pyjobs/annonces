@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3218/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3221/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/07 - [Front-End Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3214/front-end-developer-h-f-en-cdi-a-paris "Front-End Developer (H/F) en CDI à Paris")
 * 2016/10/07 - [Développeur Front-end (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3212/developpeur-front-end-h-f-en-cdi-a-paris-35000-44000 "Développeur Front-end (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/08 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/3715/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3718/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3717/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/08 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3713/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 

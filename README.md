@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/11 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3742/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
 * 2016/10/11 - [Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)](http://www.pyjobs.fr/jobs/details/3739/developpeur-c-python-confirme-expert-secteur-spatial-h-f "Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)")
 * 2016/10/10 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/3730/developpeur-symfony "Développeur symfony")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3735/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/11 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3251/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3248/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3240/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/11 - [Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)](http://www.pyjobs.fr/jobs/details/3242/developpeur-c-python-confirme-expert-secteur-spatial-h-f "Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/13 - [Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3763/programmer-for-internet-mapping-project-h-f-en-cdd-a-paris-25000-34000 "Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000")
 * 2016/10/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3762/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3719/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Ux manager](http://www.pyjobs.fr/jobs/details/3716/ux-manager "Ux manager")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3720/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3721/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3722/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3723/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

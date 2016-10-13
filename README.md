@@ -2,6 +2,8 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/07 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/3211/technicien-technicienne-programmation "Technicien / Technicienne programmation")
+* 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3719/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Ux manager](http://www.pyjobs.fr/jobs/details/3716/ux-manager "Ux manager")
 * 2016/10/08 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/3715/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3718/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -50,6 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3230/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3225/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3226/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3224/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3220/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

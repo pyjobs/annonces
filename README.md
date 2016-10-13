@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3265/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/12 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/3261/developpeur-python-h-f "Développeur Python (H/F)")
 * 2016/10/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3256/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3260/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3762/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3719/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Ux manager](http://www.pyjobs.fr/jobs/details/3716/ux-manager "Ux manager")
-* 2016/10/08 - [Ux service designer, designer de service digitaux](http://www.pyjobs.fr/jobs/details/3715/ux-service-designer-designer-de-service-digitaux "Ux service designer, designer de service digitaux")
 

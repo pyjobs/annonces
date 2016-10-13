@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3717/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3713/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/10/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3712/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/13 - [Ingénieur Software, spécialiste « Python », Junior (H/F)](http://www.pyjobs.fr/jobs/details/3760/ingenieur-software-specialiste-python-junior-h-f "Ingénieur Software, spécialiste « Python », Junior (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3248/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3240/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/11 - [Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)](http://www.pyjobs.fr/jobs/details/3242/developpeur-c-python-confirme-expert-secteur-spatial-h-f "Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)")
-* 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3233/developpeur-developpeuse-web "Développeur / Développeuse web")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3726/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/3724/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3725/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3720/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3714/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3711/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3710/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/07 - [Front-End Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3706/front-end-developer-h-f-en-cdi-a-paris "Front-End Developer (H/F) en CDI à Paris")
 

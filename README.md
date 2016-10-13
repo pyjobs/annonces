@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/10 - [Développeur symfony](http://www.pyjobs.fr/jobs/details/3730/developpeur-symfony "Développeur symfony")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3735/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3736/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/10 - [Développeur / Développeuse robotique (H/F)](http://www.pyjobs.fr/jobs/details/3733/developpeur-developpeuse-robotique-h-f "Développeur / Développeuse robotique (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/07 - [Front-End Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/3214/front-end-developer-h-f-en-cdi-a-paris "Front-End Developer (H/F) en CDI à Paris")
 * 2016/10/07 - [Développeur Front-end (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3212/developpeur-front-end-h-f-en-cdi-a-paris-35000-44000 "Développeur Front-end (H/F) en CDI à Paris 35000-44000")
 * 2016/10/07 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/3211/technicien-technicienne-programmation "Technicien / Technicienne programmation")
-* 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3719/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

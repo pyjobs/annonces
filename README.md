@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3223/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3230/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3225/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3226/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/11 - [Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)](http://www.pyjobs.fr/jobs/details/3242/developpeur-c-python-confirme-expert-secteur-spatial-h-f "Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)")
 * 2016/10/11 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3245/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3233/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/10 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3234/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

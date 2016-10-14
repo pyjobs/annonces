@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/11 - [Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/3741/developpeur-back-end-python-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
 * 2016/10/11 - [Architecte php/symfony – site média](http://www.pyjobs.fr/jobs/details/3738/architecte-php-symfony-site-media "Architecte php/symfony – site média")
 * 2016/10/11 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3747/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/11 - [Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)](http://www.pyjobs.fr/jobs/details/3739/developpeur-c-python-confirme-expert-secteur-spatial-h-f "Développeur C++/PYTHON Confirmé/Expert-Secteur Spatial (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/11 - [Developpeur Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3247/developpeur-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Python (H/F) en CDI à Paris 35000-44000")
 * 2016/10/11 - [Développeur Full Stack Python / Django](http://www.pyjobs.fr/jobs/details/3243/developpeur-full-stack-python-django "Développeur Full Stack Python / Django")
 * 2016/10/11 - [Architecte php/symfony – site média](http://www.pyjobs.fr/jobs/details/3241/architecte-php-symfony-site-media "Architecte php/symfony – site média")
-* 2016/10/11 - [Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/3244/developpeur-back-end-python-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
 

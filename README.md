@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/10 - [Développeur / Développeuse robotique (H/F)](http://www.pyjobs.fr/jobs/details/3236/developpeur-developpeuse-robotique-h-f "Développeur / Développeuse robotique (H/F)")
 * 2016/10/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3232/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3237/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/09 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/3228/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3736/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/10 - [Développeur / Développeuse robotique (H/F)](http://www.pyjobs.fr/jobs/details/3733/developpeur-developpeuse-robotique-h-f "Développeur / Développeuse robotique (H/F)")
 * 2016/10/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3734/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/10 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3732/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

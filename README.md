@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3269/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/13 - [Cloud Architect DevOps](http://www.pyjobs.fr/jobs/details/3267/cloud-architect-devops "Cloud Architect DevOps")
 * 2016/10/13 - [Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3266/programmer-for-internet-mapping-project-h-f-en-cdd-a-paris-25000-34000 "Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000")
 * 2016/10/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3263/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3220/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3216/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3766/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/13 - [Cloud Architect DevOps](http://www.pyjobs.fr/jobs/details/3764/cloud-architect-devops "Cloud Architect DevOps")
 

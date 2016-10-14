@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/11 - [Développeur backend Python/Django (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3246/developpeur-backend-python-django-h-f-en-stage-a-paris "Développeur backend Python/Django (H/F) en Stage à Paris")
 * 2016/10/11 - [Developpeur Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3247/developpeur-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Python (H/F) en CDI à Paris 35000-44000")
 * 2016/10/11 - [Développeur Full Stack Python / Django](http://www.pyjobs.fr/jobs/details/3243/developpeur-full-stack-python-django "Développeur Full Stack Python / Django")
 * 2016/10/11 - [Architecte php/symfony – site média](http://www.pyjobs.fr/jobs/details/3241/architecte-php-symfony-site-media "Architecte php/symfony – site média")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3754/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3753/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/11 - [Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3746/inge-concepteur-developpeur-iot-bluemix-h-f-en-cdi-a-lyon-35000-44000 "Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000")
-* 2016/10/11 - [Développeur backend Python/Django (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3743/developpeur-backend-python-django-h-f-en-stage-a-paris "Développeur backend Python/Django (H/F) en Stage à Paris")
 

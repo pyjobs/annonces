@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3772/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3766/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3773/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3770/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3726/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur Django / Python](http://www.pyjobs.fr/jobs/details/3274/developpeur-django-python "Développeur Django / Python")
 * 2016/10/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3271/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2016/10/14 - [Développeur JAVA & Adm systèmes (H/F)](http://www.pyjobs.fr/jobs/details/3277/developpeur-java-adm-systemes-h-f "Développeur JAVA & Adm systèmes (H/F)")
 

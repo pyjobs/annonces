@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3767/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur JAVA & Adm systèmes (H/F)](http://www.pyjobs.fr/jobs/details/3774/developpeur-java-adm-systemes-h-f "Développeur JAVA & Adm systèmes (H/F)")
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3772/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur Java / Python (H/F)](http://www.pyjobs.fr/jobs/details/3769/developpeur-java-python-h-f "Développeur Java / Python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3275/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur Java / Python (H/F)](http://www.pyjobs.fr/jobs/details/3272/developpeur-java-python-h-f "Développeur Java / Python (H/F)")
 * 2016/10/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3273/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/14 - [Developpeur fullstack Python AngularJS (H/F)](http://www.pyjobs.fr/jobs/details/3280/developpeur-fullstack-python-angularjs-h-f "Developpeur fullstack Python AngularJS (H/F)")
 

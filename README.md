@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3806/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3801/developpeur-backend-python-php-symfony-h-f-en-cdi-a-paris-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000")
 * 2016/10/17 - [Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000](http://www.pyjobs.fr/jobs/details/3802/chef-de-projet-web-h-f-en-cdi-a-montpellier-35000-44000 "Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000")
 * 2016/10/17 - [Développeur passionné](http://www.pyjobs.fr/jobs/details/3796/developpeur-passionne "Développeur passionné")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/13 - [Développeur / Développeuse full-stack PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/3765/developpeur-developpeuse-full-stack-python-h-f "Développeur / Développeuse full-stack PYTHON (H/F)")
 * 2016/10/12 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/3758/developpeur-python-h-f "Développeur Python (H/F)")
 * 2016/10/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3750/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3751/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

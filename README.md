@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Développeur Java / Python (H/F)](http://www.pyjobs.fr/jobs/details/3272/developpeur-java-python-h-f "Développeur Java / Python (H/F)")
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3270/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3273/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/14 - [Développeur JAVA & Adm systèmes (H/F)](http://www.pyjobs.fr/jobs/details/3277/developpeur-java-adm-systemes-h-f "Développeur JAVA & Adm systèmes (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3778/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/14 - [Développeur back-end sur plateforme VoIP H/F](http://www.pyjobs.fr/jobs/details/3776/developpeur-back-end-sur-plateforme-voip-h-f "Développeur back-end sur plateforme VoIP H/F")
 * 2016/10/14 - [Un admin sys au soleil](http://www.pyjobs.fr/jobs/details/3775/un-admin-sys-au-soleil "Un admin sys au soleil")
-* 2016/10/14 - [Développeur Django / Python](http://www.pyjobs.fr/jobs/details/3771/developpeur-django-python "Développeur Django / Python")
 

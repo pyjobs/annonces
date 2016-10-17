@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/17 - [Expert fullstack php pour logiciel saas](http://www.pyjobs.fr/jobs/details/3793/expert-fullstack-php-pour-logiciel-saas "Expert fullstack php pour logiciel saas")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3792/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3795/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3794/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/11 - [Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/3746/inge-concepteur-developpeur-iot-bluemix-h-f-en-cdi-a-lyon-35000-44000 "Ingé Concepteur Développeur IoT/Bluemix (H/F) en CDI à Lyon 35000-44000")
 * 2016/10/11 - [Développeur backend Python/Django (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/3743/developpeur-backend-python-django-h-f-en-stage-a-paris "Développeur backend Python/Django (H/F) en Stage à Paris")
 * 2016/10/11 - [Developpeur Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/3744/developpeur-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Python (H/F) en CDI à Paris 35000-44000")
-* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3295/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

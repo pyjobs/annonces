@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3291/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3293/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3292/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3290/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/11 - [Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/3244/developpeur-back-end-python-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur back-end Python (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3792/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/16 - [Admin sys dans une jeune entreprise innovante](http://www.pyjobs.fr/jobs/details/3791/admin-sys-dans-une-jeune-entreprise-innovante "Admin sys dans une jeune entreprise innovante")
-* 2016/10/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3787/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

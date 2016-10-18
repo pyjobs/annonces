@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3805/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3807/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/17 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3804/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3803/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000](http://www.pyjobs.fr/jobs/details/3301/chef-de-projet-web-h-f-en-cdi-a-montpellier-35000-44000 "Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000")
 * 2016/10/17 - [Chef de projet informatique (H/F) en CDI à Poilley 25000-34000](http://www.pyjobs.fr/jobs/details/3296/chef-de-projet-informatique-h-f-en-cdi-a-poilley-25000-34000 "Chef de projet informatique (H/F) en CDI à Poilley 25000-34000")
 * 2016/10/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3307/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3302/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

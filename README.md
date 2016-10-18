@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Un admin sys au soleil](http://www.pyjobs.fr/jobs/details/3278/un-admin-sys-au-soleil "Un admin sys au soleil")
 * 2016/10/14 - [Développeur Django / Python](http://www.pyjobs.fr/jobs/details/3274/developpeur-django-python "Développeur Django / Python")
 * 2016/10/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3271/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/10/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3273/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3786/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3778/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3785/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3784/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

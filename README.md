@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3312/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3310/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [DevOps AWS - H/F](http://www.pyjobs.fr/jobs/details/3309/devops-aws-h-f "DevOps AWS - H/F")
 * 2016/10/17 - [Développeur passionné](http://www.pyjobs.fr/jobs/details/3299/developpeur-passionne "Développeur passionné")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/18 - [Vice President of Engineering](http://www.pyjobs.fr/jobs/details/3812/vice-president-of-engineering "Vice President of Engineering")
 * 2016/10/18 - [Développeur/euse confirmé/e](http://www.pyjobs.fr/jobs/details/3809/developpeur-euse-confirme-e "Développeur/euse confirmé/e")
 * 2016/10/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3810/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/18 - [Développeur Web "Full Stack" Junior (H/F)](http://www.pyjobs.fr/jobs/details/3813/developpeur-web-full-stack-junior-h-f "Développeur Web "Full Stack" Junior (H/F)")
 

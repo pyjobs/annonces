@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/13 - [Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3763/programmer-for-internet-mapping-project-h-f-en-cdd-a-paris-25000-34000 "Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000")
 * 2016/10/18 - [Vice President of Engineering](http://www.pyjobs.fr/jobs/details/3313/vice-president-of-engineering "Vice President of Engineering")
 * 2016/10/18 - [Développeur Web "Full Stack" Junior (H/F)](http://www.pyjobs.fr/jobs/details/3314/developpeur-web-full-stack-junior-h-f "Développeur Web "Full Stack" Junior (H/F)")
 * 2016/10/18 - [Développeur/euse confirmé/e](http://www.pyjobs.fr/jobs/details/3311/developpeur-euse-confirme-e "Développeur/euse confirmé/e")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/13 - [Cloud Architect DevOps](http://www.pyjobs.fr/jobs/details/3267/cloud-architect-devops "Cloud Architect DevOps")
 * 2016/10/13 - [Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3266/programmer-for-internet-mapping-project-h-f-en-cdd-a-paris-25000-34000 "Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000")
 * 2016/10/13 - [Développeur / Développeuse full-stack PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/3268/developpeur-developpeuse-full-stack-python-h-f "Développeur / Développeuse full-stack PYTHON (H/F)")
-* 2016/10/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3263/developpeur-developpeuse-web "Développeur / Développeuse web")
 

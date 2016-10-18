@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/17 - [DevOps AWS - H/F](http://www.pyjobs.fr/jobs/details/3808/devops-aws-h-f "DevOps AWS - H/F")
 * 2016/10/17 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3801/developpeur-backend-python-php-symfony-h-f-en-cdi-a-paris-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000")
 * 2016/10/17 - [Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000](http://www.pyjobs.fr/jobs/details/3802/chef-de-projet-web-h-f-en-cdi-a-montpellier-35000-44000 "Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000")
 * 2016/10/17 - [Développeur passionné](http://www.pyjobs.fr/jobs/details/3796/developpeur-passionne "Développeur passionné")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/18 - [Développeur/euse confirmé/e](http://www.pyjobs.fr/jobs/details/3311/developpeur-euse-confirme-e "Développeur/euse confirmé/e")
 * 2016/10/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3312/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3310/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/17 - [DevOps AWS - H/F](http://www.pyjobs.fr/jobs/details/3309/devops-aws-h-f "DevOps AWS - H/F")
 

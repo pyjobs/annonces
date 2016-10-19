@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3322/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/19 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3315/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/19 - [Développeur Python & Data H/F (H/F)](http://www.pyjobs.fr/jobs/details/3323/developpeur-python-data-h-f-h-f "Développeur Python & Data H/F (H/F)")
 * 2016/10/18 - [Evangéliste interne-Lead Développeur- Python/Django](http://www.pyjobs.fr/jobs/details/3317/evangeliste-interne-lead-developpeur-python-django "Evangéliste interne-Lead Développeur- Python/Django")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/19 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3814/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3821/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3818/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3820/developpeur-developpeuse-web "Développeur / Développeuse web")
 

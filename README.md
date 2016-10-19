@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3766/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/19 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3315/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3316/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/18 - [Vice President of Engineering](http://www.pyjobs.fr/jobs/details/3313/vice-president-of-engineering "Vice President of Engineering")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3275/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3271/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/10/13 - [Cloud Architect DevOps](http://www.pyjobs.fr/jobs/details/3267/cloud-architect-devops "Cloud Architect DevOps")
-* 2016/10/13 - [Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3266/programmer-for-internet-mapping-project-h-f-en-cdd-a-paris-25000-34000 "Programmer for Internet mapping project (H/F) en CDD à Paris 25000-34000")
 

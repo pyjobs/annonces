@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3770/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3766/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/19 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3315/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3316/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3275/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3271/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2016/10/13 - [Cloud Architect DevOps](http://www.pyjobs.fr/jobs/details/3267/cloud-architect-devops "Cloud Architect DevOps")
 

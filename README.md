@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3828/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/20 - [Un(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/3824/un-e-analyste-programmeur-developpeur-web "Un(e) analyste-programmeur / développeur web")
 * 2016/10/20 - [Développeur Full stack Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/3827/developpeur-full-stack-python-django-h-f "Développeur Full stack Python/Django (H/F)")
 * 2016/10/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3823/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3778/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3785/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3784/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/14 - [Développeur back-end sur plateforme VoIP H/F](http://www.pyjobs.fr/jobs/details/3776/developpeur-back-end-sur-plateforme-voip-h-f "Développeur back-end sur plateforme VoIP H/F")
 

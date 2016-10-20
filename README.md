@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/20 - [Développeur backend python](http://www.pyjobs.fr/jobs/details/3829/developpeur-backend-python "Développeur backend python")
 * 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3825/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3834/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/19 - [Ingénieur systèmes Linux](http://www.pyjobs.fr/jobs/details/3817/ingenieur-systemes-linux "Ingénieur systèmes Linux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/20 - [Un(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/3325/un-e-analyste-programmeur-developpeur-web "Un(e) analyste-programmeur / développeur web")
 * 2016/10/20 - [Lead développeur python / django](http://www.pyjobs.fr/jobs/details/3331/lead-developpeur-python-django "Lead développeur python / django")
 * 2016/10/20 - [Développeur backend python](http://www.pyjobs.fr/jobs/details/3330/developpeur-backend-python "Développeur backend python")
-* 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3326/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

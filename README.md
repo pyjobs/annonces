@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3805/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3792/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3800/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3795/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [Chef de projet informatique (H/F) en CDI à Poilley 25000-34000](http://www.pyjobs.fr/jobs/details/3296/chef-de-projet-informatique-h-f-en-cdi-a-poilley-25000-34000 "Chef de projet informatique (H/F) en CDI à Poilley 25000-34000")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3308/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3297/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

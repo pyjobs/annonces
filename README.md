@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Developpeur fullstack Python AngularJS (H/F)](http://www.pyjobs.fr/jobs/details/3280/developpeur-fullstack-python-angularjs-h-f "Developpeur fullstack Python AngularJS (H/F)")
 * 2016/10/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3823/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/19 - [Ingénieur systèmes Linux](http://www.pyjobs.fr/jobs/details/3817/ingenieur-systemes-linux "Ingénieur systèmes Linux")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3815/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/14 - [Développeur back-end sur plateforme VoIP H/F](http://www.pyjobs.fr/jobs/details/3776/developpeur-back-end-sur-plateforme-voip-h-f "Développeur back-end sur plateforme VoIP H/F")
 * 2016/10/14 - [Un admin sys au soleil](http://www.pyjobs.fr/jobs/details/3775/un-admin-sys-au-soleil "Un admin sys au soleil")
 * 2016/10/14 - [Développeur Django / Python](http://www.pyjobs.fr/jobs/details/3771/developpeur-django-python "Développeur Django / Python")
-* 2016/10/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/3768/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 

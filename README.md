@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/17 - [Chef de projet informatique (H/F) en CDI à Poilley 25000-34000](http://www.pyjobs.fr/jobs/details/3296/chef-de-projet-informatique-h-f-en-cdi-a-poilley-25000-34000 "Chef de projet informatique (H/F) en CDI à Poilley 25000-34000")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3297/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3298/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [Développeur passionné](http://www.pyjobs.fr/jobs/details/3796/developpeur-passionne "Développeur passionné")
 * 2016/10/17 - [Chef de projet informatique (H/F) en CDI à Poilley 25000-34000](http://www.pyjobs.fr/jobs/details/3797/chef-de-projet-informatique-h-f-en-cdi-a-poilley-25000-34000 "Chef de projet informatique (H/F) en CDI à Poilley 25000-34000")
 * 2016/10/17 - [Expert fullstack php pour logiciel saas](http://www.pyjobs.fr/jobs/details/3793/expert-fullstack-php-pour-logiciel-saas "Expert fullstack php pour logiciel saas")
-* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3803/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

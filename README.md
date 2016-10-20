@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/14 - [Un admin sys au soleil](http://www.pyjobs.fr/jobs/details/3278/un-admin-sys-au-soleil "Un admin sys au soleil")
 * 2016/10/14 - [Développeur Django / Python](http://www.pyjobs.fr/jobs/details/3274/developpeur-django-python "Développeur Django / Python")
 * 2016/10/14 - [Developpeur fullstack Python AngularJS (H/F)](http://www.pyjobs.fr/jobs/details/3280/developpeur-fullstack-python-angularjs-h-f "Developpeur fullstack Python AngularJS (H/F)")
 * 2016/10/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3823/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3785/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3784/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/14 - [Développeur back-end sur plateforme VoIP H/F](http://www.pyjobs.fr/jobs/details/3776/developpeur-back-end-sur-plateforme-voip-h-f "Développeur back-end sur plateforme VoIP H/F")
-* 2016/10/14 - [Un admin sys au soleil](http://www.pyjobs.fr/jobs/details/3775/un-admin-sys-au-soleil "Un admin sys au soleil")
 

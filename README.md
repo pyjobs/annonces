@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/19 - [Développeur Python & Data H/F (H/F)](http://www.pyjobs.fr/jobs/details/3822/developpeur-python-data-h-f-h-f "Développeur Python & Data H/F (H/F)")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3815/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/18 - [Evangéliste interne-Lead Développeur- Python/Django](http://www.pyjobs.fr/jobs/details/3816/evangeliste-interne-lead-developpeur-python-django "Evangéliste interne-Lead Développeur- Python/Django")
 * 2016/10/18 - [Vice President of Engineering](http://www.pyjobs.fr/jobs/details/3812/vice-president-of-engineering "Vice President of Engineering")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/19 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3315/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3319/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3321/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/10/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3322/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

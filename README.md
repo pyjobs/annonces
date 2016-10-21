@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/20 - [Un(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/3824/un-e-analyste-programmeur-developpeur-web "Un(e) analyste-programmeur / développeur web")
 * 2016/10/20 - [Développeur BigData (H/F)](http://www.pyjobs.fr/jobs/details/3832/developpeur-bigdata-h-f "Développeur BigData (H/F)")
 * 2016/10/20 - [Développeur Full stack Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/3827/developpeur-full-stack-python-django-h-f "Développeur Full stack Python/Django (H/F)")
 * 2016/10/20 - [H/F DEVELOPPEUR INFORMATIQUE (H/F)](http://www.pyjobs.fr/jobs/details/3833/h-f-developpeur-informatique-h-f "H/F DEVELOPPEUR INFORMATIQUE (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3783/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/15 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3779/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/20 - [Ingénieur Système Linux](http://www.pyjobs.fr/jobs/details/3332/ingenieur-systeme-linux "Ingénieur Système Linux")
-* 2016/10/20 - [Un(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/3325/un-e-analyste-programmeur-developpeur-web "Un(e) analyste-programmeur / développeur web")
 

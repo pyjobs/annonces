@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3836/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/21 - [Concepteur(trice) développeur(se) de système électronique](http://www.pyjobs.fr/jobs/details/3841/concepteur-trice-developpeur-se-de-systeme-electronique "Concepteur(trice) développeur(se) de système électronique")
 * 2016/10/20 - [Ingénieur Système Linux](http://www.pyjobs.fr/jobs/details/3831/ingenieur-systeme-linux "Ingénieur Système Linux")
 * 2016/10/20 - [Un(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/3824/un-e-analyste-programmeur-developpeur-web "Un(e) analyste-programmeur / développeur web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/18 - [Evangéliste interne-Lead Développeur- Python/Django](http://www.pyjobs.fr/jobs/details/3317/evangeliste-interne-lead-developpeur-python-django "Evangéliste interne-Lead Développeur- Python/Django")
 * 2016/10/18 - [Vice President of Engineering](http://www.pyjobs.fr/jobs/details/3313/vice-president-of-engineering "Vice President of Engineering")
 * 2016/10/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3310/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/18 - [Développeur Web "Full Stack" Junior (H/F)](http://www.pyjobs.fr/jobs/details/3314/developpeur-web-full-stack-junior-h-f "Développeur Web "Full Stack" Junior (H/F)")
 

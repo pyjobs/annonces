@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/20 - [Développeur Full stack Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/3827/developpeur-full-stack-python-django-h-f "Développeur Full stack Python/Django (H/F)")
 * 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3834/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/20 - [Développeur BigData (H/F)](http://www.pyjobs.fr/jobs/details/3832/developpeur-bigdata-h-f "Développeur BigData (H/F)")
 * 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3828/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [DevOps AWS - H/F](http://www.pyjobs.fr/jobs/details/3309/devops-aws-h-f "DevOps AWS - H/F")
 * 2016/10/17 - [Développeur passionné](http://www.pyjobs.fr/jobs/details/3299/developpeur-passionne "Développeur passionné")
 * 2016/10/17 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3300/developpeur-backend-python-php-symfony-h-f-en-cdi-a-paris-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000")
-* 2016/10/17 - [Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000](http://www.pyjobs.fr/jobs/details/3301/chef-de-projet-web-h-f-en-cdi-a-montpellier-35000-44000 "Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3823/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/20 - [Développeur backend python](http://www.pyjobs.fr/jobs/details/3829/developpeur-backend-python "Développeur backend python")
 * 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3825/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/19 - [Ingénieur systèmes Linux](http://www.pyjobs.fr/jobs/details/3817/ingenieur-systemes-linux "Ingénieur systèmes Linux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [Chef de projet informatique (H/F) en CDI à Poilley 25000-34000](http://www.pyjobs.fr/jobs/details/3296/chef-de-projet-informatique-h-f-en-cdi-a-poilley-25000-34000 "Chef de projet informatique (H/F) en CDI à Poilley 25000-34000")
 * 2016/10/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3298/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3304/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/17 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/3306/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 

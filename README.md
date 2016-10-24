@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/24 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/3850/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/10/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3853/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/24 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3857/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/24 - [H/F Développeur ERP python (H/F)](http://www.pyjobs.fr/jobs/details/3855/h-f-developpeur-erp-python-h-f "H/F Développeur ERP python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/24 - [Développeur web full stack](http://www.pyjobs.fr/jobs/details/3348/developpeur-web-full-stack "Développeur web full stack")
 * 2016/10/24 - [Développeur front php/drupal](http://www.pyjobs.fr/jobs/details/3344/developpeur-front-php-drupal "Développeur front php/drupal")
 * 2016/10/24 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/3350/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
-* 2016/10/24 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3355/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/24 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/3850/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/10/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3852/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/24 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3851/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/10/24 - [Qa testeur – economie de partage](http://www.pyjobs.fr/jobs/details/3849/qa-testeur-economie-de-partage "Qa testeur – economie de partage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [Chef de projet informatique (H/F) en CDI à Poilley 25000-34000](http://www.pyjobs.fr/jobs/details/3797/chef-de-projet-informatique-h-f-en-cdi-a-poilley-25000-34000 "Chef de projet informatique (H/F) en CDI à Poilley 25000-34000")
 * 2016/10/17 - [Expert fullstack php pour logiciel saas](http://www.pyjobs.fr/jobs/details/3793/expert-fullstack-php-pour-logiciel-saas "Expert fullstack php pour logiciel saas")
 * 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3803/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3805/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

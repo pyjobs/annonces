@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/20 - [Développeur BigData (H/F)](http://www.pyjobs.fr/jobs/details/3333/developpeur-bigdata-h-f "Développeur BigData (H/F)")
 * 2016/10/19 - [Ingénieur systèmes Linux](http://www.pyjobs.fr/jobs/details/3318/ingenieur-systemes-linux "Ingénieur systèmes Linux")
 * 2016/10/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3321/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/19 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3315/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/20 - [Développeur BigData (H/F)](http://www.pyjobs.fr/jobs/details/3832/developpeur-bigdata-h-f "Développeur BigData (H/F)")
 * 2016/10/20 - [H/F DEVELOPPEUR INFORMATIQUE (H/F)](http://www.pyjobs.fr/jobs/details/3833/h-f-developpeur-informatique-h-f "H/F DEVELOPPEUR INFORMATIQUE (H/F)")
 * 2016/10/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3823/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2016/10/20 - [Lead développeur python / django](http://www.pyjobs.fr/jobs/details/3830/lead-developpeur-python-django "Lead développeur python / django")
 

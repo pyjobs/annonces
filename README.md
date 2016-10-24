@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/24 - [Dev front-end/angular.js | forte volumétrie](http://www.pyjobs.fr/jobs/details/3846/dev-front-end-angular-js-forte-volumetrie "Dev front-end/angular.js | forte volumétrie")
 * 2016/10/24 - [Développeur / administrateur système junior](http://www.pyjobs.fr/jobs/details/3847/developpeur-administrateur-systeme-junior "Développeur / administrateur système junior")
 * 2016/10/24 - [Développeur web full stack](http://www.pyjobs.fr/jobs/details/3848/developpeur-web-full-stack "Développeur web full stack")
 * 2016/10/24 - [Développeur front php/drupal](http://www.pyjobs.fr/jobs/details/3845/developpeur-front-php-drupal "Développeur front php/drupal")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/3801/developpeur-backend-python-php-symfony-h-f-en-cdi-a-paris-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à Paris 25000-34000")
 * 2016/10/17 - [Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000](http://www.pyjobs.fr/jobs/details/3802/chef-de-projet-web-h-f-en-cdi-a-montpellier-35000-44000 "Chef de Projet Web (H/F) en CDI à Montpellier 35000-44000")
 * 2016/10/24 - [H/F Développeur ERP python (H/F)](http://www.pyjobs.fr/jobs/details/3352/h-f-developpeur-erp-python-h-f "H/F Développeur ERP python (H/F)")
-* 2016/10/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3354/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

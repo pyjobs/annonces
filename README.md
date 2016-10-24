@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/24 - [Développeur / administrateur système junior](http://www.pyjobs.fr/jobs/details/3347/developpeur-administrateur-systeme-junior "Développeur / administrateur système junior")
 * 2016/10/24 - [Développeur web full stack](http://www.pyjobs.fr/jobs/details/3348/developpeur-web-full-stack "Développeur web full stack")
 * 2016/10/24 - [Développeur front php/drupal](http://www.pyjobs.fr/jobs/details/3344/developpeur-front-php-drupal "Développeur front php/drupal")
 * 2016/10/24 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/3350/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/17 - [Chef de projet informatique (H/F) en CDI à Poilley 25000-34000](http://www.pyjobs.fr/jobs/details/3296/chef-de-projet-informatique-h-f-en-cdi-a-poilley-25000-34000 "Chef de projet informatique (H/F) en CDI à Poilley 25000-34000")
 * 2016/10/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3858/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3859/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/24 - [Qa testeur – economie de partage](http://www.pyjobs.fr/jobs/details/3849/qa-testeur-economie-de-partage "Qa testeur – economie de partage")
 

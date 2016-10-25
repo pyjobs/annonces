@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3326/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/20 - [Lead développeur python / django](http://www.pyjobs.fr/jobs/details/3331/lead-developpeur-python-django "Lead développeur python / django")
 * 2016/10/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3329/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/20 - [Développeur Full stack Python/Django (H/F)](http://www.pyjobs.fr/jobs/details/3328/developpeur-full-stack-python-django-h-f "Développeur Full stack Python/Django (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/21 - [Concepteur(trice) développeur(se) de système électronique](http://www.pyjobs.fr/jobs/details/3841/concepteur-trice-developpeur-se-de-systeme-electronique "Concepteur(trice) développeur(se) de système électronique")
 * 2016/10/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3835/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3837/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/20 - [Ingénieur Système Linux](http://www.pyjobs.fr/jobs/details/3831/ingenieur-systeme-linux "Ingénieur Système Linux")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3867/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3865/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3861/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/24 - [Qa testeur – economie de partage](http://www.pyjobs.fr/jobs/details/3849/qa-testeur-economie-de-partage "Qa testeur – economie de partage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/25 - [DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F](http://www.pyjobs.fr/jobs/details/3360/developpeur-back-end-python-django-h-f "DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F")
 * 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3359/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3363/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3365/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

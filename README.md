@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/25 - [DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F](http://www.pyjobs.fr/jobs/details/3863/developpeur-back-end-python-django-h-f "DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F")
 * 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3861/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/24 - [Qa testeur – economie de partage](http://www.pyjobs.fr/jobs/details/3849/qa-testeur-economie-de-partage "Qa testeur – economie de partage")
 * 2016/10/24 - [Dev front-end/angular.js | forte volumétrie](http://www.pyjobs.fr/jobs/details/3846/dev-front-end-angular-js-forte-volumetrie "Dev front-end/angular.js | forte volumétrie")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/18 - [Evangéliste interne-Lead Développeur- Python/Django](http://www.pyjobs.fr/jobs/details/3816/evangeliste-interne-lead-developpeur-python-django "Evangéliste interne-Lead Développeur- Python/Django")
 * 2016/10/18 - [Vice President of Engineering](http://www.pyjobs.fr/jobs/details/3812/vice-president-of-engineering "Vice President of Engineering")
 * 2016/10/25 - [DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F](http://www.pyjobs.fr/jobs/details/3360/developpeur-back-end-python-django-h-f "DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F")
-* 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3359/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

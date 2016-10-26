@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3887/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3886/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/25 - [Développeu(r/se) Back-End (Python) (H/F)](http://www.pyjobs.fr/jobs/details/3885/developpeu-r-se-back-end-python-h-f "Développeu(r/se) Back-End (Python) (H/F)")
 * 2016/10/26 - [Développeur Full stack Python/Django](http://www.pyjobs.fr/jobs/details/3884/developpeur-full-stack-python-django "Développeur Full stack Python/Django")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/21 - [DevOps Engineer](http://www.pyjobs.fr/jobs/details/3838/devops-engineer "DevOps Engineer")
 * 2016/10/21 - [Développeur Full stack Python/Django](http://www.pyjobs.fr/jobs/details/3839/developpeur-full-stack-python-django "Développeur Full stack Python/Django")
 * 2016/10/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3836/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/21 - [Concepteur(trice) développeur(se) de système électronique](http://www.pyjobs.fr/jobs/details/3841/concepteur-trice-developpeur-se-de-systeme-electronique "Concepteur(trice) développeur(se) de système électronique")
 

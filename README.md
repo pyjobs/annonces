@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3908/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/28 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3907/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/10/27 - [H/F Développeur full stack web ruby](http://www.pyjobs.fr/jobs/details/3904/h-f-developpeur-full-stack-web-ruby "H/F Développeur full stack web ruby")
 * 2016/10/27 - [H/F Développeur backend et API en ruby](http://www.pyjobs.fr/jobs/details/3903/h-f-developpeur-backend-et-api-en-ruby "H/F Développeur backend et API en ruby")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3872/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/24 - [Qa testeur – economie de partage](http://www.pyjobs.fr/jobs/details/3849/qa-testeur-economie-de-partage "Qa testeur – economie de partage")
 * 2016/10/24 - [Dev front-end/angular.js | forte volumétrie](http://www.pyjobs.fr/jobs/details/3846/dev-front-end-angular-js-forte-volumetrie "Dev front-end/angular.js | forte volumétrie")
-* 2016/10/24 - [Développeur / administrateur système junior](http://www.pyjobs.fr/jobs/details/3847/developpeur-administrateur-systeme-junior "Développeur / administrateur système junior")
 

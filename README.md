@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/25 - [DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F](http://www.pyjobs.fr/jobs/details/3862/developpeur-back-end-python-django-h-f "DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F")
 * 2016/10/25 - [DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F](http://www.pyjobs.fr/jobs/details/3863/developpeur-back-end-python-django-h-f "DÉVELOPPEUR BACK END PYTHON/ DJANGO H/F")
 * 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3922/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3873/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3878/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3879/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/28 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3917/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
-* 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3881/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/28 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3910/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3913/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3934/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/10/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3935/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3927/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3922/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3921/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/28 - [Developpeur/programmeur informatique scientifique Aix (H/F)](http://www.pyjobs.fr/jobs/details/3916/developpeur-programmeur-informatique-scientifique-aix-h-f "Developpeur/programmeur informatique scientifique Aix (H/F)")
 

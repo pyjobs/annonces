@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3924/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3921/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/28 - [Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/3915/developpeur-informatique-javascript-angular-js-toulouse-h-f "Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)")
 * 2016/10/28 - [Developpeur/programmeur informatique scientifique Aix (H/F)](http://www.pyjobs.fr/jobs/details/3916/developpeur-programmeur-informatique-scientifique-aix-h-f "Developpeur/programmeur informatique scientifique Aix (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/28 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/3917/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3880/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3878/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3879/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

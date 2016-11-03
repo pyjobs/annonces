@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/10/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3928/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/02 - [Développeur web](http://www.pyjobs.fr/jobs/details/3960/developpeur-web "Développeur web")
 * 2016/11/02 - [Ingénieur devops - python - paris](http://www.pyjobs.fr/jobs/details/3958/ingenieur-devops-python-paris "Ingénieur devops - python - paris")
 * 2016/11/02 - [Data Engineer pour la Startup E-Commerce qui cartonne - H/F](http://www.pyjobs.fr/jobs/details/3959/data-engineer-pour-la-startup-e-commerce-qui-cartonne-h-f "Data Engineer pour la Startup E-Commerce qui cartonne - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3968/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/02 - [Développeur web/bdd/erp](http://www.pyjobs.fr/jobs/details/3962/developpeur-web-bdd-erp "Développeur web/bdd/erp")
 * 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3970/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3919/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

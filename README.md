@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3948/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/02 - [Développeur JAVA JEE (H/F)](http://www.pyjobs.fr/jobs/details/3957/developpeur-java-jee-h-f "Développeur JAVA JEE (H/F)")
 * 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3955/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3956/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/02 - [Data Engineer pour la Startup E-Commerce qui cartonne - H/F](http://www.pyjobs.fr/jobs/details/3959/data-engineer-pour-la-startup-e-commerce-qui-cartonne-h-f "Data Engineer pour la Startup E-Commerce qui cartonne - H/F")
 * 2016/10/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3926/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3922/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/03 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3966/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

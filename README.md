@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/02 - [Ingénieur devops - python - paris](http://www.pyjobs.fr/jobs/details/3958/ingenieur-devops-python-paris "Ingénieur devops - python - paris")
 * 2016/11/02 - [Data Engineer pour la Startup E-Commerce qui cartonne - H/F](http://www.pyjobs.fr/jobs/details/3959/data-engineer-pour-la-startup-e-commerce-qui-cartonne-h-f "Data Engineer pour la Startup E-Commerce qui cartonne - H/F")
 * 2016/10/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3927/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/03 - [LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F](http://www.pyjobs.fr/jobs/details/3976/leaddev-cto-en-devenir-pour-prendre-les-renes-techniques-dune-startup-dans-la-fintech-h-f "LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3970/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3919/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3923/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3949/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

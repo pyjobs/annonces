@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/03 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3965/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/10/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3914/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3948/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/10/31 - [Développeur Fullstack Python AngularJs (H/F)](http://www.pyjobs.fr/jobs/details/3938/developpeur-fullstack-python-angularjs-h-f "Développeur Fullstack Python AngularJs (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/02 - [Ingénieur devops - python - paris](http://www.pyjobs.fr/jobs/details/3958/ingenieur-devops-python-paris "Ingénieur devops - python - paris")
 * 2016/11/02 - [Data Engineer pour la Startup E-Commerce qui cartonne - H/F](http://www.pyjobs.fr/jobs/details/3959/data-engineer-pour-la-startup-e-commerce-qui-cartonne-h-f "Data Engineer pour la Startup E-Commerce qui cartonne - H/F")
 * 2016/11/02 - [Ingénieur développeur c et python](http://www.pyjobs.fr/jobs/details/3961/ingenieur-developpeur-c-et-python "Ingénieur développeur c et python")
-* 2016/10/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3924/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

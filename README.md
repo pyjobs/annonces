@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3970/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/07 - [Développeur Applications Web (H/F)](http://www.pyjobs.fr/jobs/details/3995/developpeur-applications-web-h-f "Développeur Applications Web (H/F)")
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3989/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3988/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/10/31 - [Ingénieur système Linux & DevOps - H/F](http://www.pyjobs.fr/jobs/details/3939/ingenieur-systeme-linux-devops-h-f "Ingénieur système Linux & DevOps - H/F")
 * 2016/11/02 - [Développeur(se) web agile (H/F)](http://www.pyjobs.fr/jobs/details/3963/developpeur-se-web-agile-h-f "Développeur(se) web agile (H/F)")
 * 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3950/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/10/31 - [Ingénieur système Linux & DevOps - H/F](http://www.pyjobs.fr/jobs/details/3941/ingenieur-systeme-linux-devops-h-f "Ingénieur système Linux & DevOps - H/F")
 

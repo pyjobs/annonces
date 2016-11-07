@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/02 - [Ingénieur développeur c et python](http://www.pyjobs.fr/jobs/details/3961/ingenieur-developpeur-c-et-python "Ingénieur développeur c et python")
 * 2016/11/03 - [Développeur logiciel embarqué / objets connectés](http://www.pyjobs.fr/jobs/details/3973/developpeur-logiciel-embarque-objets-connectes "Développeur logiciel embarqué / objets connectés")
 * 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3948/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/02 - [Développeur JAVA JEE (H/F)](http://www.pyjobs.fr/jobs/details/3957/developpeur-java-jee-h-f "Développeur JAVA JEE (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3986/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3967/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/03 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3964/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/11/07 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/jobs/details/3992/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
 

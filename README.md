@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4010/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4003/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4004/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3978/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/02 - [Développeur JAVA JEE (H/F)](http://www.pyjobs.fr/jobs/details/3957/developpeur-java-jee-h-f "Développeur JAVA JEE (H/F)")
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3984/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/03 - [Développeur fullstack Angular/nodeJS](http://www.pyjobs.fr/jobs/details/3972/developpeur-fullstack-angular-nodejs "Développeur fullstack Angular/nodeJS")
-* 2016/11/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3974/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

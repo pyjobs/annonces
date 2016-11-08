@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4007/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3998/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/08 - [Développeur java envie de scala et spark ?](http://www.pyjobs.fr/jobs/details/4006/developpeur-java-envie-de-scala-et-spark "Développeur java envie de scala et spark ?")
 * 2016/11/07 - [ADMINISTRATEUR SYSTEME LINUX - H/F](http://www.pyjobs.fr/jobs/details/3997/administrateur-systeme-linux-h-f "ADMINISTRATEUR SYSTEME LINUX - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/07 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4001/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3999/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4002/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4000/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

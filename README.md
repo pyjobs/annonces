@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3988/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/03 - [LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F](http://www.pyjobs.fr/jobs/details/3977/leaddev-cto-en-devenir-pour-prendre-les-renes-techniques-dune-startup-dans-la-fintech-h-f "LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F")
 * 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3949/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3982/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3969/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3968/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/02 - [Développeur web/bdd/erp](http://www.pyjobs.fr/jobs/details/3962/developpeur-web-bdd-erp "Développeur web/bdd/erp")
-* 2016/11/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3970/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/07 - [DEVOPS/ INTEGRATION CONTINUE - H/F](http://www.pyjobs.fr/jobs/details/3996/devops-integration-continue-h-f "DEVOPS/ INTEGRATION CONTINUE - H/F")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4016/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4036/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4014/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4019/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4018/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4020/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/07 - [ADMINISTRATEUR SYSTEME LINUX - H/F](http://www.pyjobs.fr/jobs/details/3997/administrateur-systeme-linux-h-f "ADMINISTRATEUR SYSTEME LINUX - H/F")
 

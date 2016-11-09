@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/09 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4031/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/11/07 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3994/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/07 - [DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)](http://www.pyjobs.fr/jobs/details/3992/developpeur-developpeuse-python-odoo-h-f "DEVELOPPEUR/DEVELOPPEUSE PYTHON ODOO (H/F)")
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3985/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3989/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3988/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/03 - [LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F](http://www.pyjobs.fr/jobs/details/3977/leaddev-cto-en-devenir-pour-prendre-les-renes-techniques-dune-startup-dans-la-fintech-h-f "LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F")
-* 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3987/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

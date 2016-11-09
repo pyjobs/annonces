@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/08 - [Administrateur Système Linux H/F](http://www.pyjobs.fr/jobs/details/4011/administrateur-systeme-linux-h-f "Administrateur Système Linux H/F")
 * 2016/11/08 - [Développeurs Python](http://www.pyjobs.fr/jobs/details/4012/developpeurs-python "Développeurs Python")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3993/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3984/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/03 - [LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F](http://www.pyjobs.fr/jobs/details/3976/leaddev-cto-en-devenir-pour-prendre-les-renes-techniques-dune-startup-dans-la-fintech-h-f "LeadDev, CTO en devenir... pour prendre les rênes techniques d'une startup dans la fintech ! - H/F")
 * 2016/11/07 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/3994/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3986/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/03 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/3966/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

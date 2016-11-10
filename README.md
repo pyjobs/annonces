@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/07 - [DEVOPS/ INTEGRATION CONTINUE - H/F](http://www.pyjobs.fr/jobs/details/3996/devops-integration-continue-h-f "DEVOPS/ INTEGRATION CONTINUE - H/F")
 * 2016/11/10 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4043/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/11/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4044/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4035/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/07 - [ADMINISTRATEUR SYSTEME LINUX - H/F](http://www.pyjobs.fr/jobs/details/3997/administrateur-systeme-linux-h-f "ADMINISTRATEUR SYSTEME LINUX - H/F")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4005/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4045/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4015/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

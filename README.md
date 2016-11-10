@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4020/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4019/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4018/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Cto - python/angular - fintech](http://www.pyjobs.fr/jobs/details/4037/cto-python-angular-fintech "Cto - python/angular - fintech")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4040/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/08 - [Développeur java envie de scala et spark ?](http://www.pyjobs.fr/jobs/details/4006/developpeur-java-envie-de-scala-et-spark "Développeur java envie de scala et spark ?")
 * 2016/11/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4007/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4000/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

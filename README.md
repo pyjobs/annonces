@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4045/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4015/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/09 - [Cto - python/angular - fintech](http://www.pyjobs.fr/jobs/details/4037/cto-python-angular-fintech "Cto - python/angular - fintech")
 * 2016/11/07 - [ADMINISTRATEUR SYSTEME LINUX - H/F](http://www.pyjobs.fr/jobs/details/3997/administrateur-systeme-linux-h-f "ADMINISTRATEUR SYSTEME LINUX - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4007/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4000/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/3998/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/10 - [Développeur backend php startup](http://www.pyjobs.fr/jobs/details/4046/developpeur-backend-php-startup "Développeur backend php startup")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4022/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4062/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Data scientist / NLP / Machine Learning](http://www.pyjobs.fr/jobs/details/4041/data-scientist-nlp-machine-learning "Data scientist / NLP / Machine Learning")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4021/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/13 - [Dev scala/hadoop la startup big data](http://www.pyjobs.fr/jobs/details/4068/dev-scala-hadoop-la-startup-big-data "Dev scala/hadoop la startup big data")
 * 2016/11/13 - [Développeur web / python](http://www.pyjobs.fr/jobs/details/4064/developpeur-web-python "Développeur web / python")
 * 2016/11/13 - [Développeur web / python start-up](http://www.pyjobs.fr/jobs/details/4065/developpeur-web-python-start-up "Développeur web / python start-up")
-* 2016/11/13 - [Développeur orienté base de données](http://www.pyjobs.fr/jobs/details/4066/developpeur-oriente-base-de-donnees "Développeur orienté base de données")
 

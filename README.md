@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/10 - [Cto - python/angular - fintech française](http://www.pyjobs.fr/jobs/details/4049/cto-python-angular-fintech-francaise "Cto - python/angular - fintech française")
 * 2016/11/14 - [Ingénieur Django/Python à Pau (64)](http://www.pyjobs.fr/jobs/details/4071/ingenieur-django-python-a-pau-64 "Ingénieur Django/Python à Pau (64)")
 * 2016/11/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4060/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Expert python - prototypage virtuel paris](http://www.pyjobs.fr/jobs/details/4050/expert-python-prototypage-virtuel-paris "Expert python - prototypage virtuel paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4062/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Data scientist / NLP / Machine Learning](http://www.pyjobs.fr/jobs/details/4041/data-scientist-nlp-machine-learning "Data scientist / NLP / Machine Learning")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4021/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4042/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

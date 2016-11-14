@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/13 - [Développeur orienté base de données](http://www.pyjobs.fr/jobs/details/4066/developpeur-oriente-base-de-donnees "Développeur orienté base de données")
 * 2016/11/13 - [Développeur ruby on rails](http://www.pyjobs.fr/jobs/details/4063/developpeur-ruby-on-rails "Développeur ruby on rails")
 * 2016/11/11 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4056/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4022/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4029/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/09 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4024/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/11/13 - [Développeur angular.js confirmé - éditeur](http://www.pyjobs.fr/jobs/details/4067/developpeur-angular-js-confirme-editeur "Développeur angular.js confirmé - éditeur")
-* 2016/11/13 - [Dev scala/hadoop la startup big data](http://www.pyjobs.fr/jobs/details/4068/dev-scala-hadoop-la-startup-big-data "Dev scala/hadoop la startup big data")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4017/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4059/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4043/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/11/14 - [Developpeur Linux distro orientée Sécu - H/F](http://www.pyjobs.fr/jobs/details/4073/developpeur-linux-distro-orientee-secu-h-f "Developpeur Linux distro orientée Sécu - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4045/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4018/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Cto - python/angular - fintech](http://www.pyjobs.fr/jobs/details/4037/cto-python-angular-fintech "Cto - python/angular - fintech")
-* 2016/11/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4015/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

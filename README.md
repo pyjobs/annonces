@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4058/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4054/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/10 - [Développeur / Développeuse -PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/4051/developpeur-developpeuse-python-h-f "Développeur / Développeuse -PYTHON (H/F)")
 * 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4079/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4044/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4032/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4035/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/10 - [Développeur expérimenté Python](http://www.pyjobs.fr/jobs/details/4052/developpeur-experimente-python "Développeur expérimenté Python")
 

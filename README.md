@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/10 - [Developpeur web php](http://www.pyjobs.fr/jobs/details/4048/developpeur-web-php "Developpeur web php")
 * 2016/11/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4069/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Développeur backend php startup](http://www.pyjobs.fr/jobs/details/4046/developpeur-backend-php-startup "Développeur backend php startup")
 * 2016/11/09 - [Développeur·euse Fullstack Python](http://www.pyjobs.fr/jobs/details/4039/developpeur-euse-fullstack-python "Développeur·euse Fullstack Python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/14 - [Ingénieur Django/Python à Pau (64)](http://www.pyjobs.fr/jobs/details/4071/ingenieur-django-python-a-pau-64 "Ingénieur Django/Python à Pau (64)")
 * 2016/11/10 - [Cto - python/angular - fintech française](http://www.pyjobs.fr/jobs/details/4049/cto-python-angular-fintech-francaise "Cto - python/angular - fintech française")
 * 2016/11/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4060/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/10 - [Expert python - prototypage virtuel paris](http://www.pyjobs.fr/jobs/details/4050/expert-python-prototypage-virtuel-paris "Expert python - prototypage virtuel paris")
 

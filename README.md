@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/11 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4056/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/16 - [Ingénieur / Ingénieure d'étude et développement Python/Java (H/F)](http://www.pyjobs.fr/jobs/details/4086/ingenieur-ingenieure-detude-et-developpement-python-java-h-f "Ingénieur / Ingénieure d'étude et développement Python/Java (H/F)")
 * 2016/11/15 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4077/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/14 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/4072/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/13 - [Développeur web / python](http://www.pyjobs.fr/jobs/details/4064/developpeur-web-python "Développeur web / python")
 * 2016/11/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4078/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/13 - [Développeur web / python start-up](http://www.pyjobs.fr/jobs/details/4065/developpeur-web-python-start-up "Développeur web / python start-up")
-* 2016/11/13 - [Développeur orienté base de données](http://www.pyjobs.fr/jobs/details/4066/developpeur-oriente-base-de-donnees "Développeur orienté base de données")
 

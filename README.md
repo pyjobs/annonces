@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/10 - [Développeur / Développeuse -PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/4051/developpeur-developpeuse-python-h-f "Développeur / Développeuse -PYTHON (H/F)")
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4093/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/13 - [Développeur angular.js confirmé - éditeur](http://www.pyjobs.fr/jobs/details/4067/developpeur-angular-js-confirme-editeur "Développeur angular.js confirmé - éditeur")
 * 2016/11/13 - [Dev scala/hadoop la startup big data](http://www.pyjobs.fr/jobs/details/4068/dev-scala-hadoop-la-startup-big-data "Dev scala/hadoop la startup big data")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4032/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4057/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Développeur expérimenté Python](http://www.pyjobs.fr/jobs/details/4052/developpeur-experimente-python "Développeur expérimenté Python")
-* 2016/11/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4058/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

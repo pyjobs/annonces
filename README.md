@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4092/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4091/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/14 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4070/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/10 - [Developpeur web php](http://www.pyjobs.fr/jobs/details/4048/developpeur-web-php "Developpeur web php")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4055/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4084/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4060/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/10 - [Cto - python/angular - fintech française](http://www.pyjobs.fr/jobs/details/4049/cto-python-angular-fintech-francaise "Cto - python/angular - fintech française")
 

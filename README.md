@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/13 - [Dev scala/hadoop la startup big data](http://www.pyjobs.fr/jobs/details/4068/dev-scala-hadoop-la-startup-big-data "Dev scala/hadoop la startup big data")
 * 2016/11/13 - [Développeur web / python](http://www.pyjobs.fr/jobs/details/4064/developpeur-web-python "Développeur web / python")
 * 2016/11/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4078/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/13 - [Développeur web / python start-up](http://www.pyjobs.fr/jobs/details/4065/developpeur-web-python-start-up "Développeur web / python start-up")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4058/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4054/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/10 - [Développeur / Développeuse -PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/4051/developpeur-developpeuse-python-h-f "Développeur / Développeuse -PYTHON (H/F)")
-* 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4079/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4079/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
 * 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4080/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
 * 2016/11/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4054/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/10 - [Développeur / Développeuse -PYTHON (H/F)](http://www.pyjobs.fr/jobs/details/4051/developpeur-developpeuse-python-h-f "Développeur / Développeuse -PYTHON (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/16 - [Python Developer @ startup tech en hyper croissance](http://www.pyjobs.fr/jobs/details/4089/python-developer-startup-tech-en-hyper-croissance "Python Developer @ startup tech en hyper croissance")
 * 2016/11/14 - [Developpeur Linux distro orientée Sécu - H/F](http://www.pyjobs.fr/jobs/details/4073/developpeur-linux-distro-orientee-secu-h-f "Developpeur Linux distro orientée Sécu - H/F")
 * 2016/11/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4044/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4032/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

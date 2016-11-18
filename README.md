@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4081/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4082/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4102/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4103/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/10 - [Developpeur web php](http://www.pyjobs.fr/jobs/details/4048/developpeur-web-php "Developpeur web php")
 * 2016/11/17 - [Ingénieur django](http://www.pyjobs.fr/jobs/details/4097/ingenieur-django "Ingénieur django")
 * 2016/11/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4069/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/10 - [Développeur backend php startup](http://www.pyjobs.fr/jobs/details/4046/developpeur-backend-php-startup "Développeur backend php startup")
 

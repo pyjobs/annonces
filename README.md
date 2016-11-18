@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/17 - [Ingénieur django](http://www.pyjobs.fr/jobs/details/4097/ingenieur-django "Ingénieur django")
 * 2016/11/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4090/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4069/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4104/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4092/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/10 - [Cto - python/angular - fintech française](http://www.pyjobs.fr/jobs/details/4049/cto-python-angular-fintech-francaise "Cto - python/angular - fintech française")
 * 2016/11/10 - [Expert python - prototypage virtuel paris](http://www.pyjobs.fr/jobs/details/4050/expert-python-prototypage-virtuel-paris "Expert python - prototypage virtuel paris")
-* 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4091/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

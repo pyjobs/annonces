@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4101/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4100/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4093/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4094/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4108/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4109/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4095/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/11/16 - [Référent Front-end Amoureux de React ! - H/F](http://www.pyjobs.fr/jobs/details/4088/referent-front-end-amoureux-de-react-h-f "Référent Front-end Amoureux de React ! - H/F")
 

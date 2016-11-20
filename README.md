@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/17 - [Ingénieur django](http://www.pyjobs.fr/jobs/details/4097/ingenieur-django "Ingénieur django")
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4091/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4092/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/14 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4070/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4074/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/14 - [Ingénieur Django/Python à Pau (64)](http://www.pyjobs.fr/jobs/details/4071/ingenieur-django-python-a-pau-64 "Ingénieur Django/Python à Pau (64)")
 * 2016/11/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4061/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/18 - [Stage pour nn(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/4106/stage-pour-nn-e-analyste-programmeur-developpeur-web "Stage pour nn(e) analyste-programmeur / développeur web")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/20 - [Lead Dev pour une start-up AI de Polytechnique](http://www.pyjobs.fr/jobs/details/4115/lead-dev-pour-une-start-up-ai-de-polytechnique "Lead Dev pour une start-up AI de Polytechnique")
 * 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4079/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
 * 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4080/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
 * 2016/11/13 - [Développeur angular.js confirmé - éditeur](http://www.pyjobs.fr/jobs/details/4067/developpeur-angular-js-confirme-editeur "Développeur angular.js confirmé - éditeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/16 - [Python Developer @ startup tech en hyper croissance](http://www.pyjobs.fr/jobs/details/4089/python-developer-startup-tech-en-hyper-croissance "Python Developer @ startup tech en hyper croissance")
 * 2016/11/14 - [Developpeur Linux distro orientée Sécu - H/F](http://www.pyjobs.fr/jobs/details/4073/developpeur-linux-distro-orientee-secu-h-f "Developpeur Linux distro orientée Sécu - H/F")
 * 2016/11/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4057/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4101/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

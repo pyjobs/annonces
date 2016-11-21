@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4113/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/20 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4114/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4098/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/16 - [Ingénieur / Ingénieure d'étude et développement Python/Java (H/F)](http://www.pyjobs.fr/jobs/details/4086/ingenieur-ingenieure-detude-et-developpement-python-java-h-f "Ingénieur / Ingénieure d'étude et développement Python/Java (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4094/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/20 - [Lead Dev pour une start-up AI de Polytechnique](http://www.pyjobs.fr/jobs/details/4115/lead-dev-pour-une-start-up-ai-de-polytechnique "Lead Dev pour une start-up AI de Polytechnique")
 * 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4079/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
-* 2016/11/15 - [Administrateur Système / SysOps - H/F](http://www.pyjobs.fr/jobs/details/4080/administrateur-systeme-sysops-h-f "Administrateur Système / SysOps - H/F")
 

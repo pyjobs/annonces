@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/15 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4077/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4118/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Stage pour nn(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/4106/stage-pour-nn-e-analyste-programmeur-developpeur-web "Stage pour nn(e) analyste-programmeur / développeur web")
 * 2016/11/17 - [Référent Front-end Amoureux de React ! - H/F](http://www.pyjobs.fr/jobs/details/4107/referent-front-end-amoureux-de-react-h-f "Référent Front-end Amoureux de React ! - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4113/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/13 - [Développeur orienté base de données](http://www.pyjobs.fr/jobs/details/4066/developpeur-oriente-base-de-donnees "Développeur orienté base de données")
 * 2016/11/16 - [Ingénieur / Ingénieure d'étude et développement Python/Java (H/F)](http://www.pyjobs.fr/jobs/details/4086/ingenieur-ingenieure-detude-et-developpement-python-java-h-f "Ingénieur / Ingénieure d'étude et développement Python/Java (H/F)")
-* 2016/11/13 - [Développeur ruby on rails](http://www.pyjobs.fr/jobs/details/4063/developpeur-ruby-on-rails "Développeur ruby on rails")
 

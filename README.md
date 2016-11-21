@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4125/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4126/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4128/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4127/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/14 - [Developpeur Linux distro orientée Sécu - H/F](http://www.pyjobs.fr/jobs/details/4073/developpeur-linux-distro-orientee-secu-h-f "Developpeur Linux distro orientée Sécu - H/F")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4101/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4100/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4093/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

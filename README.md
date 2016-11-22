@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/21 - [Développeur full stack web ruby](http://www.pyjobs.fr/jobs/details/4133/developpeur-full-stack-web-ruby "Développeur full stack web ruby")
 * 2016/11/21 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4136/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/11/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4112/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4104/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4105/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/17 - [Ingénieur django](http://www.pyjobs.fr/jobs/details/4097/ingenieur-django "Ingénieur django")
 * 2016/11/17 - [Référent Front-end Amoureux de React ! - H/F](http://www.pyjobs.fr/jobs/details/4107/referent-front-end-amoureux-de-react-h-f "Référent Front-end Amoureux de React ! - H/F")
-* 2016/11/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4092/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

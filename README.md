@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/23 - [Admin sys junior passionné Linux / Python](http://www.pyjobs.fr/jobs/details/4152/admin-sys-junior-passionne-linux-python "Admin sys junior passionné Linux / Python")
 * 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4125/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/20 - [Lead Dev pour une start-up AI de Polytechnique](http://www.pyjobs.fr/jobs/details/4115/lead-dev-pour-une-start-up-ai-de-polytechnique "Lead Dev pour une start-up AI de Polytechnique")
 * 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4126/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4116/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4101/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4147/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4130/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

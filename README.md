@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4118/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Stage pour nn(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/4106/stage-pour-nn-e-analyste-programmeur-developpeur-web "Stage pour nn(e) analyste-programmeur / développeur web")
 * 2016/11/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4105/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/21 - [Référent front-end amoureux de react js](http://www.pyjobs.fr/jobs/details/4134/referent-front-end-amoureux-de-react-js "Référent front-end amoureux de react js")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4145/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/21 - [Développeur Back-end Python](http://www.pyjobs.fr/jobs/details/4137/developpeur-back-end-python "Développeur Back-end Python")
 * 2016/11/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4122/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/11/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4123/developpeur-developpeuse-web "Développeur / Développeuse web")
 

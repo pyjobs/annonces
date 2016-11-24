@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4156/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4132/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4110/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4111/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/21 - [Référent front-end amoureux de react js](http://www.pyjobs.fr/jobs/details/4134/referent-front-end-amoureux-de-react-js "Référent front-end amoureux de react js")
 * 2016/11/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4149/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4148/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/21 - [Développeur backend et api en ruby](http://www.pyjobs.fr/jobs/details/4135/developpeur-backend-et-api-en-ruby "Développeur backend et api en ruby")
 

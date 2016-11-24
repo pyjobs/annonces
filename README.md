@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4118/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/18 - [Stage pour nn(e) analyste-programmeur / développeur web](http://www.pyjobs.fr/jobs/details/4106/stage-pour-nn-e-analyste-programmeur-developpeur-web "Stage pour nn(e) analyste-programmeur / développeur web")
 * 2016/11/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4149/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4148/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4150/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/11/23 - [Webmaster développeur / développeuse](http://www.pyjobs.fr/jobs/details/4151/webmaster-developpeur-developpeuse "Webmaster développeur / développeuse")
 * 2016/11/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4145/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/21 - [Développeur Back-end Python](http://www.pyjobs.fr/jobs/details/4137/developpeur-back-end-python "Développeur Back-end Python")
 

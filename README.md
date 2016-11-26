@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4154/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4132/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4171/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/25 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4173/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/21 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4136/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2016/11/25 - [Stage de fin d'étude en pré-embauche - développeur backend à Grenoble](http://www.pyjobs.fr/jobs/details/4174/stage-de-fin-detude-en-pre-embauche-developpeur-backend-a-grenoble "Stage de fin d'étude en pré-embauche - développeur backend à Grenoble")
 * 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4153/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4155/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

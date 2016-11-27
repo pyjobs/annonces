@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/25 - [Développeur Informatique Industrielle C Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/4176/developpeur-informatique-industrielle-c-confirme-h-f "Développeur Informatique Industrielle C Confirmé (H/F)")
 * 2016/11/27 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4181/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4180/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4175/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4149/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4148/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4145/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/21 - [Développeur Back-end Python](http://www.pyjobs.fr/jobs/details/4137/developpeur-back-end-python "Développeur Back-end Python")
 

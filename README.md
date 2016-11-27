@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4175/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4156/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/21 - [Référent front-end amoureux de react js](http://www.pyjobs.fr/jobs/details/4134/referent-front-end-amoureux-de-react-js "Référent front-end amoureux de react js")
 * 2016/11/21 - [Développeur backend et api en ruby](http://www.pyjobs.fr/jobs/details/4135/developpeur-backend-et-api-en-ruby "Développeur backend et api en ruby")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/21 - [Développeur Back-end Python](http://www.pyjobs.fr/jobs/details/4137/developpeur-back-end-python "Développeur Back-end Python")
 * 2016/11/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4123/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4122/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/11/25 - [Développeur Informatique Industrielle C Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/4176/developpeur-informatique-industrielle-c-confirme-h-f "Développeur Informatique Industrielle C Confirmé (H/F)")
 

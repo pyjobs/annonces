@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4188/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/25 - [Stage de fin d'étude en pré-embauche - développeur backend à Grenoble](http://www.pyjobs.fr/jobs/details/4174/stage-de-fin-detude-en-pre-embauche-developpeur-backend-a-grenoble "Stage de fin d'étude en pré-embauche - développeur backend à Grenoble")
 * 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4153/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4155/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4180/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4175/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4156/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/21 - [Référent front-end amoureux de react js](http://www.pyjobs.fr/jobs/details/4134/referent-front-end-amoureux-de-react-js "Référent front-end amoureux de react js")
 

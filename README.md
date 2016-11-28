@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4171/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/28 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4187/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4186/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/24 - [Admin sys junior linux / python](http://www.pyjobs.fr/jobs/details/4164/admin-sys-junior-linux-python "Admin sys junior linux / python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/25 - [Stage de fin d'étude en pré-embauche - développeur backend à Grenoble](http://www.pyjobs.fr/jobs/details/4174/stage-de-fin-detude-en-pre-embauche-developpeur-backend-a-grenoble "Stage de fin d'étude en pré-embauche - développeur backend à Grenoble")
 * 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4153/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4155/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4154/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

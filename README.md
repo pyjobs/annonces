@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/25 - [Developpeur Linux orientée Sécu - CDI H/F](http://www.pyjobs.fr/jobs/details/4177/developpeur-linux-orientee-secu-cdi-h-f "Developpeur Linux orientée Sécu - CDI H/F")
 * 2016/11/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4196/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/29 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4197/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4195/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/25 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/4178/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2016/11/28 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4190/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4191/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/28 - [Developpeur Linux orienté Sécu - CDI H/F](http://www.pyjobs.fr/jobs/details/4189/developpeur-linux-oriente-secu-cdi-h-f "Developpeur Linux orienté Sécu - CDI H/F")
 

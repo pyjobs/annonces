@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/29 - [Senior Engineer Data](http://www.pyjobs.fr/jobs/details/4198/senior-engineer-data "Senior Engineer Data")
 * 2016/11/28 - [Admin Sys junior Linux / Python (H/F)](http://www.pyjobs.fr/jobs/details/4199/admin-sys-junior-linux-python-h-f "Admin Sys junior Linux / Python (H/F)")
 * 2016/11/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4168/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/30 - [Administrateur système (réseau - serveur)](http://www.pyjobs.fr/jobs/details/4208/administrateur-systeme-reseau-serveur "Administrateur système (réseau - serveur)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4179/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4169/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/24 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4157/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2016/11/24 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4160/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

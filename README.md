@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/11/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4200/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/25 - [Stage de fin d'étude en pré-embauche - développeur backend à Grenoble](http://www.pyjobs.fr/jobs/details/4174/stage-de-fin-detude-en-pre-embauche-developpeur-backend-a-grenoble "Stage de fin d'étude en pré-embauche - développeur backend à Grenoble")
 * 2016/12/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4217/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4216/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/11/30 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4202/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/11/30 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4201/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/11/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4203/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/30 - [Développeur Confirmé](http://www.pyjobs.fr/jobs/details/4212/developpeur-confirme "Développeur Confirmé")
 

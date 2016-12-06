@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4227/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/06 - [Ui, designer interfaces digitales](http://www.pyjobs.fr/jobs/details/4255/ui-designer-interfaces-digitales "Ui, designer interfaces digitales")
 * 2016/12/06 - [5 ux designers, ergonome des interfaces](http://www.pyjobs.fr/jobs/details/4254/5-ux-designers-ergonome-des-interfaces "5 ux designers, ergonome des interfaces")
 * 2016/12/06 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4270/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4230/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4200/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/30 - [DEVELOPPEUR SOFTWARE](http://www.pyjobs.fr/jobs/details/4210/developpeur-software "DEVELOPPEUR SOFTWARE")
-* 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4256/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

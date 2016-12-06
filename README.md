@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4251/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/06 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4252/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4267/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/05 - [Administrateur linux stockage](http://www.pyjobs.fr/jobs/details/4246/administrateur-linux-stockage "Administrateur linux stockage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/01 - [Administrateur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/4215/administrateur-systemes-reseaux-linux-h-f "Administrateur Systèmes/Réseaux Linux (H/F)")
 * 2016/12/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4225/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4214/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/11/30 - [Ingénieur Technique WebOps](http://www.pyjobs.fr/jobs/details/4209/ingenieur-technique-webops "Ingénieur Technique WebOps")
 

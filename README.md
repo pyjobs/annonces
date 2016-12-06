@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/06 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4252/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/12/05 - [Administrateur linux stockage](http://www.pyjobs.fr/jobs/details/4246/administrateur-linux-stockage "Administrateur linux stockage")
 * 2016/12/02 - [Ingénieur d’études DevOps pour la mission spatiale Euclid (H/F)](http://www.pyjobs.fr/jobs/details/4223/ingenieur-detudes-devops-pour-la-mission-spatiale-euclid-h-f "Ingénieur d’études DevOps pour la mission spatiale Euclid (H/F)")
 * 2016/12/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4222/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4233/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/02 - [Admin sys junior passionné linux / python](http://www.pyjobs.fr/jobs/details/4224/admin-sys-junior-passionne-linux-python "Admin sys junior passionné linux / python")
 * 2016/11/30 - [Administrateur système (réseau - serveur)](http://www.pyjobs.fr/jobs/details/4208/administrateur-systeme-reseau-serveur "Administrateur système (réseau - serveur)")
-* 2016/11/30 - [Développeur python](http://www.pyjobs.fr/jobs/details/4207/developpeur-python "Développeur python")
 

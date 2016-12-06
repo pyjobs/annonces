@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4267/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/05 - [Administrateur linux stockage](http://www.pyjobs.fr/jobs/details/4246/administrateur-linux-stockage "Administrateur linux stockage")
 * 2016/12/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4243/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/02 - [Ingénieur d’études DevOps pour la mission spatiale Euclid (H/F)](http://www.pyjobs.fr/jobs/details/4223/ingenieur-detudes-devops-pour-la-mission-spatiale-euclid-h-f "Ingénieur d’études DevOps pour la mission spatiale Euclid (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4214/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/11/30 - [Ingénieur Technique WebOps](http://www.pyjobs.fr/jobs/details/4209/ingenieur-technique-webops "Ingénieur Technique WebOps")
 * 2016/12/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4234/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4233/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

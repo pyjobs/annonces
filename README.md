@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/05 - [Administrateur linux stockage](http://www.pyjobs.fr/jobs/details/4246/administrateur-linux-stockage "Administrateur linux stockage")
 * 2016/12/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4243/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4262/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4263/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4233/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/06 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4252/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4251/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/02 - [Admin sys junior passionné linux / python](http://www.pyjobs.fr/jobs/details/4224/admin-sys-junior-passionne-linux-python "Admin sys junior passionné linux / python")
 

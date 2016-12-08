@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/06 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4264/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4262/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/05 - [Administrateur linux stockage](http://www.pyjobs.fr/jobs/details/4246/administrateur-linux-stockage "Administrateur linux stockage")
 * 2016/12/08 - [Développeur web internet des objets](http://www.pyjobs.fr/jobs/details/4293/developpeur-web-internet-des-objets "Développeur web internet des objets")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/07 - [Mission Freelance Sysadmin / Devops Python H/F Paris](http://www.pyjobs.fr/jobs/details/4286/mission-freelance-sysadmin-devops-python-h-f-paris "Mission Freelance Sysadmin / Devops Python H/F Paris")
 * 2016/12/07 - [DÉVELOPPEUR C++ CONFIRMÉ F/H](http://www.pyjobs.fr/jobs/details/4287/developpeur-c-confirme-f-h "DÉVELOPPEUR C++ CONFIRMÉ F/H")
 * 2016/12/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4251/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

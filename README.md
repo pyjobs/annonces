@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/13 - [Développeur confirmé H/F](http://www.pyjobs.fr/jobs/details/4318/developpeur-confirme-h-f "Développeur confirmé H/F")
 * 2016/12/08 - [Développeur (se) full stack](http://www.pyjobs.fr/jobs/details/4295/developpeur-se-full-stack "Développeur (se) full stack")
 * 2016/12/12 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/4312/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/12/08 - [Développeur python](http://www.pyjobs.fr/jobs/details/4294/developpeur-python "Développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/09 - [Générateur de Releases Notes internationalisées – Stage R&D (H/F)](http://www.pyjobs.fr/jobs/details/4308/generateur-de-releases-notes-internationalisees-stage-r-d-h-f "Générateur de Releases Notes internationalisées – Stage R&D (H/F)")
 * 2016/12/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4304/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4303/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/12 - [SysOps prêt à encaisser du gros trafic! - H/F](http://www.pyjobs.fr/jobs/details/4313/sysops-pret-a-encaisser-du-gros-trafic-h-f "SysOps prêt à encaisser du gros trafic! - H/F")
 

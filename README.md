@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4304/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/08 - [Développeur (se) full stack](http://www.pyjobs.fr/jobs/details/4295/developpeur-se-full-stack "Développeur (se) full stack")
 * 2016/12/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4328/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4327/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/07 - [Mission Freelance Sysadmin / Devops Python H/F Paris](http://www.pyjobs.fr/jobs/details/4286/mission-freelance-sysadmin-devops-python-h-f-paris "Mission Freelance Sysadmin / Devops Python H/F Paris")
 * 2016/12/06 - [5 ux designers, ergonome des interfaces](http://www.pyjobs.fr/jobs/details/4254/5-ux-designers-ergonome-des-interfaces "5 ux designers, ergonome des interfaces")
 * 2016/12/09 - [Générateur de Releases Notes internationalisées – Stage R&D (H/F)](http://www.pyjobs.fr/jobs/details/4308/generateur-de-releases-notes-internationalisees-stage-r-d-h-f "Générateur de Releases Notes internationalisées – Stage R&D (H/F)")
-* 2016/12/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

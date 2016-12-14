@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/07 - [Mission Freelance Sysadmin / Devops Python H/F Paris](http://www.pyjobs.fr/jobs/details/4286/mission-freelance-sysadmin-devops-python-h-f-paris "Mission Freelance Sysadmin / Devops Python H/F Paris")
 * 2016/12/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/13 - [Développeur confirmé H/F](http://www.pyjobs.fr/jobs/details/4318/developpeur-confirme-h-f "Développeur confirmé H/F")
 * 2016/12/12 - [SysOps prêt à encaisser du gros trafic! - H/F](http://www.pyjobs.fr/jobs/details/4313/sysops-pret-a-encaisser-du-gros-trafic-h-f "SysOps prêt à encaisser du gros trafic! - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/06 - [Ui, designer interfaces digitales](http://www.pyjobs.fr/jobs/details/4255/ui-designer-interfaces-digitales "Ui, designer interfaces digitales")
 * 2016/12/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4321/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4320/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/12/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4306/developpeur-developpeuse-web "Développeur / Développeuse web")
 

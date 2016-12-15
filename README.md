@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/08 - [Développeur (se) full stack](http://www.pyjobs.fr/jobs/details/4295/developpeur-se-full-stack "Développeur (se) full stack")
 * 2016/12/15 - [Developpeur/programmeur informatique scientifique Bordeaux (H/F)](http://www.pyjobs.fr/jobs/details/4345/developpeur-programmeur-informatique-scientifique-bordeaux-h-f "Developpeur/programmeur informatique scientifique Bordeaux (H/F)")
 * 2016/12/15 - [Développeur Full Stack Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/4342/developpeur-full-stack-confirme-h-f "Développeur Full Stack Confirmé (H/F)")
 * 2016/12/15 - [Développeur (euse) Android](http://www.pyjobs.fr/jobs/details/4343/developpeur-euse-android "Développeur (euse) Android")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/07 - [Mission Freelance Sysadmin / Devops Python H/F Paris](http://www.pyjobs.fr/jobs/details/4286/mission-freelance-sysadmin-devops-python-h-f-paris "Mission Freelance Sysadmin / Devops Python H/F Paris")
 * 2016/12/13 - [Développeur confirmé H/F](http://www.pyjobs.fr/jobs/details/4318/developpeur-confirme-h-f "Développeur confirmé H/F")
 * 2016/12/12 - [SysOps prêt à encaisser du gros trafic! - H/F](http://www.pyjobs.fr/jobs/details/4313/sysops-pret-a-encaisser-du-gros-trafic-h-f "SysOps prêt à encaisser du gros trafic! - H/F")
-* 2016/12/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4304/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/13 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4317/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/12/15 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4339/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/12/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4340/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4314/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/15 - [Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/4341/developpeur-informatique-javascript-angular-js-toulouse-h-f "Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)")
 * 2016/12/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4300/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4301/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4302/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

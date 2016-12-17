@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/16 - [Dev web erp odoo](http://www.pyjobs.fr/jobs/details/4353/dev-web-erp-odoo "Dev web erp odoo")
 * 2016/12/12 - [Consultant cloud](http://www.pyjobs.fr/jobs/details/4311/consultant-cloud "Consultant cloud")
 * 2016/12/16 - [Infographie/photo numérique/design](http://www.pyjobs.fr/jobs/details/4352/infographie-photo-numerique-design "Infographie/photo numérique/design")
 * 2016/12/12 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/4312/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/16 - [Développeur(se) web agile (H/F)](http://www.pyjobs.fr/jobs/details/4354/developpeur-se-web-agile-h-f "Développeur(se) web agile (H/F)")
 * 2016/12/15 - [Developpeur/programmeur informatique scientifique Aix (H/F)](http://www.pyjobs.fr/jobs/details/4346/developpeur-programmeur-informatique-scientifique-aix-h-f "Developpeur/programmeur informatique scientifique Aix (H/F)")
 * 2016/12/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4306/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/12/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4327/developpeur-developpeuse-web "Développeur / Développeuse web")
 

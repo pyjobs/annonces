@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/13 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4326/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/12/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4356/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/15 - [Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/4341/developpeur-informatique-javascript-angular-js-toulouse-h-f "Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)")
 * 2016/12/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4335/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4350/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/15 - [Developpeur/programmeur informatique scientifique Bordeaux (H/F)](http://www.pyjobs.fr/jobs/details/4345/developpeur-programmeur-informatique-scientifique-bordeaux-h-f "Developpeur/programmeur informatique scientifique Bordeaux (H/F)")
 * 2016/12/15 - [Développeur Full Stack Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/4342/developpeur-full-stack-confirme-h-f "Développeur Full Stack Confirmé (H/F)")
-* 2016/12/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4357/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

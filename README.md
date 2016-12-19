@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/15 - [Developpeur/programmeur informatique scientifique Bordeaux (H/F)](http://www.pyjobs.fr/jobs/details/4345/developpeur-programmeur-informatique-scientifique-bordeaux-h-f "Developpeur/programmeur informatique scientifique Bordeaux (H/F)")
 * 2016/12/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4369/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/15 - [Développeur Full Stack Confirmé (H/F)](http://www.pyjobs.fr/jobs/details/4342/developpeur-full-stack-confirme-h-f "Développeur Full Stack Confirmé (H/F)")
 * 2016/12/15 - [Developpeur/programmeur informatique scientifique Paris (H/F)](http://www.pyjobs.fr/jobs/details/4344/developpeur-programmeur-informatique-scientifique-paris-h-f "Developpeur/programmeur informatique scientifique Paris (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4351/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4327/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/19 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4370/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2016/12/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4357/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

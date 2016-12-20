@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/18 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4364/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/12/16 - [Dev web erp odoo](http://www.pyjobs.fr/jobs/details/4353/dev-web-erp-odoo "Dev web erp odoo")
 * 2016/12/16 - [Infographie/photo numérique/design](http://www.pyjobs.fr/jobs/details/4352/infographie-photo-numerique-design "Infographie/photo numérique/design")
 * 2016/12/19 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4370/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4348/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4375/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4365/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/15 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4347/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/15 - [Développeur (euse) Android](http://www.pyjobs.fr/jobs/details/4343/developpeur-euse-android "Développeur (euse) Android")
 * 2016/12/21 - [Ingénieur test logiciel](http://www.pyjobs.fr/jobs/details/4390/ingenieur-test-logiciel "Ingénieur test logiciel")
 * 2016/12/21 - [Administrateur systèmes et réseaux](http://www.pyjobs.fr/jobs/details/4391/administrateur-systemes-et-reseaux "Administrateur systèmes et réseaux")
 * 2016/12/21 - [Ingénieur full-stack python flask / vuejs](http://www.pyjobs.fr/jobs/details/4389/ingenieur-full-stack-python-flask-vuejs "Ingénieur full-stack python flask / vuejs")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4350/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4369/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/15 - [Developpeur/programmeur informatique scientifique Bordeaux (H/F)](http://www.pyjobs.fr/jobs/details/4345/developpeur-programmeur-informatique-scientifique-bordeaux-h-f "Developpeur/programmeur informatique scientifique Bordeaux (H/F)")
-* 2016/12/15 - [Developpeur/programmeur informatique scientifique Paris (H/F)](http://www.pyjobs.fr/jobs/details/4344/developpeur-programmeur-informatique-scientifique-paris-h-f "Developpeur/programmeur informatique scientifique Paris (H/F)")
 

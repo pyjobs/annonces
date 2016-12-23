@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/21 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4388/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2016/12/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4374/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/18 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4363/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/12/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4403/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/18 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4362/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/12/21 - [Ingénieur test logiciel](http://www.pyjobs.fr/jobs/details/4390/ingenieur-test-logiciel "Ingénieur test logiciel")
 * 2016/12/21 - [Administrateur systèmes et réseaux](http://www.pyjobs.fr/jobs/details/4391/administrateur-systemes-et-reseaux "Administrateur systèmes et réseaux")
-* 2016/12/21 - [Ingénieur full-stack python flask / vuejs](http://www.pyjobs.fr/jobs/details/4389/ingenieur-full-stack-python-flask-vuejs "Ingénieur full-stack python flask / vuejs")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4403/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/23 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/4402/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2016/12/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4404/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4386/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/21 - [Ingénieur full-stack python flask / vuejs](http://www.pyjobs.fr/jobs/details/4389/ingenieur-full-stack-python-flask-vuejs "Ingénieur full-stack python flask / vuejs")
 * 2016/12/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4356/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/20 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4382/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/12/15 - [Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/4341/developpeur-informatique-javascript-angular-js-toulouse-h-f "Développeur informatique JAVASCRIPT ANGULAR.JS Toulouse (H/F)")
 

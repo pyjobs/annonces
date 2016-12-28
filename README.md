@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4425/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4419/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/28 - [Développeur logiciel embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4441/developpeur-logiciel-embarque-h-f "Développeur logiciel embarqué (H/F)")
 * 2016/12/27 - [DÉVELOPPEUR WEB BACK & FRONT - END H/F (H/F)](http://www.pyjobs.fr/jobs/details/4433/developpeur-web-back-front-end-h-f-h-f "DÉVELOPPEUR WEB BACK & FRONT - END H/F (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/27 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/4429/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/12/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4386/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4427/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4428/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

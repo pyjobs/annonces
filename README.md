@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/30 - [Administrateur / Ingénieur système (H/F)](http://www.pyjobs.fr/jobs/details/4456/administrateur-ingenieur-systeme-h-f "Administrateur / Ingénieur système (H/F)")
 * 2016/12/27 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/4429/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2016/12/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4420/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4457/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4436/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4403/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/28 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4437/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2016/12/27 - [Développeur(se) full-stack django/angular 2/docker](http://www.pyjobs.fr/jobs/details/4431/developpeur-se-full-stack-django-angular-2-docker "Développeur(se) full-stack django/angular 2/docker")
 

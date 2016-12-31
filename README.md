@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4417/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4450/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/29 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4451/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2016/12/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4436/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4440/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4442/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4413/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/26 - [Technicien support technique N2](http://www.pyjobs.fr/jobs/details/4421/technicien-support-technique-n2 "Technicien support technique N2")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4458/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4445/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4414/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/29 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4444/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4452/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/26 - [Business Intelligence Consultant H/F](http://www.pyjobs.fr/jobs/details/4424/business-intelligence-consultant-h-f "Business Intelligence Consultant H/F")
 * 2016/12/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4459/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2016/12/26 - [Devops Engineer H/F](http://www.pyjobs.fr/jobs/details/4423/devops-engineer-h-f "Devops Engineer H/F")
 

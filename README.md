@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/03 - [Gestionnaire base de données / Développeur (h/f)](http://www.pyjobs.fr/jobs/details/4481/gestionnaire-base-de-donnees-developpeur-h-f "Gestionnaire base de données / Développeur (h/f)")
 * 2017/01/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4465/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4449/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/03 - [H/F Développeur ERP python (H/F)](http://www.pyjobs.fr/jobs/details/4480/h-f-developpeur-erp-python-h-f "H/F Développeur ERP python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/27 - [Développeur web mobile](http://www.pyjobs.fr/jobs/details/4430/developpeur-web-mobile "Développeur web mobile")
 * 2016/12/27 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/4432/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2017/01/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4466/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4464/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

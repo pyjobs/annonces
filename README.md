@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2016/12/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4457/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/03 - [H/F Développeur ERP python (H/F)](http://www.pyjobs.fr/jobs/details/4480/h-f-developpeur-erp-python-h-f "H/F Développeur ERP python (H/F)")
 * 2016/12/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4449/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4448/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2016/12/27 - [Développeur(se) full-stack django/angular 2/docker](http://www.pyjobs.fr/jobs/details/4431/developpeur-se-full-stack-django-angular-2-docker "Développeur(se) full-stack django/angular 2/docker")
 * 2016/12/27 - [Développeur web mobile](http://www.pyjobs.fr/jobs/details/4430/developpeur-web-mobile "Développeur web mobile")
 * 2017/01/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4466/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4464/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

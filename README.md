@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4484/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/02 - [Développeur / Développeuse web JS (H/F)](http://www.pyjobs.fr/jobs/details/4472/developpeur-developpeuse-web-js-h-f "Développeur / Développeuse web JS (H/F)")
 * 2016/12/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4461/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4477/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/03 - [Ingénieur système Linux qui aime jouer avec la technique :D](http://www.pyjobs.fr/jobs/details/4478/ingenieur-systeme-linux-qui-aime-jouer-avec-la-technique-d "Ingénieur système Linux qui aime jouer avec la technique :D")
 * 2017/01/03 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4479/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4462/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2016/12/28 - [Développeur logiciel embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4441/developpeur-logiciel-embarque-h-f "Développeur logiciel embarqué (H/F)")
 

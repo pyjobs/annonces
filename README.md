@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/03 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4479/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2016/12/31 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4462/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4485/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/02 - [DevOps, ... Lead DevOps !](http://www.pyjobs.fr/jobs/details/4471/devops-lead-devops "DevOps, ... Lead DevOps !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/03 - [H/F Développeur ERP python (H/F)](http://www.pyjobs.fr/jobs/details/4480/h-f-developpeur-erp-python-h-f "H/F Développeur ERP python (H/F)")
 * 2016/12/29 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4448/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/27 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4434/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/01/02 - [Développeur backend python (H/F)](http://www.pyjobs.fr/jobs/details/4473/developpeur-backend-python-h-f "Développeur backend python (H/F)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/03 - [H/F Développeur ERP python (H/F)](http://www.pyjobs.fr/jobs/details/4480/h-f-developpeur-erp-python-h-f "H/F Développeur ERP python (H/F)")
 * 2017/01/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4465/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2016/12/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4457/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/04 - [Développeur front Angular.js confirmé (télétravail) - Editeur international H/F](http://www.pyjobs.fr/jobs/details/4486/developpeur-front-angular-js-confirme-teletravail-editeur-international-h-f "Développeur front Angular.js confirmé (télétravail) - Editeur international H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/03 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4482/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/03 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4483/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/04 - [Développeur informatique (H/F)](http://www.pyjobs.fr/jobs/details/4487/developpeur-informatique-h-f "Développeur informatique (H/F)")
-* 2016/12/30 - [Administrateur / Ingénieur système (H/F)](http://www.pyjobs.fr/jobs/details/4456/administrateur-ingenieur-systeme-h-f "Administrateur / Ingénieur système (H/F)")
 

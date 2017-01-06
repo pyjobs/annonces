@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4508/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4511/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4510/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/02 - [Développeur / Développeuse web JS (H/F)](http://www.pyjobs.fr/jobs/details/4472/developpeur-developpeuse-web-js-h-f "Développeur / Développeuse web JS (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4498/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4485/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/03 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4479/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/01/02 - [DevOps, ... Lead DevOps !](http://www.pyjobs.fr/jobs/details/4471/devops-lead-devops "DevOps, ... Lead DevOps !")
 

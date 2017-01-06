@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/03 - [Ingénieur système Linux qui aime jouer avec la technique :D](http://www.pyjobs.fr/jobs/details/4478/ingenieur-systeme-linux-qui-aime-jouer-avec-la-technique-d "Ingénieur système Linux qui aime jouer avec la technique :D")
 * 2017/01/03 - [Gestionnaire base de données / Développeur (h/f)](http://www.pyjobs.fr/jobs/details/4481/gestionnaire-base-de-donnees-developpeur-h-f "Gestionnaire base de données / Développeur (h/f)")
 * 2017/01/03 - [H/F Développeur ERP python (H/F)](http://www.pyjobs.fr/jobs/details/4480/h-f-developpeur-erp-python-h-f "H/F Développeur ERP python (H/F)")
 * 2017/01/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4465/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/04 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4490/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/01/04 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4492/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4500/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/04 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4488/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

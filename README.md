@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/04 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4492/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4491/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4500/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/04 - [Développeur front Angular.js confirmé (télétravail) - Editeur international H/F](http://www.pyjobs.fr/jobs/details/4486/developpeur-front-angular-js-confirme-teletravail-editeur-international-h-f "Développeur front Angular.js confirmé (télétravail) - Editeur international H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/05 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4496/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/01/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4533/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/07 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4526/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/01/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4517/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/09 - [Développeur back-end éprouvé avec une ambition reptilienne - H/F](http://www.pyjobs.fr/jobs/details/4548/developpeur-back-end-eprouve-avec-une-ambition-reptilienne-h-f "Développeur back-end éprouvé avec une ambition reptilienne - H/F")
 * 2017/01/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4529/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4533/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4538/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4535/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4539/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4534/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/10 - [Ingénieur Systèmes orienté DevOps](http://www.pyjobs.fr/jobs/details/4550/ingenieur-systemes-oriente-devops "Ingénieur Systèmes orienté DevOps")
 

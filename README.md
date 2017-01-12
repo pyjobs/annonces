@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/10 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4561/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4547/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4546/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4545/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/09 - [Développeur back-end éprouvé avec une ambition reptilienne - H/F](http://www.pyjobs.fr/jobs/details/4548/developpeur-back-end-eprouve-avec-une-ambition-reptilienne-h-f "Développeur back-end éprouvé avec une ambition reptilienne - H/F")
 * 2017/01/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4529/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4533/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/01/11 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4579/developpeur-developpeuse-web "Développeur / Développeuse web")
 

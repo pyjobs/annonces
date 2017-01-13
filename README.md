@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/12 - [Développeur (se) de tests automatisés (H/F)](http://www.pyjobs.fr/jobs/details/4586/developpeur-se-de-tests-automatises-h-f "Développeur (se) de tests automatisés (H/F)")
 * 2017/01/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4585/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4568/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4567/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4570/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/10 - [Developpeur agile senior](http://www.pyjobs.fr/jobs/details/4557/developpeur-agile-senior "Developpeur agile senior")
 * 2017/01/10 - [Developpeur backend python](http://www.pyjobs.fr/jobs/details/4558/developpeur-backend-python "Developpeur backend python")
-* 2017/01/10 - [Développeur python](http://www.pyjobs.fr/jobs/details/4559/developpeur-python "Développeur python")
 

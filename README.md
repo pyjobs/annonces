@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/11 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4579/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/10 - [Developpeur agile](http://www.pyjobs.fr/jobs/details/4560/developpeur-agile "Developpeur agile")
 * 2017/01/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4571/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/10 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4561/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/11 - [Ingénieur(e) analyse programmation en informatique gestion](http://www.pyjobs.fr/jobs/details/4573/ingenieur-e-analyse-programmation-en-informatique-gestion "Ingénieur(e) analyse programmation en informatique gestion")
 * 2017/01/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4562/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/09 - [Développeur back-end éprouvé avec une ambition reptilienne - H/F](http://www.pyjobs.fr/jobs/details/4548/developpeur-back-end-eprouve-avec-une-ambition-reptilienne-h-f "Développeur back-end éprouvé avec une ambition reptilienne - H/F")
-* 2017/01/08 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4529/developpeur-developpeuse-web "Développeur / Développeuse web")
 

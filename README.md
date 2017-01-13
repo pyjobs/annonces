@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4580/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4572/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/11 - [Ingénieur(e) analyse programmation en informatique gestion](http://www.pyjobs.fr/jobs/details/4573/ingenieur-e-analyse-programmation-en-informatique-gestion "Ingénieur(e) analyse programmation en informatique gestion")
 * 2017/01/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4597/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4588/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4589/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/10 - [Ingénieur Systèmes orienté DevOps](http://www.pyjobs.fr/jobs/details/4550/ingenieur-systemes-oriente-devops "Ingénieur Systèmes orienté DevOps")
-* 2017/01/10 - [Ingénieur Systèmes orienté DevOps](http://www.pyjobs.fr/jobs/details/4549/ingenieur-systemes-oriente-devops "Ingénieur Systèmes orienté DevOps")
 

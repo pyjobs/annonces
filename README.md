@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/13 - [Ingénieur QA et Dévelppeur Python](http://www.pyjobs.fr/jobs/details/4602/ingenieur-qa-et-develppeur-python "Ingénieur QA et Dévelppeur Python")
 * 2017/01/12 - [Développeur Python H/F CDD futur CD | Possibilité Freelance](http://www.pyjobs.fr/jobs/details/4584/developpeur-python-h-f-cdd-futur-cd-possibilite-freelance "Développeur Python H/F CDD futur CD | Possibilité Freelance")
 * 2017/01/10 - [Developpeur backend python](http://www.pyjobs.fr/jobs/details/4558/developpeur-backend-python "Developpeur backend python")
 * 2017/01/10 - [Développeur python](http://www.pyjobs.fr/jobs/details/4559/developpeur-python "Développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4571/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/10 - [Developpeur agile](http://www.pyjobs.fr/jobs/details/4560/developpeur-agile "Developpeur agile")
 * 2017/01/10 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4561/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2017/01/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4595/developpeur-developpeuse-web "Développeur / Développeuse web")
 

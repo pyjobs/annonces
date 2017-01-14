@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4591/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/12 - [Analyste-programmeur(se) de micro-informatique](http://www.pyjobs.fr/jobs/details/4582/analyste-programmeur-se-de-micro-informatique "Analyste-programmeur(se) de micro-informatique")
 * 2017/01/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4574/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/13 - [[Stage] Développeur(se) Full Stack Python/Django/JS-React](http://www.pyjobs.fr/jobs/details/4600/stage-developpeur-se-full-stack-python-django-js-react "[Stage] Développeur(se) Full Stack Python/Django/JS-React")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/13 - [Business Intelligence Manager](http://www.pyjobs.fr/jobs/details/4594/business-intelligence-manager "Business Intelligence Manager")
 * 2017/01/13 - [Senior Data Engineer H/F](http://www.pyjobs.fr/jobs/details/4593/senior-data-engineer-h-f "Senior Data Engineer H/F")
 * 2017/01/13 - [Senior Devops Engineer H/F](http://www.pyjobs.fr/jobs/details/4592/senior-devops-engineer-h-f "Senior Devops Engineer H/F")
-* 2017/01/11 - [Développeur Python H/F](http://www.pyjobs.fr/jobs/details/4576/developpeur-python-h-f "Développeur Python H/F")
 

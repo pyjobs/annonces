@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4614/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4608/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/12 - [Développeur Python H/F CDD futur CD | Possibilité Freelance](http://www.pyjobs.fr/jobs/details/4584/developpeur-python-h-f-cdd-futur-cd-possibilite-freelance "Développeur Python H/F CDD futur CD | Possibilité Freelance")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4626/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/16 - [Concepteur et développeur C++/ QT (H/F).](http://www.pyjobs.fr/jobs/details/4622/concepteur-et-developpeur-c-qt-h-f "Concepteur et développeur C++/ QT (H/F).")
 * 2017/01/16 - [Développeur C/C++ embarqué (H/F).](http://www.pyjobs.fr/jobs/details/4623/developpeur-c-c-embarque-h-f "Développeur C/C++ embarqué (H/F).")
 * 2017/01/16 - [Ingénieur d’études et développement C / C++ embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4621/ingenieur-detudes-et-developpement-c-c-embarque-h-f "Ingénieur d’études et développement C / C++ embarqué (H/F)")
-* 2017/01/13 - [Ingénieur QA et Dévelppeur Python](http://www.pyjobs.fr/jobs/details/4602/ingenieur-qa-et-develppeur-python "Ingénieur QA et Dévelppeur Python")
 

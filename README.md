@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/13 - [Business Intelligence Manager](http://www.pyjobs.fr/jobs/details/4594/business-intelligence-manager "Business Intelligence Manager")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4619/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/13 - [Senior Data Engineer H/F](http://www.pyjobs.fr/jobs/details/4593/senior-data-engineer-h-f "Senior Data Engineer H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4612/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4613/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4606/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4624/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

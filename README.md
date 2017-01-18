@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4630/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4631/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4629/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/16 - [Concepteur et développeur C++/ QT (H/F).](http://www.pyjobs.fr/jobs/details/4622/concepteur-et-developpeur-c-qt-h-f "Concepteur et développeur C++/ QT (H/F).")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/13 - [[Stage] Développeur(se) Full Stack Python/Django/JS-React](http://www.pyjobs.fr/jobs/details/4600/stage-developpeur-se-full-stack-python-django-js-react "[Stage] Développeur(se) Full Stack Python/Django/JS-React")
 * 2017/01/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4601/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Développeur back avec une ambition pythonnesque](http://www.pyjobs.fr/jobs/details/4633/developpeur-back-avec-une-ambition-pythonnesque "Développeur back avec une ambition pythonnesque")
-* 2017/01/17 - [Consultant développeur](http://www.pyjobs.fr/jobs/details/4632/consultant-developpeur "Consultant développeur")
 

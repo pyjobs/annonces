@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4606/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/01/18 - [Développeur / Développeuse Windev (H/F)](http://www.pyjobs.fr/jobs/details/4642/developpeur-developpeuse-windev-h-f "Développeur / Développeuse Windev (H/F)")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4619/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/12 - [Développeur (se) de tests automatisés (H/F)](http://www.pyjobs.fr/jobs/details/4586/developpeur-se-de-tests-automatises-h-f "Développeur (se) de tests automatisés (H/F)")
 * 2017/01/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4585/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4607/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2017/01/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4612/developpeur-developpeuse-web "Développeur / Développeuse web")
 

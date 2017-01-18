@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/14 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4607/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4644/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4645/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4643/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4635/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4614/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4608/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/12 - [Développeur Python H/F CDD futur CD | Possibilité Freelance](http://www.pyjobs.fr/jobs/details/4584/developpeur-python-h-f-cdd-futur-cd-possibilite-freelance "Développeur Python H/F CDD futur CD | Possibilité Freelance")
 

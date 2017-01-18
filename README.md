@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/18 - [Développeur / Développeuse Windev (H/F)](http://www.pyjobs.fr/jobs/details/4642/developpeur-developpeuse-windev-h-f "Développeur / Développeuse Windev (H/F)")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4619/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Développeur C/C++ H/F](http://www.pyjobs.fr/jobs/details/4634/developpeur-c-c-h-f "Développeur C/C++ H/F")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4643/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4624/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4620/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4613/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

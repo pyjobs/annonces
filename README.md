@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4641/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Consultant développeur](http://www.pyjobs.fr/jobs/details/4632/consultant-developpeur "Consultant développeur")
 * 2017/01/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4610/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4630/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/13 - [Senior Devops Engineer H/F](http://www.pyjobs.fr/jobs/details/4592/senior-devops-engineer-h-f "Senior Devops Engineer H/F")
 * 2017/01/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4604/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4605/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/13 - [[Stage] Développeur(se) Full Stack Python/Django/JS-React](http://www.pyjobs.fr/jobs/details/4600/stage-developpeur-se-full-stack-python-django-js-react "[Stage] Développeur(se) Full Stack Python/Django/JS-React")
 

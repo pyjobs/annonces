@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4660/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4641/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Développeur back avec une ambition pythonnesque](http://www.pyjobs.fr/jobs/details/4633/developpeur-back-avec-une-ambition-pythonnesque "Développeur back avec une ambition pythonnesque")
 * 2017/01/17 - [Consultant développeur](http://www.pyjobs.fr/jobs/details/4632/consultant-developpeur "Consultant développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [INGENIEUR SYSTEMES LINUX](http://www.pyjobs.fr/jobs/details/4653/ingenieur-systemes-linux "INGENIEUR SYSTEMES LINUX")
 * 2017/01/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4604/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4605/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

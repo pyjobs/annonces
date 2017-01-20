@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4639/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4658/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4656/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Developpeur web Python/Django senior](http://www.pyjobs.fr/jobs/details/4647/developpeur-web-python-django-senior "Developpeur web Python/Django senior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/16 - [Développeur C/C++ embarqué (H/F).](http://www.pyjobs.fr/jobs/details/4623/developpeur-c-c-embarque-h-f "Développeur C/C++ embarqué (H/F).")
 * 2017/01/16 - [Ingénieur d’études et développement C / C++ embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4621/ingenieur-detudes-et-developpement-c-c-embarque-h-f "Ingénieur d’études et développement C / C++ embarqué (H/F)")
 * 2017/01/20 - [Responsable site reliability engineering](http://www.pyjobs.fr/jobs/details/4666/responsable-site-reliability-engineering "Responsable site reliability engineering")
-* 2017/01/20 - [Développeur python / sql](http://www.pyjobs.fr/jobs/details/4665/developpeur-python-sql "Développeur python / sql")
 

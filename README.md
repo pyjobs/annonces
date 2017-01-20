@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4671/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/20 - [Développeur / Développeuse web senior (H/F)](http://www.pyjobs.fr/jobs/details/4674/developpeur-developpeuse-web-senior-h-f "Développeur / Développeuse web senior (H/F)")
 * 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4672/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4659/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/17 - [Développeur C/C++ H/F](http://www.pyjobs.fr/jobs/details/4634/developpeur-c-c-h-f "Développeur C/C++ H/F")
 * 2017/01/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4618/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4661/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/18 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/4651/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 

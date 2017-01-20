@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/20 - [Responsable site reliability engineering](http://www.pyjobs.fr/jobs/details/4666/responsable-site-reliability-engineering "Responsable site reliability engineering")
 * 2017/01/20 - [Développeur python / sql](http://www.pyjobs.fr/jobs/details/4665/developpeur-python-sql "Développeur python / sql")
 * 2017/01/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4657/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/18 - [Stage de fin d'étude en pré-embauche - développeur backend python/go sur Grenoble](http://www.pyjobs.fr/jobs/details/4649/stage-de-fin-detude-en-pre-embauche-developpeur-backend-python-go-sur-grenoble "Stage de fin d'étude en pré-embauche - développeur backend python/go sur Grenoble")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4630/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/20 - [Architecte / chef de projet devops - big data](http://www.pyjobs.fr/jobs/details/4668/architecte-chef-de-projet-devops-big-data "Architecte / chef de projet devops - big data")
 * 2017/01/20 - [Développeur back end dans le domaine de la photo](http://www.pyjobs.fr/jobs/details/4669/developpeur-back-end-dans-le-domaine-de-la-photo "Développeur back end dans le domaine de la photo")
-* 2017/01/20 - [Développeur web full-stack](http://www.pyjobs.fr/jobs/details/4670/developpeur-web-full-stack "Développeur web full-stack")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4629/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4630/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/20 - [Architecte / chef de projet devops - big data](http://www.pyjobs.fr/jobs/details/4668/architecte-chef-de-projet-devops-big-data "Architecte / chef de projet devops - big data")
 * 2017/01/20 - [Développeur back end dans le domaine de la photo](http://www.pyjobs.fr/jobs/details/4669/developpeur-back-end-dans-le-domaine-de-la-photo "Développeur back end dans le domaine de la photo")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [INGENIEUR DEVOPS/SRE](http://www.pyjobs.fr/jobs/details/4650/ingenieur-devops-sre "INGENIEUR DEVOPS/SRE")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4660/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4641/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/17 - [Développeur back avec une ambition pythonnesque](http://www.pyjobs.fr/jobs/details/4633/developpeur-back-avec-une-ambition-pythonnesque "Développeur back avec une ambition pythonnesque")
 

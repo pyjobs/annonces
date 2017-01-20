@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/20 - [Développeur python / sql](http://www.pyjobs.fr/jobs/details/4665/developpeur-python-sql "Développeur python / sql")
 * 2017/01/18 - [Stage de fin d'étude en pré-embauche - développeur backend python/go sur Grenoble](http://www.pyjobs.fr/jobs/details/4649/stage-de-fin-detude-en-pre-embauche-developpeur-backend-python-go-sur-grenoble "Stage de fin d'étude en pré-embauche - développeur backend python/go sur Grenoble")
 * 2017/01/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4636/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4639/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4629/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/16 - [Concepteur et développeur C++/ QT (H/F).](http://www.pyjobs.fr/jobs/details/4622/concepteur-et-developpeur-c-qt-h-f "Concepteur et développeur C++/ QT (H/F).")
 * 2017/01/16 - [Développeur C/C++ embarqué (H/F).](http://www.pyjobs.fr/jobs/details/4623/developpeur-c-c-embarque-h-f "Développeur C/C++ embarqué (H/F).")
-* 2017/01/16 - [Ingénieur d’études et développement C / C++ embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4621/ingenieur-detudes-et-developpement-c-c-embarque-h-f "Ingénieur d’études et développement C / C++ embarqué (H/F)")
 

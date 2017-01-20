@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4616/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4657/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4658/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Developpeur web Python/Django senior](http://www.pyjobs.fr/jobs/details/4647/developpeur-web-python-django-senior "Developpeur web Python/Django senior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [Stage de fin d'étude en pré-embauche - développeur backend python/go sur Grenoble](http://www.pyjobs.fr/jobs/details/4649/stage-de-fin-detude-en-pre-embauche-developpeur-backend-python-go-sur-grenoble "Stage de fin d'étude en pré-embauche - développeur backend python/go sur Grenoble")
 * 2017/01/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4636/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4639/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/17 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4628/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 

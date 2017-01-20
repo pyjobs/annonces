@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4658/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Developpeur web Python/Django senior](http://www.pyjobs.fr/jobs/details/4647/developpeur-web-python-django-senior "Developpeur web Python/Django senior")
 * 2017/01/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4635/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4648/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4639/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4628/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/01/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4616/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4615/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

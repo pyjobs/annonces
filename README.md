@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4640/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4629/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4630/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/20 - [Architecte / chef de projet devops - big data](http://www.pyjobs.fr/jobs/details/4668/architecte-chef-de-projet-devops-big-data "Architecte / chef de projet devops - big data")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [Ingénieur Développeur Java Fullstack](http://www.pyjobs.fr/jobs/details/4652/ingenieur-developpeur-java-fullstack "Ingénieur Développeur Java Fullstack")
 * 2017/01/18 - [INGENIEUR DEVOPS/SRE](http://www.pyjobs.fr/jobs/details/4650/ingenieur-devops-sre "INGENIEUR DEVOPS/SRE")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4660/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/18 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4641/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

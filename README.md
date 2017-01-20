@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/20 - [Développeur web full-stack](http://www.pyjobs.fr/jobs/details/4670/developpeur-web-full-stack "Développeur web full-stack")
 * 2017/01/20 - [Développeur back end](http://www.pyjobs.fr/jobs/details/4667/developpeur-back-end "Développeur back end")
 * 2017/01/16 - [Développeur C/C++ embarqué (H/F).](http://www.pyjobs.fr/jobs/details/4623/developpeur-c-c-embarque-h-f "Développeur C/C++ embarqué (H/F).")
 * 2017/01/16 - [Ingénieur d’études et développement C / C++ embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4621/ingenieur-detudes-et-developpement-c-c-embarque-h-f "Ingénieur d’études et développement C / C++ embarqué (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/17 - [Consultant développeur](http://www.pyjobs.fr/jobs/details/4632/consultant-developpeur "Consultant développeur")
 * 2017/01/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4659/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4630/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4631/developpeur-developpeuse-web "Développeur / Développeuse web")
 

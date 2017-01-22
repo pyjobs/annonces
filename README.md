@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4676/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4662/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [INGENIEUR SYSTEMES LINUX](http://www.pyjobs.fr/jobs/details/4653/ingenieur-systemes-linux "INGENIEUR SYSTEMES LINUX")
 * 2017/01/18 - [Développeur / Développeuse Windev (H/F)](http://www.pyjobs.fr/jobs/details/4642/developpeur-developpeuse-windev-h-f "Développeur / Développeuse Windev (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4654/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/18 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4637/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/18 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4646/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2017/01/20 - [Développeur / Développeuse Python (H/F)](http://www.pyjobs.fr/jobs/details/4677/developpeur-developpeuse-python-h-f "Développeur / Développeuse Python (H/F)")
 

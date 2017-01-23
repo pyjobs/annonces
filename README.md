@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4659/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4679/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/20 - [Architecte / chef de projet devops - big data](http://www.pyjobs.fr/jobs/details/4668/architecte-chef-de-projet-devops-big-data "Architecte / chef de projet devops - big data")
 * 2017/01/20 - [Développeur back end dans le domaine de la photo](http://www.pyjobs.fr/jobs/details/4669/developpeur-back-end-dans-le-domaine-de-la-photo "Développeur back end dans le domaine de la photo")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4673/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/20 - [Développeur / Développeuse web senior (H/F)](http://www.pyjobs.fr/jobs/details/4674/developpeur-developpeuse-web-senior-h-f "Développeur / Développeuse web senior (H/F)")
 * 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4671/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4672/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

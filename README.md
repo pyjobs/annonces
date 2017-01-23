@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4660/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4683/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4661/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/18 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/4651/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [Développeur / Développeuse Windev (H/F)](http://www.pyjobs.fr/jobs/details/4642/developpeur-developpeuse-windev-h-f "Développeur / Développeuse Windev (H/F)")
 * 2017/01/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4689/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4691/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/22 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4688/developpeur-developpeuse-web "Développeur / Développeuse web")
 

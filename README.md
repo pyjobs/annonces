@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/20 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4673/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4694/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4672/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/19 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4659/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/18 - [INGENIEUR DEVOPS/SRE](http://www.pyjobs.fr/jobs/details/4650/ingenieur-devops-sre "INGENIEUR DEVOPS/SRE")
 * 2017/01/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4696/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4680/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/01/20 - [Développeur / Développeuse web senior (H/F)](http://www.pyjobs.fr/jobs/details/4674/developpeur-developpeuse-web-senior-h-f "Développeur / Développeuse web senior (H/F)")
 

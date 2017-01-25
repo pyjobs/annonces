@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/24 - [Développeur web / python](http://www.pyjobs.fr/jobs/details/4705/developpeur-web-python "Développeur web / python")
 * 2017/01/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4698/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4684/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/20 - [Data Engineer](http://www.pyjobs.fr/jobs/details/4678/data-engineer "Data Engineer")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/20 - [Développeur back end dans le domaine de la photo](http://www.pyjobs.fr/jobs/details/4669/developpeur-back-end-dans-le-domaine-de-la-photo "Développeur back end dans le domaine de la photo")
 * 2017/01/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4679/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4699/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2017/01/20 - [Développeur web full-stack](http://www.pyjobs.fr/jobs/details/4670/developpeur-web-full-stack "Développeur web full-stack")
 

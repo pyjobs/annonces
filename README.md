@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/25 - [Dev Web Python pour une startup robuste mais agile !](http://www.pyjobs.fr/jobs/details/4720/dev-web-python-pour-une-startup-robuste-mais-agile "Dev Web Python pour une startup robuste mais agile !")
 * 2017/01/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4732/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4733/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4731/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4680/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4681/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4682/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/25 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/4725/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 

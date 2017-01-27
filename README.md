@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/25 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4709/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4739/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4706/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/25 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4708/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/25 - [Dev Web Python pour une startup robuste mais agile !](http://www.pyjobs.fr/jobs/details/4720/dev-web-python-pour-une-startup-robuste-mais-agile "Dev Web Python pour une startup robuste mais agile !")
 * 2017/01/26 - [Développeur Python H/F à Boulogne-Billancourt (92)](http://www.pyjobs.fr/jobs/details/4729/developpeur-python-h-f-a-boulogne-billancourt-92 "Développeur Python H/F à Boulogne-Billancourt (92)")
 * 2017/01/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4731/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4730/developpeur-developpeuse-web "Développeur / Développeuse web")
 

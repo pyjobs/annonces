@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/25 - [Open Source Gourou H/F](http://www.pyjobs.fr/jobs/details/4721/open-source-gourou-h-f "Open Source Gourou H/F")
 * 2017/01/23 - [développeur logiciel (H/F)](http://www.pyjobs.fr/jobs/details/4695/developpeur-logiciel-h-f "développeur logiciel (H/F)")
 * 2017/01/27 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4741/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2017/01/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4732/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4702/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4687/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/22 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4686/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/01/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4700/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

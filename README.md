@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4740/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4739/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4784/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/30 - [CDI développeur web en télétravail](http://www.pyjobs.fr/jobs/details/4773/cdi-developpeur-web-en-teletravail "CDI développeur web en télétravail")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/25 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/4724/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2017/01/25 - [Open Source Gourou H/F](http://www.pyjobs.fr/jobs/details/4721/open-source-gourou-h-f "Open Source Gourou H/F")
 * 2017/01/27 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4741/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
-* 2017/01/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4732/developpeur-developpeuse-web "Développeur / Développeuse web")
 

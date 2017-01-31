@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/31 - [Développeur (euse) Web RUBY RAILS](http://www.pyjobs.fr/jobs/details/4782/developpeur-euse-web-ruby-rails "Développeur (euse) Web RUBY RAILS")
 * 2017/01/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4780/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4781/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/30 - [Développeur(euse) de sécurité des systèmes d'information](http://www.pyjobs.fr/jobs/details/4768/developpeur-euse-de-securite-des-systemes-dinformation "Développeur(euse) de sécurité des systèmes d'information")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/28 - [Développeur Python / Odoo](http://www.pyjobs.fr/jobs/details/4756/developpeur-python-odoo "Développeur Python / Odoo")
 * 2017/01/27 - [DEVELOPPEUR FRONT-END (H/F)](http://www.pyjobs.fr/jobs/details/4749/developpeur-front-end-h-f "DEVELOPPEUR FRONT-END (H/F)")
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4737/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/30 - [Développeur backend python](http://www.pyjobs.fr/jobs/details/4771/developpeur-backend-python "Développeur backend python")
 

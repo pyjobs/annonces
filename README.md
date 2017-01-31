@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4784/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/30 - [CDI développeur web en télétravail](http://www.pyjobs.fr/jobs/details/4773/cdi-developpeur-web-en-teletravail "CDI développeur web en télétravail")
 * 2017/01/29 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4765/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/28 - [Développeur Python / Odoo](http://www.pyjobs.fr/jobs/details/4756/developpeur-python-odoo "Développeur Python / Odoo")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/27 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4741/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2017/01/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4732/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4733/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/25 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/4722/admin-devops-h-f "Admin Devops H/F")
 

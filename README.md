@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/30 - [CDI développeur web en télétravail](http://www.pyjobs.fr/jobs/details/4773/cdi-developpeur-web-en-teletravail "CDI développeur web en télétravail")
 * 2017/01/29 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4765/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/01/28 - [Développeur Python / Odoo](http://www.pyjobs.fr/jobs/details/4756/developpeur-python-odoo "Développeur Python / Odoo")
 * 2017/01/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4757/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/26 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4732/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/01/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4733/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/25 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/4722/admin-devops-h-f "Admin Devops H/F")
-* 2017/01/26 - [Développeur Python H/F à Boulogne-Billancourt (92)](http://www.pyjobs.fr/jobs/details/4729/developpeur-python-h-f-a-boulogne-billancourt-92 "Développeur Python H/F à Boulogne-Billancourt (92)")
 

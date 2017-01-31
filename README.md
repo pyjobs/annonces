@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4736/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [CDI Pythonista pour du web en télétravail](http://www.pyjobs.fr/jobs/details/4779/cdi-pythonista-pour-du-web-en-teletravail "CDI Pythonista pour du web en télétravail")
 * 2017/01/31 - [Développeur (euse) Web RUBY RAILS](http://www.pyjobs.fr/jobs/details/4782/developpeur-euse-web-ruby-rails "Développeur (euse) Web RUBY RAILS")
 * 2017/01/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4780/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4738/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/27 - [Développeur python / admin si](http://www.pyjobs.fr/jobs/details/4751/developpeur-python-admin-si "Développeur python / admin si")
 * 2017/01/28 - [Développeur Python / Odoo](http://www.pyjobs.fr/jobs/details/4756/developpeur-python-odoo "Développeur Python / Odoo")
-* 2017/01/27 - [DEVELOPPEUR FRONT-END (H/F)](http://www.pyjobs.fr/jobs/details/4749/developpeur-front-end-h-f "DEVELOPPEUR FRONT-END (H/F)")
 

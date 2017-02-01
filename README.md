@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/30 - [Développeur(euse) de sécurité des systèmes d'information](http://www.pyjobs.fr/jobs/details/4768/developpeur-euse-de-securite-des-systemes-dinformation "Développeur(euse) de sécurité des systèmes d'information")
 * 2017/01/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4767/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4770/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4789/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4736/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [CDI Pythonista pour du web en télétravail](http://www.pyjobs.fr/jobs/details/4779/cdi-pythonista-pour-du-web-en-teletravail "CDI Pythonista pour du web en télétravail")
 * 2017/01/31 - [Développeur (euse) Web RUBY RAILS](http://www.pyjobs.fr/jobs/details/4782/developpeur-euse-web-ruby-rails "Développeur (euse) Web RUBY RAILS")
-* 2017/01/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4780/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

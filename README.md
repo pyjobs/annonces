@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4745/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4746/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4737/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [CDI Pythonista pour du web en télétravail](http://www.pyjobs.fr/jobs/details/4779/cdi-pythonista-pour-du-web-en-teletravail "CDI Pythonista pour du web en télétravail")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/30 - [Développeur backend python](http://www.pyjobs.fr/jobs/details/4771/developpeur-backend-python "Développeur backend python")
 * 2017/01/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4753/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4754/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/27 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4748/developpeur-developpeuse-web "Développeur / Développeuse web")
 

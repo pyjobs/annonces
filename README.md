@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/27 - [DEVELOPPEUR FRONT-END (H/F)](http://www.pyjobs.fr/jobs/details/4749/developpeur-front-end-h-f "DEVELOPPEUR FRONT-END (H/F)")
 * 2017/02/01 - [Data scientist NLP & Machine Learning](http://www.pyjobs.fr/jobs/details/4795/data-scientist-nlp-machine-learning "Data scientist NLP & Machine Learning")
 * 2017/02/01 - [Développeur·euse Fullstack Python](http://www.pyjobs.fr/jobs/details/4794/developpeur-euse-fullstack-python "Développeur·euse Fullstack Python")
 * 2017/02/01 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4796/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4740/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4739/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4784/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/01/30 - [CDI développeur web en télétravail](http://www.pyjobs.fr/jobs/details/4773/cdi-developpeur-web-en-teletravail "CDI développeur web en télétravail")
 

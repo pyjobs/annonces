@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/01/31 - [Développeur (euse) Web RUBY RAILS](http://www.pyjobs.fr/jobs/details/4782/developpeur-euse-web-ruby-rails "Développeur (euse) Web RUBY RAILS")
 * 2017/01/30 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4767/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4817/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Developpeur python Maya](http://www.pyjobs.fr/jobs/details/4801/developpeur-python-maya "Developpeur python Maya")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/01 - [Ingénieur Python sur Paris (H/F)](http://www.pyjobs.fr/jobs/details/4790/ingenieur-python-sur-paris-h-f "Ingénieur Python sur Paris (H/F)")
 * 2017/01/28 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4754/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4792/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/01 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4793/developpeur-developpeuse-web "Développeur / Développeuse web")
 

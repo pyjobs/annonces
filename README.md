@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/01 - [Ingénieur Python sur Paris (H/F)](http://www.pyjobs.fr/jobs/details/4790/ingenieur-python-sur-paris-h-f "Ingénieur Python sur Paris (H/F)")
 * 2017/02/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4792/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4793/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/02 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4826/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/01 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/4798/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/01/31 - [DevOps Python](http://www.pyjobs.fr/jobs/details/4783/devops-python "DevOps Python")
 * 2017/02/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4819/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/02/01 - [Data scientist NLP & Machine Learning](http://www.pyjobs.fr/jobs/details/4795/data-scientist-nlp-machine-learning "Data scientist NLP & Machine Learning")
 

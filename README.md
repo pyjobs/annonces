@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/03 - [Ingénieur Technique Web Ops H/F – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/4832/ingenieur-technique-web-ops-h-f-cdi-teletravail "Ingénieur Technique Web Ops H/F – CDI (télétravail)")
 * 2017/02/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4817/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4780/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/01/31 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4781/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/02 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4826/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/02/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4818/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4825/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4824/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

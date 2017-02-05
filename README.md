@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/01 - [Developpeur python Maya](http://www.pyjobs.fr/jobs/details/4801/developpeur-python-maya "Developpeur python Maya")
 * 2017/02/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4840/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4841/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/03 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4829/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/01/31 - [CDI Pythonista pour du web en télétravail](http://www.pyjobs.fr/jobs/details/4779/cdi-pythonista-pour-du-web-en-teletravail "CDI Pythonista pour du web en télétravail")
 * 2017/02/03 - [Ingénieur Technique Web Ops H/F – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/4832/ingenieur-technique-web-ops-h-f-cdi-teletravail "Ingénieur Technique Web Ops H/F – CDI (télétravail)")
 * 2017/02/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4817/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4831/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

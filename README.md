@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4844/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4838/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Data scientist NLP & Machine Learning](http://www.pyjobs.fr/jobs/details/4795/data-scientist-nlp-machine-learning "Data scientist NLP & Machine Learning")
 * 2017/02/01 - [Développeur·euse Fullstack Python](http://www.pyjobs.fr/jobs/details/4794/developpeur-euse-fullstack-python "Développeur·euse Fullstack Python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4799/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4800/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Développeur / Développeuse Python Brest (H/F)](http://www.pyjobs.fr/jobs/details/4797/developpeur-developpeuse-python-brest-h-f "Développeur / Développeuse Python Brest (H/F)")
-* 2017/02/01 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/4798/developpeur-python-h-f "Développeur Python (H/F)")
 

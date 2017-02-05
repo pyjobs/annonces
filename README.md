@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/02 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4809/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2017/02/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4839/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4812/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4813/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4814/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/01 - [Developpeur python Maya](http://www.pyjobs.fr/jobs/details/4801/developpeur-python-maya "Developpeur python Maya")
 * 2017/02/01 - [Developpeur pipeline Maya Shotgun](http://www.pyjobs.fr/jobs/details/4802/developpeur-pipeline-maya-shotgun "Developpeur pipeline Maya Shotgun")
-* 2017/02/03 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4829/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

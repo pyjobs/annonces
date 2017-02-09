@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4884/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/07 - [Développeur core Python - bas niveau](http://www.pyjobs.fr/jobs/details/4870/developpeur-core-python-bas-niveau "Développeur core Python - bas niveau")
 * 2017/02/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4840/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Linux Support N2 pour s’éclater à Bordeaux !](http://www.pyjobs.fr/jobs/details/4889/linux-support-n2-pour-seclater-a-bordeaux "Linux Support N2 pour s’éclater à Bordeaux !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4846/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/05 - [Webmaster développeur / développeuse](http://www.pyjobs.fr/jobs/details/4845/webmaster-developpeur-developpeuse "Webmaster développeur / développeuse")
 * 2017/02/05 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4841/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/02/03 - [Ingénieur Technique Web Ops H/F – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/4832/ingenieur-technique-web-ops-h-f-cdi-teletravail "Ingénieur Technique Web Ops H/F – CDI (télétravail)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4853/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/08 - [Développeur back-end éprouvé avec une ambition reptilienne !](http://www.pyjobs.fr/jobs/details/4877/developpeur-back-end-eprouve-avec-une-ambition-reptilienne "Développeur back-end éprouvé avec une ambition reptilienne !")
 * 2017/02/08 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4869/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2017/02/07 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4861/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4881/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4878/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4830/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/06 - [Administrateur système - H/F](http://www.pyjobs.fr/jobs/details/4852/administrateur-systeme-h-f "Administrateur système - H/F")
 

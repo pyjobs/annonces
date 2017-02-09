@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4839/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4879/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4880/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4881/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/03 - [Ingénieur Technique Web Ops H/F – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/4832/ingenieur-technique-web-ops-h-f-cdi-teletravail "Ingénieur Technique Web Ops H/F – CDI (télétravail)")
 * 2017/02/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4831/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/08 - [Développeur / Développeuse web Javascript (H/F)](http://www.pyjobs.fr/jobs/details/4871/developpeur-developpeuse-web-javascript-h-f "Développeur / Développeuse web Javascript (H/F)")
-* 2017/02/05 - [Webmaster développeur / développeuse](http://www.pyjobs.fr/jobs/details/4845/webmaster-developpeur-developpeuse "Webmaster développeur / développeuse")
 

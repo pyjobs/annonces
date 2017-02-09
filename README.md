@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4856/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4855/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/07 - [Ingénieur(e) analyse programmation en informatique gestion](http://www.pyjobs.fr/jobs/details/4860/ingenieur-e-analyse-programmation-en-informatique-gestion "Ingénieur(e) analyse programmation en informatique gestion")
 * 2017/02/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4859/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/08 - [Développeur back-end éprouvé avec une ambition reptilienne !](http://www.pyjobs.fr/jobs/details/4877/developpeur-back-end-eprouve-avec-une-ambition-reptilienne "Développeur back-end éprouvé avec une ambition reptilienne !")
 * 2017/02/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4827/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/08 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4869/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
-* 2017/02/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4868/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

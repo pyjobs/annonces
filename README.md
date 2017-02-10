@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/07 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4861/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4862/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/06 - [Administrateur système - H/F](http://www.pyjobs.fr/jobs/details/4852/administrateur-systeme-h-f "Administrateur système - H/F")
 * 2017/02/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4853/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/05 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4840/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Linux Support N2 pour s’éclater à Bordeaux !](http://www.pyjobs.fr/jobs/details/4889/linux-support-n2-pour-seclater-a-bordeaux "Linux Support N2 pour s’éclater à Bordeaux !")
 * 2017/02/09 - [Développeur / Développeuse full-stack Python (H/F)](http://www.pyjobs.fr/jobs/details/4890/developpeur-developpeuse-full-stack-python-h-f "Développeur / Développeuse full-stack Python (H/F)")
-* 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4879/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

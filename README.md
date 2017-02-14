@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/11 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/4908/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/02/09 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4880/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4879/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Développeur / Développeuse full-stack Python (H/F)](http://www.pyjobs.fr/jobs/details/4890/developpeur-developpeuse-full-stack-python-h-f "Développeur / Développeuse full-stack Python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4917/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4884/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4883/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/09 - [Linux Support N2 pour s’éclater à Bordeaux !](http://www.pyjobs.fr/jobs/details/4889/linux-support-n2-pour-seclater-a-bordeaux "Linux Support N2 pour s’éclater à Bordeaux !")
 

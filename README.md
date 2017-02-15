@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4885/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/14 - [Développeur informatique _Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/4921/developpeur-informatique-toulouse-h-f "Développeur informatique _Toulouse (H/F)")
 * 2017/02/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4886/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4929/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/14 - [Développeur Informatique JavaScript AngularJS (H/F)](http://www.pyjobs.fr/jobs/details/4924/developpeur-informatique-javascript-angularjs-h-f "Développeur Informatique JavaScript AngularJS (H/F)")
 * 2017/02/14 - [Développeur informatique _Bordeaux (H/F)](http://www.pyjobs.fr/jobs/details/4923/developpeur-informatique-bordeaux-h-f "Développeur informatique _Bordeaux (H/F)")
 * 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4895/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/10 - [Développeur(se) logiciel-traitement du signal](http://www.pyjobs.fr/jobs/details/4904/developpeur-se-logiciel-traitement-du-signal "Développeur(se) logiciel-traitement du signal")
 

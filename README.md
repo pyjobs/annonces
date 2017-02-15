@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4898/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4897/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/14 - [Développeur informatique _Région parisienne (H/F)](http://www.pyjobs.fr/jobs/details/4922/developpeur-informatique-region-parisienne-h-f "Développeur informatique _Région parisienne (H/F)")
 * 2017/02/14 - [Développeur Informatique JavaScript AngularJS (H/F)](http://www.pyjobs.fr/jobs/details/4924/developpeur-informatique-javascript-angularjs-h-f "Développeur Informatique JavaScript AngularJS (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/10 - [Développeur Django / Python](http://www.pyjobs.fr/jobs/details/4905/developpeur-django-python "Développeur Django / Python")
 * 2017/02/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4899/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4896/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4894/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

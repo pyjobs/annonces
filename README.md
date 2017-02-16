@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4909/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4903/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4947/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4948/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/10 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4902/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4901/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4900/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/15 - [Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]](http://www.pyjobs.fr/jobs/details/4942/developpeur-se-fullstack-symfony3-angularjs-lyon "Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]")
 

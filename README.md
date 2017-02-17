@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4944/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4931/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/14 - [Développeur informatique _Région parisienne (H/F)](http://www.pyjobs.fr/jobs/details/4922/developpeur-informatique-region-parisienne-h-f "Développeur informatique _Région parisienne (H/F)")
 * 2017/02/14 - [Développeur informatique _Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/4921/developpeur-informatique-toulouse-h-f "Développeur informatique _Toulouse (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/10 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4899/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4945/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4930/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/02/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4896/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

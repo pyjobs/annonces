@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/14 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/4926/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/02/14 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/4925/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 * 2017/02/14 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4927/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4915/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4947/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4948/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4949/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4918/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

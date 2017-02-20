@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/20 - [H/F CONCEPTEUR DEVELOPPEUR WEB (H/F)](http://www.pyjobs.fr/jobs/details/4963/h-f-concepteur-developpeur-web-h-f "H/F CONCEPTEUR DEVELOPPEUR WEB (H/F)")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4949/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Sys Admin_Devops H/F](http://www.pyjobs.fr/jobs/details/4939/sys-admin-devops-h-f "Sys Admin_Devops H/F")
 * 2017/02/20 - [Développeur / Développeuse d'application backend (H/F)](http://www.pyjobs.fr/jobs/details/4962/developpeur-developpeuse-dapplication-backend-h-f "Développeur / Développeuse d'application backend (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/15 - [Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]](http://www.pyjobs.fr/jobs/details/4942/developpeur-se-fullstack-symfony3-angularjs-lyon "Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]")
 * 2017/02/15 - [Cloud Public Architect - Lead Devops H/F](http://www.pyjobs.fr/jobs/details/4940/cloud-public-architect-lead-devops-h-f "Cloud Public Architect - Lead Devops H/F")
 * 2017/02/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4917/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4947/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

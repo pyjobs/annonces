@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/15 - [Cloud Public Architect - Lead Devops H/F](http://www.pyjobs.fr/jobs/details/4940/cloud-public-architect-lead-devops-h-f "Cloud Public Architect - Lead Devops H/F")
 * 2017/02/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4964/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4947/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4948/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/17 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/4957/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2017/02/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4928/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4929/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/02/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4920/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

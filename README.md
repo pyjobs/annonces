@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4947/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]](http://www.pyjobs.fr/jobs/details/4942/developpeur-se-fullstack-symfony3-angularjs-lyon "Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]")
 * 2017/02/15 - [Cloud Public Architect - Lead Devops H/F](http://www.pyjobs.fr/jobs/details/4940/cloud-public-architect-lead-devops-h-f "Cloud Public Architect - Lead Devops H/F")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4980/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/21 - [Développeur logiciel C / C++ embarqué junior (H/F)](http://www.pyjobs.fr/jobs/details/4971/developpeur-logiciel-c-c-embarque-junior-h-f "Développeur logiciel C / C++ embarqué junior (H/F)")
 * 2017/02/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4956/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4928/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/02/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4929/developpeur-developpeuse-web "Développeur / Développeuse web")
 

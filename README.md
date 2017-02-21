@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4968/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4969/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4938/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2017/02/14 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/4926/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4949/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Sys Admin_Devops H/F](http://www.pyjobs.fr/jobs/details/4939/sys-admin-devops-h-f "Sys Admin_Devops H/F")
 * 2017/02/20 - [Développeur / Développeuse d'application backend (H/F)](http://www.pyjobs.fr/jobs/details/4962/developpeur-developpeuse-dapplication-backend-h-f "Développeur / Développeuse d'application backend (H/F)")
-* 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4946/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

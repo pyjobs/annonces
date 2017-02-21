@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4977/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4954/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4951/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4945/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/14 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4927/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/20 - [Administrateur Système et Réseaux DEVOPS H/F](http://www.pyjobs.fr/jobs/details/4960/administrateur-systeme-et-reseaux-devops-h-f "Administrateur Système et Réseaux DEVOPS H/F")
 * 2017/02/20 - [Un(e) Développeur logiciel embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4961/un-e-developpeur-logiciel-embarque-h-f "Un(e) Développeur logiciel embarqué (H/F)")
-* 2017/02/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4915/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

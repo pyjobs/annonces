@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4955/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4952/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4953/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4933/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/21 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/4967/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
 * 2017/02/20 - [Administrateur Système et Réseaux DEVOPS H/F](http://www.pyjobs.fr/jobs/details/4960/administrateur-systeme-et-reseaux-devops-h-f "Administrateur Système et Réseaux DEVOPS H/F")
 * 2017/02/20 - [Un(e) Développeur logiciel embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4961/un-e-developpeur-logiciel-embarque-h-f "Un(e) Développeur logiciel embarqué (H/F)")
-* 2017/02/15 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/4938/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 

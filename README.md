@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4998/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/23 - [Développeur / Développeuse multimédia](http://www.pyjobs.fr/jobs/details/5000/developpeur-developpeuse-multimedia "Développeur / Développeuse multimédia")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4997/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4996/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4948/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4947/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/15 - [Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]](http://www.pyjobs.fr/jobs/details/4942/developpeur-se-fullstack-symfony3-angularjs-lyon "Développeur(se) Fullstack (Symfony3 / AngularJS) [Lyon]")
-* 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4980/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

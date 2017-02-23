@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4996/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/23 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5016/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4994/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4991/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/20 - [Développeur / Développeuse d'application backend (H/F)](http://www.pyjobs.fr/jobs/details/4962/developpeur-developpeuse-dapplication-backend-h-f "Développeur / Développeuse d'application backend (H/F)")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4999/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5001/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4998/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

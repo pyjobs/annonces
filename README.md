@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4944/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Expert Linux embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4972/expert-linux-embarque-h-f "Expert Linux embarqué (H/F)")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4974/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/17 - [Développeur / Développeuse d'application](http://www.pyjobs.fr/jobs/details/4957/developpeur-developpeuse-dapplication "Développeur / Développeuse d'application")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4965/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/17 - [Ingénieur R&D](http://www.pyjobs.fr/jobs/details/4958/ingenieur-r-d "Ingénieur R&D")
 * 2017/02/17 - [Concepteur développeur / Conceptrice développeuse de système électronique](http://www.pyjobs.fr/jobs/details/4959/concepteur-developpeur-conceptrice-developpeuse-de-systeme-electronique "Concepteur développeur / Conceptrice développeuse de système électronique")
-* 2017/02/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4975/developpeur-developpeuse-web "Développeur / Développeuse web")
 

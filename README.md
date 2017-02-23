@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4975/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4976/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4966/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/20 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4965/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4983/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4977/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/22 - [Dev fullstack django/angular 2+/docker](http://www.pyjobs.fr/jobs/details/4989/dev-fullstack-django-angular-2-docker "Dev fullstack django/angular 2+/docker")
-* 2017/02/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4951/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

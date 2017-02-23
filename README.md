@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4993/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse multimédia](http://www.pyjobs.fr/jobs/details/5000/developpeur-developpeuse-multimedia "Développeur / Développeuse multimédia")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4997/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4996/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4969/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4968/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/20 - [H/F CONCEPTEUR DEVELOPPEUR WEB (H/F)](http://www.pyjobs.fr/jobs/details/4963/h-f-concepteur-developpeur-web-h-f "H/F CONCEPTEUR DEVELOPPEUR WEB (H/F)")
-* 2017/02/20 - [Développeur / Développeuse d'application backend (H/F)](http://www.pyjobs.fr/jobs/details/4962/developpeur-developpeuse-dapplication-backend-h-f "Développeur / Développeuse d'application backend (H/F)")
 

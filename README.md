@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4980/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4969/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4968/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/20 - [H/F CONCEPTEUR DEVELOPPEUR WEB (H/F)](http://www.pyjobs.fr/jobs/details/4963/h-f-concepteur-developpeur-web-h-f "H/F CONCEPTEUR DEVELOPPEUR WEB (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/21 - [Ingénieur d’études et développement C/C++ embarqué expérimenté (H/F)](http://www.pyjobs.fr/jobs/details/4973/ingenieur-detudes-et-developpement-c-c-embarque-experimente-h-f "Ingénieur d’études et développement C/C++ embarqué expérimenté (H/F)")
 * 2017/02/21 - [Développeur logiciel C / C++ embarqué junior (H/F)](http://www.pyjobs.fr/jobs/details/4971/developpeur-logiciel-c-c-embarque-junior-h-f "Développeur logiciel C / C++ embarqué junior (H/F)")
 * 2017/02/21 - [Ingénieur d’études et développement C / C++ embarqué (H/F)](http://www.pyjobs.fr/jobs/details/4970/ingenieur-detudes-et-developpement-c-c-embarque-h-f "Ingénieur d’études et développement C / C++ embarqué (H/F)")
-* 2017/02/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4981/developpeur-developpeuse-web "Développeur / Développeuse web")
 

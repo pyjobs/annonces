@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/21 - [Stagiaire Développeur web](http://www.pyjobs.fr/jobs/details/4979/stagiaire-developpeur-web "Stagiaire Développeur web")
 * 2017/02/24 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5024/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/24 - [Développeur(se) ERP / Odoo (H/F)](http://www.pyjobs.fr/jobs/details/5025/developpeur-se-erp-odoo-h-f "Développeur(se) ERP / Odoo (H/F)")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5001/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4974/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4981/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5006/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5005/developpeur-developpeuse-web "Développeur / Développeuse web")
 

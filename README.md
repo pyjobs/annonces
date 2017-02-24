@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5028/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5015/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4992/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/22 - [Ingénieur Développeur Python QA expérimenté](http://www.pyjobs.fr/jobs/details/4985/ingenieur-developpeur-python-qa-experimente "Ingénieur Développeur Python QA expérimenté")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4991/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4994/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4978/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/23 - [Jeune Ingénieur Système & Réseaux dans le BigData européen - H/F](http://www.pyjobs.fr/jobs/details/5013/jeune-ingenieur-systeme-reseaux-dans-le-bigdata-europeen-h-f "Jeune Ingénieur Système & Réseaux dans le BigData européen - H/F")
 

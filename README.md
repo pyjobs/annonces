@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/21 - [Ingénieur d’études et développement C/C++ embarqué expérimenté (H/F)](http://www.pyjobs.fr/jobs/details/4973/ingenieur-detudes-et-developpement-c-c-embarque-experimente-h-f "Ingénieur d’études et développement C/C++ embarqué expérimenté (H/F)")
 * 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5006/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5005/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/21 - [Développeur logiciel C / C++ embarqué junior (H/F)](http://www.pyjobs.fr/jobs/details/4971/developpeur-logiciel-c-c-embarque-junior-h-f "Développeur logiciel C / C++ embarqué junior (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/5018/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4976/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Administrateur H/F systèmes et bases de données](http://www.pyjobs.fr/jobs/details/5007/administrateur-h-f-systemes-et-bases-de-donnees "Administrateur H/F systèmes et bases de données")
-* 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5008/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

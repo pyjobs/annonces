@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5019/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5020/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/22 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/4982/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
 * 2017/02/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/5018/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4983/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/21 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4977/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5012/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2017/02/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5010/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

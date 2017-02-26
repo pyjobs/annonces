@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5033/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5008/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/24 - [Développeur / Développeuse C/C++/Python (H/F)](http://www.pyjobs.fr/jobs/details/5027/developpeur-developpeuse-c-c-python-h-f "Développeur / Développeuse C/C++/Python (H/F)")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5009/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5019/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5020/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/22 - [Analyste-programmeur / Analyste-programmeuse informatique](http://www.pyjobs.fr/jobs/details/4982/analyste-programmeur-analyste-programmeuse-informatique "Analyste-programmeur / Analyste-programmeuse informatique")
-* 2017/02/24 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/5018/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 

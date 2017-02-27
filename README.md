@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/23 - [Jeune Ingénieur Système & Réseaux dans le BigData européen - H/F](http://www.pyjobs.fr/jobs/details/5013/jeune-ingenieur-systeme-reseaux-dans-le-bigdata-europeen-h-f "Jeune Ingénieur Système & Réseaux dans le BigData européen - H/F")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4994/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/4996/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5045/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/4998/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/23 - [Développeur / Développeuse multimédia](http://www.pyjobs.fr/jobs/details/5000/developpeur-developpeuse-multimedia "Développeur / Développeuse multimédia")
 * 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5022/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4995/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

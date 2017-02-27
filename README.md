@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/25 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5029/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/24 - [Développeur(se) ERP / Odoo (H/F)](http://www.pyjobs.fr/jobs/details/5025/developpeur-se-erp-odoo-h-f "Développeur(se) ERP / Odoo (H/F)")
 * 2017/02/24 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5024/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/23 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5001/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/27 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5037/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5035/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5036/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/24 - [DEVELOPPEUR PYTHON / DJANGO (H/F)](http://www.pyjobs.fr/jobs/details/5026/developpeur-python-django-h-f "DEVELOPPEUR PYTHON / DJANGO (H/F)")
 

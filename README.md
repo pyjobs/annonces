@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5020/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Administrateur H/F systèmes et bases de données](http://www.pyjobs.fr/jobs/details/5007/administrateur-h-f-systemes-et-bases-de-donnees "Administrateur H/F systèmes et bases de données")
 * 2017/02/26 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5033/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/24 - [Développeur / Développeuse C/C++/Python (H/F)](http://www.pyjobs.fr/jobs/details/5027/developpeur-developpeuse-c-c-python-h-f "Développeur / Développeuse C/C++/Python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5011/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/02/22 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/4983/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/23 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5010/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2017/02/22 - [Dev fullstack django/angular 2+/docker](http://www.pyjobs.fr/jobs/details/4989/dev-fullstack-django-angular-2-docker "Dev fullstack django/angular 2+/docker")
 

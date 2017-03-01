@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/01 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5061/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5080/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/01 - [Développeur python avancé](http://www.pyjobs.fr/jobs/details/5078/developpeur-python-avance "Développeur python avancé")
 * 2017/02/28 - [Technicien(ne) de maintenance et support Mac expérimenté(e) N1 & N2 - H/F en CDI](http://www.pyjobs.fr/jobs/details/5053/technicien-ne-de-maintenance-et-support-mac-experimente-e-n1-n2-h-f-en-cdi "Technicien(ne) de maintenance et support Mac expérimenté(e) N1 & N2 - H/F en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5043/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5028/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5041/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5040/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

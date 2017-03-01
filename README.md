@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5045/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5066/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5065/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/01 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5064/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/02/24 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5023/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/28 - [LEAD DÉVELOPPEUR INFORMATIQUE (H/F)](http://www.pyjobs.fr/jobs/details/5058/lead-developpeur-informatique-h-f "LEAD DÉVELOPPEUR INFORMATIQUE (H/F)")
 * 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5048/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/02/23 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5016/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/03 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5092/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5082/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5081/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/02 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5083/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5077/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5076/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/27 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5034/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
-* 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5036/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

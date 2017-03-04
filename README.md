@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/01 - [Administrateur Système et Réseaux Linux](http://www.pyjobs.fr/jobs/details/5068/administrateur-systeme-et-reseaux-linux "Administrateur Système et Réseaux Linux")
 * 2017/03/01 - [Développeur / Développeuse multimédia](http://www.pyjobs.fr/jobs/details/5074/developpeur-developpeuse-multimedia "Développeur / Développeuse multimédia")
 * 2017/03/01 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5075/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2017/03/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5105/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5077/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/01 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5076/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/02/27 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5034/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
-* 2017/02/27 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5036/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

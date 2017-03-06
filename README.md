@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5104/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/01 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5075/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2017/03/06 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5111/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/04 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5107/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/02 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5081/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/02 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5083/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/02 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5082/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/01 - [Administrateur Système et Réseaux Linux](http://www.pyjobs.fr/jobs/details/5068/administrateur-systeme-et-reseaux-linux "Administrateur Système et Réseaux Linux")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/06 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5113/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5127/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5126/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5114/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/04 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5099/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5108/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/07 - [Développeur / Développeuse JavaScript Front-End (H/F)](http://www.pyjobs.fr/jobs/details/5135/developpeur-developpeuse-javascript-front-end-h-f "Développeur / Développeuse JavaScript Front-End (H/F)")
-* 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5136/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

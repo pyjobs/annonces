@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5121/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/08 - [Développeur(se) décisionnel - Business Intelligence](http://www.pyjobs.fr/jobs/details/5152/developpeur-se-decisionnel-business-intelligence "Développeur(se) décisionnel - Business Intelligence")
 * 2017/03/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5154/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5155/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/06 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5111/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/06 - [Développeur / Développeuse informatique c/c++ Python Qt (H/F)](http://www.pyjobs.fr/jobs/details/5122/developpeur-developpeuse-informatique-c-c-python-qt-h-f "Développeur / Développeuse informatique c/c++ Python Qt (H/F)")
 * 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5110/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/04 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5104/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5191/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5188/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5185/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5193/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5148/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/07 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5140/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/07 - [DEVELOPPEUR IOT (INTERNET DES OBJETS)](http://www.pyjobs.fr/jobs/details/5138/developpeur-iot-internet-des-objets "DEVELOPPEUR IOT (INTERNET DES OBJETS)")
-* 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5118/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

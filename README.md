@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/08 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5163/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5159/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/08 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5160/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/09 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5174/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/06 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5123/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/06 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5114/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/06 - [Développeur / Développeuse informatique c/c++ Python Qt (H/F)](http://www.pyjobs.fr/jobs/details/5122/developpeur-developpeuse-informatique-c-c-python-qt-h-f "Développeur / Développeuse informatique c/c++ Python Qt (H/F)")
-* 2017/03/08 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5164/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 

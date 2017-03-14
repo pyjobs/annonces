@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/14 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/5247/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5248/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/13 - [ANALYSTE DEVELOPPEUR WEB (H/F)](http://www.pyjobs.fr/jobs/details/5240/analyste-developpeur-web-h-f "ANALYSTE DEVELOPPEUR WEB (H/F)")
 * 2017/03/10 - [H/F Développeur Web & API Rest](http://www.pyjobs.fr/jobs/details/5206/h-f-developpeur-web-api-rest "H/F Développeur Web & API Rest")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5194/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5191/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5241/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5188/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

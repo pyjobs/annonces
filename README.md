@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5231/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5227/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5230/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/14 - [Full-stack Software Engineer - Leader français de la Legaltech](http://www.pyjobs.fr/jobs/details/5257/full-stack-software-engineer-leader-francais-de-la-legaltech "Full-stack Software Engineer - Leader français de la Legaltech")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5243/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5244/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/13 - [Developpeur web et mobile (H/F)](http://www.pyjobs.fr/jobs/details/5245/developpeur-web-et-mobile-h-f "Developpeur web et mobile (H/F)")
-* 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5175/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

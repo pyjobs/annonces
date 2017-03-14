@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/10 - [H/F Développeur Web & API Rest](http://www.pyjobs.fr/jobs/details/5206/h-f-developpeur-web-api-rest "H/F Développeur Web & API Rest")
 * 2017/03/10 - [H/F Développeur Web Full Stack](http://www.pyjobs.fr/jobs/details/5205/h-f-developpeur-web-full-stack "H/F Développeur Web Full Stack")
 * 2017/03/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5183/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/14 - [Développeur JEE Junior (H/F)](http://www.pyjobs.fr/jobs/details/5246/developpeur-jee-junior-h-f "Développeur JEE Junior (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5188/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5185/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5232/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5233/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

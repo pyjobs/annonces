@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/13 - [Developpeur web et mobile (H/F)](http://www.pyjobs.fr/jobs/details/5245/developpeur-web-et-mobile-h-f "Developpeur web et mobile (H/F)")
 * 2017/03/12 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5234/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5261/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/14 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5260/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/10 - [H/F Développeur Web Full Stack](http://www.pyjobs.fr/jobs/details/5205/h-f-developpeur-web-full-stack "H/F Développeur Web Full Stack")
 * 2017/03/09 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5183/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/14 - [Développeur JEE Junior (H/F)](http://www.pyjobs.fr/jobs/details/5246/developpeur-jee-junior-h-f "Développeur JEE Junior (H/F)")
-* 2017/03/12 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5235/developpeur-developpeuse-web "Développeur / Développeuse web")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/10 - [Ingénieur(e) analyse programmation en informatique gestion](http://www.pyjobs.fr/jobs/details/5220/ingenieur-e-analyse-programmation-en-informatique-gestion "Ingénieur(e) analyse programmation en informatique gestion")
 * 2017/03/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5238/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/11 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5222/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2017/03/10 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5219/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5231/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/11 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5229/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5173/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/09 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5177/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

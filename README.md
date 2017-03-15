@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/15 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/5284/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2017/03/14 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/5247/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5264/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5265/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5242/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5241/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/10 - [Administrateur Linux système](http://www.pyjobs.fr/jobs/details/5211/administrateur-linux-systeme "Administrateur Linux système")
-* 2017/03/14 - [Product Owner / Coach agile H/F](http://www.pyjobs.fr/jobs/details/5253/product-owner-coach-agile-h-f "Product Owner / Coach agile H/F")
 

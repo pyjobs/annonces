@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/14 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/5255/admin-devops-h-f "Admin Devops H/F")
 * 2017/03/13 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5242/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5241/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/10 - [Administrateur Linux système](http://www.pyjobs.fr/jobs/details/5211/administrateur-linux-systeme "Administrateur Linux système")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/10 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5213/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/14 - [Devops](http://www.pyjobs.fr/jobs/details/5256/devops "Devops")
 * 2017/03/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5237/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/13 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5236/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

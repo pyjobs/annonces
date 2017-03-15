@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5265/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5254/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5281/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5283/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/14 - [Product Owner / Coach agile H/F](http://www.pyjobs.fr/jobs/details/5253/product-owner-coach-agile-h-f "Product Owner / Coach agile H/F")
 * 2017/03/14 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5250/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/03/14 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5251/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
-* 2017/03/14 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5252/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 

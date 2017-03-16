@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5273/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5274/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5300/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5297/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5279/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5277/technicien-technicienne-programmation "Technicien / Technicienne programmation")
-* 2017/03/14 - [Lead Software Engineer - Leader français de la Legaltech](http://www.pyjobs.fr/jobs/details/5258/lead-software-engineer-leader-francais-de-la-legaltech "Lead Software Engineer - Leader français de la Legaltech")
 

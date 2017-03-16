@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5275/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5277/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2017/03/14 - [Full-stack Software Engineer - Leader français de la Legaltech](http://www.pyjobs.fr/jobs/details/5257/full-stack-software-engineer-leader-francais-de-la-legaltech "Full-stack Software Engineer - Leader français de la Legaltech")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/14 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5248/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/13 - [ANALYSTE DEVELOPPEUR WEB (H/F)](http://www.pyjobs.fr/jobs/details/5240/analyste-developpeur-web-h-f "ANALYSTE DEVELOPPEUR WEB (H/F)")
 * 2017/03/14 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5263/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2017/03/14 - [Développeur JEE Junior (H/F)](http://www.pyjobs.fr/jobs/details/5246/developpeur-jee-junior-h-f "Développeur JEE Junior (H/F)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/14 - [Devops](http://www.pyjobs.fr/jobs/details/5256/devops "Devops")
 * 2017/03/14 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/5255/admin-devops-h-f "Admin Devops H/F")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5292/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Soyez le Gordon Ramsey du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5286/soyez-le-gordon-ramsey-du-python-angular-js "Soyez le Gordon Ramsey du Python / Angular Js !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5266/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5287/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5270/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5293/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

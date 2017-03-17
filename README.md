@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5314/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5302/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [H/F Développeur informatique Java/J2ee (H/F)](http://www.pyjobs.fr/jobs/details/5301/h-f-developpeur-informatique-java-j2ee-h-f "H/F Développeur informatique Java/J2ee (H/F)")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5280/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/14 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5250/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/03/14 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5251/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2017/03/14 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5252/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
-* 2017/03/17 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/5304/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 

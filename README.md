@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/14 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5252/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2017/03/17 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/5304/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5291/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5285/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5292/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Soyez le Gordon Ramsey du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5286/soyez-le-gordon-ramsey-du-python-angular-js "Soyez le Gordon Ramsey du Python / Angular Js !")
 * 2017/03/14 - [Product Owner / Coach agile H/F](http://www.pyjobs.fr/jobs/details/5253/product-owner-coach-agile-h-f "Product Owner / Coach agile H/F")
-* 2017/03/14 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5250/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 

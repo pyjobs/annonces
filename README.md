@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/20 - [Back-end Python Developer pour le UBER des transports en commun](http://www.pyjobs.fr/jobs/details/5315/back-end-python-developer-pour-le-uber-des-transports-en-commun "Back-end Python Developer pour le UBER des transports en commun")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5309/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5310/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5300/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5288/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5269/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/15 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5277/technicien-technicienne-programmation "Technicien / Technicienne programmation")
-* 2017/03/14 - [Full-stack Software Engineer - Leader français de la Legaltech](http://www.pyjobs.fr/jobs/details/5257/full-stack-software-engineer-leader-francais-de-la-legaltech "Full-stack Software Engineer - Leader français de la Legaltech")
 

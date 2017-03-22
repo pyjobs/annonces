@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5288/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5269/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/15 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5277/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2017/03/22 - [Dev Python driver technique d'une startup dans la fintech !](http://www.pyjobs.fr/jobs/details/5317/dev-python-driver-technique-dune-startup-dans-la-fintech "Dev Python driver technique d'une startup dans la fintech !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5313/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5312/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5311/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5268/developpeur-developpeuse-web "Développeur / Développeuse web")
 

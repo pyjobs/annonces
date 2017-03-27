@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5303/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5291/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5302/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/24 - [Administrateur Systèmes et Réseaux (H/F)](http://www.pyjobs.fr/jobs/details/5321/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/23 - [Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI](http://www.pyjobs.fr/jobs/details/5319/ingenieur-r-d-developpement-a-grenoble-cdd-6-mois-potentiellement-cdi "Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5307/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5292/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

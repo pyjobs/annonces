@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/27 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/5322/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/27 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/5325/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 * 2017/03/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5313/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5312/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
-* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5311/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

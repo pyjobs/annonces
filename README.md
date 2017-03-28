@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/27 - [Product Owner / Coach agile H/F](http://www.pyjobs.fr/jobs/details/5328/product-owner-coach-agile-h-f "Product Owner / Coach agile H/F")
 * 2017/03/27 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/5325/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 * 2017/03/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5312/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5313/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/16 - [H/F Développeur informatique Java/J2ee (H/F)](http://www.pyjobs.fr/jobs/details/5301/h-f-developpeur-informatique-java-j2ee-h-f "H/F Développeur informatique Java/J2ee (H/F)")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5278/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5280/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5270/developpeur-developpeuse-web "Développeur / Développeuse web")
 

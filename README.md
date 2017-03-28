@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/23 - [Dev Python / Django (Lyon)](http://www.pyjobs.fr/jobs/details/5318/dev-python-django-lyon "Dev Python / Django (Lyon)")
 * 2017/03/23 - [Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI](http://www.pyjobs.fr/jobs/details/5319/ingenieur-r-d-developpement-a-grenoble-cdd-6-mois-potentiellement-cdi "Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5308/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5296/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/15 - [Technicien / Technicienne programmation](http://www.pyjobs.fr/jobs/details/5277/technicien-technicienne-programmation "Technicien / Technicienne programmation")
 * 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5275/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5273/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/22 - [Dev Python driver technique d'une startup dans la fintech !](http://www.pyjobs.fr/jobs/details/5317/dev-python-driver-technique-dune-startup-dans-la-fintech "Dev Python driver technique d'une startup dans la fintech !")
 

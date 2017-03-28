@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/20 - [Ingénieur infrastructure cloud (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5423/ingenieur-infrastructure-cloud-h-f-en-cdi-a-lyon "Ingénieur infrastructure cloud (H/F) en CDI à Lyon")
 * 2017/03/17 - [QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5422/qa-operationnel-python-sur-projet-data-h-f-en-cdi-a-paris-45000-54000 "QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000")
 * 2017/03/16 - [Développeur Back End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5421/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back End (H/F) en CDI à Nantes")
 * 2017/03/16 - [Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5420/developpeur-full-stack-java-j2ee-h-f-en-cdi-a-nantes "Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/5304/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5292/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Soyez le Gordon Ramsey du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5286/soyez-le-gordon-ramsey-du-python-angular-js "Soyez le Gordon Ramsey du Python / Angular Js !")
-* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5314/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

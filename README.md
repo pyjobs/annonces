@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
 * 2017/03/15 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/5284/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 * 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5272/developpeur-developpeuse-web "Développeur / Développeuse web")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5312/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5311/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5289/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/15 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5268/developpeur-developpeuse-web "Développeur / Développeuse web")
 

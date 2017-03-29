@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5433/sysadmin-cloud-sur-nantes-h-f-en-cdi-a-paris-45000-54000 "SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000")
 * 2017/03/29 - [Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/5434/developpeur-back-end-big-data-devops-h-f-en-cdi-a-nantes-35000-44000 "Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000")
 * 2017/03/16 - [Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5420/developpeur-full-stack-java-j2ee-h-f-en-cdi-a-nantes "Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes")
 * 2017/03/16 - [Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5419/operationnel-sur-python-projet-data-h-f-en-cdi-a-paris-45000-54000 "Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/23 - [Devops / AdminSys (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5428/devops-adminsys-h-f-en-cdi-a-paris-45000-54000 "Devops / AdminSys (H/F) en CDI à Paris 45000-54000")
 * 2017/03/22 - [Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/5427/dev-web-applicatif-python-django-h-f-en-cdi-a-paris-12e-arrondissement-35000-44000 "Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000")
 * 2017/03/21 - [Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5426/ingenieur-systeme-passionne-devops-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000")
-* 2017/03/20 - [Dev Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5425/dev-python-h-f-en-cdi-a-paris-35000-44000 "Dev Python (H/F) en CDI à Paris 35000-44000")
 

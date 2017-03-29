@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/22 - [Soyez le Gordon Ramsay du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5316/soyez-le-gordon-ramsay-du-python-angular-js "Soyez le Gordon Ramsay du Python / Angular Js !")
 * 2017/03/20 - [Back-end Python Developer pour le UBER des transports en commun](http://www.pyjobs.fr/jobs/details/5315/back-end-python-developer-pour-le-uber-des-transports-en-commun "Back-end Python Developer pour le UBER des transports en commun")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5310/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5309/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
-* 2017/03/15 - [Développeur / Développeuse Big Data](http://www.pyjobs.fr/jobs/details/5284/developpeur-developpeuse-big-data "Développeur / Développeuse Big Data")
 

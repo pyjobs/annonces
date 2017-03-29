@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
 * 2017/03/22 - [Dev Python driver technique d'une startup dans la fintech !](http://www.pyjobs.fr/jobs/details/5317/dev-python-driver-technique-dune-startup-dans-la-fintech "Dev Python driver technique d'une startup dans la fintech !")
 * 2017/03/22 - [Soyez le Gordon Ramsay du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5316/soyez-le-gordon-ramsay-du-python-angular-js "Soyez le Gordon Ramsay du Python / Angular Js !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/27 - [Devops H/F](http://www.pyjobs.fr/jobs/details/5323/devops-h-f "Devops H/F")
 * 2017/03/27 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/5324/admin-devops-h-f "Admin Devops H/F")
 * 2017/03/27 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/5322/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
-* 2017/03/15 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5276/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5307/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5306/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/29 - [Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5435/referent-frontend-amoureux-de-react-h-f-en-cdi-a-paris-55000-59000 "Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5308/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5296/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5295/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5297/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

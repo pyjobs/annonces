@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/16 - [Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5420/developpeur-full-stack-java-j2ee-h-f-en-cdi-a-nantes "Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes")
 * 2017/03/16 - [Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5419/operationnel-sur-python-projet-data-h-f-en-cdi-a-paris-45000-54000 "Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000")
 * 2017/03/16 - [Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5418/dev-senior-django-python-javascript-h-f-en-cdi-a-paris-14e-arrondissement "Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/03/27 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5326/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/21 - [Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5426/ingenieur-systeme-passionne-devops-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/03/20 - [Dev Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5425/dev-python-h-f-en-cdi-a-paris-35000-44000 "Dev Python (H/F) en CDI à Paris 35000-44000")
 * 2017/03/20 - [Administrateur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5424/administrateur-big-data-h-f-en-cdi-a-lyon "Administrateur Big Data (H/F) en CDI à Lyon")
-* 2017/03/20 - [Ingénieur infrastructure cloud (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5423/ingenieur-infrastructure-cloud-h-f-en-cdi-a-lyon "Ingénieur infrastructure cloud (H/F) en CDI à Lyon")
 

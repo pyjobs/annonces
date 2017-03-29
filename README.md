@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/16 - [Développeur(se) décisionnel - Business Intelligence](http://www.pyjobs.fr/jobs/details/5299/developpeur-se-decisionnel-business-intelligence "Développeur(se) décisionnel - Business Intelligence")
 * 2017/03/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5298/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5313/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5311/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/27 - [Devops H/F](http://www.pyjobs.fr/jobs/details/5323/devops-h-f "Devops H/F")
-* 2017/03/27 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/5324/admin-devops-h-f "Admin Devops H/F")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/20 - [Dev Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5425/dev-python-h-f-en-cdi-a-paris-35000-44000 "Dev Python (H/F) en CDI à Paris 35000-44000")
 * 2017/03/20 - [Administrateur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5424/administrateur-big-data-h-f-en-cdi-a-lyon "Administrateur Big Data (H/F) en CDI à Lyon")
 * 2017/03/20 - [Ingénieur infrastructure cloud (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5423/ingenieur-infrastructure-cloud-h-f-en-cdi-a-lyon "Ingénieur infrastructure cloud (H/F) en CDI à Lyon")
 * 2017/03/17 - [QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5422/qa-operationnel-python-sur-projet-data-h-f-en-cdi-a-paris-45000-54000 "QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/16 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5290/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5291/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [H/F Développeur informatique Java/J2ee (H/F)](http://www.pyjobs.fr/jobs/details/5301/h-f-developpeur-informatique-java-j2ee-h-f "H/F Développeur informatique Java/J2ee (H/F)")
-* 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5292/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

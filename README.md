@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5308/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5295/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/24 - [Administrateur Systèmes et Réseaux (H/F)](http://www.pyjobs.fr/jobs/details/5321/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux (H/F)")
 * 2017/03/24 - [Ingénieur DevOps (H/F)](http://www.pyjobs.fr/jobs/details/5320/ingenieur-devops-h-f "Ingénieur DevOps (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5310/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5309/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5300/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/23 - [Dev Python / Django (Lyon)](http://www.pyjobs.fr/jobs/details/5318/dev-python-django-lyon "Dev Python / Django (Lyon)")
 

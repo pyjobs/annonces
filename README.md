@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/24 - [Ingénieur DevOps (H/F)](http://www.pyjobs.fr/jobs/details/5320/ingenieur-devops-h-f "Ingénieur DevOps (H/F)")
 * 2017/03/16 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5297/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5307/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/23 - [Dev Python / Django (Lyon)](http://www.pyjobs.fr/jobs/details/5318/dev-python-django-lyon "Dev Python / Django (Lyon)")
 * 2017/03/23 - [Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI](http://www.pyjobs.fr/jobs/details/5319/ingenieur-r-d-developpement-a-grenoble-cdd-6-mois-potentiellement-cdi "Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5308/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/16 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5296/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 

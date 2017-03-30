@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/27 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/5322/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
 * 2017/03/30 - [Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5436/administrateur-systemes-reseaux-h-f-en-cdi-a-paris-35000-44000 "Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000")
 * 2017/03/30 - [Développeur Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5437/developpeur-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Fullstack (H/F) en CDI à Paris 35000-44000")
 * 2017/03/16 - [Développeur(se) décisionnel - Business Intelligence](http://www.pyjobs.fr/jobs/details/5299/developpeur-se-decisionnel-business-intelligence "Développeur(se) décisionnel - Business Intelligence")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5312/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5311/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5313/developpeur-developpeuse-web "Développeur / Développeuse web")
-* 2017/03/27 - [Devops H/F](http://www.pyjobs.fr/jobs/details/5323/devops-h-f "Devops H/F")
 

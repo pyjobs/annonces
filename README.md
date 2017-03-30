@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/16 - [Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5419/operationnel-sur-python-projet-data-h-f-en-cdi-a-paris-45000-54000 "Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000")
 * 2017/03/16 - [Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5418/dev-senior-django-python-javascript-h-f-en-cdi-a-paris-14e-arrondissement "Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/03/27 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5327/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/03/16 - [Ingénieur Devops (H/F) en CDI à La Chapelle-sur-Erdre](http://www.pyjobs.fr/jobs/details/5417/ingenieur-devops-h-f-en-cdi-a-la-chapelle-sur-erdre "Ingénieur Devops (H/F) en CDI à La Chapelle-sur-Erdre")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/16 - [Développeur Back End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5421/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back End (H/F) en CDI à Nantes")
 * 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F](http://www.pyjobs.fr/jobs/details/5432/sysadmin-cloud-sur-nantes-h-f "SysAdmin Cloud sur Nantes - H/F")
 * 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5433/sysadmin-cloud-sur-nantes-h-f-en-cdi-a-paris-45000-54000 "SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000")
-* 2017/03/29 - [Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/5434/developpeur-back-end-big-data-devops-h-f-en-cdi-a-nantes-35000-44000 "Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000")
 

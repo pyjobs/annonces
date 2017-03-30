@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/16 - [Développeur Back end (H/F) en CDI à La Chapelle-sur-Erdre](http://www.pyjobs.fr/jobs/details/5416/developpeur-back-end-h-f-en-cdi-a-la-chapelle-sur-erdre "Développeur Back end (H/F) en CDI à La Chapelle-sur-Erdre")
 * 2017/03/27 - [Product Owner / Coach agile H/F](http://www.pyjobs.fr/jobs/details/5328/product-owner-coach-agile-h-f "Product Owner / Coach agile H/F")
 * 2017/03/27 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/5325/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 * 2017/03/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5312/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/16 - [Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5420/developpeur-full-stack-java-j2ee-h-f-en-cdi-a-nantes "Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes")
 * 2017/03/16 - [Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5419/operationnel-sur-python-projet-data-h-f-en-cdi-a-paris-45000-54000 "Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000")
 * 2017/03/16 - [Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5418/dev-senior-django-python-javascript-h-f-en-cdi-a-paris-14e-arrondissement "Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement")
-* 2017/03/27 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5326/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 

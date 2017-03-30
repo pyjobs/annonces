@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5429/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5314/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/23 - [Devops / AdminSys (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5428/devops-adminsys-h-f-en-cdi-a-paris-45000-54000 "Devops / AdminSys (H/F) en CDI à Paris 45000-54000")
 * 2017/03/22 - [Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/5427/dev-web-applicatif-python-django-h-f-en-cdi-a-paris-12e-arrondissement-35000-44000 "Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5307/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5306/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/29 - [Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5435/referent-frontend-amoureux-de-react-h-f-en-cdi-a-paris-55000-59000 "Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000")
 

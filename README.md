@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/20 - [Dev Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5425/dev-python-h-f-en-cdi-a-paris-35000-44000 "Dev Python (H/F) en CDI à Paris 35000-44000")
 * 2017/03/20 - [Administrateur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5424/administrateur-big-data-h-f-en-cdi-a-lyon "Administrateur Big Data (H/F) en CDI à Lyon")
 * 2017/03/20 - [Ingénieur infrastructure cloud (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5423/ingenieur-infrastructure-cloud-h-f-en-cdi-a-lyon "Ingénieur infrastructure cloud (H/F) en CDI à Lyon")
 * 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F](http://www.pyjobs.fr/jobs/details/5432/sysadmin-cloud-sur-nantes-h-f "SysAdmin Cloud sur Nantes - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5314/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/28 - [Développeur / Intégrateur Python (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5331/developpeur-integrateur-python-h-f-en-stage-a-paris "Développeur / Intégrateur Python (H/F) en Stage à Paris")
 * 2017/03/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5429/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
-* 2017/03/23 - [Devops / AdminSys (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5428/devops-adminsys-h-f-en-cdi-a-paris-45000-54000 "Devops / AdminSys (H/F) en CDI à Paris 45000-54000")
 

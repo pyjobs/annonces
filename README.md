@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/20 - [Ingénieur infrastructure cloud (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5423/ingenieur-infrastructure-cloud-h-f-en-cdi-a-lyon "Ingénieur infrastructure cloud (H/F) en CDI à Lyon")
 * 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F](http://www.pyjobs.fr/jobs/details/5432/sysadmin-cloud-sur-nantes-h-f "SysAdmin Cloud sur Nantes - H/F")
 * 2017/03/17 - [QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5422/qa-operationnel-python-sur-projet-data-h-f-en-cdi-a-paris-45000-54000 "QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000")
 * 2017/03/16 - [Développeur Back End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5421/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back End (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5429/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/03/23 - [Devops / AdminSys (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5428/devops-adminsys-h-f-en-cdi-a-paris-45000-54000 "Devops / AdminSys (H/F) en CDI à Paris 45000-54000")
 * 2017/03/22 - [Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/5427/dev-web-applicatif-python-django-h-f-en-cdi-a-paris-12e-arrondissement-35000-44000 "Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000")
-* 2017/03/21 - [Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5426/ingenieur-systeme-passionne-devops-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000")
 

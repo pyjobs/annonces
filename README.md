@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5313/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5311/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/29 - [Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000](http://www.pyjobs.fr/jobs/details/5431/concepteur-developpeur-sig-referentiel-hf-en-cdi-a-lachassagne-35000-44000 "Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000")
 * 2017/03/27 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/5324/admin-devops-h-f "Admin Devops H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/16 - [Développeur Back end (H/F) en CDI à La Chapelle-sur-Erdre](http://www.pyjobs.fr/jobs/details/5416/developpeur-back-end-h-f-en-cdi-a-la-chapelle-sur-erdre "Développeur Back end (H/F) en CDI à La Chapelle-sur-Erdre")
 * 2017/03/27 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5327/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/03/27 - [Product Owner / Coach agile H/F](http://www.pyjobs.fr/jobs/details/5328/product-owner-coach-agile-h-f "Product Owner / Coach agile H/F")
-* 2017/03/27 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/5325/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 

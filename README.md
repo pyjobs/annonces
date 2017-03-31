@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/27 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/5322/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
 * 2017/03/30 - [Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5436/administrateur-systemes-reseaux-h-f-en-cdi-a-paris-35000-44000 "Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000")
 * 2017/03/30 - [Développeur Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5437/developpeur-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Fullstack (H/F) en CDI à Paris 35000-44000")
 * 2017/03/31 - [Développeur Python/QT (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5439/developpeur-python-qt-h-f-en-cdi-a-paris-45000-54000 "Développeur Python/QT (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse web](http://www.pyjobs.fr/jobs/details/5313/developpeur-developpeuse-web "Développeur / Développeuse web")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5311/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/29 - [Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000](http://www.pyjobs.fr/jobs/details/5431/concepteur-developpeur-sig-referentiel-hf-en-cdi-a-lachassagne-35000-44000 "Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000")
-* 2017/03/27 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/5324/admin-devops-h-f "Admin Devops H/F")
 

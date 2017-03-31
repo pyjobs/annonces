@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/31 - [Administrateur Système Linux - F/H](http://www.pyjobs.fr/jobs/details/5438/administrateur-systeme-linux-f-h "Administrateur Système Linux - F/H")
 * 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
 * 2017/03/22 - [Dev Python driver technique d'une startup dans la fintech !](http://www.pyjobs.fr/jobs/details/5317/dev-python-driver-technique-dune-startup-dans-la-fintech "Dev Python driver technique d'une startup dans la fintech !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/27 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/5322/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
 * 2017/03/30 - [Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5436/administrateur-systemes-reseaux-h-f-en-cdi-a-paris-35000-44000 "Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000")
 * 2017/03/30 - [Développeur Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5437/developpeur-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Fullstack (H/F) en CDI à Paris 35000-44000")
-* 2017/03/16 - [Développeur(se) décisionnel - Business Intelligence](http://www.pyjobs.fr/jobs/details/5299/developpeur-se-decisionnel-business-intelligence "Développeur(se) décisionnel - Business Intelligence")
 

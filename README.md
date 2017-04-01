@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/27 - [Product Owner / Coach agile H/F](http://www.pyjobs.fr/jobs/details/5328/product-owner-coach-agile-h-f "Product Owner / Coach agile H/F")
 * 2017/03/27 - [Référent Matrice Technologique h/f](http://www.pyjobs.fr/jobs/details/5325/referent-matrice-technologique-h-f "Référent Matrice Technologique h/f")
 * 2017/03/17 - [Développeur / Développeuse full-stack](http://www.pyjobs.fr/jobs/details/5312/developpeur-developpeuse-full-stack "Développeur / Développeuse full-stack")
 * 2017/03/27 - [Devops H/F](http://www.pyjobs.fr/jobs/details/5323/devops-h-f "Devops H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/16 - [Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5418/dev-senior-django-python-javascript-h-f-en-cdi-a-paris-14e-arrondissement "Dev Senior (DJANGO/Python/Javascript) (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/03/27 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5327/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/03/16 - [Ingénieur Devops (H/F) en CDI à La Chapelle-sur-Erdre](http://www.pyjobs.fr/jobs/details/5417/ingenieur-devops-h-f-en-cdi-a-la-chapelle-sur-erdre "Ingénieur Devops (H/F) en CDI à La Chapelle-sur-Erdre")
-* 2017/03/16 - [Développeur Back end (H/F) en CDI à La Chapelle-sur-Erdre](http://www.pyjobs.fr/jobs/details/5416/developpeur-back-end-h-f-en-cdi-a-la-chapelle-sur-erdre "Développeur Back end (H/F) en CDI à La Chapelle-sur-Erdre")
 

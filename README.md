@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/03 - [DevOps Cloud (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5442/devops-cloud-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud (H/F) en CDI à Paris 55000-59000")
 * 2017/03/27 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5327/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/04/03 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5441/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/04/03 - [DevOps Cloud](http://www.pyjobs.fr/jobs/details/5440/devops-cloud "DevOps Cloud")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/29 - [Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/5434/developpeur-back-end-big-data-devops-h-f-en-cdi-a-nantes-35000-44000 "Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000")
 * 2017/03/16 - [Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5420/developpeur-full-stack-java-j2ee-h-f-en-cdi-a-nantes "Développeur Full Stack Java/J2EE (H/F) en CDI à Nantes")
 * 2017/03/27 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5326/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
-* 2017/03/16 - [Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5419/operationnel-sur-python-projet-data-h-f-en-cdi-a-paris-45000-54000 "Opérationnel sur Python projet DATA (H/F) en CDI à Paris 45000-54000")
 

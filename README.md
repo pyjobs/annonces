@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5433/sysadmin-cloud-sur-nantes-h-f-en-cdi-a-paris-45000-54000 "SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000")
 * 2017/03/29 - [Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/5434/developpeur-back-end-big-data-devops-h-f-en-cdi-a-nantes-35000-44000 "Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000")
 * 2017/04/04 - [Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5444/data-engineer-pour-startup-e-commerce-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000")
 * 2017/04/04 - [DevOps / SysAdmin (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5445/devops-sysadmin-h-f-en-cdi-a-paris "DevOps / SysAdmin (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/20 - [Administrateur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5424/administrateur-big-data-h-f-en-cdi-a-lyon "Administrateur Big Data (H/F) en CDI à Lyon")
 * 2017/03/20 - [Ingénieur infrastructure cloud (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5423/ingenieur-infrastructure-cloud-h-f-en-cdi-a-lyon "Ingénieur infrastructure cloud (H/F) en CDI à Lyon")
 * 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F](http://www.pyjobs.fr/jobs/details/5432/sysadmin-cloud-sur-nantes-h-f "SysAdmin Cloud sur Nantes - H/F")
-* 2017/03/17 - [QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5422/qa-operationnel-python-sur-projet-data-h-f-en-cdi-a-paris-45000-54000 "QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000")
 

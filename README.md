@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/31 - [Développeur Python/QT (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5439/developpeur-python-qt-h-f-en-cdi-a-paris-45000-54000 "Développeur Python/QT (H/F) en CDI à Paris 45000-54000")
 * 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5469/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5472/developpeur-java-python-h-f "Développeur Java/Python H/F")
 * 2017/03/30 - [Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5436/administrateur-systemes-reseaux-h-f-en-cdi-a-paris-35000-44000 "Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/29 - [Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5435/referent-frontend-amoureux-de-react-h-f-en-cdi-a-paris-55000-59000 "Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5306/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Analyste développeur / développeuse](http://www.pyjobs.fr/jobs/details/5304/analyste-developpeur-developpeuse "Analyste développeur / développeuse")
-* 2017/03/28 - [Développeur / Intégrateur Python (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5331/developpeur-integrateur-python-h-f-en-stage-a-paris "Développeur / Intégrateur Python (H/F) en Stage à Paris")
 

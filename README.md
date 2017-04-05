@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/27 - [Devops H/F](http://www.pyjobs.fr/jobs/details/5323/devops-h-f "Devops H/F")
 * 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
 * 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5466/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
 * 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5456/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5422/qa-operationnel-python-sur-projet-data-h-f-en-cdi-a-paris-45000-54000 "QA Opérationnel Python sur projet DATA (H/F) en CDI à Paris 45000-54000")
 * 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5433/sysadmin-cloud-sur-nantes-h-f-en-cdi-a-paris-45000-54000 "SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000")
 * 2017/03/29 - [Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/5434/developpeur-back-end-big-data-devops-h-f-en-cdi-a-nantes-35000-44000 "Développeur Back End Big Data / Devops - H/F en CDI à Nantes 35000-44000")
-* 2017/04/04 - [Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5444/data-engineer-pour-startup-e-commerce-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000")
 

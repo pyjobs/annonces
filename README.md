@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5534/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/04 - [DevOps / SysAdmin (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5445/devops-sysadmin-h-f-en-cdi-a-paris "DevOps / SysAdmin (H/F) en CDI à Paris")
 * 2017/04/04 - [Developer Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5443/developer-back-end-h-f-en-cdi-a-nantes "Developer Back-end (H/F) en CDI à Nantes")
 * 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5476/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5460/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
 * 2017/04/05 - [Développeur Drupal H/F](http://www.pyjobs.fr/jobs/details/5479/developpeur-drupal-h-f "Développeur Drupal H/F")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5482/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
-* 2017/04/04 - [Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5444/data-engineer-pour-startup-e-commerce-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Software Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5447/software-engineer-h-f-en-cdi-a-paris "Software Engineer (H/F) en CDI à Paris")
 * 2017/03/23 - [Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI](http://www.pyjobs.fr/jobs/details/5319/ingenieur-r-d-developpement-a-grenoble-cdd-6-mois-potentiellement-cdi "Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5308/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/24 - [Administrateur Systèmes et Réseaux (H/F)](http://www.pyjobs.fr/jobs/details/5321/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/22 - [Soyez le Gordon Ramsay du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5316/soyez-le-gordon-ramsay-du-python-angular-js "Soyez le Gordon Ramsay du Python / Angular Js !")
 * 2017/03/20 - [Back-end Python Developer pour le UBER des transports en commun](http://www.pyjobs.fr/jobs/details/5315/back-end-python-developer-pour-le-uber-des-transports-en-commun "Back-end Python Developer pour le UBER des transports en commun")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5310/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5309/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/03 - [DevOps Cloud](http://www.pyjobs.fr/jobs/details/5440/devops-cloud "DevOps Cloud")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5477/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/03/31 - [Développeur Python/QT (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5439/developpeur-python-qt-h-f-en-cdi-a-paris-45000-54000 "Développeur Python/QT (H/F) en CDI à Paris 45000-54000")
 * 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5469/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5307/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/03/29 - [Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5435/referent-frontend-amoureux-de-react-h-f-en-cdi-a-paris-55000-59000 "Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000")
-* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5306/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

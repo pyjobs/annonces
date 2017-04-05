@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/22 - [Dev Python driver technique d'une startup dans la fintech !](http://www.pyjobs.fr/jobs/details/5317/dev-python-driver-technique-dune-startup-dans-la-fintech "Dev Python driver technique d'une startup dans la fintech !")
 * 2017/03/22 - [Soyez le Gordon Ramsay du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5316/soyez-le-gordon-ramsay-du-python-angular-js "Soyez le Gordon Ramsay du Python / Angular Js !")
 * 2017/03/20 - [Back-end Python Developer pour le UBER des transports en commun](http://www.pyjobs.fr/jobs/details/5315/back-end-python-developer-pour-le-uber-des-transports-en-commun "Back-end Python Developer pour le UBER des transports en commun")
 * 2017/03/23 - [Dev Python / Django (Lyon)](http://www.pyjobs.fr/jobs/details/5318/dev-python-django-lyon "Dev Python / Django (Lyon)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/30 - [Développeur Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5437/developpeur-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Fullstack (H/F) en CDI à Paris 35000-44000")
 * 2017/03/31 - [Développeur Python/QT (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5439/developpeur-python-qt-h-f-en-cdi-a-paris-45000-54000 "Développeur Python/QT (H/F) en CDI à Paris 45000-54000")
 * 2017/03/31 - [Administrateur Système Linux - F/H](http://www.pyjobs.fr/jobs/details/5438/administrateur-systeme-linux-f-h "Administrateur Système Linux - F/H")
-* 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 

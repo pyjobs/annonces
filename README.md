@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/03 - [DevOps Cloud (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5442/devops-cloud-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud (H/F) en CDI à Paris 55000-59000")
 * 2017/04/03 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5441/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/04/03 - [DevOps Cloud](http://www.pyjobs.fr/jobs/details/5440/devops-cloud "DevOps Cloud")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5477/developpeur-python-h-f "Développeur Python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/24 - [Administrateur Systèmes et Réseaux (H/F)](http://www.pyjobs.fr/jobs/details/5321/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux (H/F)")
 * 2017/03/24 - [Ingénieur DevOps (H/F)](http://www.pyjobs.fr/jobs/details/5320/ingenieur-devops-h-f "Ingénieur DevOps (H/F)")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5305/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5307/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 

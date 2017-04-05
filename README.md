@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/04 - [DevOps / SysAdmin (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5445/devops-sysadmin-h-f-en-cdi-a-paris "DevOps / SysAdmin (H/F) en CDI à Paris")
 * 2017/04/04 - [Developer Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5443/developer-back-end-h-f-en-cdi-a-nantes "Developer Back-end (H/F) en CDI à Nantes")
 * 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5476/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
 * 2017/04/03 - [DevOps Cloud (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5442/devops-cloud-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Software Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5447/software-engineer-h-f-en-cdi-a-paris "Software Engineer (H/F) en CDI à Paris")
 * 2017/03/23 - [Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI](http://www.pyjobs.fr/jobs/details/5319/ingenieur-r-d-developpement-a-grenoble-cdd-6-mois-potentiellement-cdi "Ingénieur R&D développement à Grenoble - CDD 6 mois potentiellement CDI")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5308/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
-* 2017/03/24 - [Administrateur Systèmes et Réseaux (H/F)](http://www.pyjobs.fr/jobs/details/5321/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux (H/F)")
 

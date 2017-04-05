@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5476/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5540/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5524/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5529/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/04 - [Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5444/data-engineer-pour-startup-e-commerce-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000")
 * 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5487/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5488/developpeur-python-h-f "Développeur Python (H/F)")
-* 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5480/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 

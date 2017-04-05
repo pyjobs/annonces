@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5449/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5452/developpeur-java-python-h-f "Développeur Java/Python H/F")
 * 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5459/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5462/developpeur-java-python-h-f "Développeur Java/Python H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/03 - [DevOps Cloud (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5442/devops-cloud-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud (H/F) en CDI à Paris 55000-59000")
 * 2017/03/27 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5327/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/04/03 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5441/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
-* 2017/04/03 - [DevOps Cloud](http://www.pyjobs.fr/jobs/details/5440/devops-cloud "DevOps Cloud")
 

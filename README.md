@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5509/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5510/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/03/31 - [Administrateur Système Linux - F/H](http://www.pyjobs.fr/jobs/details/5438/administrateur-systeme-linux-f-h "Administrateur Système Linux - F/H")
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5452/developpeur-java-python-h-f "Développeur Java/Python H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/29 - [Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000](http://www.pyjobs.fr/jobs/details/5431/concepteur-developpeur-sig-referentiel-hf-en-cdi-a-lachassagne-35000-44000 "Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000")
 * 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5475/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
 * 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5470/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
-* 2017/03/29 - [Developpeur VBA/Python Finance H/F (H/F)](http://www.pyjobs.fr/jobs/details/5474/developpeur-vba-python-finance-h-f-h-f "Developpeur VBA/Python Finance H/F (H/F)")
 

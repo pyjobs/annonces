@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5488/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5480/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5483/developpeur-java-python-h-f "Développeur Java/Python H/F")
 * 2017/03/29 - [Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5435/referent-frontend-amoureux-de-react-h-f-en-cdi-a-paris-55000-59000 "Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5450/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
 * 2017/03/29 - [Developpeur VBA/Python Finance H/F (H/F)](http://www.pyjobs.fr/jobs/details/5464/developpeur-vba-python-finance-h-f-h-f "Developpeur VBA/Python Finance H/F (H/F)")
 * 2017/03/29 - [Developpeur VBA/Python Finance H/F (H/F)](http://www.pyjobs.fr/jobs/details/5454/developpeur-vba-python-finance-h-f-h-f "Developpeur VBA/Python Finance H/F (H/F)")
-* 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 

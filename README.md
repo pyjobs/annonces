@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/03 - [DevOps Cloud (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5442/devops-cloud-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud (H/F) en CDI à Paris 55000-59000")
 * 2017/04/03 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5441/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/04/03 - [DevOps Cloud](http://www.pyjobs.fr/jobs/details/5440/devops-cloud "DevOps Cloud")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5477/developpeur-python-h-f "Développeur Python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5483/developpeur-java-python-h-f "Développeur Java/Python H/F")
 * 2017/03/29 - [Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5435/referent-frontend-amoureux-de-react-h-f-en-cdi-a-paris-55000-59000 "Référent Frontend Amoureux de React (H/F) en CDI à Paris 55000-59000")
 * 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F](http://www.pyjobs.fr/jobs/details/5432/sysadmin-cloud-sur-nantes-h-f "SysAdmin Cloud sur Nantes - H/F")
-* 2017/03/29 - [SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5433/sysadmin-cloud-sur-nantes-h-f-en-cdi-a-paris-45000-54000 "SysAdmin Cloud sur Nantes - H/F en CDI à Paris 45000-54000")
 

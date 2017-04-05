@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/23 - [Dev Python / Django (Lyon)](http://www.pyjobs.fr/jobs/details/5318/dev-python-django-lyon "Dev Python / Django (Lyon)")
 * 2017/03/17 - [Développeur / Développeuse informatique](http://www.pyjobs.fr/jobs/details/5309/developpeur-developpeuse-informatique "Développeur / Développeuse informatique")
 * 2017/04/05 - [Big Data & Cloud Project Manager (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5446/big-data-cloud-project-manager-h-f-en-cdi-a-paris "Big Data & Cloud Project Manager (H/F) en CDI à Paris")
 * 2017/04/05 - [Software Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5447/software-engineer-h-f-en-cdi-a-paris "Software Engineer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
 * 2017/03/22 - [Dev Python driver technique d'une startup dans la fintech !](http://www.pyjobs.fr/jobs/details/5317/dev-python-driver-technique-dune-startup-dans-la-fintech "Dev Python driver technique d'une startup dans la fintech !")
-* 2017/03/22 - [Soyez le Gordon Ramsay du Python / Angular Js !](http://www.pyjobs.fr/jobs/details/5316/soyez-le-gordon-ramsay-du-python-angular-js "Soyez le Gordon Ramsay du Python / Angular Js !")
 

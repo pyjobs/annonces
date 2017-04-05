@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5475/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
 * 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5470/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
 * 2017/03/29 - [Developpeur VBA/Python Finance H/F (H/F)](http://www.pyjobs.fr/jobs/details/5474/developpeur-vba-python-finance-h-f-h-f "Developpeur VBA/Python Finance H/F (H/F)")
 * 2017/03/27 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/5326/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/23 - [Devops / AdminSys (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5428/devops-adminsys-h-f-en-cdi-a-paris-45000-54000 "Devops / AdminSys (H/F) en CDI à Paris 45000-54000")
 * 2017/03/22 - [Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/5427/dev-web-applicatif-python-django-h-f-en-cdi-a-paris-12e-arrondissement-35000-44000 "Dev web applicatif Python/Django (H/F) en CDI à Paris-12E-Arrondissement 35000-44000")
 * 2017/03/21 - [Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5426/ingenieur-systeme-passionne-devops-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Système passionné #DevOps (H/F) en CDI à Paris 45000-54000")
-* 2017/03/20 - [Dev Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5425/dev-python-h-f-en-cdi-a-paris-35000-44000 "Dev Python (H/F) en CDI à Paris 35000-44000")
 

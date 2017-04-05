@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5501/ingenieur-automatisation-devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5504/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5509/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5510/developpeur-python-h-f "Développeur Python (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/30 - [Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5436/administrateur-systemes-reseaux-h-f-en-cdi-a-paris-35000-44000 "Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000")
 * 2017/03/30 - [Développeur Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5437/developpeur-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Fullstack (H/F) en CDI à Paris 35000-44000")
 * 2017/03/29 - [Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000](http://www.pyjobs.fr/jobs/details/5431/concepteur-developpeur-sig-referentiel-hf-en-cdi-a-lachassagne-35000-44000 "Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000")
-* 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5475/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
 

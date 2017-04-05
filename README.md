@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5499/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5494/developpeur-java-python-h-f "Développeur Java/Python H/F")
 * 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5491/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 * 2017/03/29 - [DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)](http://www.pyjobs.fr/jobs/details/5460/developpeur-python-odoo-h-f-echirolles-h-f "DEVELOPPEUR PYTHON ODOO (H/F) ECHIROLLES (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5452/developpeur-java-python-h-f "Développeur Java/Python H/F")
 * 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5459/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5462/developpeur-java-python-h-f "Développeur Java/Python H/F")
-* 2017/03/30 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5461/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 

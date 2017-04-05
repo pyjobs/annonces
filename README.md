@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/03/29 - [Developpeur VBA/Python Finance H/F (H/F)](http://www.pyjobs.fr/jobs/details/5464/developpeur-vba-python-finance-h-f-h-f "Developpeur VBA/Python Finance H/F (H/F)")
 * 2017/03/29 - [Developpeur VBA/Python Finance H/F (H/F)](http://www.pyjobs.fr/jobs/details/5454/developpeur-vba-python-finance-h-f-h-f "Developpeur VBA/Python Finance H/F (H/F)")
 * 2017/03/28 - [DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE](http://www.pyjobs.fr/jobs/details/5330/developpeur-python-c-creation-dun-nouveau-logiciel-voiture-connectee "DÉVELOPPEUR PYTHON/C-CREATION D'UN NOUVEAU LOGICIEL-VOITURE CONNECTEE")
 * 2017/03/28 - [Developpeur perl/php/python](http://www.pyjobs.fr/jobs/details/5329/developpeur-perl-php-python "Developpeur perl/php/python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/29 - [Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000](http://www.pyjobs.fr/jobs/details/5431/concepteur-developpeur-sig-referentiel-hf-en-cdi-a-lachassagne-35000-44000 "Concepteur développeur SIG & Référentiel - HF en CDI à Lachassagne 35000-44000")
 * 2017/03/27 - [Admin Devops H/F](http://www.pyjobs.fr/jobs/details/5324/admin-devops-h-f "Admin Devops H/F")
 * 2017/03/27 - [H/F Ingénieur support produit](http://www.pyjobs.fr/jobs/details/5322/h-f-ingenieur-support-produit "H/F Ingénieur support produit")
-* 2017/03/30 - [Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5436/administrateur-systemes-reseaux-h-f-en-cdi-a-paris-35000-44000 "Administrateur Systèmes & Réseaux (H/F) en CDI à Paris 35000-44000")
 

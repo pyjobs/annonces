@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/06 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5662/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5609/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5610/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5529/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5620/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5619/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5534/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
-* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5614/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 

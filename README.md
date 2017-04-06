@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5579/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5649/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Big Data & Cloud Project Manager (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5446/big-data-cloud-project-manager-h-f-en-cdi-a-paris "Big Data & Cloud Project Manager (H/F) en CDI à Paris")
 * 2017/04/05 - [Software Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5447/software-engineer-h-f-en-cdi-a-paris "Software Engineer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5590/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5456/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5520/developpeur-python-h-f "Développeur Python (H/F)")
-* 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5467/developpeur-python-h-f "Développeur Python (H/F)")
 

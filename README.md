@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5456/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5520/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5467/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5509/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/03/31 - [Développeur Java/Python H/F](http://www.pyjobs.fr/jobs/details/5472/developpeur-java-python-h-f "Développeur Java/Python H/F")
 * 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5469/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 * 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
-* 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5519/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 

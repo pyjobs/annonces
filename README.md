@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/04 - [Développeur / Développeuse PHP 5 (H/F)](http://www.pyjobs.fr/jobs/details/5466/developpeur-developpeuse-php-5-h-f "Développeur / Développeuse PHP 5 (H/F)")
 * 2017/04/05 - [Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5501/ingenieur-automatisation-devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5584/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5589/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/03 - [DevOps Cloud](http://www.pyjobs.fr/jobs/details/5440/devops-cloud "DevOps Cloud")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5477/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5530/developpeur-python-h-f "Développeur Python (H/F)")
-* 2017/03/31 - [Développeur Python/QT (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5439/developpeur-python-qt-h-f-en-cdi-a-paris-45000-54000 "Développeur Python/QT (H/F) en CDI à Paris 45000-54000")
 

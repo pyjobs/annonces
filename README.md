@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5574/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5581/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5510/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/05 - [DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)](http://www.pyjobs.fr/jobs/details/5490/devops-python-teletravail-partiel-editeur-antony-h-f-teletravail "DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5467/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5520/developpeur-python-h-f "Développeur Python (H/F)")
 * 2017/04/03 - [Développeur Python (H/F)](http://www.pyjobs.fr/jobs/details/5457/developpeur-python-h-f "Développeur Python (H/F)")
-* 2017/03/31 - [Développeur BackEnd (Dominante PYTHON) (H/F)](http://www.pyjobs.fr/jobs/details/5512/developpeur-backend-dominante-python-h-f "Développeur BackEnd (Dominante PYTHON) (H/F)")
 

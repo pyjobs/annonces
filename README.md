@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5614/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5539/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5524/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/04 - [DevOps / SysAdmin (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5445/devops-sysadmin-h-f-en-cdi-a-paris "DevOps / SysAdmin (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Développeur Drupal H/F](http://www.pyjobs.fr/jobs/details/5479/developpeur-drupal-h-f "Développeur Drupal H/F")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5551/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5544/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
-* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5482/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 

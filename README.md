@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5620/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5534/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5614/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5539/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5630/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5471/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5544/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
-* 2017/04/04 - [Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5444/data-engineer-pour-startup-e-commerce-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour Startup E-Commerce (H/F) en CDI à Paris 55000-59000")
 

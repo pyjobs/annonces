@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5501/ingenieur-automatisation-devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5589/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5509/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5514/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5529/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/03 - [DevOps Cloud (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5442/devops-cloud-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud (H/F) en CDI à Paris 55000-59000")
 * 2017/04/03 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5441/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
-* 2017/04/03 - [DevOps Cloud](http://www.pyjobs.fr/jobs/details/5440/devops-cloud "DevOps Cloud")
 

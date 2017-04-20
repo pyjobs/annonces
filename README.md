@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/14 - [Sysadmin / devops linux / python](http://www.pyjobs.fr/jobs/details/5671/sysadmin-devops-linux-python "Sysadmin / devops linux / python")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5610/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5609/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/19 - [Développeur Full Stack (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5676/developpeur-full-stack-h-f-en-stage-a-paris "Développeur Full Stack (H/F) en Stage à Paris")
 * 2017/04/14 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5672/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/04/06 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5662/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
-* 2017/04/18 - [Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5675/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000")
 

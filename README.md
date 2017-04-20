@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Développeur Drupal H/F](http://www.pyjobs.fr/jobs/details/5479/developpeur-drupal-h-f "Développeur Drupal H/F")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5559/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/19 - [Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000](http://www.pyjobs.fr/jobs/details/5678/ingenieur-cloud-devops-h-f-en-cdi-a-levallois-perret-25000-34000 "Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5638/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/14 - [Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris](http://www.pyjobs.fr/jobs/details/5673/ingenieur-linux-ha-chez-un-hebergeur-en-pleine-croissance-londres-luxembourg-paris "Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris")
 * 2017/04/10 - [Sysadmin / DevOps Linux / Python (télétravail)](http://www.pyjobs.fr/jobs/details/5666/sysadmin-devops-linux-python-teletravail "Sysadmin / DevOps Linux / Python (télétravail)")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5641/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
-* 2017/04/10 - [QA/Ingé Qualité opérationnel Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5665/qa-inge-qualite-operationnel-python-h-f-en-cdi-a-paris-45000-54000 "QA/Ingé Qualité opérationnel Python (H/F) en CDI à Paris 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Big Data & Cloud Project Manager (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5446/big-data-cloud-project-manager-h-f-en-cdi-a-paris "Big Data & Cloud Project Manager (H/F) en CDI à Paris")
 * 2017/04/05 - [Software Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5447/software-engineer-h-f-en-cdi-a-paris "Software Engineer (H/F) en CDI à Paris")
 * 2017/04/14 - [Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris](http://www.pyjobs.fr/jobs/details/5673/ingenieur-linux-ha-chez-un-hebergeur-en-pleine-croissance-londres-luxembourg-paris "Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris")
 * 2017/04/10 - [Sysadmin / DevOps Linux / Python (télétravail)](http://www.pyjobs.fr/jobs/details/5666/sysadmin-devops-linux-python-teletravail "Sysadmin / DevOps Linux / Python (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/13 - [Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000](http://www.pyjobs.fr/jobs/details/5670/developpeur-expert-python-odoo-h-f-en-cdi-a-beaucouze-35000-44000 "Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5644/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/11 - [Administrateur Linux / Devops H/F](http://www.pyjobs.fr/jobs/details/5667/administrateur-linux-devops-h-f "Administrateur Linux / Devops H/F")
-* 2017/04/07 - [Développeur PHP/Symfony/Drupal H/F](http://www.pyjobs.fr/jobs/details/5664/developpeur-php-symfony-drupal-h-f "Développeur PHP/Symfony/Drupal H/F")
 

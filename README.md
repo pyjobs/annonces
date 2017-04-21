@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/20 - [Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5682/dev-expert-python-en-teletravail-h-f-en-cdi-a-paris-45000-54000 "Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5619/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5630/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/21 - [Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5686/ingenieur-back-end-confirme-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/19 - [Senior Network Engineer (H/F) en CDI à Plan-les-Ouates >70000](http://www.pyjobs.fr/jobs/details/5679/senior-network-engineer-h-f-en-cdi-a-plan-les-ouates-70000 "Senior Network Engineer (H/F) en CDI à Plan-les-Ouates >70000")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5629/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5493/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
-* 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
 

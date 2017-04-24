@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/24 - [Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5687/chef-de-projet-applications-embarquees-h-f-en-cdi-a-paris-45000-54000 "Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000")
 * 2017/04/12 - [Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000](http://www.pyjobs.fr/jobs/details/5668/ingenieur-django-nodejs-h-f-en-cdi-a-pau-45000-54000 "Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000")
 * 2017/04/06 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5659/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/06 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5660/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/14 - [Sysadmin / devops linux / python](http://www.pyjobs.fr/jobs/details/5671/sysadmin-devops-linux-python "Sysadmin / devops linux / python")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5610/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
-* 2017/04/18 - [SysOps Confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5674/sysops-confirme-h-f-en-cdi-a-paris-45000-54000 "SysOps Confirmé (H/F) en CDI à Paris 45000-54000")
 

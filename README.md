@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/14 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5672/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/04/18 - [Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5675/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000")
 * 2017/04/06 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5662/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5689/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/19 - [Administrateur Bases de Données (DBA) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5677/administrateur-bases-de-donnees-dba-h-f-en-cdi-a-paris-45000-54000 "Administrateur Bases de Données (DBA) (H/F) en CDI à Paris 45000-54000")
 * 2017/04/21 - [Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5685/developpeur-full-stack-js-node-js-h-f-en-cdi-a-paris-35000-44000 "Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000")
 * 2017/04/20 - [Dev expert Python en télétravail ! - H/F](http://www.pyjobs.fr/jobs/details/5680/dev-expert-python-en-teletravail-h-f "Dev expert Python en télétravail ! - H/F")
-* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5534/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 

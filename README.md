@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
 * 2017/04/25 - [CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5698/cto-expert-python-voulant-uberiser-uber-h-f-en-cdi-a-paris-55000-59000 "CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000")
 * 2017/04/25 - [Développeur Python #Startup (H/F) en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/5699/developpeur-python-startup-h-f-en-cdi-a-lille-35000-44000 "Développeur Python #Startup (H/F) en CDI à Lille 35000-44000")
 * 2017/04/06 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5660/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/14 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5672/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/04/18 - [Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5675/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000")
 * 2017/04/06 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5662/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
-* 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5689/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 

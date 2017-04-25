@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5689/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 * 2017/04/21 - [Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5685/developpeur-full-stack-js-node-js-h-f-en-cdi-a-paris-35000-44000 "Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000")
 * 2017/04/20 - [Dev expert Python en télétravail ! - H/F](http://www.pyjobs.fr/jobs/details/5680/dev-expert-python-en-teletravail-h-f "Dev expert Python en télétravail ! - H/F")
 * 2017/04/19 - [Développeur Full Stack (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5676/developpeur-full-stack-h-f-en-stage-a-paris "Développeur Full Stack (H/F) en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5629/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/25 - [Développeur web junior (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5690/developpeur-web-junior-h-f-en-cdd-a-paris-25000-34000 "Développeur web junior (H/F) en CDD à Paris 25000-34000")
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
-* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5493/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 

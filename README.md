@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/25 - [Développeur Python #Startup (H/F) en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/5699/developpeur-python-startup-h-f-en-cdi-a-lille-35000-44000 "Développeur Python #Startup (H/F) en CDI à Lille 35000-44000")
 * 2017/04/06 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5660/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)](http://www.pyjobs.fr/jobs/details/5490/devops-python-teletravail-partiel-editeur-antony-h-f-teletravail "DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)")
 * 2017/04/05 - [Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5501/ingenieur-automatisation-devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/06 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5662/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5689/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 * 2017/04/14 - [Sysadmin / devops linux / python](http://www.pyjobs.fr/jobs/details/5671/sysadmin-devops-linux-python "Sysadmin / devops linux / python")
-* 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
 

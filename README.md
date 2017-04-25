@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/07 - [Full stack Java Script (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5663/full-stack-java-script-h-f-en-cdi-a-paris "Full stack Java Script (H/F) en CDI à Paris")
 * 2017/04/25 - [Ingéneur développeur senior Java/J2EE](http://www.pyjobs.fr/jobs/details/5694/ingeneur-developpeur-senior-java-j2ee "Ingéneur développeur senior Java/J2EE")
 * 2017/04/25 - [Développeur Drupal 7 H/F](http://www.pyjobs.fr/jobs/details/5693/developpeur-drupal-7-h-f "Développeur Drupal 7 H/F")
 * 2017/04/25 - [DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5695/devops-cloud-dans-la-secu-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5589/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5584/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/05 - [DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)](http://www.pyjobs.fr/jobs/details/5490/devops-python-teletravail-partiel-editeur-antony-h-f-teletravail "DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)")
-* 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5571/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 

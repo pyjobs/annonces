@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/24 - [Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5687/chef-de-projet-applications-embarquees-h-f-en-cdi-a-paris-45000-54000 "Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000")
 * 2017/04/18 - [SysOps Confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5674/sysops-confirme-h-f-en-cdi-a-paris-45000-54000 "SysOps Confirmé (H/F) en CDI à Paris 45000-54000")
 * 2017/04/14 - [Sysadmin / devops linux / python](http://www.pyjobs.fr/jobs/details/5671/sysadmin-devops-linux-python "Sysadmin / devops linux / python")
 * 2017/04/12 - [Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000](http://www.pyjobs.fr/jobs/details/5668/ingenieur-django-nodejs-h-f-en-cdi-a-pau-45000-54000 "Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/21 - [Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5686/ingenieur-back-end-confirme-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000")
 * 2017/04/19 - [Administrateur Bases de Données (DBA) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5677/administrateur-bases-de-donnees-dba-h-f-en-cdi-a-paris-45000-54000 "Administrateur Bases de Données (DBA) (H/F) en CDI à Paris 45000-54000")
 * 2017/04/21 - [Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5685/developpeur-full-stack-js-node-js-h-f-en-cdi-a-paris-35000-44000 "Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000")
-* 2017/04/20 - [Dev expert Python en télétravail ! - H/F](http://www.pyjobs.fr/jobs/details/5680/dev-expert-python-en-teletravail-h-f "Dev expert Python en télétravail ! - H/F")
 

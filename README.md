@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/20 - [Dev expert Python en télétravail ! - H/F](http://www.pyjobs.fr/jobs/details/5680/dev-expert-python-en-teletravail-h-f "Dev expert Python en télétravail ! - H/F")
 * 2017/04/19 - [Développeur Full Stack (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5676/developpeur-full-stack-h-f-en-stage-a-paris "Développeur Full Stack (H/F) en Stage à Paris")
 * 2017/04/18 - [Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5675/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000")
 * 2017/04/14 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5672/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5493/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/20 - [Développeur Back / Front talentueux (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5683/developpeur-back-front-talentueux-h-f-en-cdi-a-nantes "Développeur Back / Front talentueux (H/F) en CDI à Nantes")
-* 2017/04/20 - [Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5682/dev-expert-python-en-teletravail-h-f-en-cdi-a-paris-45000-54000 "Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000")
 

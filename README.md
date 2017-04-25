@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/18 - [Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5675/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000")
 * 2017/04/14 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5672/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/04/06 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5662/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5688/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/20 - [Développeur Back / Front talentueux (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5683/developpeur-back-front-talentueux-h-f-en-cdi-a-nantes "Développeur Back / Front talentueux (H/F) en CDI à Nantes")
 * 2017/04/20 - [Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5682/dev-expert-python-en-teletravail-h-f-en-cdi-a-paris-45000-54000 "Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5619/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
-* 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5630/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 

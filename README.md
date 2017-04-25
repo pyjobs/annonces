@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5501/ingenieur-automatisation-devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5571/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5509/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/25 - [Chargé de Travaux Dirigés - Linux / LPI H/F](http://www.pyjobs.fr/jobs/details/5697/charge-de-travaux-diriges-linux-lpi-h-f "Chargé de Travaux Dirigés - Linux / LPI H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
 * 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5688/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 * 2017/04/18 - [SysOps Confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5674/sysops-confirme-h-f-en-cdi-a-paris-45000-54000 "SysOps Confirmé (H/F) en CDI à Paris 45000-54000")
-* 2017/04/24 - [Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5687/chef-de-projet-applications-embarquees-h-f-en-cdi-a-paris-45000-54000 "Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000")
 

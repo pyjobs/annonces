@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5629/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/25 - [Développeur web junior (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5690/developpeur-web-junior-h-f-en-cdd-a-paris-25000-34000 "Développeur web junior (H/F) en CDD à Paris 25000-34000")
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5493/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Développeur Drupal H/F](http://www.pyjobs.fr/jobs/details/5479/developpeur-drupal-h-f "Développeur Drupal H/F")
 * 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5559/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/19 - [Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000](http://www.pyjobs.fr/jobs/details/5678/ingenieur-cloud-devops-h-f-en-cdi-a-levallois-perret-25000-34000 "Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000")
-* 2017/04/05 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5638/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 

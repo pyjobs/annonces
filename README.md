@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5564/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/25 - [DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5692/devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
 * 2017/04/20 - [Frontend Software Engineer (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5684/frontend-software-engineer-h-f-en-cdi-a-paris-35000-44000 "Frontend Software Engineer (H/F) en CDI à Paris 35000-44000")
 * 2017/04/10 - [Sysadmin / DevOps Linux / Python (télétravail)](http://www.pyjobs.fr/jobs/details/5666/sysadmin-devops-linux-python-teletravail "Sysadmin / DevOps Linux / Python (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/05 - [Ingénieur Développement Python/Angular JS (H/F)](http://www.pyjobs.fr/jobs/details/5644/ingenieur-developpement-python-angular-js-h-f "Ingénieur Développement Python/Angular JS (H/F)")
 * 2017/04/11 - [Administrateur Linux / Devops H/F](http://www.pyjobs.fr/jobs/details/5667/administrateur-linux-devops-h-f "Administrateur Linux / Devops H/F")
 * 2017/04/07 - [Développeur PHP/Symfony/Drupal H/F](http://www.pyjobs.fr/jobs/details/5664/developpeur-php-symfony-drupal-h-f "Développeur PHP/Symfony/Drupal H/F")
-* 2017/04/07 - [Full stack Java Script (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5663/full-stack-java-script-h-f-en-cdi-a-paris "Full stack Java Script (H/F) en CDI à Paris")
 

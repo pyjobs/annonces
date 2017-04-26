@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/05 - [Développeur Drupal H/F](http://www.pyjobs.fr/jobs/details/5479/developpeur-drupal-h-f "Développeur Drupal H/F")
 * 2017/04/26 - [Développeur PHP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5700/developpeur-php-h-f-en-cdi-a-paris-35000-44000 "Développeur PHP (H/F) en CDI à Paris 35000-44000")
 * 2017/04/19 - [Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000](http://www.pyjobs.fr/jobs/details/5678/ingenieur-cloud-devops-h-f-en-cdi-a-levallois-perret-25000-34000 "Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000")
 * 2017/04/25 - [CTO expert Python cherchant à uberiser uber - H/F](http://www.pyjobs.fr/jobs/details/5691/cto-expert-python-cherchant-a-uberiser-uber-h-f "CTO expert Python cherchant à uberiser uber - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/20 - [Frontend Software Engineer (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5684/frontend-software-engineer-h-f-en-cdi-a-paris-35000-44000 "Frontend Software Engineer (H/F) en CDI à Paris 35000-44000")
 * 2017/04/10 - [Sysadmin / DevOps Linux / Python (télétravail)](http://www.pyjobs.fr/jobs/details/5666/sysadmin-devops-linux-python-teletravail "Sysadmin / DevOps Linux / Python (télétravail)")
 * 2017/04/05 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5641/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
-* 2017/04/10 - [QA/Ingé Qualité opérationnel Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5665/qa-inge-qualite-operationnel-python-h-f-en-cdi-a-paris-45000-54000 "QA/Ingé Qualité opérationnel Python (H/F) en CDI à Paris 45000-54000")
 

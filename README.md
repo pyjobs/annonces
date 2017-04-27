@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/25 - [Ingéneur développeur senior Java/J2EE](http://www.pyjobs.fr/jobs/details/5694/ingeneur-developpeur-senior-java-j2ee "Ingéneur développeur senior Java/J2EE")
 * 2017/04/25 - [Développeur Drupal 7 H/F](http://www.pyjobs.fr/jobs/details/5693/developpeur-drupal-7-h-f "Développeur Drupal 7 H/F")
 * 2017/04/25 - [DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5695/devops-cloud-dans-la-secu-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000")
 * 2017/04/14 - [Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris](http://www.pyjobs.fr/jobs/details/5673/ingenieur-linux-ha-chez-un-hebergeur-en-pleine-croissance-londres-luxembourg-paris "Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/13 - [Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000](http://www.pyjobs.fr/jobs/details/5670/developpeur-expert-python-odoo-h-f-en-cdi-a-beaucouze-35000-44000 "Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000")
 * 2017/04/11 - [Administrateur Linux / Devops H/F](http://www.pyjobs.fr/jobs/details/5667/administrateur-linux-devops-h-f "Administrateur Linux / Devops H/F")
 * 2017/04/07 - [Développeur PHP/Symfony/Drupal H/F](http://www.pyjobs.fr/jobs/details/5664/developpeur-php-symfony-drupal-h-f "Développeur PHP/Symfony/Drupal H/F")
-* 2017/04/07 - [Full stack Java Script (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5663/full-stack-java-script-h-f-en-cdi-a-paris "Full stack Java Script (H/F) en CDI à Paris")
 

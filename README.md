@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/25 - [CTO expert Python cherchant à uberiser uber - H/F](http://www.pyjobs.fr/jobs/details/5691/cto-expert-python-cherchant-a-uberiser-uber-h-f "CTO expert Python cherchant à uberiser uber - H/F")
 * 2017/04/25 - [Développeur web junior (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5690/developpeur-web-junior-h-f-en-cdd-a-paris-25000-34000 "Développeur web junior (H/F) en CDD à Paris 25000-34000")
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
 * 2017/04/19 - [Senior Network Engineer (H/F) en CDI à Plan-les-Ouates >70000](http://www.pyjobs.fr/jobs/details/5679/senior-network-engineer-h-f-en-cdi-a-plan-les-ouates-70000 "Senior Network Engineer (H/F) en CDI à Plan-les-Ouates >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/10 - [QA/Ingé Qualité opérationnel Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5665/qa-inge-qualite-operationnel-python-h-f-en-cdi-a-paris-45000-54000 "QA/Ingé Qualité opérationnel Python (H/F) en CDI à Paris 45000-54000")
 * 2017/04/05 - [Développeur Drupal H/F](http://www.pyjobs.fr/jobs/details/5479/developpeur-drupal-h-f "Développeur Drupal H/F")
 * 2017/04/26 - [Développeur PHP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5700/developpeur-php-h-f-en-cdi-a-paris-35000-44000 "Développeur PHP (H/F) en CDI à Paris 35000-44000")
-* 2017/04/19 - [Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000](http://www.pyjobs.fr/jobs/details/5678/ingenieur-cloud-devops-h-f-en-cdi-a-levallois-perret-25000-34000 "Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000")
 

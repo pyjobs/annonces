@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/14 - [Sysadmin / devops linux / python](http://www.pyjobs.fr/jobs/details/5671/sysadmin-devops-linux-python "Sysadmin / devops linux / python")
 * 2017/04/12 - [Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000](http://www.pyjobs.fr/jobs/details/5668/ingenieur-django-nodejs-h-f-en-cdi-a-pau-45000-54000 "Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000")
 * 2017/04/06 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5659/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/06 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5662/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5688/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 * 2017/04/24 - [Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5687/chef-de-projet-applications-embarquees-h-f-en-cdi-a-paris-45000-54000 "Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000")
-* 2017/04/18 - [SysOps Confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5674/sysops-confirme-h-f-en-cdi-a-paris-45000-54000 "SysOps Confirmé (H/F) en CDI à Paris 45000-54000")
 

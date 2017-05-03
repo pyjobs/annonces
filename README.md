@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/06 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5660/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)](http://www.pyjobs.fr/jobs/details/5490/devops-python-teletravail-partiel-editeur-antony-h-f-teletravail "DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)")
 * 2017/04/28 - [Consultant(e) Cloud & DevOps](http://www.pyjobs.fr/jobs/details/5703/consultant-e-cloud-devops "Consultant(e) Cloud & DevOps")
 * 2017/04/05 - [Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5501/ingenieur-automatisation-devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/12 - [Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000](http://www.pyjobs.fr/jobs/details/5668/ingenieur-django-nodejs-h-f-en-cdi-a-pau-45000-54000 "Ingénieur Django / NodeJS (H/F) en CDI à Pau 45000-54000")
 * 2017/04/06 - [Développeur d'applications robots industriels (H/F)](http://www.pyjobs.fr/jobs/details/5659/developpeur-dapplications-robots-industriels-h-f "Développeur d'applications robots industriels (H/F)")
 * 2017/04/05 - [Javascript Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5448/javascript-engineer-h-f-en-cdi-a-paris "Javascript Engineer (H/F) en CDI à Paris")
-* 2017/04/25 - [CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5698/cto-expert-python-voulant-uberiser-uber-h-f-en-cdi-a-paris-55000-59000 "CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000")
 

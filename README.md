@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/20 - [Frontend Software Engineer (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5684/frontend-software-engineer-h-f-en-cdi-a-paris-35000-44000 "Frontend Software Engineer (H/F) en CDI à Paris 35000-44000")
 * 2017/04/27 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)](http://www.pyjobs.fr/jobs/details/5701/lead-developpeur-python-django-h-f "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)")
 * 2017/04/10 - [Sysadmin / DevOps Linux / Python (télétravail)](http://www.pyjobs.fr/jobs/details/5666/sysadmin-devops-linux-python-teletravail "Sysadmin / DevOps Linux / Python (télétravail)")
 * 2017/04/26 - [Développeur PHP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5700/developpeur-php-h-f-en-cdi-a-paris-35000-44000 "Développeur PHP (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/02 - [Développeur web Python (stage)](http://www.pyjobs.fr/jobs/details/5706/developpeur-web-python-stage "Développeur web Python (stage)")
 * 2017/05/02 - [Développeur web Python junior](http://www.pyjobs.fr/jobs/details/5707/developpeur-web-python-junior "Développeur web Python junior")
 * 2017/05/02 - [Ingénieur Développeur Python QA expérimenté](http://www.pyjobs.fr/jobs/details/5705/ingenieur-developpeur-python-qa-experimente "Ingénieur Développeur Python QA expérimenté")
-* 2017/05/02 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5704/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
 

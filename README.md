@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/25 - [Chargé de Travaux Dirigés - Linux / LPI H/F](http://www.pyjobs.fr/jobs/details/5697/charge-de-travaux-diriges-linux-lpi-h-f "Chargé de Travaux Dirigés - Linux / LPI H/F")
 * 2017/04/25 - [Chef de projet technique Open Source H/F](http://www.pyjobs.fr/jobs/details/5696/chef-de-projet-technique-open-source-h-f "Chef de projet technique Open Source H/F")
 * 2017/04/13 - [POLYGLOT FULL-STACK DEVELOPER (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/5669/polyglot-full-stack-developer-h-f-en-cdi-a-bordeaux "POLYGLOT FULL-STACK DEVELOPER (H/F) en CDI à Bordeaux")
 * 2017/04/13 - [Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000](http://www.pyjobs.fr/jobs/details/5670/developpeur-expert-python-odoo-h-f-en-cdi-a-beaucouze-35000-44000 "Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/06 - [Analyste-programmeur / Analyste-programmeuse informatique WINDEV](http://www.pyjobs.fr/jobs/details/5660/analyste-programmeur-analyste-programmeuse-informatique-windev "Analyste-programmeur / Analyste-programmeuse informatique WINDEV")
 * 2017/04/05 - [DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)](http://www.pyjobs.fr/jobs/details/5490/devops-python-teletravail-partiel-editeur-antony-h-f-teletravail "DevOps Python - Télétravail partiel - Éditeur - Antony (H/F) (télétravail)")
 * 2017/04/05 - [Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5501/ingenieur-automatisation-devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "Ingénieur Automatisation / DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
-* 2017/04/28 - [Consultant(e) Cloud & DevOps](http://www.pyjobs.fr/jobs/details/5703/consultant-e-cloud-devops "Consultant(e) Cloud & DevOps")
 

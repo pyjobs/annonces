@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/05 - [FRONT-END DEVELOPER (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5719/front-end-developer-h-f-en-cdi-a-paris "FRONT-END DEVELOPER (H/F) en CDI à Paris")
 * 2017/05/02 - [Développeur web Python (stage)](http://www.pyjobs.fr/jobs/details/5706/developpeur-web-python-stage "Développeur web Python (stage)")
 * 2017/05/02 - [Développeur web Python junior](http://www.pyjobs.fr/jobs/details/5707/developpeur-web-python-junior "Développeur web Python junior")
 * 2017/05/02 - [Ingénieur Développeur Python QA expérimenté](http://www.pyjobs.fr/jobs/details/5705/ingenieur-developpeur-python-qa-experimente "Ingénieur Développeur Python QA expérimenté")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/13 - [Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000](http://www.pyjobs.fr/jobs/details/5670/developpeur-expert-python-odoo-h-f-en-cdi-a-beaucouze-35000-44000 "Développeur expert Python / Odoo (H/F) en CDI à Beaucouzé 35000-44000")
 * 2017/04/11 - [Administrateur Linux / Devops H/F](http://www.pyjobs.fr/jobs/details/5667/administrateur-linux-devops-h-f "Administrateur Linux / Devops H/F")
 * 2017/04/07 - [Développeur PHP/Symfony/Drupal H/F](http://www.pyjobs.fr/jobs/details/5664/developpeur-php-symfony-drupal-h-f "Développeur PHP/Symfony/Drupal H/F")
-* 2017/04/07 - [Full stack Java Script (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5663/full-stack-java-script-h-f-en-cdi-a-paris "Full stack Java Script (H/F) en CDI à Paris")
 

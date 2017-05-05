@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/02 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5704/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
 * 2017/05/05 - [Junior Software Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5718/junior-software-developer-h-f-en-cdi-a-paris "Junior Software Developer (H/F) en CDI à Paris")
 * 2017/04/27 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)](http://www.pyjobs.fr/jobs/details/5701/lead-developpeur-python-django-h-f "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)")
 * 2017/04/25 - [DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5692/devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/25 - [Ingéneur développeur senior Java/J2EE](http://www.pyjobs.fr/jobs/details/5694/ingeneur-developpeur-senior-java-j2ee "Ingéneur développeur senior Java/J2EE")
 * 2017/04/25 - [Développeur Drupal 7 H/F](http://www.pyjobs.fr/jobs/details/5693/developpeur-drupal-7-h-f "Développeur Drupal 7 H/F")
 * 2017/04/25 - [DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5695/devops-cloud-dans-la-secu-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000")
-* 2017/04/14 - [Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris](http://www.pyjobs.fr/jobs/details/5673/ingenieur-linux-ha-chez-un-hebergeur-en-pleine-croissance-londres-luxembourg-paris "Ingénieur Linux HA chez un hébergeur en pleine croissance - Londres - Luxembourg - Paris")
 

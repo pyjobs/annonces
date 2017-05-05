@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/18 - [Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5675/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000")
 * 2017/04/14 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5672/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/05/05 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5714/developpeur-python "Développeur Python")
 * 2017/05/05 - [Administrateur systèmes et réseaux senior](http://www.pyjobs.fr/jobs/details/5713/administrateur-systemes-et-reseaux-senior "Administrateur systèmes et réseaux senior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/20 - [Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5682/dev-expert-python-en-teletravail-h-f-en-cdi-a-paris-45000-54000 "Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000")
 * 2017/04/19 - [Administrateur Bases de Données (DBA) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5677/administrateur-bases-de-donnees-dba-h-f-en-cdi-a-paris-45000-54000 "Administrateur Bases de Données (DBA) (H/F) en CDI à Paris 45000-54000")
 * 2017/05/03 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5709/developpeur-python "Développeur Python")
-* 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5689/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 

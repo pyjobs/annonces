@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/02 - [Développeur web Python (stage)](http://www.pyjobs.fr/jobs/details/5706/developpeur-web-python-stage "Développeur web Python (stage)")
 * 2017/05/02 - [Développeur web Python junior](http://www.pyjobs.fr/jobs/details/5707/developpeur-web-python-junior "Développeur web Python junior")
 * 2017/05/02 - [Ingénieur Développeur Python QA expérimenté](http://www.pyjobs.fr/jobs/details/5705/ingenieur-developpeur-python-qa-experimente "Ingénieur Développeur Python QA expérimenté")
 * 2017/05/02 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5704/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/11 - [Administrateur Linux / Devops H/F](http://www.pyjobs.fr/jobs/details/5667/administrateur-linux-devops-h-f "Administrateur Linux / Devops H/F")
 * 2017/04/07 - [Développeur PHP/Symfony/Drupal H/F](http://www.pyjobs.fr/jobs/details/5664/developpeur-php-symfony-drupal-h-f "Développeur PHP/Symfony/Drupal H/F")
 * 2017/04/07 - [Full stack Java Script (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5663/full-stack-java-script-h-f-en-cdi-a-paris "Full stack Java Script (H/F) en CDI à Paris")
-* 2017/04/25 - [Ingéneur développeur senior Java/J2EE](http://www.pyjobs.fr/jobs/details/5694/ingeneur-developpeur-senior-java-j2ee "Ingéneur développeur senior Java/J2EE")
 

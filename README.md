@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/05 - [Administrateur systèmes et réseaux senior](http://www.pyjobs.fr/jobs/details/5713/administrateur-systemes-et-reseaux-senior "Administrateur systèmes et réseaux senior")
 * 2017/05/05 - [Développeu.r.se Fullstack (Bordeaux)](http://www.pyjobs.fr/jobs/details/5715/developpeu-r-se-fullstack-bordeaux "Développeu.r.se Fullstack (Bordeaux)")
 * 2017/05/05 - [Baby Dév (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5716/baby-dev-h-f-en-stage-a-paris "Baby Dév (H/F) en Stage à Paris")
 * 2017/05/05 - [Big Data Architect (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5717/big-data-architect-h-f-en-cdi "Big Data Architect (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/20 - [Dev expert Python en télétravail ! - H/F](http://www.pyjobs.fr/jobs/details/5680/dev-expert-python-en-teletravail-h-f "Dev expert Python en télétravail ! - H/F")
 * 2017/04/19 - [Développeur Full Stack (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5676/developpeur-full-stack-h-f-en-stage-a-paris "Développeur Full Stack (H/F) en Stage à Paris")
 * 2017/04/18 - [Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5675/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end (React JS ) - H/F en CDI à Paris 45000-54000")
-* 2017/04/14 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5672/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 

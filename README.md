@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/25 - [CTO expert Python cherchant à uberiser uber - H/F](http://www.pyjobs.fr/jobs/details/5691/cto-expert-python-cherchant-a-uberiser-uber-h-f "CTO expert Python cherchant à uberiser uber - H/F")
 * 2017/04/25 - [Développeur web junior (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5690/developpeur-web-junior-h-f-en-cdd-a-paris-25000-34000 "Développeur web junior (H/F) en CDD à Paris 25000-34000")
 * 2017/04/21 - [Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5686/ingenieur-back-end-confirme-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000")
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/02 - [Ingénieur Développeur Python QA expérimenté](http://www.pyjobs.fr/jobs/details/5705/ingenieur-developpeur-python-qa-experimente "Ingénieur Développeur Python QA expérimenté")
 * 2017/05/02 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5704/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
 * 2017/05/05 - [Junior Software Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5718/junior-software-developer-h-f-en-cdi-a-paris "Junior Software Developer (H/F) en CDI à Paris")
-* 2017/04/27 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)](http://www.pyjobs.fr/jobs/details/5701/lead-developpeur-python-django-h-f "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)")
 

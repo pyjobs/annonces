@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5689/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 * 2017/04/21 - [Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5685/developpeur-full-stack-js-node-js-h-f-en-cdi-a-paris-35000-44000 "Développeur full-stack JS / Node.js (H/F) en CDI à Paris 35000-44000")
 * 2017/04/20 - [Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5682/dev-expert-python-en-teletravail-h-f-en-cdi-a-paris-45000-54000 "Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000")
 * 2017/05/10 - [Ingénieur Cloud aventureux à Nantes! - H/F](http://www.pyjobs.fr/jobs/details/5726/ingenieur-cloud-aventureux-a-nantes-h-f "Ingénieur Cloud aventureux à Nantes! - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/21 - [Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5686/ingenieur-back-end-confirme-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000")
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
 * 2017/04/20 - [Développeur Back / Front talentueux (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5683/developpeur-back-front-talentueux-h-f-en-cdi-a-nantes "Développeur Back / Front talentueux (H/F) en CDI à Nantes")
-* 2017/04/19 - [Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000](http://www.pyjobs.fr/jobs/details/5678/ingenieur-cloud-devops-h-f-en-cdi-a-levallois-perret-25000-34000 "Ingénieur Cloud & DevOps (H/F) en CDI à Levallois-Perret 25000-34000")
 

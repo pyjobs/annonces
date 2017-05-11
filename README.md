@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/25 - [Chargé de Travaux Dirigés - Linux / LPI H/F](http://www.pyjobs.fr/jobs/details/5697/charge-de-travaux-diriges-linux-lpi-h-f "Chargé de Travaux Dirigés - Linux / LPI H/F")
 * 2017/04/25 - [Chef de projet technique Open Source H/F](http://www.pyjobs.fr/jobs/details/5696/chef-de-projet-technique-open-source-h-f "Chef de projet technique Open Source H/F")
 * 2017/05/09 - [Développeur full-stack python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5721/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack python (H/F) en CDI à Paris 45000-54000")
 * 2017/04/25 - [Ingéneur développeur senior Java/J2EE](http://www.pyjobs.fr/jobs/details/5694/ingeneur-developpeur-senior-java-j2ee "Ingéneur développeur senior Java/J2EE")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/04 - [Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement](http://www.pyjobs.fr/jobs/details/5712/administrateur-systeme-linux-f-h-en-cdi-a-paris-1er-arrondissement "Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement")
 * 2017/04/25 - [Développeur Python #Startup (H/F) en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/5699/developpeur-python-startup-h-f-en-cdi-a-lille-35000-44000 "Développeur Python #Startup (H/F) en CDI à Lille 35000-44000")
 * 2017/05/04 - [Consultant technologique Messagerie Open Source H/F](http://www.pyjobs.fr/jobs/details/5711/consultant-technologique-messagerie-open-source-h-f "Consultant technologique Messagerie Open Source H/F")
-* 2017/05/04 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5710/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 

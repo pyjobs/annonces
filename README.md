@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/25 - [Ingéneur développeur senior Java/J2EE](http://www.pyjobs.fr/jobs/details/5694/ingeneur-developpeur-senior-java-j2ee "Ingéneur développeur senior Java/J2EE")
 * 2017/05/05 - [FRONT-END DEVELOPER (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5719/front-end-developer-h-f-en-cdi-a-paris "FRONT-END DEVELOPER (H/F) en CDI à Paris")
 * 2017/05/02 - [Développeur web Python (stage)](http://www.pyjobs.fr/jobs/details/5706/developpeur-web-python-stage "Développeur web Python (stage)")
 * 2017/04/25 - [Développeur Drupal 7 H/F](http://www.pyjobs.fr/jobs/details/5693/developpeur-drupal-7-h-f "Développeur Drupal 7 H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/04 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5710/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/04/28 - [Consultant(e) Cloud & DevOps](http://www.pyjobs.fr/jobs/details/5703/consultant-e-cloud-devops "Consultant(e) Cloud & DevOps")
 * 2017/04/28 - [Développeur Senior (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5702/developpeur-senior-h-f-en-cdi-a-paris-60000-69000 "Développeur Senior (H/F) en CDI à Paris 60000-69000")
-* 2017/04/25 - [Chargé de Travaux Dirigés - Linux / LPI H/F](http://www.pyjobs.fr/jobs/details/5697/charge-de-travaux-diriges-linux-lpi-h-f "Chargé de Travaux Dirigés - Linux / LPI H/F")
 

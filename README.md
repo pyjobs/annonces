@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/04 - [Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement](http://www.pyjobs.fr/jobs/details/5712/administrateur-systeme-linux-f-h-en-cdi-a-paris-1er-arrondissement "Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement")
 * 2017/04/25 - [CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5698/cto-expert-python-voulant-uberiser-uber-h-f-en-cdi-a-paris-55000-59000 "CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000")
 * 2017/05/04 - [Consultant technologique Messagerie Open Source H/F](http://www.pyjobs.fr/jobs/details/5711/consultant-technologique-messagerie-open-source-h-f "Consultant technologique Messagerie Open Source H/F")
 * 2017/05/04 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5710/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/05 - [Big Data Architect (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5717/big-data-architect-h-f-en-cdi "Big Data Architect (H/F) en CDI")
 * 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5688/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 * 2017/05/09 - [Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5723/developpeur-php-curieux-se-h-f-en-cdi-a-grenoble-25000-34000 "Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000")
-* 2017/04/24 - [Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5687/chef-de-projet-applications-embarquees-h-f-en-cdi-a-paris-45000-54000 "Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000")
 

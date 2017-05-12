@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/03 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5709/developpeur-python "Développeur Python")
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
 * 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
 * 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/25 - [DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5692/devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
 * 2017/04/20 - [Frontend Software Engineer (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5684/frontend-software-engineer-h-f-en-cdi-a-paris-35000-44000 "Frontend Software Engineer (H/F) en CDI à Paris 35000-44000")
 * 2017/04/25 - [CTO expert Python cherchant à uberiser uber - H/F](http://www.pyjobs.fr/jobs/details/5691/cto-expert-python-cherchant-a-uberiser-uber-h-f "CTO expert Python cherchant à uberiser uber - H/F")
-* 2017/04/25 - [Développeur web junior (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5690/developpeur-web-junior-h-f-en-cdd-a-paris-25000-34000 "Développeur web junior (H/F) en CDD à Paris 25000-34000")
 

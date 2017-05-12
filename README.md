@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/05 - [Junior Software Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5718/junior-software-developer-h-f-en-cdi-a-paris "Junior Software Developer (H/F) en CDI à Paris")
 * 2017/05/02 - [Développeur web Python junior](http://www.pyjobs.fr/jobs/details/5707/developpeur-web-python-junior "Développeur web Python junior")
 * 2017/04/25 - [DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5695/devops-cloud-dans-la-secu-h-f-en-cdi-a-paris-55000-59000 "DevOps Cloud dans la sécu (H/F) en CDI à Paris 55000-59000")
 * 2017/05/02 - [Ingénieur Développeur Python QA expérimenté](http://www.pyjobs.fr/jobs/details/5705/ingenieur-developpeur-python-qa-experimente "Ingénieur Développeur Python QA expérimenté")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/25 - [Chef de projet technique Open Source H/F](http://www.pyjobs.fr/jobs/details/5696/chef-de-projet-technique-open-source-h-f "Chef de projet technique Open Source H/F")
 * 2017/05/09 - [Développeur full-stack python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5721/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack python (H/F) en CDI à Paris 45000-54000")
 * 2017/04/25 - [Ingéneur développeur senior Java/J2EE](http://www.pyjobs.fr/jobs/details/5694/ingeneur-developpeur-senior-java-j2ee "Ingéneur développeur senior Java/J2EE")
-* 2017/04/25 - [Développeur Drupal 7 H/F](http://www.pyjobs.fr/jobs/details/5693/developpeur-drupal-7-h-f "Développeur Drupal 7 H/F")
 

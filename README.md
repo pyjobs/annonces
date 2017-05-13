@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/24 - [DevOps Cloud dans la sécu](http://www.pyjobs.fr/jobs/details/5688/devops-cloud-dans-la-secu "DevOps Cloud dans la sécu")
 * 2017/05/09 - [Développeu|r|se Python (Paris)](http://www.pyjobs.fr/jobs/details/5722/developpeu-r-se-python-paris "Développeu|r|se Python (Paris)")
 * 2017/05/09 - [Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5723/developpeur-php-curieux-se-h-f-en-cdi-a-grenoble-25000-34000 "Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000")
 * 2017/04/24 - [Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5687/chef-de-projet-applications-embarquees-h-f-en-cdi-a-paris-45000-54000 "Chef de projet/Applications embarquées (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/10 - [Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000](http://www.pyjobs.fr/jobs/details/5725/administrateur-systeme-et-reseaux-h-f-en-cdd-a-vallauris-35000-44000 "Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000")
 * 2017/05/05 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5714/developpeur-python "Développeur Python")
 * 2017/05/05 - [Administrateur systèmes et réseaux senior](http://www.pyjobs.fr/jobs/details/5713/administrateur-systemes-et-reseaux-senior "Administrateur systèmes et réseaux senior")
-* 2017/05/05 - [Développeu.r.se Fullstack (Bordeaux)](http://www.pyjobs.fr/jobs/details/5715/developpeu-r-se-fullstack-bordeaux "Développeu.r.se Fullstack (Bordeaux)")
 

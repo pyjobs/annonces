@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
 * 2017/05/12 - [Stage Fiabilité de Site Python Développeur](http://www.pyjobs.fr/jobs/details/5730/stage-fiabilite-de-site-python-developpeur "Stage Fiabilité de Site Python Développeur")
 * 2017/05/12 - [Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5729/lead-full-stack-developer-and-architect-h-f-en-cdi-a-paris-35000-44000 "Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000")
 * 2017/05/10 - [Back-end Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5727/back-end-engineer-h-f-en-cdi-a-paris-45000-54000 "Back-end Engineer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/21 - [Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5686/ingenieur-back-end-confirme-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur back-end confirmé (H/F) en CDI à Rennes 35000-44000")
 * 2017/05/03 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5709/developpeur-python "Développeur Python")
 * 2017/04/20 - [QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5681/qa-pour-guider-la-revolution-e-commerce-h-f-en-cdi-a-paris-55000-59000 "QA pour guider la révolution e-commerce (H/F) en CDI à Paris 55000-59000")
-* 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
 

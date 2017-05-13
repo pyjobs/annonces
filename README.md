@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/10 - [Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000](http://www.pyjobs.fr/jobs/details/5725/administrateur-systeme-et-reseaux-h-f-en-cdd-a-vallauris-35000-44000 "Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000")
 * 2017/05/05 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5714/developpeur-python "Développeur Python")
 * 2017/05/05 - [Administrateur systèmes et réseaux senior](http://www.pyjobs.fr/jobs/details/5713/administrateur-systemes-et-reseaux-senior "Administrateur systèmes et réseaux senior")
 * 2017/05/05 - [Développeu.r.se Fullstack (Bordeaux)](http://www.pyjobs.fr/jobs/details/5715/developpeu-r-se-fullstack-bordeaux "Développeu.r.se Fullstack (Bordeaux)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/20 - [Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5682/dev-expert-python-en-teletravail-h-f-en-cdi-a-paris-45000-54000 "Dev expert Python en télétravail (H/F) en CDI à Paris 45000-54000")
 * 2017/05/10 - [Ingénieur Cloud aventureux à Nantes! - H/F](http://www.pyjobs.fr/jobs/details/5726/ingenieur-cloud-aventureux-a-nantes-h-f "Ingénieur Cloud aventureux à Nantes! - H/F")
 * 2017/05/03 - [Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5708/dev-python-django-f-h-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000")
-* 2017/05/11 - [DevOps Engineer (H/F) en CDI à Nanterre 45000-54000](http://www.pyjobs.fr/jobs/details/5728/devops-engineer-h-f-en-cdi-a-nanterre-45000-54000 "DevOps Engineer (H/F) en CDI à Nanterre 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/11 - [DevOps Engineer (H/F) en CDI à Nanterre 45000-54000](http://www.pyjobs.fr/jobs/details/5728/devops-engineer-h-f-en-cdi-a-nanterre-45000-54000 "DevOps Engineer (H/F) en CDI à Nanterre 45000-54000")
 * 2017/05/10 - [Ingénieur Cloud aventureux à Nantes! - H/F](http://www.pyjobs.fr/jobs/details/5726/ingenieur-cloud-aventureux-a-nantes-h-f "Ingénieur Cloud aventureux à Nantes! - H/F")
 * 2017/05/03 - [Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5708/dev-python-django-f-h-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000")
 * 2017/05/16 - [Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5739/ingenieur-logiciel-embarque-h-f-en-cdi-a-paris-35000-44000 "Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/15 - [Ingénieur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5734/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data (H/F) en CDI à Lyon")
 * 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
 * 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
-* 2017/05/12 - [Stage Fiabilité de Site Python Développeur](http://www.pyjobs.fr/jobs/details/5730/stage-fiabilite-de-site-python-developpeur "Stage Fiabilité de Site Python Développeur")
 

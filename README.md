@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/05 - [FRONT-END DEVELOPER (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5719/front-end-developer-h-f-en-cdi-a-paris "FRONT-END DEVELOPER (H/F) en CDI à Paris")
 * 2017/05/02 - [Développeur web Python (stage)](http://www.pyjobs.fr/jobs/details/5706/developpeur-web-python-stage "Développeur web Python (stage)")
 * 2017/05/05 - [Junior Software Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5718/junior-software-developer-h-f-en-cdi-a-paris "Junior Software Developer (H/F) en CDI à Paris")
 * 2017/04/25 - [Développeur Drupal 7 H/F](http://www.pyjobs.fr/jobs/details/5693/developpeur-drupal-7-h-f "Développeur Drupal 7 H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/28 - [Développeur Senior (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5702/developpeur-senior-h-f-en-cdi-a-paris-60000-69000 "Développeur Senior (H/F) en CDI à Paris 60000-69000")
 * 2017/04/25 - [Chargé de Travaux Dirigés - Linux / LPI H/F](http://www.pyjobs.fr/jobs/details/5697/charge-de-travaux-diriges-linux-lpi-h-f "Chargé de Travaux Dirigés - Linux / LPI H/F")
 * 2017/05/09 - [Développeur full-stack python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5721/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack python (H/F) en CDI à Paris 45000-54000")
-* 2017/04/25 - [Chef de projet technique Open Source H/F](http://www.pyjobs.fr/jobs/details/5696/chef-de-projet-technique-open-source-h-f "Chef de projet technique Open Source H/F")
 

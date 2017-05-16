@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/10 - [Ingénieur Cloud aventureux à Nantes! - H/F](http://www.pyjobs.fr/jobs/details/5726/ingenieur-cloud-aventureux-a-nantes-h-f "Ingénieur Cloud aventureux à Nantes! - H/F")
 * 2017/05/03 - [Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5708/dev-python-django-f-h-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000")
 * 2017/05/16 - [Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5739/ingenieur-logiciel-embarque-h-f-en-cdi-a-paris-35000-44000 "Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000")
 * 2017/05/10 - [Senior Systems Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5724/senior-systems-engineer-h-f-en-cdi-a-paris-45000-54000 "Senior Systems Engineer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
 * 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
 * 2017/05/12 - [Stage Fiabilité de Site Python Développeur](http://www.pyjobs.fr/jobs/details/5730/stage-fiabilite-de-site-python-developpeur "Stage Fiabilité de Site Python Développeur")
-* 2017/05/12 - [Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5729/lead-full-stack-developer-and-architect-h-f-en-cdi-a-paris-35000-44000 "Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000")
 

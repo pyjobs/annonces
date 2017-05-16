@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/03 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5709/developpeur-python "Développeur Python")
 * 2017/04/25 - [Développeur web junior (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5690/developpeur-web-junior-h-f-en-cdd-a-paris-25000-34000 "Développeur web junior (H/F) en CDD à Paris 25000-34000")
 * 2017/05/15 - [Ingénieur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5734/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data (H/F) en CDI à Lyon")
 * 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/12 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5733/lead-developpeur-python-django-h-f-en-cdi-a-lyon-35000-44000 "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000")
 * 2017/04/26 - [Développeur PHP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5700/developpeur-php-h-f-en-cdi-a-paris-35000-44000 "Développeur PHP (H/F) en CDI à Paris 35000-44000")
 * 2017/04/25 - [DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/5692/devops-h-f-en-cdi-a-boulogne-billancourt-35000-44000 "DevOps (H/F) en CDI à Boulogne-Billancourt 35000-44000")
-* 2017/04/25 - [CTO expert Python cherchant à uberiser uber - H/F](http://www.pyjobs.fr/jobs/details/5691/cto-expert-python-cherchant-a-uberiser-uber-h-f "CTO expert Python cherchant à uberiser uber - H/F")
 

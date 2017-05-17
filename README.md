@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/28 - [Consultant(e) Cloud & DevOps](http://www.pyjobs.fr/jobs/details/5703/consultant-e-cloud-devops "Consultant(e) Cloud & DevOps")
 * 2017/04/28 - [Développeur Senior (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5702/developpeur-senior-h-f-en-cdi-a-paris-60000-69000 "Développeur Senior (H/F) en CDI à Paris 60000-69000")
 * 2017/04/25 - [Chargé de Travaux Dirigés - Linux / LPI H/F](http://www.pyjobs.fr/jobs/details/5697/charge-de-travaux-diriges-linux-lpi-h-f "Chargé de Travaux Dirigés - Linux / LPI H/F")
 * 2017/04/25 - [Chef de projet technique Open Source H/F](http://www.pyjobs.fr/jobs/details/5696/chef-de-projet-technique-open-source-h-f "Chef de projet technique Open Source H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/04 - [Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement](http://www.pyjobs.fr/jobs/details/5712/administrateur-systeme-linux-f-h-en-cdi-a-paris-1er-arrondissement "Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement")
 * 2017/05/04 - [Consultant technologique Messagerie Open Source H/F](http://www.pyjobs.fr/jobs/details/5711/consultant-technologique-messagerie-open-source-h-f "Consultant technologique Messagerie Open Source H/F")
 * 2017/04/25 - [CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5698/cto-expert-python-voulant-uberiser-uber-h-f-en-cdi-a-paris-55000-59000 "CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000")
-* 2017/05/04 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5710/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 

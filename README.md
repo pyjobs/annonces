@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/17 - [Senior Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5741/senior-data-scientist-h-f-en-cdi-a-paris "Senior Data Scientist (H/F) en CDI à Paris")
 * 2017/05/03 - [Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5708/dev-python-django-f-h-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000")
 * 2017/05/16 - [Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5739/ingenieur-logiciel-embarque-h-f-en-cdi-a-paris-35000-44000 "Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000")
 * 2017/05/10 - [Senior Systems Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5724/senior-systems-engineer-h-f-en-cdi-a-paris-45000-54000 "Senior Systems Engineer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/12 - [Stage Fiabilité de Site Python Développeur](http://www.pyjobs.fr/jobs/details/5730/stage-fiabilite-de-site-python-developpeur "Stage Fiabilité de Site Python Développeur")
 * 2017/05/12 - [Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5729/lead-full-stack-developer-and-architect-h-f-en-cdi-a-paris-35000-44000 "Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000")
 * 2017/05/10 - [Back-end Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5727/back-end-engineer-h-f-en-cdi-a-paris-45000-54000 "Back-end Engineer (H/F) en CDI à Paris 45000-54000")
-* 2017/05/11 - [DevOps Engineer (H/F) en CDI à Nanterre 45000-54000](http://www.pyjobs.fr/jobs/details/5728/devops-engineer-h-f-en-cdi-a-nanterre-45000-54000 "DevOps Engineer (H/F) en CDI à Nanterre 45000-54000")
 

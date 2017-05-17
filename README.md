@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/12 - [Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5729/lead-full-stack-developer-and-architect-h-f-en-cdi-a-paris-35000-44000 "Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000")
 * 2017/05/10 - [Back-end Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5727/back-end-engineer-h-f-en-cdi-a-paris-45000-54000 "Back-end Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/05/17 - [Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5742/chef-de-projet-web-scrum-editeur-h-f-en-cdi-a-lyon "Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon")
 * 2017/05/17 - [Back End Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5743/back-end-engineer-h-f-en-cdi-a-paris "Back End Engineer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/25 - [CTO expert Python cherchant à uberiser uber - H/F](http://www.pyjobs.fr/jobs/details/5691/cto-expert-python-cherchant-a-uberiser-uber-h-f "CTO expert Python cherchant à uberiser uber - H/F")
 * 2017/05/03 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5709/developpeur-python "Développeur Python")
 * 2017/04/25 - [Développeur web junior (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5690/developpeur-web-junior-h-f-en-cdd-a-paris-25000-34000 "Développeur web junior (H/F) en CDD à Paris 25000-34000")
-* 2017/05/15 - [Ingénieur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5734/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data (H/F) en CDI à Lyon")
 

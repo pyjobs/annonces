@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/04 - [Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement](http://www.pyjobs.fr/jobs/details/5712/administrateur-systeme-linux-f-h-en-cdi-a-paris-1er-arrondissement "Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement")
 * 2017/05/04 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5710/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/05/23 - [Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5747/developpeur-python-solr-h-f-en-freelance-a-boulogne-billancourt "Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt")
 * 2017/05/23 - [Développeur Python Django (H/F) en Freelance à Colomiers](http://www.pyjobs.fr/jobs/details/5748/developpeur-python-django-h-f-en-freelance-a-colomiers "Développeur Python Django (H/F) en Freelance à Colomiers")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/09 - [Développeu|r|se Python (Paris)](http://www.pyjobs.fr/jobs/details/5722/developpeu-r-se-python-paris "Développeu|r|se Python (Paris)")
 * 2017/05/09 - [Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5723/developpeur-php-curieux-se-h-f-en-cdi-a-grenoble-25000-34000 "Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000")
 * 2017/05/06 - [Paris-based full-time system administrator](http://www.pyjobs.fr/jobs/details/5720/paris-based-full-time-system-administrator "Paris-based full-time system administrator")
-* 2017/05/04 - [Consultant technologique Messagerie Open Source H/F](http://www.pyjobs.fr/jobs/details/5711/consultant-technologique-messagerie-open-source-h-f "Consultant technologique Messagerie Open Source H/F")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/04/28 - [Développeur Senior (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5702/developpeur-senior-h-f-en-cdi-a-paris-60000-69000 "Développeur Senior (H/F) en CDI à Paris 60000-69000")
 * 2017/04/25 - [Chargé de Travaux Dirigés - Linux / LPI H/F](http://www.pyjobs.fr/jobs/details/5697/charge-de-travaux-diriges-linux-lpi-h-f "Chargé de Travaux Dirigés - Linux / LPI H/F")
 * 2017/04/25 - [Chef de projet technique Open Source H/F](http://www.pyjobs.fr/jobs/details/5696/chef-de-projet-technique-open-source-h-f "Chef de projet technique Open Source H/F")
 * 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/04/25 - [CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5698/cto-expert-python-voulant-uberiser-uber-h-f-en-cdi-a-paris-55000-59000 "CTO expert Python voulant uberiser uber (H/F) en CDI à Paris 55000-59000")
 * 2017/04/25 - [Développeur Python #Startup (H/F) en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/5699/developpeur-python-startup-h-f-en-cdi-a-lille-35000-44000 "Développeur Python #Startup (H/F) en CDI à Lille 35000-44000")
 * 2017/05/09 - [Développeur full-stack python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5721/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack python (H/F) en CDI à Paris 45000-54000")
-* 2017/04/28 - [Consultant(e) Cloud & DevOps](http://www.pyjobs.fr/jobs/details/5703/consultant-e-cloud-devops "Consultant(e) Cloud & DevOps")
 

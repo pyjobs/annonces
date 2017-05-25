@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
 * 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
 * 2017/05/03 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5709/developpeur-python "Développeur Python")
 * 2017/05/12 - [Stage Fiabilité de Site Python Développeur](http://www.pyjobs.fr/jobs/details/5730/stage-fiabilite-de-site-python-developpeur "Stage Fiabilité de Site Python Développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/02 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5704/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
 * 2017/04/27 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)](http://www.pyjobs.fr/jobs/details/5701/lead-developpeur-python-django-h-f "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)")
 * 2017/04/26 - [Développeur PHP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5700/developpeur-php-h-f-en-cdi-a-paris-35000-44000 "Développeur PHP (H/F) en CDI à Paris 35000-44000")
-* 2017/05/15 - [Software Engineer (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5735/software-engineer-h-f-en-cdi-a-boulogne-billancourt "Software Engineer (H/F) en CDI à Boulogne-Billancourt")
 

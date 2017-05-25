@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/15 - [Software Engineer (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5735/software-engineer-h-f-en-cdi-a-boulogne-billancourt "Software Engineer (H/F) en CDI à Boulogne-Billancourt")
 * 2017/05/15 - [Ingénieur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5734/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data (H/F) en CDI à Lyon")
 * 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
 * 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/15 - [LEAD DEV PYTHON 3 H/F](http://www.pyjobs.fr/jobs/details/5736/lead-dev-python-3-h-f "LEAD DEV PYTHON 3 H/F")
 * 2017/05/12 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5733/lead-developpeur-python-django-h-f-en-cdi-a-lyon-35000-44000 "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000")
 * 2017/05/02 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5704/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
-* 2017/04/27 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)](http://www.pyjobs.fr/jobs/details/5701/lead-developpeur-python-django-h-f "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F)")
 

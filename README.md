@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/30 - [Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5761/adminsysteme-base-de-donnees-h-f-en-cdi-a-villeurbanne-35000-44000 "Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/05/30 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5760/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000")
 * 2017/05/30 - [DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5759/devops-h-f-en-cdi-a-paris-45000-54000 "DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/05/17 - [Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5742/chef-de-projet-web-scrum-editeur-h-f-en-cdi-a-lyon "Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/12 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5733/lead-developpeur-python-django-h-f-en-cdi-a-lyon-35000-44000 "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000")
 * 2017/05/02 - [Ingénieur Linux Réseaux expérimenté](http://www.pyjobs.fr/jobs/details/5704/ingenieur-linux-reseaux-experimente "Ingénieur Linux Réseaux expérimenté")
 * 2017/05/29 - [Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5752/back-end-full-stack-dev-python-django-h-f-en-cdi-a-paris-45000-54000 "Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000")
-* 2017/05/29 - [Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5753/lead-system-and-network-administrator-h-f-en-cdi-a-paris-55000-59000 "Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000")
 

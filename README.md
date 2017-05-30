@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/18 - [Analyse et qualité des données (H/F) en Stage à Lyon](http://www.pyjobs.fr/jobs/details/5744/analyse-et-qualite-des-donnees-h-f-en-stage-a-lyon "Analyse et qualité des données (H/F) en Stage à Lyon")
 * 2017/05/15 - [LEAD DEV PYTHON 3 H/F](http://www.pyjobs.fr/jobs/details/5736/lead-dev-python-3-h-f "LEAD DEV PYTHON 3 H/F")
 * 2017/05/12 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5733/lead-developpeur-python-django-h-f-en-cdi-a-lyon-35000-44000 "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000")
 * 2017/05/29 - [Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5752/back-end-full-stack-dev-python-django-h-f-en-cdi-a-paris-45000-54000 "Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
 * 2017/05/05 - [FRONT-END DEVELOPER (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5719/front-end-developer-h-f-en-cdi-a-paris "FRONT-END DEVELOPER (H/F) en CDI à Paris")
 * 2017/05/05 - [Junior Software Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5718/junior-software-developer-h-f-en-cdi-a-paris "Junior Software Developer (H/F) en CDI à Paris")
-* 2017/05/02 - [Développeur web Python (stage)](http://www.pyjobs.fr/jobs/details/5706/developpeur-web-python-stage "Développeur web Python (stage)")
 

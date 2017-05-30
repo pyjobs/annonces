@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/23 - [Référent Front-end React JS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5749/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end React JS (H/F) en CDI à Paris 45000-54000")
 * 2017/05/04 - [Consultant technologique Messagerie Open Source H/F](http://www.pyjobs.fr/jobs/details/5711/consultant-technologique-messagerie-open-source-h-f "Consultant technologique Messagerie Open Source H/F")
 * 2017/05/04 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5710/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/05/04 - [Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement](http://www.pyjobs.fr/jobs/details/5712/administrateur-systeme-linux-f-h-en-cdi-a-paris-1er-arrondissement "Administrateur Système Linux (F/H) en CDI à Paris-1ER-Arrondissement")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/09 - [Développeu|r|se Python (Paris)](http://www.pyjobs.fr/jobs/details/5722/developpeu-r-se-python-paris "Développeu|r|se Python (Paris)")
 * 2017/05/05 - [Big Data Architect (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5717/big-data-architect-h-f-en-cdi "Big Data Architect (H/F) en CDI")
 * 2017/05/09 - [Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5723/developpeur-php-curieux-se-h-f-en-cdi-a-grenoble-25000-34000 "Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000")
-* 2017/05/06 - [Paris-based full-time system administrator](http://www.pyjobs.fr/jobs/details/5720/paris-based-full-time-system-administrator "Paris-based full-time system administrator")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/30 - [DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5759/devops-h-f-en-cdi-a-paris-45000-54000 "DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/05/17 - [Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5742/chef-de-projet-web-scrum-editeur-h-f-en-cdi-a-lyon "Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon")
 * 2017/05/17 - [Back End Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5743/back-end-engineer-h-f-en-cdi-a-paris "Back End Engineer (H/F) en CDI à Paris")
 * 2017/05/12 - [Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5729/lead-full-stack-developer-and-architect-h-f-en-cdi-a-paris-35000-44000 "Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/29 - [Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5752/back-end-full-stack-dev-python-django-h-f-en-cdi-a-paris-45000-54000 "Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000")
 * 2017/05/29 - [Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5753/lead-system-and-network-administrator-h-f-en-cdi-a-paris-55000-59000 "Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000")
 * 2017/05/15 - [Software Engineer (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5735/software-engineer-h-f-en-cdi-a-boulogne-billancourt "Software Engineer (H/F) en CDI à Boulogne-Billancourt")
-* 2017/05/15 - [Ingénieur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5734/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data (H/F) en CDI à Lyon")
 

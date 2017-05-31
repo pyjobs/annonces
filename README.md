@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/10 - [Senior Systems Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5724/senior-systems-engineer-h-f-en-cdi-a-paris-45000-54000 "Senior Systems Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/05/10 - [Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000](http://www.pyjobs.fr/jobs/details/5725/administrateur-systeme-et-reseaux-h-f-en-cdd-a-vallauris-35000-44000 "Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000")
 * 2017/05/16 - [Développeur Backend for IoT (Python) (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5738/developpeur-backend-for-iot-python-h-f-en-cdi-a-paris-35000-44000 "Développeur Backend for IoT (Python) (H/F) en CDI à Paris 35000-44000")
 * 2017/05/05 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5714/developpeur-python "Développeur Python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/30 - [Chargé TD - LPI (H/F)](http://www.pyjobs.fr/jobs/details/5757/charge-td-lpi-h-f "Chargé TD - LPI (H/F)")
 * 2017/05/30 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5755/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/05/30 - [Data Engineer pour market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5756/data-engineer-pour-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour market-place (H/F) en CDI à Paris 55000-59000")
-* 2017/05/03 - [Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5708/dev-python-django-f-h-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (F/H) en CDI à Villeurbanne 35000-44000")
 

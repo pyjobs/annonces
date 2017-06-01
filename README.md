@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/30 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5755/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/05/30 - [Data Engineer pour market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5756/data-engineer-pour-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour market-place (H/F) en CDI à Paris 55000-59000")
 * 2017/06/01 - [DevOps et cloud Ingénieur H/F](http://www.pyjobs.fr/jobs/details/5764/devops-et-cloud-ingenieur-h-f "DevOps et cloud Ingénieur H/F")
 * 2017/05/10 - [Senior Systems Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5724/senior-systems-engineer-h-f-en-cdi-a-paris-45000-54000 "Senior Systems Engineer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/16 - [Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5739/ingenieur-logiciel-embarque-h-f-en-cdi-a-paris-35000-44000 "Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000")
 * 2017/05/11 - [DevOps Engineer (H/F) en CDI à Nanterre 45000-54000](http://www.pyjobs.fr/jobs/details/5728/devops-engineer-h-f-en-cdi-a-nanterre-45000-54000 "DevOps Engineer (H/F) en CDI à Nanterre 45000-54000")
 * 2017/05/10 - [Ingénieur Cloud aventureux à Nantes! - H/F](http://www.pyjobs.fr/jobs/details/5726/ingenieur-cloud-aventureux-a-nantes-h-f "Ingénieur Cloud aventureux à Nantes! - H/F")
-* 2017/05/30 - [Chargé TD - LPI (H/F)](http://www.pyjobs.fr/jobs/details/5757/charge-td-lpi-h-f "Chargé TD - LPI (H/F)")
 

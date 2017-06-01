@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/10 - [Back-end Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5727/back-end-engineer-h-f-en-cdi-a-paris-45000-54000 "Back-end Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/05/17 - [Senior Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5741/senior-data-scientist-h-f-en-cdi-a-paris "Senior Data Scientist (H/F) en CDI à Paris")
 * 2017/05/16 - [Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5739/ingenieur-logiciel-embarque-h-f-en-cdi-a-paris-35000-44000 "Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000")
 * 2017/05/11 - [DevOps Engineer (H/F) en CDI à Nanterre 45000-54000](http://www.pyjobs.fr/jobs/details/5728/devops-engineer-h-f-en-cdi-a-nanterre-45000-54000 "DevOps Engineer (H/F) en CDI à Nanterre 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/30 - [DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5759/devops-h-f-en-cdi-a-paris-45000-54000 "DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/05/17 - [Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5742/chef-de-projet-web-scrum-editeur-h-f-en-cdi-a-lyon "Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon")
 * 2017/05/17 - [Back End Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5743/back-end-engineer-h-f-en-cdi-a-paris "Back End Engineer (H/F) en CDI à Paris")
-* 2017/05/12 - [Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5729/lead-full-stack-developer-and-architect-h-f-en-cdi-a-paris-35000-44000 "Lead FULL-STACK DEVELOPER AND ARCHITECT (H/F) en CDI à Paris 35000-44000")
 

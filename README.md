@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/24 - [Ingénieur développement logiciel expérimenté](http://www.pyjobs.fr/jobs/details/5751/ingenieur-developpement-logiciel-experimente "Ingénieur développement logiciel expérimenté")
 * 2017/05/23 - [Développeur Python Django (H/F) en Freelance à Colomiers](http://www.pyjobs.fr/jobs/details/5748/developpeur-python-django-h-f-en-freelance-a-colomiers "Développeur Python Django (H/F) en Freelance à Colomiers")
 * 2017/05/09 - [Développeur full-stack python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5721/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack python (H/F) en CDI à Paris 45000-54000")
 * 2017/06/02 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000](http://www.pyjobs.fr/jobs/details/5767/developpeur-backend-python-php-symfony-h-f-en-cdi-a-la-garenne-colombes-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/09 - [Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5723/developpeur-php-curieux-se-h-f-en-cdi-a-grenoble-25000-34000 "Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000")
 * 2017/05/06 - [Paris-based full-time system administrator](http://www.pyjobs.fr/jobs/details/5720/paris-based-full-time-system-administrator "Paris-based full-time system administrator")
 * 2017/05/30 - [Cherche une ou un administrateur système / base de données (Lyon)](http://www.pyjobs.fr/jobs/details/5763/cherche-une-ou-un-administrateur-systeme-base-de-donnees-lyon "Cherche une ou un administrateur système / base de données (Lyon)")
-* 2017/05/23 - [Référent Front-end React JS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5749/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end React JS (H/F) en CDI à Paris 45000-54000")
 

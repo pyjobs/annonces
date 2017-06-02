@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/22 - [Assistant DevOps Big Data (H/F) en Alternance à Puteaux](http://www.pyjobs.fr/jobs/details/5745/assistant-devops-big-data-h-f-en-alternance-a-puteaux "Assistant DevOps Big Data (H/F) en Alternance à Puteaux")
 * 2017/05/16 - [Développeur junior python / data (H/F)](http://www.pyjobs.fr/jobs/details/5740/developpeur-junior-python-data-h-f "Développeur junior python / data (H/F)")
 * 2017/05/05 - [Junior Software Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5718/junior-software-developer-h-f-en-cdi-a-paris "Junior Software Developer (H/F) en CDI à Paris")
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/23 - [Développeur Python Django (H/F) en Freelance à Colomiers](http://www.pyjobs.fr/jobs/details/5748/developpeur-python-django-h-f-en-freelance-a-colomiers "Développeur Python Django (H/F) en Freelance à Colomiers")
 * 2017/05/09 - [Développeur full-stack python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5721/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack python (H/F) en CDI à Paris 45000-54000")
 * 2017/05/24 - [Fullstack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5750/fullstack-web-developer-h-f-en-cdi-a-paris "Fullstack Web Developer (H/F) en CDI à Paris")
-* 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
 

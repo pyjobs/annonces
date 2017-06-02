@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/16 - [Développeur junior python / data (H/F)](http://www.pyjobs.fr/jobs/details/5740/developpeur-junior-python-data-h-f "Développeur junior python / data (H/F)")
 * 2017/05/05 - [Junior Software Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5718/junior-software-developer-h-f-en-cdi-a-paris "Junior Software Developer (H/F) en CDI à Paris")
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 * 2017/06/02 - [Développeur php/python](http://www.pyjobs.fr/jobs/details/5765/developpeur-php-python "Développeur php/python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/09 - [Développeur full-stack python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5721/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack python (H/F) en CDI à Paris 45000-54000")
 * 2017/05/24 - [Fullstack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5750/fullstack-web-developer-h-f-en-cdi-a-paris "Fullstack Web Developer (H/F) en CDI à Paris")
 * 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
-* 2017/05/05 - [FRONT-END DEVELOPER (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5719/front-end-developer-h-f-en-cdi-a-paris "FRONT-END DEVELOPER (H/F) en CDI à Paris")
 

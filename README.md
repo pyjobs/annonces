@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/09 - [Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5723/developpeur-php-curieux-se-h-f-en-cdi-a-grenoble-25000-34000 "Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000")
 * 2017/05/06 - [Paris-based full-time system administrator](http://www.pyjobs.fr/jobs/details/5720/paris-based-full-time-system-administrator "Paris-based full-time system administrator")
 * 2017/05/30 - [Junior Project Manager (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5762/junior-project-manager-h-f-en-stage-a-paris "Junior Project Manager (H/F) en Stage à Paris")
 * 2017/05/30 - [Cherche une ou un administrateur système / base de données (Lyon)](http://www.pyjobs.fr/jobs/details/5763/cherche-une-ou-un-administrateur-systeme-base-de-donnees-lyon "Cherche une ou un administrateur système / base de données (Lyon)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/16 - [Développeur Backend for IoT (Python) (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5738/developpeur-backend-for-iot-python-h-f-en-cdi-a-paris-35000-44000 "Développeur Backend for IoT (Python) (H/F) en CDI à Paris 35000-44000")
 * 2017/05/05 - [Développeur Python](http://www.pyjobs.fr/jobs/details/5714/developpeur-python "Développeur Python")
 * 2017/05/05 - [Administrateur systèmes et réseaux senior](http://www.pyjobs.fr/jobs/details/5713/administrateur-systemes-et-reseaux-senior "Administrateur systèmes et réseaux senior")
-* 2017/05/05 - [Développeu.r.se Fullstack (Bordeaux)](http://www.pyjobs.fr/jobs/details/5715/developpeu-r-se-fullstack-bordeaux "Développeu.r.se Fullstack (Bordeaux)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/29 - [Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5754/software-engineer-cloud-back-end-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt")
 * 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
 * 2017/05/05 - [FRONT-END DEVELOPER (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5719/front-end-developer-h-f-en-cdi-a-paris "FRONT-END DEVELOPER (H/F) en CDI à Paris")
 * 2017/05/22 - [Assistant DevOps Big Data (H/F) en Alternance à Puteaux](http://www.pyjobs.fr/jobs/details/5745/assistant-devops-big-data-h-f-en-alternance-a-puteaux "Assistant DevOps Big Data (H/F) en Alternance à Puteaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/30 - [Junior Project Manager (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5762/junior-project-manager-h-f-en-stage-a-paris "Junior Project Manager (H/F) en Stage à Paris")
 * 2017/05/23 - [Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5747/developpeur-python-solr-h-f-en-freelance-a-boulogne-billancourt "Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt")
 * 2017/05/24 - [Ingénieur développement logiciel expérimenté](http://www.pyjobs.fr/jobs/details/5751/ingenieur-developpement-logiciel-experimente "Ingénieur développement logiciel expérimenté")
-* 2017/05/23 - [Développeur Python Django (H/F) en Freelance à Colomiers](http://www.pyjobs.fr/jobs/details/5748/developpeur-python-django-h-f-en-freelance-a-colomiers "Développeur Python Django (H/F) en Freelance à Colomiers")
 

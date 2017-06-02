@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/30 - [Cherche une ou un administrateur système / base de données (Lyon)](http://www.pyjobs.fr/jobs/details/5763/cherche-une-ou-un-administrateur-systeme-base-de-donnees-lyon "Cherche une ou un administrateur système / base de données (Lyon)")
 * 2017/05/23 - [Référent Front-end React JS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5749/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end React JS (H/F) en CDI à Paris 45000-54000")
 * 2017/05/23 - [Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5747/developpeur-python-solr-h-f-en-freelance-a-boulogne-billancourt "Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt")
 * 2017/05/24 - [Fullstack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5750/fullstack-web-developer-h-f-en-cdi-a-paris "Fullstack Web Developer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/05 - [Développeu.r.se Fullstack (Bordeaux)](http://www.pyjobs.fr/jobs/details/5715/developpeu-r-se-fullstack-bordeaux "Développeu.r.se Fullstack (Bordeaux)")
 * 2017/05/16 - [Ingénieur Web Python Senior](http://www.pyjobs.fr/jobs/details/5737/ingenieur-web-python-senior "Ingénieur Web Python Senior")
 * 2017/05/05 - [Baby Dév (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5716/baby-dev-h-f-en-stage-a-paris "Baby Dév (H/F) en Stage à Paris")
-* 2017/05/09 - [Développeu|r|se Python (Paris)](http://www.pyjobs.fr/jobs/details/5722/developpeu-r-se-python-paris "Développeu|r|se Python (Paris)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/05 - [Front-End Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5768/front-end-web-developer-h-f-en-cdi-a-paris "Front-End Web Developer (H/F) en CDI à Paris")
 * 2017/05/16 - [Ingénieur Web Python Senior](http://www.pyjobs.fr/jobs/details/5737/ingenieur-web-python-senior "Ingénieur Web Python Senior")
 * 2017/05/09 - [Développeu|r|se Python (Paris)](http://www.pyjobs.fr/jobs/details/5722/developpeu-r-se-python-paris "Développeu|r|se Python (Paris)")
 * 2017/05/09 - [Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5723/developpeur-php-curieux-se-h-f-en-cdi-a-grenoble-25000-34000 "Développeur PHP #curieux(se) (H/F) en CDI à Grenoble 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/01 - [DevOps et cloud Ingénieur H/F](http://www.pyjobs.fr/jobs/details/5764/devops-et-cloud-ingenieur-h-f "DevOps et cloud Ingénieur H/F")
 * 2017/05/10 - [Senior Systems Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5724/senior-systems-engineer-h-f-en-cdi-a-paris-45000-54000 "Senior Systems Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/05/10 - [Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000](http://www.pyjobs.fr/jobs/details/5725/administrateur-systeme-et-reseaux-h-f-en-cdd-a-vallauris-35000-44000 "Administrateur système et réseaux (H/F) en CDD à Vallauris 35000-44000")
-* 2017/05/16 - [Développeur Backend for IoT (Python) (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5738/developpeur-backend-for-iot-python-h-f-en-cdi-a-paris-35000-44000 "Développeur Backend for IoT (Python) (H/F) en CDI à Paris 35000-44000")
 

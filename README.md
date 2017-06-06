@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/15 - [Ingénieur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5734/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data (H/F) en CDI à Lyon")
 * 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
 * 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
 * 2017/05/12 - [Stage Fiabilité de Site Python Développeur](http://www.pyjobs.fr/jobs/details/5730/stage-fiabilite-de-site-python-developpeur "Stage Fiabilité de Site Python Développeur")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/12 - [LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5733/lead-developpeur-python-django-h-f-en-cdi-a-lyon-35000-44000 "LEAD DEVELOPPEUR PYTHON / DJANGO (H/F) en CDI à Lyon 35000-44000")
 * 2017/05/29 - [Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5752/back-end-full-stack-dev-python-django-h-f-en-cdi-a-paris-45000-54000 "Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000")
 * 2017/05/29 - [Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5753/lead-system-and-network-administrator-h-f-en-cdi-a-paris-55000-59000 "Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000")
-* 2017/05/15 - [Software Engineer (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5735/software-engineer-h-f-en-cdi-a-boulogne-billancourt "Software Engineer (H/F) en CDI à Boulogne-Billancourt")
 

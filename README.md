@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/06 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5770/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2017/06/02 - [Développeur php/python](http://www.pyjobs.fr/jobs/details/5765/developpeur-php-python "Développeur php/python")
 * 2017/05/18 - [Analyse et qualité des données (H/F) en Stage à Lyon](http://www.pyjobs.fr/jobs/details/5744/analyse-et-qualite-des-donnees-h-f-en-stage-a-lyon "Analyse et qualité des données (H/F) en Stage à Lyon")
 * 2017/05/15 - [LEAD DEV PYTHON 3 H/F](http://www.pyjobs.fr/jobs/details/5736/lead-dev-python-3-h-f "LEAD DEV PYTHON 3 H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
 * 2017/05/22 - [Assistant DevOps Big Data (H/F) en Alternance à Puteaux](http://www.pyjobs.fr/jobs/details/5745/assistant-devops-big-data-h-f-en-alternance-a-puteaux "Assistant DevOps Big Data (H/F) en Alternance à Puteaux")
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
-* 2017/05/16 - [Développeur junior python / data (H/F)](http://www.pyjobs.fr/jobs/details/5740/developpeur-junior-python-data-h-f "Développeur junior python / data (H/F)")
 

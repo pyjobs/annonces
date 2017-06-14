@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/17 - [Back End Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5743/back-end-engineer-h-f-en-cdi-a-paris "Back End Engineer (H/F) en CDI à Paris")
 * 2017/06/14 - [INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5780/ingenieur-devops-h-f-en-stage-a-boulogne-billancourt "INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt")
 * 2017/05/17 - [Senior Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5741/senior-data-scientist-h-f-en-cdi-a-paris "Senior Data Scientist (H/F) en CDI à Paris")
 * 2017/05/16 - [Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5739/ingenieur-logiciel-embarque-h-f-en-cdi-a-paris-35000-44000 "Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/30 - [Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5761/adminsysteme-base-de-donnees-h-f-en-cdi-a-villeurbanne-35000-44000 "Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/05/30 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5760/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000")
 * 2017/05/30 - [DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5759/devops-h-f-en-cdi-a-paris-45000-54000 "DevOps (H/F) en CDI à Paris 45000-54000")
-* 2017/05/17 - [Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5742/chef-de-projet-web-scrum-editeur-h-f-en-cdi-a-lyon "Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon")
 

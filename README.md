@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/15 - [Développeur Python/Django - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5781/developpeur-python-django-education-h-f-en-cdi-a-paris "Développeur Python/Django - Education (H/F) en CDI à Paris")
 * 2017/05/30 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5758/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/05/30 - [Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5761/adminsysteme-base-de-donnees-h-f-en-cdi-a-villeurbanne-35000-44000 "Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/05/30 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5760/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/15 - [Software Engineer (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5735/software-engineer-h-f-en-cdi-a-boulogne-billancourt "Software Engineer (H/F) en CDI à Boulogne-Billancourt")
 * 2017/05/15 - [Ingénieur Big Data (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5734/ingenieur-big-data-h-f-en-cdi-a-lyon "Ingénieur Big Data (H/F) en CDI à Lyon")
 * 2017/05/12 - [Stage Big Data Machine Learning Python Développeur](http://www.pyjobs.fr/jobs/details/5732/stage-big-data-machine-learning-python-developpeur "Stage Big Data Machine Learning Python Développeur")
-* 2017/05/12 - [Stage AI Business Bot Python Développeur](http://www.pyjobs.fr/jobs/details/5731/stage-ai-business-bot-python-developpeur "Stage AI Business Bot Python Développeur")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/15 - [LEAD DEV PYTHON 3 H/F](http://www.pyjobs.fr/jobs/details/5736/lead-dev-python-3-h-f "LEAD DEV PYTHON 3 H/F")
 * 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
 * 2017/06/06 - [Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne](http://www.pyjobs.fr/jobs/details/5769/administrateur-systemes-et-reseaux-h-f-en-cdi-a-carcassonne "Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne")
 * 2017/05/29 - [Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5752/back-end-full-stack-dev-python-django-h-f-en-cdi-a-paris-45000-54000 "Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/16 - [Développeur junior python / data (H/F)](http://www.pyjobs.fr/jobs/details/5740/developpeur-junior-python-data-h-f "Développeur junior python / data (H/F)")
 * 2017/06/06 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5770/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2017/06/02 - [Développeur php/python](http://www.pyjobs.fr/jobs/details/5765/developpeur-php-python "Développeur php/python")
-* 2017/05/18 - [Analyse et qualité des données (H/F) en Stage à Lyon](http://www.pyjobs.fr/jobs/details/5744/analyse-et-qualite-des-donnees-h-f-en-stage-a-lyon "Analyse et qualité des données (H/F) en Stage à Lyon")
 

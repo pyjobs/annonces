@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/22 - [Géomaticien (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5785/geomaticien-h-f-en-cdd-a-vallauris "Géomaticien (H/F) en CDD à Vallauris")
 * 2017/06/19 - [Lead Open Source C++ Engineer (H/F)](http://www.pyjobs.fr/jobs/details/5783/lead-open-source-c-engineer-h-f "Lead Open Source C++ Engineer (H/F)")
 * 2017/06/19 - [QA attiré par l'automatisation ! en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5782/qa-attire-par-lautomatisation-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation ! en CDI à Paris 45000-54000")
 * 2017/06/15 - [Développeur Python/Django - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5781/developpeur-python-django-education-h-f-en-cdi-a-paris "Développeur Python/Django - Education (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/06 - [Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne](http://www.pyjobs.fr/jobs/details/5769/administrateur-systemes-et-reseaux-h-f-en-cdi-a-carcassonne "Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne")
 * 2017/05/29 - [Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5752/back-end-full-stack-dev-python-django-h-f-en-cdi-a-paris-45000-54000 "Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000")
 * 2017/05/29 - [Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5753/lead-system-and-network-administrator-h-f-en-cdi-a-paris-55000-59000 "Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000")
-* 2017/05/15 - [Software Engineer (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5735/software-engineer-h-f-en-cdi-a-boulogne-billancourt "Software Engineer (H/F) en CDI à Boulogne-Billancourt")
 

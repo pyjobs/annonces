@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/29 - [Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5752/back-end-full-stack-dev-python-django-h-f-en-cdi-a-paris-45000-54000 "Back-end/Full Stack Dev - Python/Django (H/F) en CDI à Paris 45000-54000")
 * 2017/05/29 - [Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5753/lead-system-and-network-administrator-h-f-en-cdi-a-paris-55000-59000 "Lead System and Network Administrator (H/F) en CDI à Paris 55000-59000")
 * 2017/06/22 - [Développeur C# / Python (H/F) en CDI à La Garenne-Colombes](http://www.pyjobs.fr/jobs/details/5786/developpeur-c-python-h-f-en-cdi-a-la-garenne-colombes "Développeur C# / Python (H/F) en CDI à La Garenne-Colombes")
 * 2017/06/22 - [Géomaticien (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5785/geomaticien-h-f-en-cdd-a-vallauris "Géomaticien (H/F) en CDD à Vallauris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/18 - [Analyse et qualité des données (H/F) en Stage à Lyon](http://www.pyjobs.fr/jobs/details/5744/analyse-et-qualite-des-donnees-h-f-en-stage-a-lyon "Analyse et qualité des données (H/F) en Stage à Lyon")
 * 2017/05/15 - [LEAD DEV PYTHON 3 H/F](http://www.pyjobs.fr/jobs/details/5736/lead-dev-python-3-h-f "LEAD DEV PYTHON 3 H/F")
 * 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
-* 2017/06/06 - [Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne](http://www.pyjobs.fr/jobs/details/5769/administrateur-systemes-et-reseaux-h-f-en-cdi-a-carcassonne "Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne")
 

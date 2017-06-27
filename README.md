@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 * 2017/05/30 - [Chargé TD - LPI (H/F)](http://www.pyjobs.fr/jobs/details/5757/charge-td-lpi-h-f "Chargé TD - LPI (H/F)")
 * 2017/05/30 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5755/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
 * 2017/06/14 - [Api Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5777/api-engineer-h-f-en-cdi-a-paris-45000-54000 "Api Engineer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/14 - [INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5780/ingenieur-devops-h-f-en-stage-a-boulogne-billancourt "INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt")
 * 2017/05/17 - [Senior Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5741/senior-data-scientist-h-f-en-cdi-a-paris "Senior Data Scientist (H/F) en CDI à Paris")
 * 2017/05/16 - [Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5739/ingenieur-logiciel-embarque-h-f-en-cdi-a-paris-35000-44000 "Ingénieur logiciel embarqué (H/F) en CDI à Paris 35000-44000")
-* 2017/06/14 - [Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5779/ingenieur-tests-automatises-qa-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000")
 

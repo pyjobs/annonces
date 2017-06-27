@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/27 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5792/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-paris-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/06/14 - [Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5779/ingenieur-tests-automatises-qa-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000")
 * 2017/06/14 - [Api Engineer chez le leader Européen du Big Data - H/F](http://www.pyjobs.fr/jobs/details/5778/api-engineer-chez-le-leader-europeen-du-big-data-h-f "Api Engineer chez le leader Européen du Big Data - H/F")
 * 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/30 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5760/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 45000-54000")
 * 2017/05/30 - [DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5759/devops-h-f-en-cdi-a-paris-45000-54000 "DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/05/17 - [Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5742/chef-de-projet-web-scrum-editeur-h-f-en-cdi-a-lyon "Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon")
-* 2017/05/17 - [Back End Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5743/back-end-engineer-h-f-en-cdi-a-paris "Back End Engineer (H/F) en CDI à Paris")
 

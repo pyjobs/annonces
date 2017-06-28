@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 * 2017/06/06 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5770/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2017/06/02 - [Développeur php/python](http://www.pyjobs.fr/jobs/details/5765/developpeur-php-python "Développeur php/python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/12 - [Lead Developer Python Web Back-End](http://www.pyjobs.fr/jobs/details/5774/lead-developer-python-web-back-end "Lead Developer Python Web Back-End")
 * 2017/06/02 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000](http://www.pyjobs.fr/jobs/details/5767/developpeur-backend-python-php-symfony-h-f-en-cdi-a-la-garenne-colombes-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000")
 * 2017/05/29 - [Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5754/software-engineer-cloud-back-end-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt")
-* 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
 

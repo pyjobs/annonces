@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/02 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000](http://www.pyjobs.fr/jobs/details/5767/developpeur-backend-python-php-symfony-h-f-en-cdi-a-la-garenne-colombes-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000")
 * 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/05/29 - [Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5754/software-engineer-cloud-back-end-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt")
 * 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/23 - [Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5747/developpeur-python-solr-h-f-en-freelance-a-boulogne-billancourt "Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt")
 * 2017/06/12 - [Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5775/data-engineer-pour-startup-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000")
 * 2017/05/24 - [Ingénieur développement logiciel expérimenté](http://www.pyjobs.fr/jobs/details/5751/ingenieur-developpement-logiciel-experimente "Ingénieur développement logiciel expérimenté")
-* 2017/05/23 - [Développeur Python Django (H/F) en Freelance à Colomiers](http://www.pyjobs.fr/jobs/details/5748/developpeur-python-django-h-f-en-freelance-a-colomiers "Développeur Python Django (H/F) en Freelance à Colomiers")
 

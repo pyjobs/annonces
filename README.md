@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/05/30 - [Cherche une ou un administrateur système / base de données (Lyon)](http://www.pyjobs.fr/jobs/details/5763/cherche-une-ou-un-administrateur-systeme-base-de-donnees-lyon "Cherche une ou un administrateur système / base de données (Lyon)")
 * 2017/05/24 - [Fullstack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5750/fullstack-web-developer-h-f-en-cdi-a-paris "Fullstack Web Developer (H/F) en CDI à Paris")
 * 2017/05/23 - [Référent Front-end React JS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5749/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end React JS (H/F) en CDI à Paris 45000-54000")
 * 2017/06/12 - [Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5775/data-engineer-pour-startup-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/26 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5788/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2017/06/09 - [Python software dev - data engineering (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5771/python-software-dev-data-engineering-h-f-en-cdi-a-paris-35000-44000 "Python software dev - data engineering (H/F) en CDI à Paris 35000-44000")
 * 2017/06/09 - [Python full stack developer at Chefclub (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5773/python-full-stack-developer-at-chefclub-h-f-en-cdi-a-paris "Python full stack developer at Chefclub (H/F) en CDI à Paris")
-* 2017/06/09 - [Back-end developer at Singlespot (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5772/back-end-developer-at-singlespot-h-f-en-cdi-a-paris-45000-54000 "Back-end developer at Singlespot (H/F) en CDI à Paris 45000-54000")
 

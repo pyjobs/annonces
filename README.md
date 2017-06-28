@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/28 - [Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000](http://www.pyjobs.fr/jobs/details/5793/integrateur-integratrice-devops-h-f-en-cdi-a-boulogne-billancourt-45000-54000 "Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000")
 * 2017/06/28 - [DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/5794/directeur-technique-h-f-en-cdi-a-lyon-45000-54000 "DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000")
 * 2017/06/23 - [Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000](http://www.pyjobs.fr/jobs/details/5787/developpeur-full-stack-h-f-en-cdi-a-strasbourg-35000-44000 "Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000")
 * 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/22 - [Assistant DevOps Big Data (H/F) en Alternance à Puteaux](http://www.pyjobs.fr/jobs/details/5745/assistant-devops-big-data-h-f-en-alternance-a-puteaux "Assistant DevOps Big Data (H/F) en Alternance à Puteaux")
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 * 2017/05/16 - [Développeur junior python / data (H/F)](http://www.pyjobs.fr/jobs/details/5740/developpeur-junior-python-data-h-f "Développeur junior python / data (H/F)")
-* 2017/06/06 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5770/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 

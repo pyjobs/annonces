@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 * 2017/05/29 - [Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5754/software-engineer-cloud-back-end-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt")
 * 2017/06/29 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5801/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/06/28 - [Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000](http://www.pyjobs.fr/jobs/details/5793/integrateur-integratrice-devops-h-f-en-cdi-a-boulogne-billancourt-45000-54000 "Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/23 - [Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5747/developpeur-python-solr-h-f-en-freelance-a-boulogne-billancourt "Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt")
 * 2017/05/24 - [Ingénieur développement logiciel expérimenté](http://www.pyjobs.fr/jobs/details/5751/ingenieur-developpement-logiciel-experimente "Ingénieur développement logiciel expérimenté")
 * 2017/05/23 - [Développeur Python Django (H/F) en Freelance à Colomiers](http://www.pyjobs.fr/jobs/details/5748/developpeur-python-django-h-f-en-freelance-a-colomiers "Développeur Python Django (H/F) en Freelance à Colomiers")
-* 2017/06/12 - [Lead Developer Python Web Back-End](http://www.pyjobs.fr/jobs/details/5774/lead-developer-python-web-back-end "Lead Developer Python Web Back-End")
 

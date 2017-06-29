@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
 * 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 * 2017/05/30 - [Chargé TD - LPI (H/F)](http://www.pyjobs.fr/jobs/details/5757/charge-td-lpi-h-f "Chargé TD - LPI (H/F)")
 * 2017/05/30 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5755/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/17 - [Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon](http://www.pyjobs.fr/jobs/details/5742/chef-de-projet-web-scrum-editeur-h-f-en-cdi-a-lyon "Chef de projet Web - Scrum - Éditeur (H/F) en CDI à Lyon")
 * 2017/06/14 - [INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5780/ingenieur-devops-h-f-en-stage-a-boulogne-billancourt "INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt")
 * 2017/06/27 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5792/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-paris-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000")
-* 2017/06/14 - [Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5779/ingenieur-tests-automatises-qa-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000")
 

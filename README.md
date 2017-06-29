@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/12 - [Lead Developer Python Web Back-End](http://www.pyjobs.fr/jobs/details/5774/lead-developer-python-web-back-end "Lead Developer Python Web Back-End")
 * 2017/06/02 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000](http://www.pyjobs.fr/jobs/details/5767/developpeur-backend-python-php-symfony-h-f-en-cdi-a-la-garenne-colombes-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000")
 * 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/30 - [Junior Project Manager (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5762/junior-project-manager-h-f-en-stage-a-paris "Junior Project Manager (H/F) en Stage à Paris")
 * 2017/05/30 - [Cherche une ou un administrateur système / base de données (Lyon)](http://www.pyjobs.fr/jobs/details/5763/cherche-une-ou-un-administrateur-systeme-base-de-donnees-lyon "Cherche une ou un administrateur système / base de données (Lyon)")
 * 2017/05/24 - [Fullstack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5750/fullstack-web-developer-h-f-en-cdi-a-paris "Fullstack Web Developer (H/F) en CDI à Paris")
-* 2017/05/23 - [Référent Front-end React JS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5749/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end React JS (H/F) en CDI à Paris 45000-54000")
 

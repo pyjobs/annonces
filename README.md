@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
 * 2017/06/02 - [Développeur php/python](http://www.pyjobs.fr/jobs/details/5765/developpeur-php-python "Développeur php/python")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
 * 2017/06/29 - [Linux N3 voulant évoluer DevOps](http://www.pyjobs.fr/jobs/details/5797/linux-n3-voulant-evoluer-devops "Linux N3 voulant évoluer DevOps")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/29 - [Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5754/software-engineer-cloud-back-end-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt")
 * 2017/05/23 - [R&D Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5746/r-d-data-scientist-h-f-en-cdi-a-paris "R&D Data Scientist (H/F) en CDI à Paris")
 * 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
-* 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 

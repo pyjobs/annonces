@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2017/06/06 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5770/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 * 2017/05/29 - [Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5754/software-engineer-cloud-back-end-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End en CDI à Boulogne-Billancourt")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/05/23 - [Référent Front-end React JS (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5749/referent-front-end-react-js-h-f-en-cdi-a-paris-45000-54000 "Référent Front-end React JS (H/F) en CDI à Paris 45000-54000")
 * 2017/06/12 - [Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5775/data-engineer-pour-startup-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000")
 * 2017/05/23 - [Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5747/developpeur-python-solr-h-f-en-freelance-a-boulogne-billancourt "Développeur Python SolR (H/F) en Freelance à Boulogne-Billancourt")
-* 2017/05/24 - [Ingénieur développement logiciel expérimenté](http://www.pyjobs.fr/jobs/details/5751/ingenieur-developpement-logiciel-experimente "Ingénieur développement logiciel expérimenté")
 

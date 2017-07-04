@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/14 - [Api Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5777/api-engineer-h-f-en-cdi-a-paris-45000-54000 "Api Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/06/14 - [Lead Développeur NodeJS (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5776/lead-developpeur-nodejs-h-f-en-cdi-a-paris-60000-69000 "Lead Développeur NodeJS (H/F) en CDI à Paris 60000-69000")
 * 2017/06/01 - [DevOps et cloud Ingénieur H/F](http://www.pyjobs.fr/jobs/details/5764/devops-et-cloud-ingenieur-h-f "DevOps et cloud Ingénieur H/F")
 * 2017/06/27 - [Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5789/concepteur-developpeur-web-ia-h-f-en-cdi-a-paris-35000-44000 "Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/14 - [Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5779/ingenieur-tests-automatises-qa-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000")
 * 2017/06/14 - [Api Engineer chez le leader Européen du Big Data - H/F](http://www.pyjobs.fr/jobs/details/5778/api-engineer-chez-le-leader-europeen-du-big-data-h-f "Api Engineer chez le leader Européen du Big Data - H/F")
 * 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
-* 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 

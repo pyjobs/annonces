@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/06 - [Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne](http://www.pyjobs.fr/jobs/details/5769/administrateur-systemes-et-reseaux-h-f-en-cdi-a-carcassonne "Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne")
 * 2017/07/04 - [Ingénieur·e Back-End Elixir](http://www.pyjobs.fr/jobs/details/5805/ingenieur-e-back-end-elixir "Ingénieur·e Back-End Elixir")
 * 2017/07/04 - [Ingénieur·e Production | DevOps | Releases Engineer](http://www.pyjobs.fr/jobs/details/5804/ingenieur-e-production-devops-releases-engineer "Ingénieur·e Production | DevOps | Releases Engineer")
 * 2017/07/03 - [Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5803/devops-backend-aws-3scale-python-h-f-en-cdi-a-paris-35000-44000 "Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/02 - [Développeur php/python](http://www.pyjobs.fr/jobs/details/5765/developpeur-php-python "Développeur php/python")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
 * 2017/06/29 - [Linux N3 voulant évoluer DevOps](http://www.pyjobs.fr/jobs/details/5797/linux-n3-voulant-evoluer-devops "Linux N3 voulant évoluer DevOps")
-* 2017/06/29 - [Support technique (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5799/support-technique-h-f-en-cdi-a-paris-25000-34000 "Support technique (H/F) en CDI à Paris 25000-34000")
 

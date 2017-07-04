@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/27 - [Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5789/concepteur-developpeur-web-ia-h-f-en-cdi-a-paris-35000-44000 "Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000")
 * 2017/06/26 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5788/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2017/06/09 - [Python software dev - data engineering (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5771/python-software-dev-data-engineering-h-f-en-cdi-a-paris-35000-44000 "Python software dev - data engineering (H/F) en CDI à Paris 35000-44000")
 * 2017/06/05 - [Front-End Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5768/front-end-web-developer-h-f-en-cdi-a-paris "Front-End Web Developer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 * 2017/05/30 - [Chargé TD - LPI (H/F)](http://www.pyjobs.fr/jobs/details/5757/charge-td-lpi-h-f "Chargé TD - LPI (H/F)")
 * 2017/05/30 - [Développeur Full Stack JS H/F](http://www.pyjobs.fr/jobs/details/5755/developpeur-full-stack-js-h-f "Développeur Full Stack JS H/F")
-* 2017/06/14 - [Api Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5777/api-engineer-h-f-en-cdi-a-paris-45000-54000 "Api Engineer (H/F) en CDI à Paris 45000-54000")
 

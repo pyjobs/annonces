@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/23 - [Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000](http://www.pyjobs.fr/jobs/details/5787/developpeur-full-stack-h-f-en-cdi-a-strasbourg-35000-44000 "Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000")
 * 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
 * 2017/07/03 - [QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5808/qa-attire-par-lautomatisation-h-f-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2017/06/06 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5770/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
-* 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 

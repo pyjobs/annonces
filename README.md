@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/05 - [SysAdmin / DevOps (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5809/sysadmin-devops-h-f-en-stage-a-paris "SysAdmin / DevOps (H/F) en Stage à Paris")
 * 2017/07/05 - [Data Scientist (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5810/data-scientist-h-f-en-cdi-a-paris-45000-54000 "Data Scientist (H/F) en CDI à Paris 45000-54000")
 * 2017/06/27 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5792/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-paris-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/06/14 - [INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5780/ingenieur-devops-h-f-en-stage-a-boulogne-billancourt "INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/19 - [QA attiré par l'automatisation ! en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5782/qa-attire-par-lautomatisation-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation ! en CDI à Paris 45000-54000")
 * 2017/06/15 - [Développeur Python/Django - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5781/developpeur-python-django-education-h-f-en-cdi-a-paris "Développeur Python/Django - Education (H/F) en CDI à Paris")
 * 2017/05/30 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5758/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
-* 2017/05/30 - [Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5761/adminsysteme-base-de-donnees-h-f-en-cdi-a-villeurbanne-35000-44000 "Adminsystème / base de données (H/F) en CDI à Villeurbanne 35000-44000")
 

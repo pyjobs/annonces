@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/29 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5801/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/06/06 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5770/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 * 2017/06/28 - [Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000](http://www.pyjobs.fr/jobs/details/5793/integrateur-integratrice-devops-h-f-en-cdi-a-boulogne-billancourt-45000-54000 "Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/30 - [Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5802/developpeur-php-back-end-client-final-en-cdi-a-lyon-35000-44000 "Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000")
 * 2017/06/12 - [Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5775/data-engineer-pour-startup-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000")
 * 2017/06/12 - [Lead Developer Python Web Back-End](http://www.pyjobs.fr/jobs/details/5774/lead-developer-python-web-back-end "Lead Developer Python Web Back-End")
-* 2017/06/02 - [Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000](http://www.pyjobs.fr/jobs/details/5767/developpeur-backend-python-php-symfony-h-f-en-cdi-a-la-garenne-colombes-25000-34000 "Développeur Backend Python/PHP Symfony (H/F) en CDI à La Garenne-Colombes 25000-34000")
 

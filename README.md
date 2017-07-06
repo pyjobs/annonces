@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/30 - [Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5802/developpeur-php-back-end-client-final-en-cdi-a-lyon-35000-44000 "Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000")
 * 2017/06/12 - [Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5775/data-engineer-pour-startup-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000")
 * 2017/06/12 - [Lead Developer Python Web Back-End](http://www.pyjobs.fr/jobs/details/5774/lead-developer-python-web-back-end "Lead Developer Python Web Back-End")
 * 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/09 - [Python software dev - data engineering (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5771/python-software-dev-data-engineering-h-f-en-cdi-a-paris-35000-44000 "Python software dev - data engineering (H/F) en CDI à Paris 35000-44000")
 * 2017/06/05 - [Front-End Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5768/front-end-web-developer-h-f-en-cdi-a-paris "Front-End Web Developer (H/F) en CDI à Paris")
 * 2017/06/09 - [Python full stack developer at Chefclub (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5773/python-full-stack-developer-at-chefclub-h-f-en-cdi-a-paris "Python full stack developer at Chefclub (H/F) en CDI à Paris")
-* 2017/06/09 - [Back-end developer at Singlespot (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5772/back-end-developer-at-singlespot-h-f-en-cdi-a-paris-45000-54000 "Back-end developer at Singlespot (H/F) en CDI à Paris 45000-54000")
 

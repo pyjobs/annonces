@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5806/developpeur-python "Développeur python")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5800/support-n3-editeur-de-logiciels-tech-h-f-en-cdi-a-paris-45000-54000 "Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000")
 * 2017/07/06 - [CTO à San Francisco chez le Netflix de l'Art ! - H/F](http://www.pyjobs.fr/jobs/details/5814/cto-a-san-francisco-chez-le-netflix-de-lart-h-f "CTO à San Francisco chez le Netflix de l'Art ! - H/F")
 * 2017/07/04 - [Ingénieur·e Back-End Elixir](http://www.pyjobs.fr/jobs/details/5805/ingenieur-e-back-end-elixir "Ingénieur·e Back-End Elixir")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/03 - [QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5808/qa-attire-par-lautomatisation-h-f-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
 * 2017/06/29 - [Linux N3 voulant évoluer DevOps](http://www.pyjobs.fr/jobs/details/5797/linux-n3-voulant-evoluer-devops "Linux N3 voulant évoluer DevOps")
-* 2017/06/29 - [Support technique (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5799/support-technique-h-f-en-cdi-a-paris-25000-34000 "Support technique (H/F) en CDI à Paris 25000-34000")
 

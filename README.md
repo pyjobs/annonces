@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/04 - [Ingénieur·e Production | DevOps | Releases Engineer](http://www.pyjobs.fr/jobs/details/5804/ingenieur-e-production-devops-releases-engineer "Ingénieur·e Production | DevOps | Releases Engineer")
 * 2017/07/03 - [Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5803/devops-backend-aws-3scale-python-h-f-en-cdi-a-paris-35000-44000 "Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000")
 * 2017/06/22 - [Développeur C# / Python (H/F) en CDI à La Garenne-Colombes](http://www.pyjobs.fr/jobs/details/5786/developpeur-c-python-h-f-en-cdi-a-la-garenne-colombes "Développeur C# / Python (H/F) en CDI à La Garenne-Colombes")
 * 2017/06/22 - [Géomaticien (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5785/geomaticien-h-f-en-cdd-a-vallauris "Géomaticien (H/F) en CDD à Vallauris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5807/developpeur-python "Développeur python")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5806/developpeur-python "Développeur python")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5800/support-n3-editeur-de-logiciels-tech-h-f-en-cdi-a-paris-45000-54000 "Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000")
-* 2017/06/06 - [Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne](http://www.pyjobs.fr/jobs/details/5769/administrateur-systemes-et-reseaux-h-f-en-cdi-a-carcassonne "Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/07 - [Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5815/developpeur-back-end-python-h-f-en-cdi-a-paris-14e-arrondissement "Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/06/27 - [Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5789/concepteur-developpeur-web-ia-h-f-en-cdi-a-paris-35000-44000 "Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000")
 * 2017/06/26 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5788/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2017/06/09 - [Python software dev - data engineering (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5771/python-software-dev-data-engineering-h-f-en-cdi-a-paris-35000-44000 "Python software dev - data engineering (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
 * 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 * 2017/06/14 - [Api Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5777/api-engineer-h-f-en-cdi-a-paris-45000-54000 "Api Engineer (H/F) en CDI à Paris 45000-54000")
-* 2017/06/14 - [Lead Développeur NodeJS (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5776/lead-developpeur-nodejs-h-f-en-cdi-a-paris-60000-69000 "Lead Développeur NodeJS (H/F) en CDI à Paris 60000-69000")
 

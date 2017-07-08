@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/06 - [CTO à San Francisco chez le Netflix de l'Art ! - H/F](http://www.pyjobs.fr/jobs/details/5814/cto-a-san-francisco-chez-le-netflix-de-lart-h-f "CTO à San Francisco chez le Netflix de l'Art ! - H/F")
 * 2017/07/04 - [Ingénieur·e Back-End Elixir](http://www.pyjobs.fr/jobs/details/5805/ingenieur-e-back-end-elixir "Ingénieur·e Back-End Elixir")
 * 2017/06/06 - [Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne](http://www.pyjobs.fr/jobs/details/5769/administrateur-systemes-et-reseaux-h-f-en-cdi-a-carcassonne "Administrateur Systèmes et Réseaux (H/F) en CDI à Carcassonne")
 * 2017/07/04 - [Ingénieur·e Production | DevOps | Releases Engineer](http://www.pyjobs.fr/jobs/details/5804/ingenieur-e-production-devops-releases-engineer "Ingénieur·e Production | DevOps | Releases Engineer")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/02 - [Développeur php/python](http://www.pyjobs.fr/jobs/details/5765/developpeur-php-python "Développeur php/python")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5807/developpeur-python "Développeur python")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5806/developpeur-python "Développeur python")
-* 2017/06/29 - [Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5800/support-n3-editeur-de-logiciels-tech-h-f-en-cdi-a-paris-45000-54000 "Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000")
 

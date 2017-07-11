@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/03 - [QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5808/qa-attire-par-lautomatisation-h-f-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
 * 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
 * 2017/06/29 - [Linux N3 voulant évoluer DevOps](http://www.pyjobs.fr/jobs/details/5797/linux-n3-voulant-evoluer-devops "Linux N3 voulant évoluer DevOps")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/02 - [Devops python](http://www.pyjobs.fr/jobs/details/5766/devops-python "Devops python")
 * 2017/06/28 - [Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000](http://www.pyjobs.fr/jobs/details/5793/integrateur-integratrice-devops-h-f-en-cdi-a-boulogne-billancourt-45000-54000 "Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000")
 * 2017/06/28 - [DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/5794/directeur-technique-h-f-en-cdi-a-lyon-45000-54000 "DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000")
-* 2017/06/23 - [Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000](http://www.pyjobs.fr/jobs/details/5787/developpeur-full-stack-h-f-en-cdi-a-strasbourg-35000-44000 "Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000")
 

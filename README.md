@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/14 - [Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5779/ingenieur-tests-automatises-qa-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Tests Automatisés/QA (H/F) en CDI à Paris 35000-44000")
 * 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
 * 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 * 2017/06/14 - [Api Engineer chez le leader Européen du Big Data - H/F](http://www.pyjobs.fr/jobs/details/5778/api-engineer-chez-le-leader-europeen-du-big-data-h-f "Api Engineer chez le leader Européen du Big Data - H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/06 - [CTO à San Francisco (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5812/cto-a-san-francisco-h-f-en-cdi-a-paris-55000-59000 "CTO à San Francisco (H/F) en CDI à Paris 55000-59000")
 * 2017/07/05 - [DevOps, révolutionnez l'économie par le logiciel libre et l'open data !](http://www.pyjobs.fr/jobs/details/5811/devops-revolutionnez-leconomie-par-le-logiciel-libre-et-lopen-data "DevOps, révolutionnez l'économie par le logiciel libre et l'open data !")
 * 2017/07/05 - [SysAdmin / DevOps (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5809/sysadmin-devops-h-f-en-stage-a-paris "SysAdmin / DevOps (H/F) en Stage à Paris")
-* 2017/07/05 - [Data Scientist (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5810/data-scientist-h-f-en-cdi-a-paris-45000-54000 "Data Scientist (H/F) en CDI à Paris 45000-54000")
 

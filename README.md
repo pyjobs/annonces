@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/15 - [Développeur Python/Django - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5781/developpeur-python-django-education-h-f-en-cdi-a-paris "Développeur Python/Django - Education (H/F) en CDI à Paris")
 * 2017/07/05 - [DevOps, révolutionnez l'économie par le logiciel libre et l'open data !](http://www.pyjobs.fr/jobs/details/5811/devops-revolutionnez-leconomie-par-le-logiciel-libre-et-lopen-data "DevOps, révolutionnez l'économie par le logiciel libre et l'open data !")
 * 2017/07/05 - [SysAdmin / DevOps (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5809/sysadmin-devops-h-f-en-stage-a-paris "SysAdmin / DevOps (H/F) en Stage à Paris")
 * 2017/07/05 - [Data Scientist (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5810/data-scientist-h-f-en-cdi-a-paris-45000-54000 "Data Scientist (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/22 - [Développeur C# / Python (H/F) en CDI à La Garenne-Colombes](http://www.pyjobs.fr/jobs/details/5786/developpeur-c-python-h-f-en-cdi-a-la-garenne-colombes "Développeur C# / Python (H/F) en CDI à La Garenne-Colombes")
 * 2017/06/22 - [Géomaticien (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5785/geomaticien-h-f-en-cdd-a-vallauris "Géomaticien (H/F) en CDD à Vallauris")
 * 2017/07/06 - [Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5813/software-engineer-cloud-back-end-h-f-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt")
-* 2017/06/19 - [Lead Open Source C++ Engineer (H/F)](http://www.pyjobs.fr/jobs/details/5783/lead-open-source-c-engineer-h-f "Lead Open Source C++ Engineer (H/F)")
 

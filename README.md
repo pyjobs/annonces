@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/09 - [Python software dev - data engineering (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5771/python-software-dev-data-engineering-h-f-en-cdi-a-paris-35000-44000 "Python software dev - data engineering (H/F) en CDI à Paris 35000-44000")
 * 2017/06/30 - [Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5802/developpeur-php-back-end-client-final-en-cdi-a-lyon-35000-44000 "Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000")
 * 2017/06/09 - [Python full stack developer at Chefclub (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5773/python-full-stack-developer-at-chefclub-h-f-en-cdi-a-paris "Python full stack developer at Chefclub (H/F) en CDI à Paris")
 * 2017/07/12 - [Intégrateur applicatif secteur éducation H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5821/integrateur-applicatif-secteur-education-h-f-en-cdi-a-paris "Intégrateur applicatif secteur éducation H/F en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/14 - [Api Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5777/api-engineer-h-f-en-cdi-a-paris-45000-54000 "Api Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/06/14 - [Lead Développeur NodeJS (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5776/lead-developpeur-nodejs-h-f-en-cdi-a-paris-60000-69000 "Lead Développeur NodeJS (H/F) en CDI à Paris 60000-69000")
 * 2017/07/07 - [Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5815/developpeur-back-end-python-h-f-en-cdi-a-paris-14e-arrondissement "Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement")
-* 2017/06/27 - [Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5789/concepteur-developpeur-web-ia-h-f-en-cdi-a-paris-35000-44000 "Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000")
 

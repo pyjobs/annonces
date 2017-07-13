@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/12 - [Lead Developer Python Web Back-End](http://www.pyjobs.fr/jobs/details/5774/lead-developer-python-web-back-end "Lead Developer Python Web Back-End")
 * 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
 * 2017/07/12 - [Développeur C++ Linux - Pure Player Web - Paris (92)](http://www.pyjobs.fr/jobs/details/5820/developpeur-c-linux-pure-player-web-paris-92 "Développeur C++ Linux - Pure Player Web - Paris (92)")
 * 2017/07/12 - [Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)](http://www.pyjobs.fr/jobs/details/5819/ingenieur-systemes-reseaux-h-f-pure-player-e-commerce-paris-92 "Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/30 - [Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5802/developpeur-php-back-end-client-final-en-cdi-a-lyon-35000-44000 "Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000")
 * 2017/06/09 - [Python full stack developer at Chefclub (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5773/python-full-stack-developer-at-chefclub-h-f-en-cdi-a-paris "Python full stack developer at Chefclub (H/F) en CDI à Paris")
 * 2017/07/12 - [Intégrateur applicatif secteur éducation H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5821/integrateur-applicatif-secteur-education-h-f-en-cdi-a-paris "Intégrateur applicatif secteur éducation H/F en CDI à Paris")
-* 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 

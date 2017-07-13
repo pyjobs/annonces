@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/12 - [Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)](http://www.pyjobs.fr/jobs/details/5819/ingenieur-systemes-reseaux-h-f-pure-player-e-commerce-paris-92 "Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)")
 * 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2017/07/12 - [Lead dev Ruby gros carat ! H/F en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5818/lead-dev-ruby-gros-carat-h-f-en-cdi-a-paris-55000-59000 "Lead dev Ruby gros carat ! H/F en CDI à Paris 55000-59000")
 * 2017/06/29 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5801/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/06/12 - [Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5775/data-engineer-pour-startup-market-place-h-f-en-cdi-a-paris-55000-59000 "Data Engineer pour startup market-place (H/F) en CDI à Paris 55000-59000")
 * 2017/06/12 - [Lead Developer Python Web Back-End](http://www.pyjobs.fr/jobs/details/5774/lead-developer-python-web-back-end "Lead Developer Python Web Back-End")
-* 2017/07/12 - [Développeur C++ Linux - Pure Player Web - Paris (92)](http://www.pyjobs.fr/jobs/details/5820/developpeur-c-linux-pure-player-web-paris-92 "Développeur C++ Linux - Pure Player Web - Paris (92)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/18 - [Ingénieur Linux - DevOps](http://www.pyjobs.fr/jobs/details/5825/ingenieur-linux-devops "Ingénieur Linux - DevOps")
 * 2017/07/06 - [CTO à San Francisco chez le Netflix de l'Art ! - H/F](http://www.pyjobs.fr/jobs/details/5814/cto-a-san-francisco-chez-le-netflix-de-lart-h-f "CTO à San Francisco chez le Netflix de l'Art ! - H/F")
 * 2017/07/04 - [Ingénieur·e Back-End Elixir](http://www.pyjobs.fr/jobs/details/5805/ingenieur-e-back-end-elixir "Ingénieur·e Back-End Elixir")
 * 2017/07/04 - [Ingénieur·e Production | DevOps | Releases Engineer](http://www.pyjobs.fr/jobs/details/5804/ingenieur-e-production-devops-releases-engineer "Ingénieur·e Production | DevOps | Releases Engineer")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/29 - [Support technique (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5799/support-technique-h-f-en-cdi-a-paris-25000-34000 "Support technique (H/F) en CDI à Paris 25000-34000")
 * 2017/07/11 - [Python Instructors at emlyon business school (one day per week)](http://www.pyjobs.fr/jobs/details/5816/python-instructors-at-emlyon-business-school-one-day-per-week "Python Instructors at emlyon business school (one day per week)")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5807/developpeur-python "Développeur python")
-* 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5806/developpeur-python "Développeur python")
 

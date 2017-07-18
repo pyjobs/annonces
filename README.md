@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/30 - [Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5802/developpeur-php-back-end-client-final-en-cdi-a-lyon-35000-44000 "Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000")
 * 2017/07/12 - [Intégrateur applicatif secteur éducation H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5821/integrateur-applicatif-secteur-education-h-f-en-cdi-a-paris "Intégrateur applicatif secteur éducation H/F en CDI à Paris")
 * 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/07 - [Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5815/developpeur-back-end-python-h-f-en-cdi-a-paris-14e-arrondissement "Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/06/27 - [Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5789/concepteur-developpeur-web-ia-h-f-en-cdi-a-paris-35000-44000 "Concepteur / Développeur - WEB / IA (H/F) en CDI à Paris 35000-44000")
 * 2017/06/26 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5788/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
-* 2017/07/17 - [Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5824/test-analyst-startup-marketplace-h-f-en-cdi-a-paris-45000-54000 "Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000")
 

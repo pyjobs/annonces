@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/22 - [Développeur C# / Python (H/F) en CDI à La Garenne-Colombes](http://www.pyjobs.fr/jobs/details/5786/developpeur-c-python-h-f-en-cdi-a-la-garenne-colombes "Développeur C# / Python (H/F) en CDI à La Garenne-Colombes")
 * 2017/07/06 - [Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5813/software-engineer-cloud-back-end-h-f-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt")
 * 2017/06/22 - [Géomaticien (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5785/geomaticien-h-f-en-cdd-a-vallauris "Géomaticien (H/F) en CDD à Vallauris")
 * 2017/06/19 - [Lead Open Source C++ Engineer (H/F)](http://www.pyjobs.fr/jobs/details/5783/lead-open-source-c-engineer-h-f "Lead Open Source C++ Engineer (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/06 - [CTO à San Francisco chez le Netflix de l'Art ! - H/F](http://www.pyjobs.fr/jobs/details/5814/cto-a-san-francisco-chez-le-netflix-de-lart-h-f "CTO à San Francisco chez le Netflix de l'Art ! - H/F")
 * 2017/07/04 - [Ingénieur·e Back-End Elixir](http://www.pyjobs.fr/jobs/details/5805/ingenieur-e-back-end-elixir "Ingénieur·e Back-End Elixir")
 * 2017/07/04 - [Ingénieur·e Production | DevOps | Releases Engineer](http://www.pyjobs.fr/jobs/details/5804/ingenieur-e-production-devops-releases-engineer "Ingénieur·e Production | DevOps | Releases Engineer")
-* 2017/07/03 - [Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5803/devops-backend-aws-3scale-python-h-f-en-cdi-a-paris-35000-44000 "Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000")
 

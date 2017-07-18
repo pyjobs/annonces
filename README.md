@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
 * 2017/07/18 - [Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5826/ingenieur-back-end-big-data-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000")
 * 2017/07/11 - [Python Instructors at emlyon business school (one day per week)](http://www.pyjobs.fr/jobs/details/5816/python-instructors-at-emlyon-business-school-one-day-per-week "Python Instructors at emlyon business school (one day per week)")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5807/developpeur-python "Développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/28 - [DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/5794/directeur-technique-h-f-en-cdi-a-lyon-45000-54000 "DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000")
 * 2017/07/03 - [QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5808/qa-attire-par-lautomatisation-h-f-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000")
 * 2017/06/23 - [Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000](http://www.pyjobs.fr/jobs/details/5787/developpeur-full-stack-h-f-en-cdi-a-strasbourg-35000-44000 "Développeur FULL-STACK (H/F) en CDI à Strasbourg 35000-44000")
-* 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
 

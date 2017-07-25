@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/25 - [Backend developer (Python) en CDD à Paris](http://www.pyjobs.fr/jobs/details/5830/backend-developer-python-en-cdd-a-paris "Backend developer (Python) en CDD à Paris")
 * 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
 * 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 * 2017/07/25 - [Back-end Developer confirmé H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5829/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé H/F en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/05 - [SysAdmin / DevOps (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5809/sysadmin-devops-h-f-en-stage-a-paris "SysAdmin / DevOps (H/F) en Stage à Paris")
 * 2017/07/05 - [Data Scientist (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5810/data-scientist-h-f-en-cdi-a-paris-45000-54000 "Data Scientist (H/F) en CDI à Paris 45000-54000")
 * 2017/06/27 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5792/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-paris-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000")
-* 2017/06/14 - [INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5780/ingenieur-devops-h-f-en-stage-a-boulogne-billancourt "INGÉNIEUR DEVOPS (H/F) en Stage à Boulogne-Billancourt")
 

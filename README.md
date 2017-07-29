@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5807/developpeur-python "Développeur python")
 * 2017/07/28 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5835/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5806/developpeur-python "Développeur python")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5800/support-n3-editeur-de-logiciels-tech-h-f-en-cdi-a-paris-45000-54000 "Support N3 éditeur de logiciels Tech (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/29 - [Linux N3 voulant évoluer DevOps](http://www.pyjobs.fr/jobs/details/5797/linux-n3-voulant-evoluer-devops "Linux N3 voulant évoluer DevOps")
 * 2017/06/29 - [Support technique (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5799/support-technique-h-f-en-cdi-a-paris-25000-34000 "Support technique (H/F) en CDI à Paris 25000-34000")
 * 2017/06/20 - [Architecte Java Senior (H/F)](http://www.pyjobs.fr/jobs/details/5784/architecte-java-senior-h-f "Architecte Java Senior (H/F)")
-* 2017/07/18 - [Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5826/ingenieur-back-end-big-data-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000")
 

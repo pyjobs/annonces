@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/05 - [DevOps, révolutionnez l'économie par le logiciel libre et l'open data !](http://www.pyjobs.fr/jobs/details/5811/devops-revolutionnez-leconomie-par-le-logiciel-libre-et-lopen-data "DevOps, révolutionnez l'économie par le logiciel libre et l'open data !")
 * 2017/07/05 - [SysAdmin / DevOps (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5809/sysadmin-devops-h-f-en-stage-a-paris "SysAdmin / DevOps (H/F) en Stage à Paris")
 * 2017/07/05 - [Data Scientist (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5810/data-scientist-h-f-en-cdi-a-paris-45000-54000 "Data Scientist (H/F) en CDI à Paris 45000-54000")
 * 2017/06/27 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5792/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-paris-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/22 - [Géomaticien (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5785/geomaticien-h-f-en-cdd-a-vallauris "Géomaticien (H/F) en CDD à Vallauris")
 * 2017/07/28 - [Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5834/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000")
 * 2017/07/06 - [CTO à San Francisco (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5812/cto-a-san-francisco-h-f-en-cdi-a-paris-55000-59000 "CTO à San Francisco (H/F) en CDI à Paris 55000-59000")
-* 2017/07/28 - [Developpeur Python / Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5833/developpeur-python-django-h-f-en-cdi-a-paris-45000-54000 "Developpeur Python / Django (H/F) en CDI à Paris 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/06/29 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5801/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2017/08/04 - [Développeur Python 2.6->3](http://www.pyjobs.fr/jobs/details/5841/developpeur-python-2-6-3 "Développeur Python 2.6->3")
 * 2017/07/11 - [Technical lead python](http://www.pyjobs.fr/jobs/details/5817/technical-lead-python "Technical lead python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/30 - [Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5802/developpeur-php-back-end-client-final-en-cdi-a-lyon-35000-44000 "Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000")
 * 2017/07/12 - [Intégrateur applicatif secteur éducation H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5821/integrateur-applicatif-secteur-education-h-f-en-cdi-a-paris "Intégrateur applicatif secteur éducation H/F en CDI à Paris")
 * 2017/06/28 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5796/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
-* 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
 

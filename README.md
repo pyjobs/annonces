@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/21 - [Ingénieur système Linux - DevOps H/F en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/5827/ingenieur-systeme-linux-devops-h-f-en-cdi-a-suresnes "Ingénieur système Linux - DevOps H/F en CDI à Suresnes")
 * 2017/07/07 - [Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5815/developpeur-back-end-python-h-f-en-cdi-a-paris-14e-arrondissement "Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/07/17 - [Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5824/test-analyst-startup-marketplace-h-f-en-cdi-a-paris-45000-54000 "Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000")
 * 2017/06/30 - [Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5802/developpeur-php-back-end-client-final-en-cdi-a-lyon-35000-44000 "Developpeur PHP Back End - Client Final en CDI à Lyon 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
 * 2017/06/27 - [DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5791/devops-pour-reduire-le-timetoprod-h-f-en-cdi-a-paris-45000-54000 "DevOps pour réduire le TimeToProd (H/F) en CDI à Paris 45000-54000")
 * 2017/07/25 - [Back-end Developer confirmé H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5829/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé H/F en CDI à Paris 45000-54000")
-* 2017/07/12 - [Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5822/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000")
 

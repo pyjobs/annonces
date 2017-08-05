@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/25 - [Backend developer (Python) en CDD à Paris](http://www.pyjobs.fr/jobs/details/5830/backend-developer-python-en-cdd-a-paris "Backend developer (Python) en CDD à Paris")
 * 2017/06/27 - [Authentique DevOps pour réduire le Time to Market](http://www.pyjobs.fr/jobs/details/5790/authentique-devops-pour-reduire-le-time-to-market "Authentique DevOps pour réduire le Time to Market")
 * 2017/07/25 - [Back-end Developer confirmé H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5829/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé H/F en CDI à Paris 45000-54000")
 * 2017/07/24 - [Développeur python](http://www.pyjobs.fr/jobs/details/5828/developpeur-python "Développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/05 - [Data Scientist (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5810/data-scientist-h-f-en-cdi-a-paris-45000-54000 "Data Scientist (H/F) en CDI à Paris 45000-54000")
 * 2017/06/27 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5792/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-paris-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Paris 45000-54000")
 * 2017/07/27 - [Chief Technical Officer H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5831/chief-technical-officer-h-f-en-cdi-a-paris-35000-44000 "Chief Technical Officer H/F en CDI à Paris 35000-44000")
-* 2017/07/27 - [Développeur Full Stack Python H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5832/developpeur-full-stack-python-h-f-en-cdi-a-paris "Développeur Full Stack Python H/F en CDI à Paris")
 

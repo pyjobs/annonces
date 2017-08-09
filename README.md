@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/03 - [QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5808/qa-attire-par-lautomatisation-h-f-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
 * 2017/08/04 - [Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5838/developpeur-front-cordova-h-f-en-cdi-a-paris-35000-44000 "Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000")
 * 2017/08/04 - [Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5839/developpeur-backend-python-2-a-5-ans-xp-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/11 - [Technical lead python](http://www.pyjobs.fr/jobs/details/5817/technical-lead-python "Technical lead python")
 * 2017/06/28 - [Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000](http://www.pyjobs.fr/jobs/details/5793/integrateur-integratrice-devops-h-f-en-cdi-a-boulogne-billancourt-45000-54000 "Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000")
 * 2017/06/28 - [DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/5794/directeur-technique-h-f-en-cdi-a-lyon-45000-54000 "DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000")
-* 2017/08/04 - [Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5840/developpeur-backend-python-junior-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/11 - [Technical lead python](http://www.pyjobs.fr/jobs/details/5817/technical-lead-python "Technical lead python")
 * 2017/06/28 - [Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000](http://www.pyjobs.fr/jobs/details/5793/integrateur-integratrice-devops-h-f-en-cdi-a-boulogne-billancourt-45000-54000 "Intégrateur - Intégratrice DevOps (H/F) en CDI à Boulogne-Billancourt 45000-54000")
 * 2017/06/28 - [DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/5794/directeur-technique-h-f-en-cdi-a-lyon-45000-54000 "DIRECTEUR TECHNIQUE (H/F) en CDI à Lyon 45000-54000")
 * 2017/08/04 - [Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5840/developpeur-backend-python-junior-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/12 - [Lead dev Ruby gros carat ! H/F en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5818/lead-dev-ruby-gros-carat-h-f-en-cdi-a-paris-55000-59000 "Lead dev Ruby gros carat ! H/F en CDI à Paris 55000-59000")
 * 2017/06/29 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5801/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
-* 2017/08/04 - [Développeur Python 2.6->3](http://www.pyjobs.fr/jobs/details/5841/developpeur-python-2-6-3 "Développeur Python 2.6->3")
 

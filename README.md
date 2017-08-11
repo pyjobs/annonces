@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/01 - [Développeur full-stack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5836/developpeur-full-stack-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack (H/F) en CDI à Paris 45000-54000")
 * 2017/07/28 - [Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5834/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000")
 * 2017/07/06 - [CTO à San Francisco (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5812/cto-a-san-francisco-h-f-en-cdi-a-paris-55000-59000 "CTO à San Francisco (H/F) en CDI à Paris 55000-59000")
 * 2017/07/28 - [Developpeur Python / Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5833/developpeur-python-django-h-f-en-cdi-a-paris-45000-54000 "Developpeur Python / Django (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/04 - [Ingénieur·e Production | DevOps | Releases Engineer](http://www.pyjobs.fr/jobs/details/5804/ingenieur-e-production-devops-releases-engineer "Ingénieur·e Production | DevOps | Releases Engineer")
 * 2017/07/03 - [Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5803/devops-backend-aws-3scale-python-h-f-en-cdi-a-paris-35000-44000 "Devops backend AWS/3scale/Python (H/F) en CDI à Paris 35000-44000")
 * 2017/08/03 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5837/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
-* 2017/07/06 - [Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5813/software-engineer-cloud-back-end-h-f-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt")
 

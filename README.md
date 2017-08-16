@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/16 - [Développeur web full stack passionné (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/5845/developpeur-web-full-stack-passionne-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack passionné (H/F) en CDI à Saint-Étienne 25000-34000")
 * 2017/08/04 - [Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5840/developpeur-backend-python-junior-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000")
 * 2017/07/03 - [QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5808/qa-attire-par-lautomatisation-h-f-en-cdi-a-paris-45000-54000 "QA attiré par l'automatisation (H/F) en CDI à Paris 45000-54000")
 * 2017/06/29 - [Support N3 éditeur de logiciels Tech !](http://www.pyjobs.fr/jobs/details/5798/support-n3-editeur-de-logiciels-tech "Support N3 éditeur de logiciels Tech !")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/06/29 - [Ingénieur Systèmes et Réseaux Sénior](http://www.pyjobs.fr/jobs/details/5801/ingenieur-systemes-et-reseaux-senior "Ingénieur Systèmes et Réseaux Sénior")
 * 2017/06/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/5795/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2017/08/04 - [Développeur Python 2.6->3](http://www.pyjobs.fr/jobs/details/5841/developpeur-python-2-6-3 "Développeur Python 2.6->3")
-* 2017/07/11 - [Technical lead python](http://www.pyjobs.fr/jobs/details/5817/technical-lead-python "Technical lead python")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/18 - [Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5826/ingenieur-back-end-big-data-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000")
 * 2017/07/11 - [Python Instructors at emlyon business school (one day per week)](http://www.pyjobs.fr/jobs/details/5816/python-instructors-at-emlyon-business-school-one-day-per-week "Python Instructors at emlyon business school (one day per week)")
 * 2017/08/11 - [Développeur Python/Django (H/F) en CDI à Le Mans](http://www.pyjobs.fr/jobs/details/5844/developpeur-python-django-h-f-en-cdi-a-le-mans "Développeur Python/Django (H/F) en CDI à Le Mans")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5807/developpeur-python "Développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/04 - [Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5838/developpeur-front-cordova-h-f-en-cdi-a-paris-35000-44000 "Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000")
 * 2017/08/04 - [Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5839/developpeur-backend-python-2-a-5-ans-xp-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000")
 * 2017/06/29 - [Linux N3 voulant évoluer DevOps](http://www.pyjobs.fr/jobs/details/5797/linux-n3-voulant-evoluer-devops "Linux N3 voulant évoluer DevOps")
-* 2017/06/29 - [Support technique (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5799/support-technique-h-f-en-cdi-a-paris-25000-34000 "Support technique (H/F) en CDI à Paris 25000-34000")
 

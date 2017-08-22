@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/17 - [Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5824/test-analyst-startup-marketplace-h-f-en-cdi-a-paris-45000-54000 "Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000")
 * 2017/07/07 - [Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5815/developpeur-back-end-python-h-f-en-cdi-a-paris-14e-arrondissement "Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/08/17 - [DevOps Séducteur (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5847/devops-seducteur-h-f-en-cdi-a-paris-45000-54000 "DevOps Séducteur (H/F) en CDI à Paris 45000-54000")
 * 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/25 - [Backend developer (Python) en CDD à Paris](http://www.pyjobs.fr/jobs/details/5830/backend-developer-python-en-cdd-a-paris "Backend developer (Python) en CDD à Paris")
 * 2017/08/10 - [Front-End Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5843/front-end-developer-h-f-en-cdi-a-paris-45000-54000 "Front-End Developer (H/F) en CDI à Paris 45000-54000")
 * 2017/07/25 - [Back-end Developer confirmé H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5829/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé H/F en CDI à Paris 45000-54000")
-* 2017/07/24 - [Développeur python](http://www.pyjobs.fr/jobs/details/5828/developpeur-python "Développeur python")
 

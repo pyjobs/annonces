@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/08 - [Data Scientist (H/F) en CDI à Orsay](http://www.pyjobs.fr/jobs/details/5842/data-scientist-h-f-en-cdi-a-orsay "Data Scientist (H/F) en CDI à Orsay")
 * 2017/07/27 - [Chief Technical Officer H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5831/chief-technical-officer-h-f-en-cdi-a-paris-35000-44000 "Chief Technical Officer H/F en CDI à Paris 35000-44000")
 * 2017/07/05 - [Data Scientist (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5810/data-scientist-h-f-en-cdi-a-paris-45000-54000 "Data Scientist (H/F) en CDI à Paris 45000-54000")
 * 2017/08/10 - [Front-End Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5843/front-end-developer-h-f-en-cdi-a-paris-45000-54000 "Front-End Developer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/01 - [Développeur full-stack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5836/developpeur-full-stack-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack (H/F) en CDI à Paris 45000-54000")
 * 2017/07/28 - [Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5834/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000")
 * 2017/07/06 - [CTO à San Francisco (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5812/cto-a-san-francisco-h-f-en-cdi-a-paris-55000-59000 "CTO à San Francisco (H/F) en CDI à Paris 55000-59000")
-* 2017/07/28 - [Developpeur Python / Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5833/developpeur-python-django-h-f-en-cdi-a-paris-45000-54000 "Developpeur Python / Django (H/F) en CDI à Paris 45000-54000")
 

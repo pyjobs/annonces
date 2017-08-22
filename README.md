@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/12 - [Lead dev Ruby gros carat ! H/F en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5818/lead-dev-ruby-gros-carat-h-f-en-cdi-a-paris-55000-59000 "Lead dev Ruby gros carat ! H/F en CDI à Paris 55000-59000")
 * 2017/08/16 - [DevOps Séducteur - H/F](http://www.pyjobs.fr/jobs/details/5846/devops-seducteur-h-f "DevOps Séducteur - H/F")
 * 2017/08/04 - [Développeur Python 2.6->3](http://www.pyjobs.fr/jobs/details/5841/developpeur-python-2-6-3 "Développeur Python 2.6->3")
 * 2017/08/22 - [Back-end Developer junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5852/back-end-developer-junior-h-f-en-cdi-a-paris-35000-44000 "Back-end Developer junior (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
 * 2017/07/12 - [Développeur C++ Linux - Pure Player Web - Paris (92)](http://www.pyjobs.fr/jobs/details/5820/developpeur-c-linux-pure-player-web-paris-92 "Développeur C++ Linux - Pure Player Web - Paris (92)")
 * 2017/07/12 - [Intégrateur applicatif secteur éducation H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5821/integrateur-applicatif-secteur-education-h-f-en-cdi-a-paris "Intégrateur applicatif secteur éducation H/F en CDI à Paris")
-* 2017/08/17 - [DevOps Séducteur (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5847/devops-seducteur-h-f-en-cdi-a-paris-45000-54000 "DevOps Séducteur (H/F) en CDI à Paris 45000-54000")
 

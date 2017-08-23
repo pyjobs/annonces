@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/04 - [Ingénieur·e Back-End Elixir](http://www.pyjobs.fr/jobs/details/5805/ingenieur-e-back-end-elixir "Ingénieur·e Back-End Elixir")
 * 2017/07/04 - [Ingénieur·e Production | DevOps | Releases Engineer](http://www.pyjobs.fr/jobs/details/5804/ingenieur-e-production-devops-releases-engineer "Ingénieur·e Production | DevOps | Releases Engineer")
 * 2017/08/03 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5837/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/07/06 - [Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5813/software-engineer-cloud-back-end-h-f-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/28 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5835/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2017/07/04 - [Développeur python](http://www.pyjobs.fr/jobs/details/5806/developpeur-python "Développeur python")
 * 2017/08/21 - [Architecte logiciel - c / python](http://www.pyjobs.fr/jobs/details/5848/architecte-logiciel-c-python "Architecte logiciel - c / python")
-* 2017/07/18 - [Ingénieur Linux - DevOps](http://www.pyjobs.fr/jobs/details/5825/ingenieur-linux-devops "Ingénieur Linux - DevOps")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
 * 2017/07/12 - [Développeur C++ Linux - Pure Player Web - Paris (92)](http://www.pyjobs.fr/jobs/details/5820/developpeur-c-linux-pure-player-web-paris-92 "Développeur C++ Linux - Pure Player Web - Paris (92)")
 * 2017/08/22 - [Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5854/developpeur-symfony-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000")
 * 2017/07/12 - [Intégrateur applicatif secteur éducation H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5821/integrateur-applicatif-secteur-education-h-f-en-cdi-a-paris "Intégrateur applicatif secteur éducation H/F en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/12 - [Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5822/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000")
 * 2017/07/21 - [Ingénieur système Linux - DevOps H/F en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/5827/ingenieur-systeme-linux-devops-h-f-en-cdi-a-suresnes "Ingénieur système Linux - DevOps H/F en CDI à Suresnes")
 * 2017/07/17 - [Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5824/test-analyst-startup-marketplace-h-f-en-cdi-a-paris-45000-54000 "Test Analyst #Startup #Marketplace H/F en CDI à Paris 45000-54000")
-* 2017/07/07 - [Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5815/developpeur-back-end-python-h-f-en-cdi-a-paris-14e-arrondissement "Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/24 - [Support and Integration Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5858/support-and-integration-engineer-h-f-en-cdi-a-paris "Support and Integration Engineer (H/F) en CDI à Paris")
 * 2017/08/24 - [Software Engineer backend/data mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5859/software-engineer-backend-data-mining-h-f-en-cdi-a-paris "Software Engineer backend/data mining (H/F) en CDI à Paris")
 * 2017/07/18 - [Ingénieur Linux - DevOps](http://www.pyjobs.fr/jobs/details/5825/ingenieur-linux-devops "Ingénieur Linux - DevOps")
 * 2017/08/25 - [Lead Dev / Expert Production (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5864/lead-dev-expert-production-h-f-en-cdi-a-puteaux "Lead Dev / Expert Production (H/F) en CDI à Puteaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/11 - [Développeur Python/Django (H/F) en CDI à Le Mans](http://www.pyjobs.fr/jobs/details/5844/developpeur-python-django-h-f-en-cdi-a-le-mans "Développeur Python/Django (H/F) en CDI à Le Mans")
 * 2017/07/11 - [Python Instructors at emlyon business school (one day per week)](http://www.pyjobs.fr/jobs/details/5816/python-instructors-at-emlyon-business-school-one-day-per-week "Python Instructors at emlyon business school (one day per week)")
 * 2017/08/21 - [Architecte logiciel - c / python](http://www.pyjobs.fr/jobs/details/5848/architecte-logiciel-c-python "Architecte logiciel - c / python")
-* 2017/07/28 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5835/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 

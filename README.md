@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/28 - [Developpeur Python / Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5833/developpeur-python-django-h-f-en-cdi-a-paris-45000-54000 "Developpeur Python / Django (H/F) en CDI à Paris 45000-54000")
 * 2017/08/25 - [Développeur Fullstack JavaScript (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5860/developpeur-fullstack-javascript-h-f-en-cdi-a-paris "Développeur Fullstack JavaScript (H/F) en CDI à Paris")
 * 2017/08/25 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5863/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 * 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/03 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5837/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/08/01 - [Développeur full-stack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5836/developpeur-full-stack-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack (H/F) en CDI à Paris 45000-54000")
 * 2017/07/06 - [Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt](http://www.pyjobs.fr/jobs/details/5813/software-engineer-cloud-back-end-h-f-en-cdi-a-boulogne-billancourt "Software Engineer, Cloud & Back-End (H/F) en CDI à Boulogne-Billancourt")
-* 2017/07/28 - [Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5834/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000")
 

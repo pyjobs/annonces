@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/17 - [DevOps Séducteur (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5847/devops-seducteur-h-f-en-cdi-a-paris-45000-54000 "DevOps Séducteur (H/F) en CDI à Paris 45000-54000")
 * 2017/07/07 - [Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5815/developpeur-back-end-python-h-f-en-cdi-a-paris-14e-arrondissement "Développeur  back end Python (H/F) en CDI à Paris-14E-Arrondissement")
 * 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
 * 2017/07/12 - [Développeur C++ Linux - Pure Player Web - Paris (92)](http://www.pyjobs.fr/jobs/details/5820/developpeur-c-linux-pure-player-web-paris-92 "Développeur C++ Linux - Pure Player Web - Paris (92)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/25 - [Back-end Developer confirmé H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5829/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé H/F en CDI à Paris 45000-54000")
 * 2017/07/24 - [Développeur python](http://www.pyjobs.fr/jobs/details/5828/developpeur-python "Développeur python")
 * 2017/07/12 - [Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5822/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000")
-* 2017/07/21 - [Ingénieur système Linux - DevOps H/F en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/5827/ingenieur-systeme-linux-devops-h-f-en-cdi-a-suresnes "Ingénieur système Linux - DevOps H/F en CDI à Suresnes")
 

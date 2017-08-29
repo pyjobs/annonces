@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/07/28 - [Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5834/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000")
 * 2017/08/28 - [DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5865/devops-architecte-infra-h-f-en-cdi-a-paris-45000-54000 "DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000")
 * 2017/08/08 - [Data Scientist (H/F) en CDI à Orsay](http://www.pyjobs.fr/jobs/details/5842/data-scientist-h-f-en-cdi-a-orsay "Data Scientist (H/F) en CDI à Orsay")
 * 2017/08/25 - [Développeur Fullstack JavaScript (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5860/developpeur-fullstack-javascript-h-f-en-cdi-a-paris "Développeur Fullstack JavaScript (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/24 - [Software Engineer backend/data mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5859/software-engineer-backend-data-mining-h-f-en-cdi-a-paris "Software Engineer backend/data mining (H/F) en CDI à Paris")
 * 2017/07/18 - [Ingénieur Linux - DevOps](http://www.pyjobs.fr/jobs/details/5825/ingenieur-linux-devops "Ingénieur Linux - DevOps")
 * 2017/08/25 - [Lead Dev / Expert Production (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5864/lead-dev-expert-production-h-f-en-cdi-a-puteaux "Lead Dev / Expert Production (H/F) en CDI à Puteaux")
-* 2017/08/03 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5837/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 

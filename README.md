@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/22 - [Développeur Web API Cloud public (H/F) en CDI à Sainghin-en-Mélantois](http://www.pyjobs.fr/jobs/details/5855/developpeur-web-api-cloud-public-h-f-en-cdi-a-sainghin-en-melantois "Développeur Web API Cloud public (H/F) en CDI à Sainghin-en-Mélantois")
 * 2017/07/12 - [Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)](http://www.pyjobs.fr/jobs/details/5819/ingenieur-systemes-reseaux-h-f-pure-player-e-commerce-paris-92 "Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)")
 * 2017/08/16 - [DevOps Séducteur - H/F](http://www.pyjobs.fr/jobs/details/5846/devops-seducteur-h-f "DevOps Séducteur - H/F")
 * 2017/08/31 - [Evangéliste interne Python/Django (CDI)](http://www.pyjobs.fr/jobs/details/5869/evangeliste-interne-python-django-cdi "Evangéliste interne Python/Django (CDI)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/13 - [Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune](http://www.pyjobs.fr/jobs/details/5823/developpeur-python-javascript-h-f-en-cdi-a-tassin-la-demi-lune "Développeur python/javascript H/F en CDI à Tassin-la-Demi-Lune")
 * 2017/07/12 - [Développeur C++ Linux - Pure Player Web - Paris (92)](http://www.pyjobs.fr/jobs/details/5820/developpeur-c-linux-pure-player-web-paris-92 "Développeur C++ Linux - Pure Player Web - Paris (92)")
 * 2017/08/22 - [Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5854/developpeur-symfony-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000")
-* 2017/07/12 - [Intégrateur applicatif secteur éducation H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5821/integrateur-applicatif-secteur-education-h-f-en-cdi-a-paris "Intégrateur applicatif secteur éducation H/F en CDI à Paris")
 

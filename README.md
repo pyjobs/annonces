@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/22 - [Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5851/lead-nodejs-pour-le-ndeg1-du-vtc-francais-h-f-en-cdi-a-paris-60000-69000 "Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000")
 * 2017/08/04 - [Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5840/developpeur-backend-python-junior-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000")
 * 2017/08/21 - [Data Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5849/data-engineer-h-f-en-cdi-a-paris-55000-59000 "Data Engineer (H/F) en CDI à Paris 55000-59000")
 * 2017/08/21 - [Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5850/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/31 - [Evangéliste interne Python/Django (CDI)](http://www.pyjobs.fr/jobs/details/5869/evangeliste-interne-python-django-cdi "Evangéliste interne Python/Django (CDI)")
 * 2017/08/22 - [Back-end Developer junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5852/back-end-developer-junior-h-f-en-cdi-a-paris-35000-44000 "Back-end Developer junior (H/F) en CDI à Paris 35000-44000")
 * 2017/08/04 - [Développeur Python 2.6->3](http://www.pyjobs.fr/jobs/details/5841/developpeur-python-2-6-3 "Développeur Python 2.6->3")
-* 2017/08/22 - [Développeur (H/F) en CDI à Le Petit-Quevilly](http://www.pyjobs.fr/jobs/details/5853/developpeur-h-f-en-cdi-a-le-petit-quevilly "Développeur (H/F) en CDI à Le Petit-Quevilly")
 

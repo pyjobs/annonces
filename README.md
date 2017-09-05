@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/04 - [Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5838/developpeur-front-cordova-h-f-en-cdi-a-paris-35000-44000 "Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000")
 * 2017/08/04 - [Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5839/developpeur-backend-python-2-a-5-ans-xp-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000")
 * 2017/08/21 - [Architecte logiciel - c / python](http://www.pyjobs.fr/jobs/details/5848/architecte-logiciel-c-python "Architecte logiciel - c / python")
 * 2017/08/11 - [Développeur Python/Django (H/F) en CDI à Le Mans](http://www.pyjobs.fr/jobs/details/5844/developpeur-python-django-h-f-en-cdi-a-le-mans "Développeur Python/Django (H/F) en CDI à Le Mans")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/16 - [Développeur web full stack passionné (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/5845/developpeur-web-full-stack-passionne-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack passionné (H/F) en CDI à Saint-Étienne 25000-34000")
 * 2017/08/04 - [Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5840/developpeur-backend-python-junior-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000")
 * 2017/08/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5856/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
-* 2017/08/23 - [Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5857/devops-linux-python-h-f-en-cdi-a-villeurbanne-35000-44000 "Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000")
 

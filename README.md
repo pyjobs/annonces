@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5856/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/08/23 - [Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5857/devops-linux-python-h-f-en-cdi-a-villeurbanne-35000-44000 "Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/08/22 - [Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5851/lead-nodejs-pour-le-ndeg1-du-vtc-francais-h-f-en-cdi-a-paris-60000-69000 "Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000")
 * 2017/08/04 - [Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5840/developpeur-backend-python-junior-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python Junior (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/12 - [Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)](http://www.pyjobs.fr/jobs/details/5819/ingenieur-systemes-reseaux-h-f-pure-player-e-commerce-paris-92 "Ingénieur Systèmes & Réseaux (H/F) - Pure Player E-Commerce - Paris (92)")
 * 2017/08/16 - [DevOps Séducteur - H/F](http://www.pyjobs.fr/jobs/details/5846/devops-seducteur-h-f "DevOps Séducteur - H/F")
 * 2017/08/31 - [Evangéliste interne Python/Django (CDI)](http://www.pyjobs.fr/jobs/details/5869/evangeliste-interne-python-django-cdi "Evangéliste interne Python/Django (CDI)")
-* 2017/08/22 - [Back-end Developer junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5852/back-end-developer-junior-h-f-en-cdi-a-paris-35000-44000 "Back-end Developer junior (H/F) en CDI à Paris 35000-44000")
 

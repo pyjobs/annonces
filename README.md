@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
 * 2017/08/28 - [Informaticien d'application (H/F) en CDD à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5866/informaticien-dapplication-h-f-en-cdd-a-grenoble-25000-34000 "Informaticien d'application (H/F) en CDD à Grenoble 25000-34000")
 * 2017/08/24 - [Support and Integration Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5858/support-and-integration-engineer-h-f-en-cdi-a-paris "Support and Integration Engineer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/21 - [Data Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5849/data-engineer-h-f-en-cdi-a-paris-55000-59000 "Data Engineer (H/F) en CDI à Paris 55000-59000")
 * 2017/08/04 - [Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5839/developpeur-backend-python-2-a-5-ans-xp-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000")
 * 2017/08/21 - [Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5850/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000")
-* 2017/07/18 - [Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5826/ingenieur-back-end-big-data-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000")
 

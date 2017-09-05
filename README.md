@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/21 - [Architecte logiciel - c / python](http://www.pyjobs.fr/jobs/details/5848/architecte-logiciel-c-python "Architecte logiciel - c / python")
 * 2017/08/11 - [Développeur Python/Django (H/F) en CDI à Le Mans](http://www.pyjobs.fr/jobs/details/5844/developpeur-python-django-h-f-en-cdi-a-le-mans "Développeur Python/Django (H/F) en CDI à Le Mans")
 * 2017/07/28 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5835/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2017/07/18 - [Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000](http://www.pyjobs.fr/jobs/details/5826/ingenieur-back-end-big-data-h-f-en-cdi-a-rennes-35000-44000 "Ingénieur Back-End & Big Data H/F en CDI à Rennes 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5856/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/08/23 - [Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5857/devops-linux-python-h-f-en-cdi-a-villeurbanne-35000-44000 "Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/08/22 - [Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5851/lead-nodejs-pour-le-ndeg1-du-vtc-francais-h-f-en-cdi-a-paris-60000-69000 "Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000")
-* 2017/08/04 - [Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5838/developpeur-front-cordova-h-f-en-cdi-a-paris-35000-44000 "Développeur Front / Cordova (H/F) en CDI à Paris 35000-44000")
 

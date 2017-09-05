@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/17 - [DevOps Séducteur (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5847/devops-seducteur-h-f-en-cdi-a-paris-45000-54000 "DevOps Séducteur (H/F) en CDI à Paris 45000-54000")
 * 2017/07/21 - [Ingénieur système Linux - DevOps H/F en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/5827/ingenieur-systeme-linux-devops-h-f-en-cdi-a-suresnes "Ingénieur système Linux - DevOps H/F en CDI à Suresnes")
 * 2017/09/04 - [Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000](http://www.pyjobs.fr/jobs/details/5871/ingenieur-developpeur-c-h-f-en-cdi-a-grenoble-35000-44000 "Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000")
 * 2017/09/04 - [Stage Ingénieur Data (H/F) en Stage à Paris <24000](http://www.pyjobs.fr/jobs/details/5870/stage-ingenieur-data-h-f-en-stage-a-paris-24000 "Stage Ingénieur Data (H/F) en Stage à Paris <24000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/07/25 - [Backend developer (Python) en CDD à Paris](http://www.pyjobs.fr/jobs/details/5830/backend-developer-python-en-cdd-a-paris "Backend developer (Python) en CDD à Paris")
 * 2017/07/25 - [Back-end Developer confirmé H/F en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5829/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé H/F en CDI à Paris 45000-54000")
 * 2017/08/29 - [Administrateur Système & Réseaux / DEVOPS](http://www.pyjobs.fr/jobs/details/5868/administrateur-systeme-reseaux-devops "Administrateur Système & Réseaux / DEVOPS")
-* 2017/07/24 - [Développeur python](http://www.pyjobs.fr/jobs/details/5828/developpeur-python "Développeur python")
 

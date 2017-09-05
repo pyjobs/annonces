@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/04 - [Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000](http://www.pyjobs.fr/jobs/details/5871/ingenieur-developpeur-c-h-f-en-cdi-a-grenoble-35000-44000 "Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000")
 * 2017/09/04 - [Stage Ingénieur Data (H/F) en Stage à Paris <24000](http://www.pyjobs.fr/jobs/details/5870/stage-ingenieur-data-h-f-en-stage-a-paris-24000 "Stage Ingénieur Data (H/F) en Stage à Paris <24000")
 * 2017/08/22 - [Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5854/developpeur-symfony-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000")
 * 2017/08/22 - [Développeur Web API Cloud public (H/F) en CDI à Sainghin-en-Mélantois](http://www.pyjobs.fr/jobs/details/5855/developpeur-web-api-cloud-public-h-f-en-cdi-a-sainghin-en-melantois "Développeur Web API Cloud public (H/F) en CDI à Sainghin-en-Mélantois")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/29 - [Administrateur Système & Réseaux / DEVOPS](http://www.pyjobs.fr/jobs/details/5868/administrateur-systeme-reseaux-devops "Administrateur Système & Réseaux / DEVOPS")
 * 2017/07/24 - [Développeur python](http://www.pyjobs.fr/jobs/details/5828/developpeur-python "Développeur python")
 * 2017/07/12 - [Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5822/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux – H/F en CDI à Malakoff 35000-44000")
-* 2017/07/21 - [Ingénieur système Linux - DevOps H/F en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/5827/ingenieur-systeme-linux-devops-h-f-en-cdi-a-suresnes "Ingénieur système Linux - DevOps H/F en CDI à Suresnes")
 

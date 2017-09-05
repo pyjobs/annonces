@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/25 - [Developpeur web (H/F) en CDD à Meylan](http://www.pyjobs.fr/jobs/details/5861/developpeur-web-h-f-en-cdd-a-meylan "Developpeur web (H/F) en CDD à Meylan")
 * 2017/07/27 - [Chief Technical Officer H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5831/chief-technical-officer-h-f-en-cdi-a-paris-35000-44000 "Chief Technical Officer H/F en CDI à Paris 35000-44000")
 * 2017/08/10 - [Front-End Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5843/front-end-developer-h-f-en-cdi-a-paris-45000-54000 "Front-End Developer (H/F) en CDI à Paris 45000-54000")
 * 2017/07/27 - [Développeur Full Stack Python H/F en CDI à Paris](http://www.pyjobs.fr/jobs/details/5832/developpeur-full-stack-python-h-f-en-cdi-a-paris "Développeur Full Stack Python H/F en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/08 - [Data Scientist (H/F) en CDI à Orsay](http://www.pyjobs.fr/jobs/details/5842/data-scientist-h-f-en-cdi-a-orsay "Data Scientist (H/F) en CDI à Orsay")
 * 2017/08/25 - [Développeur Fullstack JavaScript (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5860/developpeur-fullstack-javascript-h-f-en-cdi-a-paris "Développeur Fullstack JavaScript (H/F) en CDI à Paris")
 * 2017/07/28 - [Developpeur Python / Django (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5833/developpeur-python-django-h-f-en-cdi-a-paris-45000-54000 "Developpeur Python / Django (H/F) en CDI à Paris 45000-54000")
-* 2017/08/25 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5863/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 

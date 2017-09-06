@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/25 - [Lead Dev / Expert Production (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5864/lead-dev-expert-production-h-f-en-cdi-a-puteaux "Lead Dev / Expert Production (H/F) en CDI à Puteaux")
 * 2017/09/05 - [Developer JS / MongoDB (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5872/developer-js-mongodb-h-f-en-cdi-a-paris "Developer JS / MongoDB (H/F) en CDI à Paris")
 * 2017/08/03 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5837/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 * 2017/08/01 - [Développeur full-stack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5836/developpeur-full-stack-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
 * 2017/08/28 - [Informaticien d'application (H/F) en CDD à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5866/informaticien-dapplication-h-f-en-cdd-a-grenoble-25000-34000 "Informaticien d'application (H/F) en CDD à Grenoble 25000-34000")
 * 2017/08/24 - [Support and Integration Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5858/support-and-integration-engineer-h-f-en-cdi-a-paris "Support and Integration Engineer (H/F) en CDI à Paris")
-* 2017/08/24 - [Software Engineer backend/data mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5859/software-engineer-backend-data-mining-h-f-en-cdi-a-paris "Software Engineer backend/data mining (H/F) en CDI à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/07 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5877/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 * 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
 * 2017/08/28 - [Informaticien d'application (H/F) en CDD à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5866/informaticien-dapplication-h-f-en-cdd-a-grenoble-25000-34000 "Informaticien d'application (H/F) en CDD à Grenoble 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/04 - [Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5839/developpeur-backend-python-2-a-5-ans-xp-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python 2 à 5 ans XP (H/F) en CDI à Paris 35000-44000")
 * 2017/08/21 - [Architecte logiciel - c / python](http://www.pyjobs.fr/jobs/details/5848/architecte-logiciel-c-python "Architecte logiciel - c / python")
 * 2017/08/11 - [Développeur Python/Django (H/F) en CDI à Le Mans](http://www.pyjobs.fr/jobs/details/5844/developpeur-python-django-h-f-en-cdi-a-le-mans "Développeur Python/Django (H/F) en CDI à Le Mans")
-* 2017/07/28 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5835/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 

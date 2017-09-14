@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/25 - [Développeur Fullstack JavaScript (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5860/developpeur-fullstack-javascript-h-f-en-cdi-a-paris "Développeur Fullstack JavaScript (H/F) en CDI à Paris")
 * 2017/08/25 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5863/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 * 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
 * 2017/08/08 - [Data Scientist (H/F) en CDI à Orsay](http://www.pyjobs.fr/jobs/details/5842/data-scientist-h-f-en-cdi-a-orsay "Data Scientist (H/F) en CDI à Orsay")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/24 - [Software Engineer backend/data mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5859/software-engineer-backend-data-mining-h-f-en-cdi-a-paris "Software Engineer backend/data mining (H/F) en CDI à Paris")
 * 2017/08/25 - [Lead Dev / Expert Production (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5864/lead-dev-expert-production-h-f-en-cdi-a-puteaux "Lead Dev / Expert Production (H/F) en CDI à Puteaux")
 * 2017/09/05 - [Developer JS / MongoDB (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5872/developer-js-mongodb-h-f-en-cdi-a-paris "Developer JS / MongoDB (H/F) en CDI à Paris")
-* 2017/08/03 - [Developpeur Python Junior (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5837/developpeur-python-junior-h-f-en-cdi-a-paris "Developpeur Python Junior (H/F) en CDI à Paris")
 

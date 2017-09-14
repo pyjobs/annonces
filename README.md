@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/14 - [Ingénieur Devops expérimenté H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5885/ingenieur-devops-experimente-h-f-a-paris-la-defense "Ingénieur Devops expérimenté H/F à Paris - La Défense")
 * 2017/09/14 - [Administrateur PostgreSQL H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5886/administrateur-postgresql-h-f-a-paris-la-defense "Administrateur PostgreSQL H/F à Paris - La Défense")
 * 2017/09/14 - [Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5887/charge-de-travaux-diriges-linux-lpi-a-paris-la-defense "Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense")
 * 2017/09/14 - [Chef de projet technique Open Source h/f à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5884/chef-de-projet-technique-open-source-h-f-a-paris-la-defense "Chef de projet technique Open Source h/f à Paris - La Défense")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/01 - [Développeur full-stack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5836/developpeur-full-stack-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack (H/F) en CDI à Paris 45000-54000")
 * 2017/07/28 - [Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000](http://www.pyjobs.fr/jobs/details/5834/ingenieur-systemes-et-reseaux-linux-h-f-en-cdi-a-malakoff-35000-44000 "Ingénieur Systèmes et Réseaux Linux (H/F) en CDI à Malakoff 35000-44000")
 * 2017/08/28 - [DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5865/devops-architecte-infra-h-f-en-cdi-a-paris-45000-54000 "DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000")
-* 2017/08/08 - [Data Scientist (H/F) en CDI à Orsay](http://www.pyjobs.fr/jobs/details/5842/data-scientist-h-f-en-cdi-a-orsay "Data Scientist (H/F) en CDI à Orsay")
 

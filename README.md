@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/10 - [Front-End Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5843/front-end-developer-h-f-en-cdi-a-paris-45000-54000 "Front-End Developer (H/F) en CDI à Paris 45000-54000")
 * 2017/09/14 - [QA ENGINEER](http://www.pyjobs.fr/jobs/details/5881/qa-engineer "QA ENGINEER")
 * 2017/09/14 - [Ingénieur QA et Développeur Python](http://www.pyjobs.fr/jobs/details/5880/ingenieur-qa-et-developpeur-python "Ingénieur QA et Développeur Python")
 * 2017/09/14 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5882/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/25 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5863/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 * 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
 * 2017/08/25 - [Developpeur web (H/F) en CDD à Meylan](http://www.pyjobs.fr/jobs/details/5861/developpeur-web-h-f-en-cdd-a-meylan "Developpeur web (H/F) en CDD à Meylan")
-* 2017/07/27 - [Chief Technical Officer H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5831/chief-technical-officer-h-f-en-cdi-a-paris-35000-44000 "Chief Technical Officer H/F en CDI à Paris 35000-44000")
 

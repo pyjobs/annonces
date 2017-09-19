@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/19 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5891/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000")
 * 2017/09/19 - [Développeur Web (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5892/developpeur-web-h-f-en-cdi-a-nantes "Développeur Web (H/F) en CDI à Nantes")
 * 2017/08/21 - [Data Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5849/data-engineer-h-f-en-cdi-a-paris-55000-59000 "Data Engineer (H/F) en CDI à Paris 55000-59000")
 * 2017/08/21 - [Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5850/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/04 - [Développeur Python 2.6->3](http://www.pyjobs.fr/jobs/details/5841/developpeur-python-2-6-3 "Développeur Python 2.6->3")
 * 2017/09/05 - [Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/5875/admin-systeme-ingenieur-devops-h-f-en-alternance-a-paris "Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris")
 * 2017/08/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5856/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
-* 2017/08/23 - [Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5857/devops-linux-python-h-f-en-cdi-a-villeurbanne-35000-44000 "Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/16 - [Développeur web full stack passionné (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/5845/developpeur-web-full-stack-passionne-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack passionné (H/F) en CDI à Saint-Étienne 25000-34000")
 * 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
 * 2017/09/05 - [Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/5875/admin-systeme-ingenieur-devops-h-f-en-alternance-a-paris "Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris")
 * 2017/08/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5856/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/16 - [DevOps Séducteur - H/F](http://www.pyjobs.fr/jobs/details/5846/devops-seducteur-h-f "DevOps Séducteur - H/F")
 * 2017/09/05 - [DevOps](http://www.pyjobs.fr/jobs/details/5876/devops "DevOps")
 * 2017/08/31 - [Evangéliste interne Python/Django (CDI)](http://www.pyjobs.fr/jobs/details/5869/evangeliste-interne-python-django-cdi "Evangéliste interne Python/Django (CDI)")
-* 2017/08/22 - [Back-end Developer junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5852/back-end-developer-junior-h-f-en-cdi-a-paris-35000-44000 "Back-end Developer junior (H/F) en CDI à Paris 35000-44000")
 

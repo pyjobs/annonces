@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/14 - [Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5887/charge-de-travaux-diriges-linux-lpi-a-paris-la-defense "Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense")
 * 2017/09/14 - [Chef de projet technique Open Source h/f à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5884/chef-de-projet-technique-open-source-h-f-a-paris-la-defense "Chef de projet technique Open Source h/f à Paris - La Défense")
 * 2017/08/25 - [Developpeur web (H/F) en CDD à Meylan](http://www.pyjobs.fr/jobs/details/5861/developpeur-web-h-f-en-cdd-a-meylan "Developpeur web (H/F) en CDD à Meylan")
 * 2017/09/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5883/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
 * 2017/08/08 - [Data Scientist (H/F) en CDI à Orsay](http://www.pyjobs.fr/jobs/details/5842/data-scientist-h-f-en-cdi-a-orsay "Data Scientist (H/F) en CDI à Orsay")
 * 2017/09/14 - [Ingénieur Devops expérimenté H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5885/ingenieur-devops-experimente-h-f-a-paris-la-defense "Ingénieur Devops expérimenté H/F à Paris - La Défense")
-* 2017/09/14 - [Administrateur PostgreSQL H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5886/administrateur-postgresql-h-f-a-paris-la-defense "Administrateur PostgreSQL H/F à Paris - La Défense")
 

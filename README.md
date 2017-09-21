@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/24 - [Support and Integration Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5858/support-and-integration-engineer-h-f-en-cdi-a-paris "Support and Integration Engineer (H/F) en CDI à Paris")
 * 2017/08/24 - [Software Engineer backend/data mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5859/software-engineer-backend-data-mining-h-f-en-cdi-a-paris "Software Engineer backend/data mining (H/F) en CDI à Paris")
 * 2017/09/21 - [Développeur back-end (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/5896/developpeur-back-end-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur back-end (H/F) en CDI à Bordeaux 35000-44000")
 * 2017/09/05 - [Developer JS / MongoDB (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5872/developer-js-mongodb-h-f-en-cdi-a-paris "Developer JS / MongoDB (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/11 - [Développeur Python/Django (H/F) en CDI à Le Mans](http://www.pyjobs.fr/jobs/details/5844/developpeur-python-django-h-f-en-cdi-a-le-mans "Développeur Python/Django (H/F) en CDI à Le Mans")
 * 2017/09/07 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5877/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 * 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
-* 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
 

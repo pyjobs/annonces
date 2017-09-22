@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/22 - [Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5854/developpeur-symfony-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000")
 * 2017/09/05 - [DevOps](http://www.pyjobs.fr/jobs/details/5876/devops "DevOps")
 * 2017/08/22 - [Développeur Web API Cloud public (H/F) en CDI à Sainghin-en-Mélantois](http://www.pyjobs.fr/jobs/details/5855/developpeur-web-api-cloud-public-h-f-en-cdi-a-sainghin-en-melantois "Développeur Web API Cloud public (H/F) en CDI à Sainghin-en-Mélantois")
 * 2017/09/22 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5897/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/29 - [Ingénieur Dev Fullstack (PHP/JS) (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5867/ingenieur-dev-fullstack-php-js-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Dev Fullstack (PHP/JS) (H/F) en CDI à Paris 35000-44000")
 * 2017/09/11 - [ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5878/administrateur-systemes-et-reseaux-h-f-en-cdi-a-paris "ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris")
 * 2017/08/17 - [DevOps Séducteur (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5847/devops-seducteur-h-f-en-cdi-a-paris-45000-54000 "DevOps Séducteur (H/F) en CDI à Paris 45000-54000")
-* 2017/09/04 - [Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000](http://www.pyjobs.fr/jobs/details/5871/ingenieur-developpeur-c-h-f-en-cdi-a-grenoble-35000-44000 "Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000")
 

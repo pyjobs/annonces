@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/07 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5877/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 * 2017/09/25 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/5899/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/21 - [Data Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5849/data-engineer-h-f-en-cdi-a-paris-55000-59000 "Data Engineer (H/F) en CDI à Paris 55000-59000")
 * 2017/08/21 - [Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5850/back-end-developer-confirme-h-f-en-cdi-a-paris-45000-54000 "Back-end Developer confirmé (H/F) en CDI à Paris 45000-54000")
 * 2017/09/19 - [Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000](http://www.pyjobs.fr/jobs/details/5890/lead-big-data-engineer-h-f-en-cdi-a-lyon-55000-59000 "Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000")
-* 2017/09/18 - [Administrateur système (H/F) en CDD à Avignon 25000-34000](http://www.pyjobs.fr/jobs/details/5889/administrateur-systeme-h-f-en-cdd-a-avignon-25000-34000 "Administrateur système (H/F) en CDD à Avignon 25000-34000")
 

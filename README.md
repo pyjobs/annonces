@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/26 - [Dev Full Stack dans une start-up web (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5900/dev-full-stack-dans-une-start-up-web-h-f-en-stage-a-paris "Dev Full Stack dans une start-up web (H/F) en Stage à Paris")
 * 2017/09/19 - [Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000](http://www.pyjobs.fr/jobs/details/5890/lead-big-data-engineer-h-f-en-cdi-a-lyon-55000-59000 "Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000")
 * 2017/09/18 - [Administrateur système (H/F) en CDD à Avignon 25000-34000](http://www.pyjobs.fr/jobs/details/5889/administrateur-systeme-h-f-en-cdd-a-avignon-25000-34000 "Administrateur système (H/F) en CDD à Avignon 25000-34000")
 * 2017/09/07 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5877/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/22 - [Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5851/lead-nodejs-pour-le-ndeg1-du-vtc-francais-h-f-en-cdi-a-paris-60000-69000 "Lead NodeJS pour le n°1 du VTC Francais (H/F) en CDI à Paris 60000-69000")
 * 2017/09/19 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5891/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000")
 * 2017/09/19 - [Développeur Web (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5892/developpeur-web-h-f-en-cdi-a-nantes "Développeur Web (H/F) en CDI à Nantes")
-* 2017/08/21 - [Data Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5849/data-engineer-h-f-en-cdi-a-paris-55000-59000 "Data Engineer (H/F) en CDI à Paris 55000-59000")
 

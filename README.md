@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/23 - [Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5856/dev-python-django-h-f-en-cdi-a-villeurbanne-35000-44000 "Dev Python / Django (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/08/23 - [Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5857/devops-linux-python-h-f-en-cdi-a-villeurbanne-35000-44000 "Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/09/27 - [Développeur Web Backend Junior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5902/developpeur-web-backend-junior-h-f-en-cdi-35000-44000 "Développeur Web Backend Junior (H/F) en CDI 35000-44000")
 * 2017/09/19 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5891/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/22 - [Back-end Developer junior (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5852/back-end-developer-junior-h-f-en-cdi-a-paris-35000-44000 "Back-end Developer junior (H/F) en CDI à Paris 35000-44000")
 * 2017/08/22 - [Développeur (H/F) en CDI à Le Petit-Quevilly](http://www.pyjobs.fr/jobs/details/5853/developpeur-h-f-en-cdi-a-le-petit-quevilly "Développeur (H/F) en CDI à Le Petit-Quevilly")
 * 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
-* 2017/09/05 - [Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/5875/admin-systeme-ingenieur-devops-h-f-en-alternance-a-paris "Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris")
 

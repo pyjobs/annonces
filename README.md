@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/10/02 - [Stage Python / Odoo avec un indépendant à Chambéry (télétravail)](http://www.pyjobs.fr/jobs/details/5905/stage-python-odoo-avec-un-independant-a-chambery-teletravail "Stage Python / Odoo avec un indépendant à Chambéry (télétravail)")
 * 2017/09/22 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5897/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2017/09/22 - [Administrateur Système Linux - H/F en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/5898/administrateur-systeme-linux-h-f-en-cdi-45000-54000 "Administrateur Système Linux - H/F en CDI 45000-54000")
 * 2017/08/31 - [Evangéliste interne Python/Django (CDI)](http://www.pyjobs.fr/jobs/details/5869/evangeliste-interne-python-django-cdi "Evangéliste interne Python/Django (CDI)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/04 - [Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000](http://www.pyjobs.fr/jobs/details/5871/ingenieur-developpeur-c-h-f-en-cdi-a-grenoble-35000-44000 "Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000")
 * 2017/09/04 - [Stage Ingénieur Data (H/F) en Stage à Paris <24000](http://www.pyjobs.fr/jobs/details/5870/stage-ingenieur-data-h-f-en-stage-a-paris-24000 "Stage Ingénieur Data (H/F) en Stage à Paris <24000")
 * 2017/08/22 - [Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5854/developpeur-symfony-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Symfony Fullstack (H/F) en CDI à Paris 35000-44000")
-* 2017/09/05 - [DevOps](http://www.pyjobs.fr/jobs/details/5876/devops "DevOps")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/14 - [Ingénieur QA et Développeur Python](http://www.pyjobs.fr/jobs/details/5880/ingenieur-qa-et-developpeur-python "Ingénieur QA et Développeur Python")
 * 2017/09/14 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5882/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2017/08/29 - [Administrateur Système & Réseaux / DEVOPS](http://www.pyjobs.fr/jobs/details/5868/administrateur-systeme-reseaux-devops "Administrateur Système & Réseaux / DEVOPS")
 * 2017/09/12 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5879/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/14 - [Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5887/charge-de-travaux-diriges-linux-lpi-a-paris-la-defense "Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense")
 * 2017/09/14 - [Chef de projet technique Open Source h/f à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5884/chef-de-projet-technique-open-source-h-f-a-paris-la-defense "Chef de projet technique Open Source h/f à Paris - La Défense")
 * 2017/08/25 - [Developpeur web (H/F) en CDD à Meylan](http://www.pyjobs.fr/jobs/details/5861/developpeur-web-h-f-en-cdd-a-meylan "Developpeur web (H/F) en CDD à Meylan")
-* 2017/09/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5883/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
 

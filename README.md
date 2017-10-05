@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/31 - [Evangéliste interne Python/Django (CDI)](http://www.pyjobs.fr/jobs/details/5869/evangeliste-interne-python-django-cdi "Evangéliste interne Python/Django (CDI)")
 * 2017/09/29 - [Dev Angular 2/4- UX Passionné d'IA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5904/dev-angular-2-4-ux-passionne-dia-h-f-en-cdi-a-paris-45000-54000 "Dev Angular 2/4- UX Passionné d'IA (H/F) en CDI à Paris 45000-54000")
 * 2017/09/28 - [DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000](http://www.pyjobs.fr/jobs/details/5903/developpeur-web-fullstack-bigdata-h-f-en-cdi-a-marcq-en-baroeul-25000-34000 "DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000")
 * 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/05 - [DevOps](http://www.pyjobs.fr/jobs/details/5876/devops "DevOps")
 * 2017/10/02 - [Stage Python / Odoo avec un indépendant à Chambéry (télétravail)](http://www.pyjobs.fr/jobs/details/5905/stage-python-odoo-avec-un-independant-a-chambery-teletravail "Stage Python / Odoo avec un indépendant à Chambéry (télétravail)")
 * 2017/09/22 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5897/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
-* 2017/09/22 - [Administrateur Système Linux - H/F en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/5898/administrateur-systeme-linux-h-f-en-cdi-45000-54000 "Administrateur Système Linux - H/F en CDI 45000-54000")
 

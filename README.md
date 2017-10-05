@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/25 - [Lead Dev / Expert Production (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5864/lead-dev-expert-production-h-f-en-cdi-a-puteaux "Lead Dev / Expert Production (H/F) en CDI à Puteaux")
 * 2017/08/28 - [DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5865/devops-architecte-infra-h-f-en-cdi-a-paris-45000-54000 "DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000")
 * 2017/08/25 - [Développeur Fullstack JavaScript (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5860/developpeur-fullstack-javascript-h-f-en-cdi-a-paris "Développeur Fullstack JavaScript (H/F) en CDI à Paris")
 * 2017/08/25 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5863/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/14 - [Admin sys / Devops (télétravail partiel)](http://www.pyjobs.fr/jobs/details/5888/admin-sys-devops-teletravail-partiel "Admin sys / Devops (télétravail partiel)")
 * 2017/08/24 - [Support and Integration Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5858/support-and-integration-engineer-h-f-en-cdi-a-paris "Support and Integration Engineer (H/F) en CDI à Paris")
 * 2017/08/24 - [Software Engineer backend/data mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5859/software-engineer-backend-data-mining-h-f-en-cdi-a-paris "Software Engineer backend/data mining (H/F) en CDI à Paris")
-* 2017/09/21 - [Développeur back-end (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/5896/developpeur-back-end-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur back-end (H/F) en CDI à Bordeaux 35000-44000")
 

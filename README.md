@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/10/04 - [{ Développeur Python 2.6 ou même 3 }](http://www.pyjobs.fr/jobs/details/5906/developpeur-python-2-6-ou-meme-3 "{ Développeur Python 2.6 ou même 3 }")
 * 2017/09/05 - [DevOps](http://www.pyjobs.fr/jobs/details/5876/devops "DevOps")
 * 2017/10/02 - [Stage Python / Odoo avec un indépendant à Chambéry (télétravail)](http://www.pyjobs.fr/jobs/details/5905/stage-python-odoo-avec-un-independant-a-chambery-teletravail "Stage Python / Odoo avec un indépendant à Chambéry (télétravail)")
 * 2017/09/22 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5897/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/11 - [ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5878/administrateur-systemes-et-reseaux-h-f-en-cdi-a-paris "ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris")
 * 2017/09/04 - [Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000](http://www.pyjobs.fr/jobs/details/5871/ingenieur-developpeur-c-h-f-en-cdi-a-grenoble-35000-44000 "Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000")
 * 2017/10/04 - [{ Développeur Ruby On Rails }](http://www.pyjobs.fr/jobs/details/5907/developpeur-ruby-on-rails "{ Développeur Ruby On Rails }")
-* 2017/09/04 - [Stage Ingénieur Data (H/F) en Stage à Paris <24000](http://www.pyjobs.fr/jobs/details/5870/stage-ingenieur-data-h-f-en-stage-a-paris-24000 "Stage Ingénieur Data (H/F) en Stage à Paris <24000")
 

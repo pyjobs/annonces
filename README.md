@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/19 - [Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000](http://www.pyjobs.fr/jobs/details/5890/lead-big-data-engineer-h-f-en-cdi-a-lyon-55000-59000 "Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000")
 * 2017/10/05 - [Développeur Back-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5908/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-End (H/F) en CDI à Nantes")
 * 2017/09/18 - [Administrateur système (H/F) en CDD à Avignon 25000-34000](http://www.pyjobs.fr/jobs/details/5889/administrateur-systeme-h-f-en-cdd-a-avignon-25000-34000 "Administrateur système (H/F) en CDD à Avignon 25000-34000")
 * 2017/09/07 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5877/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/23 - [Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/5857/devops-linux-python-h-f-en-cdi-a-villeurbanne-35000-44000 "Devops Linux / python (H/F) en CDI à Villeurbanne 35000-44000")
 * 2017/09/27 - [Développeur Web Backend Junior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5902/developpeur-web-backend-junior-h-f-en-cdi-35000-44000 "Développeur Web Backend Junior (H/F) en CDI 35000-44000")
 * 2017/09/19 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5891/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000")
-* 2017/09/19 - [Développeur Web (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5892/developpeur-web-h-f-en-cdi-a-nantes "Développeur Web (H/F) en CDI à Nantes")
 

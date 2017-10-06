@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/14 - [Administrateur PostgreSQL H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5886/administrateur-postgresql-h-f-a-paris-la-defense "Administrateur PostgreSQL H/F à Paris - La Défense")
 * 2017/09/14 - [Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5887/charge-de-travaux-diriges-linux-lpi-a-paris-la-defense "Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense")
 * 2017/09/14 - [Chef de projet technique Open Source h/f à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5884/chef-de-projet-technique-open-source-h-f-a-paris-la-defense "Chef de projet technique Open Source h/f à Paris - La Défense")
 * 2017/09/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5883/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
 * 2017/09/21 - [Data Scientist (H/F) en CDI à Lyon >70000](http://www.pyjobs.fr/jobs/details/5894/data-scientist-h-f-en-cdi-a-lyon-70000 "Data Scientist (H/F) en CDI à Lyon >70000")
 * 2017/09/21 - [RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5895/responsable-infrastructure-h-f-en-cdd-a-vallauris "RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris")
-* 2017/09/14 - [Ingénieur Devops expérimenté H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5885/ingenieur-devops-experimente-h-f-a-paris-la-defense "Ingénieur Devops expérimenté H/F à Paris - La Défense")
 

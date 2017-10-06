@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
 * 2017/09/21 - [Data Scientist (H/F) en CDI à Lyon >70000](http://www.pyjobs.fr/jobs/details/5894/data-scientist-h-f-en-cdi-a-lyon-70000 "Data Scientist (H/F) en CDI à Lyon >70000")
 * 2017/09/21 - [RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5895/responsable-infrastructure-h-f-en-cdd-a-vallauris "RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris")
 * 2017/10/06 - [Lead technique polyvalent H/F en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5909/lead-technique-polyvalent-h-f-en-cdi-a-paris-55000-59000 "Lead technique polyvalent H/F en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/05 - [Developer JS / MongoDB (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5872/developer-js-mongodb-h-f-en-cdi-a-paris "Developer JS / MongoDB (H/F) en CDI à Paris")
 * 2017/08/25 - [Lead Dev / Expert Production (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5864/lead-dev-expert-production-h-f-en-cdi-a-puteaux "Lead Dev / Expert Production (H/F) en CDI à Puteaux")
 * 2017/08/28 - [DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5865/devops-architecte-infra-h-f-en-cdi-a-paris-45000-54000 "DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000")
-* 2017/08/25 - [Développeur Fullstack JavaScript (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5860/developpeur-fullstack-javascript-h-f-en-cdi-a-paris "Développeur Fullstack JavaScript (H/F) en CDI à Paris")
 

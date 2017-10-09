@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/25 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/5899/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
 * 2017/10/09 - [ingénierie logicielle pour institut de recherche dans Paris](http://www.pyjobs.fr/jobs/details/5912/ingenierie-logicielle-pour-institut-de-recherche-dans-paris "ingénierie logicielle pour institut de recherche dans Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/26 - [Stage Administrateur système / devops (préembauche) à Paris](http://www.pyjobs.fr/jobs/details/5901/stage-administrateur-systeme-devops-preembauche-a-paris "Stage Administrateur système / devops (préembauche) à Paris")
 * 2017/09/26 - [Dev Full Stack dans une start-up web (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5900/dev-full-stack-dans-une-start-up-web-h-f-en-stage-a-paris "Dev Full Stack dans une start-up web (H/F) en Stage à Paris")
 * 2017/09/19 - [Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000](http://www.pyjobs.fr/jobs/details/5890/lead-big-data-engineer-h-f-en-cdi-a-lyon-55000-59000 "Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000")
-* 2017/10/05 - [Développeur Back-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5908/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-End (H/F) en CDI à Nantes")
 

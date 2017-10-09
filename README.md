@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/14 - [Admin sys / Devops (télétravail partiel)](http://www.pyjobs.fr/jobs/details/5888/admin-sys-devops-teletravail-partiel "Admin sys / Devops (télétravail partiel)")
 * 2017/08/28 - [Informaticien d'application (H/F) en CDD à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5866/informaticien-dapplication-h-f-en-cdd-a-grenoble-25000-34000 "Informaticien d'application (H/F) en CDD à Grenoble 25000-34000")
 * 2017/10/09 - [Security Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5910/security-engineer-h-f-en-cdi-a-paris "Security Engineer (H/F) en CDI à Paris")
 * 2017/10/09 - [Architecte infrastructure et réseau (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5911/architecte-infrastructure-et-reseau-h-f-en-cdi-a-paris "Architecte infrastructure et réseau (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/18 - [Administrateur système (H/F) en CDD à Avignon 25000-34000](http://www.pyjobs.fr/jobs/details/5889/administrateur-systeme-h-f-en-cdd-a-avignon-25000-34000 "Administrateur système (H/F) en CDD à Avignon 25000-34000")
 * 2017/09/07 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5877/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 * 2017/09/25 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/5899/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
-* 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
 

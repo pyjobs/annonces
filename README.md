@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/10/09 - [Security Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5910/security-engineer-h-f-en-cdi-a-paris "Security Engineer (H/F) en CDI à Paris")
 * 2017/10/09 - [Architecte infrastructure et réseau (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5911/architecte-infrastructure-et-reseau-h-f-en-cdi-a-paris "Architecte infrastructure et réseau (H/F) en CDI à Paris")
 * 2017/09/21 - [Développeur back-end (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/5896/developpeur-back-end-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur back-end (H/F) en CDI à Bordeaux 35000-44000")
 * 2017/09/05 - [Developer JS / MongoDB (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5872/developer-js-mongodb-h-f-en-cdi-a-paris "Developer JS / MongoDB (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/25 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/5899/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
-* 2017/08/28 - [Informaticien d'application (H/F) en CDD à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5866/informaticien-dapplication-h-f-en-cdd-a-grenoble-25000-34000 "Informaticien d'application (H/F) en CDD à Grenoble 25000-34000")
 

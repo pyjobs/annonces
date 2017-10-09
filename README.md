@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/09/19 - [Développeur Web (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5892/developpeur-web-h-f-en-cdi-a-nantes "Développeur Web (H/F) en CDI à Nantes")
 * 2017/09/26 - [Stage Administrateur système / devops (préembauche) à Paris](http://www.pyjobs.fr/jobs/details/5901/stage-administrateur-systeme-devops-preembauche-a-paris "Stage Administrateur système / devops (préembauche) à Paris")
 * 2017/09/26 - [Dev Full Stack dans une start-up web (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5900/dev-full-stack-dans-une-start-up-web-h-f-en-stage-a-paris "Dev Full Stack dans une start-up web (H/F) en Stage à Paris")
 * 2017/09/19 - [Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000](http://www.pyjobs.fr/jobs/details/5890/lead-big-data-engineer-h-f-en-cdi-a-lyon-55000-59000 "Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/29 - [Dev Angular 2/4- UX Passionné d'IA (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5904/dev-angular-2-4-ux-passionne-dia-h-f-en-cdi-a-paris-45000-54000 "Dev Angular 2/4- UX Passionné d'IA (H/F) en CDI à Paris 45000-54000")
 * 2017/09/28 - [DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000](http://www.pyjobs.fr/jobs/details/5903/developpeur-web-fullstack-bigdata-h-f-en-cdi-a-marcq-en-baroeul-25000-34000 "DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000")
 * 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
-* 2017/09/05 - [Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/5875/admin-systeme-ingenieur-devops-h-f-en-alternance-a-paris "Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/20 - [administrateur système et réseaux h/f (cdi)](http://www.pyjobs.fr/jobs/details/5971/administrateur-systeme-et-reseaux-h-f-cdi "administrateur système et réseaux h/f (cdi)")
 * 2017/11/20 - [Gestionnaire de parc micro-informatique / Help-Desk H/F (CDI) Paris-17](http://www.pyjobs.fr/jobs/details/5970/gestionnaire-de-parc-micro-informatique-help-desk-h-f-cdi-paris-17 "Gestionnaire de parc micro-informatique / Help-Desk H/F (CDI) Paris-17")
 * 2017/11/20 - [Administrateur Système et Réseaux H/F (CDI) - Carcassonne](http://www.pyjobs.fr/jobs/details/5968/administrateur-systeme-et-reseaux-h-f-cdi-carcassonne "Administrateur Système et Réseaux H/F (CDI) - Carcassonne")
 * 2017/11/20 - [Head of Infrastructure en CDI à Paris](http://www.pyjobs.fr/jobs/details/5969/head-of-infrastructure-en-cdi-a-paris "Head of Infrastructure en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/19 - [Développeur Web (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5892/developpeur-web-h-f-en-cdi-a-nantes "Développeur Web (H/F) en CDI à Nantes")
 * 2017/09/26 - [Stage Administrateur système / devops (préembauche) à Paris](http://www.pyjobs.fr/jobs/details/5901/stage-administrateur-systeme-devops-preembauche-a-paris "Stage Administrateur système / devops (préembauche) à Paris")
 * 2017/09/26 - [Dev Full Stack dans une start-up web (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5900/dev-full-stack-dans-une-start-up-web-h-f-en-stage-a-paris "Dev Full Stack dans une start-up web (H/F) en Stage à Paris")
-* 2017/09/19 - [Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000](http://www.pyjobs.fr/jobs/details/5890/lead-big-data-engineer-h-f-en-cdi-a-lyon-55000-59000 "Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000")
 

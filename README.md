@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/16 - [Ingénieur Développeur Test et Automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5964/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur Développeur Test et Automatisation en CDI 35000-44000")
 * 2017/11/16 - [Data Engineer – Secteur des médias en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/5962/data-engineer-secteur-des-medias-en-cdi-45000-54000 "Data Engineer – Secteur des médias en CDI 45000-54000")
 * 2017/11/16 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5963/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 * 2017/11/14 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/5961/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/25 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/5899/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2017/09/05 - [Administrateur serveur (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5873/administrateur-serveur-h-f-en-cdi-a-nanterre "Administrateur serveur (H/F) en CDI à Nanterre")
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
-* 2017/10/09 - [ingénierie logicielle pour institut de recherche dans Paris](http://www.pyjobs.fr/jobs/details/5912/ingenierie-logicielle-pour-institut-de-recherche-dans-paris "ingénierie logicielle pour institut de recherche dans Paris")
 

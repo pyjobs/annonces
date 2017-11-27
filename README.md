@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/10/24 - [Administrateur Système et Réseaux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5932/administrateur-systeme-et-reseaux-h-f-en-cdi "Administrateur Système et Réseaux (H/F) en CDI")
 * 2017/10/20 - [Spécialiste Iaas/Openstack/Docker H/F Paris-la Défense](http://www.pyjobs.fr/jobs/details/5930/specialiste-iaas-openstack-docker-h-f-paris-la-defense "Spécialiste Iaas/Openstack/Docker H/F Paris-la Défense")
 * 2017/09/28 - [DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000](http://www.pyjobs.fr/jobs/details/5903/developpeur-web-fullstack-bigdata-h-f-en-cdi-a-marcq-en-baroeul-25000-34000 "DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000")
 * 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/04 - [Stage Ingénieur Data (H/F) en Stage à Paris <24000](http://www.pyjobs.fr/jobs/details/5870/stage-ingenieur-data-h-f-en-stage-a-paris-24000 "Stage Ingénieur Data (H/F) en Stage à Paris <24000")
 * 2017/10/04 - [{ Développeur Python 2.6 ou même 3 }](http://www.pyjobs.fr/jobs/details/5906/developpeur-python-2-6-ou-meme-3 "{ Développeur Python 2.6 ou même 3 }")
 * 2017/09/05 - [DevOps](http://www.pyjobs.fr/jobs/details/5876/devops "DevOps")
-* 2017/10/02 - [Stage Python / Odoo avec un indépendant à Chambéry (télétravail)](http://www.pyjobs.fr/jobs/details/5905/stage-python-odoo-avec-un-independant-a-chambery-teletravail "Stage Python / Odoo avec un indépendant à Chambéry (télétravail)")
 

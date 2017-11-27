@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/08 - [Developpeur Full Stack Web H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5947/developpeur-full-stack-web-h-f-en-cdi-a-paris-35000-44000 "Developpeur Full Stack Web H/F en CDI à Paris 35000-44000")
 * 2017/11/08 - [Developpeur Web Front-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5948/developpeur-web-front-end-h-f-en-cdi-35000-44000 "Developpeur Web Front-End (H/F) en CDI 35000-44000")
 * 2017/11/08 - [Full Stack Developpeur (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5946/full-stack-developpeur-h-f-en-cdi-a-lyon-35000-44000 "Full Stack Developpeur (H/F) en CDI à Lyon 35000-44000")
 * 2017/11/07 - [ADMINISTRATEUR SYSTEMES CONFIRME | CDI (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5945/administrateur-systemes-confirme-cdi-h-f-en-cdi-a-paris-35000-44000 "ADMINISTRATEUR SYSTEMES CONFIRME | CDI (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/21 - [RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5895/responsable-infrastructure-h-f-en-cdd-a-vallauris "RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris")
 * 2017/10/06 - [Lead technique polyvalent H/F en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5909/lead-technique-polyvalent-h-f-en-cdi-a-paris-55000-59000 "Lead technique polyvalent H/F en CDI à Paris 55000-59000")
 * 2017/09/14 - [Ingénieur Devops expérimenté H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5885/ingenieur-devops-experimente-h-f-a-paris-la-defense "Ingénieur Devops expérimenté H/F à Paris - La Défense")
-* 2017/09/14 - [Administrateur PostgreSQL H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5886/administrateur-postgresql-h-f-a-paris-la-defense "Administrateur PostgreSQL H/F à Paris - La Défense")
 

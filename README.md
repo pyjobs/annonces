@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/10/25 - [Développeur back-end Python/Django en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5934/developpeur-back-end-python-django-en-cdi-a-paris-35000-44000 "Développeur back-end Python/Django en CDI à Paris 35000-44000")
 * 2017/10/24 - [Développeur Java Scala (startup dans groupe) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/5933/developpeur-java-scala-startup-dans-groupe-en-cdi-55000-59000 "Développeur Java Scala (startup dans groupe) en CDI 55000-59000")
 * 2017/10/24 - [Help-Desk CDI (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5931/help-desk-cdi-h-f-en-cdi-a-paris "Help-Desk CDI (H/F) en CDI à Paris")
 * 2017/10/24 - [Administrateur Système et Réseaux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5932/administrateur-systeme-et-reseaux-h-f-en-cdi "Administrateur Système et Réseaux (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/11 - [ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5878/administrateur-systemes-et-reseaux-h-f-en-cdi-a-paris "ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris")
 * 2017/09/04 - [Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000](http://www.pyjobs.fr/jobs/details/5871/ingenieur-developpeur-c-h-f-en-cdi-a-grenoble-35000-44000 "Ingénieur Développeur C++ (H/F) en CDI à Grenoble 35000-44000")
 * 2017/10/04 - [{ Développeur Ruby On Rails }](http://www.pyjobs.fr/jobs/details/5907/developpeur-ruby-on-rails "{ Développeur Ruby On Rails }")
-* 2017/09/04 - [Stage Ingénieur Data (H/F) en Stage à Paris <24000](http://www.pyjobs.fr/jobs/details/5870/stage-ingenieur-data-h-f-en-stage-a-paris-24000 "Stage Ingénieur Data (H/F) en Stage à Paris <24000")
 

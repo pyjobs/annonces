@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/23 - [Administrateur système/SysOps à Vannes (télétravail)](http://www.pyjobs.fr/jobs/details/5975/administrateur-systeme-sysops-a-vannes-teletravail "Administrateur système/SysOps à Vannes (télétravail)")
 * 2017/11/22 - [Administrateur système ou plus communément appelé SysOps à Vannes (télétravail)](http://www.pyjobs.fr/jobs/details/5972/administrateur-systeme-ou-plus-communement-appele-sysops-a-vannes-teletravail "Administrateur système ou plus communément appelé SysOps à Vannes (télétravail)")
 * 2017/11/22 - [Stagiaire développeur(se) Python (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5973/stagiaire-developpeur-se-python-h-f-en-stage-a-paris "Stagiaire développeur(se) Python (H/F) en Stage à Paris")
 * 2017/11/22 - [Développeur Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5974/developpeur-python-h-f-en-cdi-a-paris "Développeur Python (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
 * 2017/09/05 - [Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/5875/admin-systeme-ingenieur-devops-h-f-en-alternance-a-paris "Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris")
 * 2017/09/27 - [Développeur Web Backend Junior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5902/developpeur-web-backend-junior-h-f-en-cdi-35000-44000 "Développeur Web Backend Junior (H/F) en CDI 35000-44000")
-* 2017/09/19 - [Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5891/ingenieur-ops-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Ops/Cloud AWS (H/F) en CDI à Paris 35000-44000")
 

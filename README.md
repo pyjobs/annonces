@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/07 - [ADMINISTRATEUR SYSTEMES CONFIRME | CDI (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5945/administrateur-systemes-confirme-cdi-h-f-en-cdi-a-paris-35000-44000 "ADMINISTRATEUR SYSTEMES CONFIRME | CDI (H/F) en CDI à Paris 35000-44000")
 * 2017/11/06 - [Ingénieur développement HPC (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5944/ingenieur-developpement-hpc-h-f-en-cdd-a-paris-25000-34000 "Ingénieur développement HPC (H/F) en CDD à Paris 25000-34000")
 * 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel](http://www.pyjobs.fr/jobs/details/5940/devops-cloud-pour-de-la-video-en-temps-reel "DevOps Cloud pour de la vidéo en temps réel")
 * 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5941/devops-cloud-pour-de-la-video-en-temps-reel-en-cdi-a-paris-45000-54000 "DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/14 - [Administrateur PostgreSQL H/F à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5886/administrateur-postgresql-h-f-a-paris-la-defense "Administrateur PostgreSQL H/F à Paris - La Défense")
 * 2017/09/14 - [Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5887/charge-de-travaux-diriges-linux-lpi-a-paris-la-defense "Chargé de Travaux Dirigés - Linux / LPI à Paris - La Défense")
 * 2017/09/14 - [Chef de projet technique Open Source h/f à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5884/chef-de-projet-technique-open-source-h-f-a-paris-la-defense "Chef de projet technique Open Source h/f à Paris - La Défense")
-* 2017/09/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5883/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
 

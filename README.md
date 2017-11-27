@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/27 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5979/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/11/24 - [Assistant Développeur Java Fullstack (H/F) en Stage](http://www.pyjobs.fr/jobs/details/5976/assistant-developpeur-java-fullstack-h-f-en-stage "Assistant Développeur Java Fullstack (H/F) en Stage")
 * 2017/11/24 - [Développeur Python Django Open Education en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5977/developpeur-python-django-open-education-en-cdi-a-paris-14e-arrondissement "Développeur Python Django Open Education en CDI à Paris-14E-Arrondissement")
 * 2017/11/23 - [Administrateur système/SysOps à Vannes (télétravail)](http://www.pyjobs.fr/jobs/details/5975/administrateur-systeme-sysops-a-vannes-teletravail "Administrateur système/SysOps à Vannes (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/10/24 - [Administrateur Système et Réseaux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5932/administrateur-systeme-et-reseaux-h-f-en-cdi "Administrateur Système et Réseaux (H/F) en CDI")
 * 2017/10/20 - [Spécialiste Iaas/Openstack/Docker H/F Paris-la Défense](http://www.pyjobs.fr/jobs/details/5930/specialiste-iaas-openstack-docker-h-f-paris-la-defense "Spécialiste Iaas/Openstack/Docker H/F Paris-la Défense")
 * 2017/09/28 - [DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000](http://www.pyjobs.fr/jobs/details/5903/developpeur-web-fullstack-bigdata-h-f-en-cdi-a-marcq-en-baroeul-25000-34000 "DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000")
-* 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
 

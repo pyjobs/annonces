@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel](http://www.pyjobs.fr/jobs/details/5940/devops-cloud-pour-de-la-video-en-temps-reel "DevOps Cloud pour de la vidéo en temps réel")
 * 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5941/devops-cloud-pour-de-la-video-en-temps-reel-en-cdi-a-paris-45000-54000 "DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000")
 * 2017/11/03 - [Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000](http://www.pyjobs.fr/jobs/details/5943/developpeur-python-full-stack-h-f-en-cdi-a-toulouse-25000-34000 "Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000")
 * 2017/11/03 - [DevOps confirmé en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5942/devops-confirme-en-cdi-a-paris-45000-54000 "DevOps confirmé en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/14 - [Chef de projet technique Open Source h/f à Paris - La Défense](http://www.pyjobs.fr/jobs/details/5884/chef-de-projet-technique-open-source-h-f-a-paris-la-defense "Chef de projet technique Open Source h/f à Paris - La Défense")
 * 2017/09/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5883/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
 * 2017/08/25 - [Developpeur web (H/F) en CDD à Meylan](http://www.pyjobs.fr/jobs/details/5861/developpeur-web-h-f-en-cdd-a-meylan "Developpeur web (H/F) en CDD à Meylan")
-* 2017/09/14 - [QA ENGINEER](http://www.pyjobs.fr/jobs/details/5881/qa-engineer "QA ENGINEER")
 

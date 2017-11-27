@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/09 - [Dev fullstack avide d'IA et de ML en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5949/dev-fullstack-avide-dia-et-de-ml-en-cdi-a-paris-45000-54000 "Dev fullstack avide d'IA et de ML en CDI à Paris 45000-54000")
 * 2017/11/09 - [Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5950/lead-tech-polyvalent-future-cto-h-f-en-cdi-a-paris-55000-59000 "Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000")
 * 2017/11/08 - [Developpeur Full Stack Web H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5947/developpeur-full-stack-web-h-f-en-cdi-a-paris-35000-44000 "Developpeur Full Stack Web H/F en CDI à Paris 35000-44000")
 * 2017/11/08 - [Developpeur Web Front-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5948/developpeur-web-front-end-h-f-en-cdi-35000-44000 "Developpeur Web Front-End (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
 * 2017/09/21 - [Data Scientist (H/F) en CDI à Lyon >70000](http://www.pyjobs.fr/jobs/details/5894/data-scientist-h-f-en-cdi-a-lyon-70000 "Data Scientist (H/F) en CDI à Lyon >70000")
 * 2017/09/21 - [RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris](http://www.pyjobs.fr/jobs/details/5895/responsable-infrastructure-h-f-en-cdd-a-vallauris "RESPONSABLE INFRASTRUCTURE (H/F) en CDD à Vallauris")
-* 2017/10/06 - [Lead technique polyvalent H/F en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5909/lead-technique-polyvalent-h-f-en-cdi-a-paris-55000-59000 "Lead technique polyvalent H/F en CDI à Paris 55000-59000")
 

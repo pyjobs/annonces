@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/14 - [Développeur rails et javascript en Stage à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5957/developpeur-rails-et-javascript-en-stage-a-paris-14e-arrondissement "Développeur rails et javascript en Stage à Paris-14E-Arrondissement")
 * 2017/11/13 - [Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000](http://www.pyjobs.fr/jobs/details/5956/ingenieur-systeme-gnu-linux-h-f-en-cdd-a-pau-25000-34000 "Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000")
 * 2017/11/11 - [DevOps position at AlephD (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5954/devops-position-at-alephd-h-f-en-cdi-a-paris "DevOps position at AlephD (H/F) en CDI à Paris")
 * 2017/11/10 - [Ingénieur API en CDI à Paris](http://www.pyjobs.fr/jobs/details/5952/ingenieur-api-en-cdi-a-paris "Ingénieur API en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/21 - [Développeur back-end (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/5896/developpeur-back-end-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur back-end (H/F) en CDI à Bordeaux 35000-44000")
 * 2017/09/05 - [Developer JS / MongoDB (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5872/developer-js-mongodb-h-f-en-cdi-a-paris "Developer JS / MongoDB (H/F) en CDI à Paris")
 * 2017/08/25 - [Lead Dev / Expert Production (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5864/lead-dev-expert-production-h-f-en-cdi-a-puteaux "Lead Dev / Expert Production (H/F) en CDI à Puteaux")
-* 2017/08/28 - [DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5865/devops-architecte-infra-h-f-en-cdi-a-paris-45000-54000 "DevOps / Architecte infra (H/F) en CDI à Paris 45000-54000")
 

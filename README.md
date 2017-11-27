@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/10/20 - [Spécialiste Iaas/Openstack/Docker H/F Paris-la Défense](http://www.pyjobs.fr/jobs/details/5930/specialiste-iaas-openstack-docker-h-f-paris-la-defense "Spécialiste Iaas/Openstack/Docker H/F Paris-la Défense")
 * 2017/09/28 - [DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000](http://www.pyjobs.fr/jobs/details/5903/developpeur-web-fullstack-bigdata-h-f-en-cdi-a-marcq-en-baroeul-25000-34000 "DÉVELOPPEUR WEB FULLSTACK & BIGDATA – H/F en CDI à Marcq-en-Barœul 25000-34000")
 * 2017/09/19 - [ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau](http://www.pyjobs.fr/jobs/details/5893/architecte-php-symfony-site-media-h-f-en-cdi-a-lavau "ARCHITECTE PHP/SYMFONY - SITE MEDIA (H/F) en CDI à Lavau")
 * 2017/09/05 - [Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris](http://www.pyjobs.fr/jobs/details/5875/admin-systeme-ingenieur-devops-h-f-en-alternance-a-paris "Admin Système – Ingénieur DevOps (H/F) en Alternance à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/10/04 - [{ Développeur Python 2.6 ou même 3 }](http://www.pyjobs.fr/jobs/details/5906/developpeur-python-2-6-ou-meme-3 "{ Développeur Python 2.6 ou même 3 }")
 * 2017/09/05 - [DevOps](http://www.pyjobs.fr/jobs/details/5876/devops "DevOps")
 * 2017/10/02 - [Stage Python / Odoo avec un indépendant à Chambéry (télétravail)](http://www.pyjobs.fr/jobs/details/5905/stage-python-odoo-avec-un-independant-a-chambery-teletravail "Stage Python / Odoo avec un indépendant à Chambéry (télétravail)")
-* 2017/09/22 - [Developpeur Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5897/developpeur-backend-python-h-f-en-cdi-a-paris-35000-44000 "Developpeur Backend Python (H/F) en CDI à Paris 35000-44000")
 

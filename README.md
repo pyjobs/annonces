@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/03 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Suresnes 45000-54000](http://www.pyjobs.fr/jobs/details/5939/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-suresnes-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Suresnes 45000-54000")
 * 2017/10/30 - [Devops – Projet from scratch sur la voiture a en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5938/devops-projet-from-scratch-sur-la-voiture-a-en-cdi-a-paris-60000-69000 "Devops – Projet from scratch sur la voiture a en CDI à Paris 60000-69000")
 * 2017/10/27 - [AdminSys / DevOps - H/F en Stage en Stage à Paris](http://www.pyjobs.fr/jobs/details/5937/adminsys-devops-h-f-en-stage-en-stage-a-paris "AdminSys / DevOps - H/F en Stage en Stage à Paris")
 * 2017/10/25 - [Lead développeur full stack Python/JS | # IoT en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5936/lead-developpeur-full-stack-python-js-iot-en-cdi-a-paris-45000-54000 "Lead développeur full stack Python/JS | # IoT en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/14 - [Ingénieur QA et Développeur Python](http://www.pyjobs.fr/jobs/details/5880/ingenieur-qa-et-developpeur-python "Ingénieur QA et Développeur Python")
 * 2017/09/14 - [Ingénieur développeur python qa](http://www.pyjobs.fr/jobs/details/5882/ingenieur-developpeur-python-qa "Ingénieur développeur python qa")
 * 2017/08/29 - [Administrateur Système & Réseaux / DEVOPS](http://www.pyjobs.fr/jobs/details/5868/administrateur-systeme-reseaux-devops "Administrateur Système & Réseaux / DEVOPS")
-* 2017/09/12 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5879/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 

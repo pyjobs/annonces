@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5958/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
 * 2017/11/14 - [Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5955/developpeur-python-django-education-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000")
 * 2017/11/14 - [Développeur rails et javascript en Stage à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5957/developpeur-rails-et-javascript-en-stage-a-paris-14e-arrondissement "Développeur rails et javascript en Stage à Paris-14E-Arrondissement")
 * 2017/11/13 - [Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000](http://www.pyjobs.fr/jobs/details/5956/ingenieur-systeme-gnu-linux-h-f-en-cdd-a-pau-25000-34000 "Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/10/09 - [Security Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5910/security-engineer-h-f-en-cdi-a-paris "Security Engineer (H/F) en CDI à Paris")
 * 2017/10/09 - [Architecte infrastructure et réseau (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5911/architecte-infrastructure-et-reseau-h-f-en-cdi-a-paris "Architecte infrastructure et réseau (H/F) en CDI à Paris")
 * 2017/09/21 - [Développeur back-end (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/5896/developpeur-back-end-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur back-end (H/F) en CDI à Bordeaux 35000-44000")
-* 2017/09/05 - [Developer JS / MongoDB (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5872/developer-js-mongodb-h-f-en-cdi-a-paris "Developer JS / MongoDB (H/F) en CDI à Paris")
 

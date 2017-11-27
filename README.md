@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/20 - [Administrateur Système et Réseaux H/F (CDI) - Carcassonne](http://www.pyjobs.fr/jobs/details/5968/administrateur-systeme-et-reseaux-h-f-cdi-carcassonne "Administrateur Système et Réseaux H/F (CDI) - Carcassonne")
 * 2017/11/20 - [Head of Infrastructure en CDI à Paris](http://www.pyjobs.fr/jobs/details/5969/head-of-infrastructure-en-cdi-a-paris "Head of Infrastructure en CDI à Paris")
 * 2017/11/17 - [Développer logiciel C++/QT/QML/.NET en CDI à Mérignac 35000-44000](http://www.pyjobs.fr/jobs/details/5966/developper-logiciel-c-qt-qml-net-en-cdi-a-merignac-35000-44000 "Développer logiciel C++/QT/QML/.NET en CDI à Mérignac 35000-44000")
 * 2017/11/17 - [Ingénieur Sytèmes Embarqués C/C++/Python/RTOS en CDI à Mérignac 35000-44000](http://www.pyjobs.fr/jobs/details/5967/ingenieur-sytemes-embarques-c-c-python-rtos-en-cdi-a-merignac-35000-44000 "Ingénieur Sytèmes Embarqués C/C++/Python/RTOS en CDI à Mérignac 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/26 - [Dev Full Stack dans une start-up web (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5900/dev-full-stack-dans-une-start-up-web-h-f-en-stage-a-paris "Dev Full Stack dans une start-up web (H/F) en Stage à Paris")
 * 2017/09/19 - [Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000](http://www.pyjobs.fr/jobs/details/5890/lead-big-data-engineer-h-f-en-cdi-a-lyon-55000-59000 "Lead Big Data Engineer (H/F) en CDI à Lyon 55000-59000")
 * 2017/10/05 - [Développeur Back-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5908/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-End (H/F) en CDI à Nantes")
-* 2017/09/18 - [Administrateur système (H/F) en CDD à Avignon 25000-34000](http://www.pyjobs.fr/jobs/details/5889/administrateur-systeme-h-f-en-cdd-a-avignon-25000-34000 "Administrateur système (H/F) en CDD à Avignon 25000-34000")
 

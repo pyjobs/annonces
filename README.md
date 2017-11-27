@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/10/27 - [AdminSys / DevOps - H/F en Stage en Stage à Paris](http://www.pyjobs.fr/jobs/details/5937/adminsys-devops-h-f-en-stage-en-stage-a-paris "AdminSys / DevOps - H/F en Stage en Stage à Paris")
 * 2017/10/25 - [Lead développeur full stack Python/JS | # IoT en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5936/lead-developpeur-full-stack-python-js-iot-en-cdi-a-paris-45000-54000 "Lead développeur full stack Python/JS | # IoT en CDI à Paris 45000-54000")
 * 2017/10/25 - [Assistant Développeur FullStack en Stage à Puteaux](http://www.pyjobs.fr/jobs/details/5935/assistant-developpeur-fullstack-en-stage-a-puteaux "Assistant Développeur FullStack en Stage à Puteaux")
 * 2017/10/25 - [Développeur back-end Python/Django en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5934/developpeur-back-end-python-django-en-cdi-a-paris-35000-44000 "Développeur back-end Python/Django en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/29 - [Administrateur Système & Réseaux / DEVOPS](http://www.pyjobs.fr/jobs/details/5868/administrateur-systeme-reseaux-devops "Administrateur Système & Réseaux / DEVOPS")
 * 2017/09/12 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5879/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/08/29 - [Ingénieur Dev Fullstack (PHP/JS) (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5867/ingenieur-dev-fullstack-php-js-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Dev Fullstack (PHP/JS) (H/F) en CDI à Paris 35000-44000")
-* 2017/09/11 - [ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5878/administrateur-systemes-et-reseaux-h-f-en-cdi-a-paris "ADMINISTRATEUR SYSTEMES ET RESEAUX  (H/F) en CDI à Paris")
 

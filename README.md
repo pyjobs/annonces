@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/14 - [Ingénieur Développeur Test et Automatisation en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/5960/ingenieur-developpeur-test-et-automatisation-en-cdi-a-puteaux-35000-44000 "Ingénieur Développeur Test et Automatisation en CDI à Puteaux 35000-44000")
 * 2017/11/14 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5959/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2017/11/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5958/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
 * 2017/11/14 - [Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5955/developpeur-python-django-education-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/14 - [Admin sys / Devops (télétravail partiel)](http://www.pyjobs.fr/jobs/details/5888/admin-sys-devops-teletravail-partiel "Admin sys / Devops (télétravail partiel)")
 * 2017/08/28 - [Informaticien d'application (H/F) en CDD à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5866/informaticien-dapplication-h-f-en-cdd-a-grenoble-25000-34000 "Informaticien d'application (H/F) en CDD à Grenoble 25000-34000")
 * 2017/10/09 - [Security Engineer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5910/security-engineer-h-f-en-cdi-a-paris "Security Engineer (H/F) en CDI à Paris")
-* 2017/10/09 - [Architecte infrastructure et réseau (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5911/architecte-infrastructure-et-reseau-h-f-en-cdi-a-paris "Architecte infrastructure et réseau (H/F) en CDI à Paris")
 

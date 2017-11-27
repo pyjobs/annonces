@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/10 - [Ingénieur(e) système et réseaux Linux Devops en CDI à Paris-14E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/5953/ingenieur-e-systeme-et-reseaux-linux-devops-en-cdi-a-paris-14e-arrondissement-45000-54000 "Ingénieur(e) système et réseaux Linux Devops en CDI à Paris-14E-Arrondissement 45000-54000")
 * 2017/11/10 - [Dev Python confirmé orienté DATA en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5951/dev-python-confirme-oriente-data-en-cdi-a-paris-45000-54000 "Dev Python confirmé orienté DATA en CDI à Paris 45000-54000")
 * 2017/11/09 - [Dev fullstack avide d'IA et de ML en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5949/dev-fullstack-avide-dia-et-de-ml-en-cdi-a-paris-45000-54000 "Dev fullstack avide d'IA et de ML en CDI à Paris 45000-54000")
 * 2017/11/09 - [Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5950/lead-tech-polyvalent-future-cto-h-f-en-cdi-a-paris-55000-59000 "Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/08/25 - [Développeur Fullstack JavaScript (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5860/developpeur-fullstack-javascript-h-f-en-cdi-a-paris "Développeur Fullstack JavaScript (H/F) en CDI à Paris")
 * 2017/08/25 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5863/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 * 2017/08/25 - [Developpeur web backend (H/F) en CDI à Meylan](http://www.pyjobs.fr/jobs/details/5862/developpeur-web-backend-h-f-en-cdi-a-meylan "Developpeur web backend (H/F) en CDI à Meylan")
-* 2017/09/21 - [Data Scientist (H/F) en CDI à Lyon >70000](http://www.pyjobs.fr/jobs/details/5894/data-scientist-h-f-en-cdi-a-lyon-70000 "Data Scientist (H/F) en CDI à Lyon >70000")
 

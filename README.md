@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/16 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5963/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 * 2017/11/14 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/5961/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
 * 2017/11/14 - [Ingénieur Développeur Test et Automatisation en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/5960/ingenieur-developpeur-test-et-automatisation-en-cdi-a-puteaux-35000-44000 "Ingénieur Développeur Test et Automatisation en CDI à Puteaux 35000-44000")
 * 2017/11/14 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5959/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/09/05 - [Développeur web Front-end (H/F) en CDI à Nanterre](http://www.pyjobs.fr/jobs/details/5874/developpeur-web-front-end-h-f-en-cdi-a-nanterre "Développeur web Front-end (H/F) en CDI à Nanterre")
 * 2017/10/09 - [ingénierie logicielle pour institut de recherche dans Paris](http://www.pyjobs.fr/jobs/details/5912/ingenierie-logicielle-pour-institut-de-recherche-dans-paris "ingénierie logicielle pour institut de recherche dans Paris")
 * 2017/09/14 - [Admin sys / Devops (télétravail partiel)](http://www.pyjobs.fr/jobs/details/5888/admin-sys-devops-teletravail-partiel "Admin sys / Devops (télétravail partiel)")
-* 2017/08/28 - [Informaticien d'application (H/F) en CDD à Grenoble 25000-34000](http://www.pyjobs.fr/jobs/details/5866/informaticien-dapplication-h-f-en-cdd-a-grenoble-25000-34000 "Informaticien d'application (H/F) en CDD à Grenoble 25000-34000")
 

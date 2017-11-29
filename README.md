@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/29 - [Ingénieur SRE pour Saagie au Petit-Quevilly (76)](http://www.pyjobs.fr/jobs/details/5981/ingenieur-sre-pour-saagie-au-petit-quevilly-76 "Ingénieur SRE pour Saagie au Petit-Quevilly (76)")
 * 2017/11/28 - [SysAdmin DevOps (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5980/sysadmin-devops-h-f-en-cdi-a-paris-55000-59000 "SysAdmin DevOps (H/F) en CDI à Paris 55000-59000")
 * 2017/11/27 - [Administrateur Système Linux (F/H) (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5978/administrateur-systeme-linux-f-h-h-f-en-cdi "Administrateur Système Linux (F/H) (H/F) en CDI")
 * 2017/11/27 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5979/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/10/25 - [Développeur back-end Python/Django en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5934/developpeur-back-end-python-django-en-cdi-a-paris-35000-44000 "Développeur back-end Python/Django en CDI à Paris 35000-44000")
 * 2017/10/24 - [Développeur Java Scala (startup dans groupe) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/5933/developpeur-java-scala-startup-dans-groupe-en-cdi-55000-59000 "Développeur Java Scala (startup dans groupe) en CDI 55000-59000")
 * 2017/10/24 - [Help-Desk CDI (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5931/help-desk-cdi-h-f-en-cdi-a-paris "Help-Desk CDI (H/F) en CDI à Paris")
-* 2017/10/24 - [Administrateur Système et Réseaux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5932/administrateur-systeme-et-reseaux-h-f-en-cdi "Administrateur Système et Réseaux (H/F) en CDI")
 

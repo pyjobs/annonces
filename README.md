@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/11/29 - [Spécialiste Iaas/Openstack/Docker H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/5982/specialiste-iaas-openstack-docker-h-f-paris-la-defense "Spécialiste Iaas/Openstack/Docker H/F - Paris La Défense")
 * 2017/11/29 - [Ingénieur SRE pour Saagie au Petit-Quevilly (76)](http://www.pyjobs.fr/jobs/details/5981/ingenieur-sre-pour-saagie-au-petit-quevilly-76 "Ingénieur SRE pour Saagie au Petit-Quevilly (76)")
 * 2017/11/28 - [SysAdmin DevOps (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5980/sysadmin-devops-h-f-en-cdi-a-paris-55000-59000 "SysAdmin DevOps (H/F) en CDI à Paris 55000-59000")
 * 2017/11/27 - [Administrateur Système Linux (F/H) (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5978/administrateur-systeme-linux-f-h-h-f-en-cdi "Administrateur Système Linux (F/H) (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/10/25 - [Assistant Développeur FullStack en Stage à Puteaux](http://www.pyjobs.fr/jobs/details/5935/assistant-developpeur-fullstack-en-stage-a-puteaux "Assistant Développeur FullStack en Stage à Puteaux")
 * 2017/10/25 - [Développeur back-end Python/Django en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5934/developpeur-back-end-python-django-en-cdi-a-paris-35000-44000 "Développeur back-end Python/Django en CDI à Paris 35000-44000")
 * 2017/10/24 - [Développeur Java Scala (startup dans groupe) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/5933/developpeur-java-scala-startup-dans-groupe-en-cdi-55000-59000 "Développeur Java Scala (startup dans groupe) en CDI 55000-59000")
-* 2017/10/24 - [Help-Desk CDI (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5931/help-desk-cdi-h-f-en-cdi-a-paris "Help-Desk CDI (H/F) en CDI à Paris")
 

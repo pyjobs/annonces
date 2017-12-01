@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/01 - [stagiaire en développement web frontend/back en Stage à Lyon](http://www.pyjobs.fr/jobs/details/5989/stagiaire-en-developpement-web-frontend-back-en-stage-a-lyon "stagiaire en développement web frontend/back en Stage à Lyon")
 * 2017/12/01 - [Développeur Python / Data science  | Secteur en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5988/developpeur-python-data-science-secteur-en-cdi-35000-44000 "Développeur Python / Data science  | Secteur en CDI 35000-44000")
 * 2017/11/29 - [Ingénieur.e SRE en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/5986/ingenieur-e-sre-en-cdi-25000-34000 "Ingénieur.e SRE en CDI 25000-34000")
 * 2017/11/29 - [Dev Python / Admin sys / Teletravail (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5985/dev-python-admin-sys-teletravail-h-f-en-cdi-a-paris-25000-34000 "Dev Python / Admin sys / Teletravail (H/F) en CDI à Paris 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/03 - [Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000](http://www.pyjobs.fr/jobs/details/5943/developpeur-python-full-stack-h-f-en-cdi-a-toulouse-25000-34000 "Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000")
 * 2017/11/03 - [DevOps confirmé en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5942/devops-confirme-en-cdi-a-paris-45000-54000 "DevOps confirmé en CDI à Paris 45000-54000")
 * 2017/11/03 - [Linux N3 voulant évoluer DevOps (H/F) en CDI à Suresnes 45000-54000](http://www.pyjobs.fr/jobs/details/5939/linux-n3-voulant-evoluer-devops-h-f-en-cdi-a-suresnes-45000-54000 "Linux N3 voulant évoluer DevOps (H/F) en CDI à Suresnes 45000-54000")
-* 2017/10/30 - [Devops – Projet from scratch sur la voiture a en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5938/devops-projet-from-scratch-sur-la-voiture-a-en-cdi-a-paris-60000-69000 "Devops – Projet from scratch sur la voiture a en CDI à Paris 60000-69000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/05 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5990/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
 * 2017/12/01 - [développeur junior ou confirmé fullstackweb en CDI à Lyon 25000-34000](http://www.pyjobs.fr/jobs/details/5987/developpeur-junior-ou-confirme-fullstackweb-en-cdi-a-lyon-25000-34000 "développeur junior ou confirmé fullstackweb en CDI à Lyon 25000-34000")
 * 2017/12/01 - [stagiaire en développement web frontend/back en Stage à Lyon](http://www.pyjobs.fr/jobs/details/5989/stagiaire-en-developpement-web-frontend-back-en-stage-a-lyon "stagiaire en développement web frontend/back en Stage à Lyon")
 * 2017/12/01 - [Développeur Python / Data science  | Secteur en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5988/developpeur-python-data-science-secteur-en-cdi-35000-44000 "Développeur Python / Data science  | Secteur en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel](http://www.pyjobs.fr/jobs/details/5940/devops-cloud-pour-de-la-video-en-temps-reel "DevOps Cloud pour de la vidéo en temps réel")
 * 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5941/devops-cloud-pour-de-la-video-en-temps-reel-en-cdi-a-paris-45000-54000 "DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000")
 * 2017/11/03 - [Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000](http://www.pyjobs.fr/jobs/details/5943/developpeur-python-full-stack-h-f-en-cdi-a-toulouse-25000-34000 "Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000")
-* 2017/11/03 - [DevOps confirmé en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5942/devops-confirme-en-cdi-a-paris-45000-54000 "DevOps confirmé en CDI à Paris 45000-54000")
 

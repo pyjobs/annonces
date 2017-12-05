@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/05 - [Stage developpeur fullstack, application SaaS d'analyse d'images médicales à Paris](http://www.pyjobs.fr/jobs/details/5991/stage-developpeur-fullstack-application-saas-danalyse-dimages-medicales-a-paris "Stage developpeur fullstack, application SaaS d'analyse d'images médicales à Paris")
 * 2017/12/05 - [Senior Front End Software Engineer (H/F) en CDI à Monaco 45000-54000](http://www.pyjobs.fr/jobs/details/5992/senior-front-end-software-engineer-h-f-en-cdi-a-monaco-45000-54000 "Senior Front End Software Engineer (H/F) en CDI à Monaco 45000-54000")
 * 2017/12/05 - [Data Scientist en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5993/data-scientist-en-cdi-a-puteaux "Data Scientist en CDI à Puteaux")
 * 2017/12/05 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5990/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/08 - [Full Stack Developpeur (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5946/full-stack-developpeur-h-f-en-cdi-a-lyon-35000-44000 "Full Stack Developpeur (H/F) en CDI à Lyon 35000-44000")
 * 2017/11/07 - [ADMINISTRATEUR SYSTEMES CONFIRME | CDI (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5945/administrateur-systemes-confirme-cdi-h-f-en-cdi-a-paris-35000-44000 "ADMINISTRATEUR SYSTEMES CONFIRME | CDI (H/F) en CDI à Paris 35000-44000")
 * 2017/11/06 - [Ingénieur développement HPC (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5944/ingenieur-developpement-hpc-h-f-en-cdd-a-paris-25000-34000 "Ingénieur développement HPC (H/F) en CDD à Paris 25000-34000")
-* 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel](http://www.pyjobs.fr/jobs/details/5940/devops-cloud-pour-de-la-video-en-temps-reel "DevOps Cloud pour de la vidéo en temps réel")
 

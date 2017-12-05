@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/05 - [Data Scientist en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5993/data-scientist-en-cdi-a-puteaux "Data Scientist en CDI à Puteaux")
 * 2017/12/05 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5990/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
 * 2017/12/01 - [développeur junior ou confirmé fullstackweb en CDI à Lyon 25000-34000](http://www.pyjobs.fr/jobs/details/5987/developpeur-junior-ou-confirme-fullstackweb-en-cdi-a-lyon-25000-34000 "développeur junior ou confirmé fullstackweb en CDI à Lyon 25000-34000")
 * 2017/12/01 - [stagiaire en développement web frontend/back en Stage à Lyon](http://www.pyjobs.fr/jobs/details/5989/stagiaire-en-developpement-web-frontend-back-en-stage-a-lyon "stagiaire en développement web frontend/back en Stage à Lyon")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/06 - [Ingénieur développement HPC (H/F) en CDD à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5944/ingenieur-developpement-hpc-h-f-en-cdd-a-paris-25000-34000 "Ingénieur développement HPC (H/F) en CDD à Paris 25000-34000")
 * 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel](http://www.pyjobs.fr/jobs/details/5940/devops-cloud-pour-de-la-video-en-temps-reel "DevOps Cloud pour de la vidéo en temps réel")
 * 2017/11/03 - [DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5941/devops-cloud-pour-de-la-video-en-temps-reel-en-cdi-a-paris-45000-54000 "DevOps Cloud pour de la vidéo en temps réel en CDI à Paris 45000-54000")
-* 2017/11/03 - [Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000](http://www.pyjobs.fr/jobs/details/5943/developpeur-python-full-stack-h-f-en-cdi-a-toulouse-25000-34000 "Développeur Python Full-Stack H/F en CDI à Toulouse 25000-34000")
 

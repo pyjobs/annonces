@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/07 - [Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5996/developpeur-c-python-solution-saas-dans-l-en-cdi-a-paris-60000-69000 "Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000")
 * 2017/12/07 - [Administrateur·rice système Debian Linux en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5994/administrateur-rice-systeme-debian-linux-en-cdi-a-paris-35000-44000 "Administrateur·rice système Debian Linux en CDI à Paris 35000-44000")
 * 2017/12/07 - [Data scientist | Big data à destination des g en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5995/data-scientist-big-data-a-destination-des-g-en-cdi-a-paris-55000-59000 "Data scientist | Big data à destination des g en CDI à Paris 55000-59000")
 * 2017/12/05 - [Stage developpeur fullstack, application SaaS d'analyse d'images médicales à Paris](http://www.pyjobs.fr/jobs/details/5991/stage-developpeur-fullstack-application-saas-danalyse-dimages-medicales-a-paris "Stage developpeur fullstack, application SaaS d'analyse d'images médicales à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/09 - [Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5950/lead-tech-polyvalent-future-cto-h-f-en-cdi-a-paris-55000-59000 "Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000")
 * 2017/11/08 - [Developpeur Full Stack Web H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5947/developpeur-full-stack-web-h-f-en-cdi-a-paris-35000-44000 "Developpeur Full Stack Web H/F en CDI à Paris 35000-44000")
 * 2017/11/08 - [Developpeur Web Front-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5948/developpeur-web-front-end-h-f-en-cdi-35000-44000 "Developpeur Web Front-End (H/F) en CDI 35000-44000")
-* 2017/11/08 - [Full Stack Developpeur (H/F) en CDI à Lyon 35000-44000](http://www.pyjobs.fr/jobs/details/5946/full-stack-developpeur-h-f-en-cdi-a-lyon-35000-44000 "Full Stack Developpeur (H/F) en CDI à Lyon 35000-44000")
 

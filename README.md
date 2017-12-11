@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/11 - [Web Designer UI/UX - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/5998/web-designer-ui-ux-h-f-en-freelance-a-paris "Web Designer UI/UX - H/F en Freelance à Paris")
 * 2017/12/08 - [Admini sys Linux confirmé courant devops en CDI à Paris](http://www.pyjobs.fr/jobs/details/5997/admini-sys-linux-confirme-courant-devops-en-cdi-a-paris "Admini sys Linux confirmé courant devops en CDI à Paris")
 * 2017/12/07 - [Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5996/developpeur-c-python-solution-saas-dans-l-en-cdi-a-paris-60000-69000 "Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000")
 * 2017/12/07 - [Administrateur·rice système Debian Linux en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5994/administrateur-rice-systeme-debian-linux-en-cdi-a-paris-35000-44000 "Administrateur·rice système Debian Linux en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/10 - [Dev Python confirmé orienté DATA en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5951/dev-python-confirme-oriente-data-en-cdi-a-paris-45000-54000 "Dev Python confirmé orienté DATA en CDI à Paris 45000-54000")
 * 2017/11/09 - [Dev fullstack avide d'IA et de ML en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/5949/dev-fullstack-avide-dia-et-de-ml-en-cdi-a-paris-45000-54000 "Dev fullstack avide d'IA et de ML en CDI à Paris 45000-54000")
 * 2017/11/09 - [Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5950/lead-tech-polyvalent-future-cto-h-f-en-cdi-a-paris-55000-59000 "Lead tech polyvalent / future CTO (H/F) en CDI à Paris 55000-59000")
-* 2017/11/08 - [Developpeur Full Stack Web H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5947/developpeur-full-stack-web-h-f-en-cdi-a-paris-35000-44000 "Developpeur Full Stack Web H/F en CDI à Paris 35000-44000")
 

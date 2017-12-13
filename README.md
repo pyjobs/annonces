@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/13 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6002/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2017/12/13 - [Data Scientist H/F en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6000/data-scientist-h-f-en-cdi-a-paris-60000-69000 "Data Scientist H/F en CDI à Paris 60000-69000")
 * 2017/12/13 - [Fullstack Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6001/fullstack-software-engineer-h-f-en-cdi-a-paris-45000-54000 "Fullstack Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/12/12 - [Ingénieur Devops pour Saagie au Petit-Quevilly (76)](http://www.pyjobs.fr/jobs/details/5999/ingenieur-devops-pour-saagie-au-petit-quevilly-76 "Ingénieur Devops pour Saagie au Petit-Quevilly (76)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/13 - [Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000](http://www.pyjobs.fr/jobs/details/5956/ingenieur-systeme-gnu-linux-h-f-en-cdd-a-pau-25000-34000 "Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000")
 * 2017/11/11 - [DevOps position at AlephD (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5954/devops-position-at-alephd-h-f-en-cdi-a-paris "DevOps position at AlephD (H/F) en CDI à Paris")
 * 2017/11/10 - [Ingénieur API en CDI à Paris](http://www.pyjobs.fr/jobs/details/5952/ingenieur-api-en-cdi-a-paris "Ingénieur API en CDI à Paris")
-* 2017/11/10 - [Ingénieur(e) système et réseaux Linux Devops en CDI à Paris-14E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/5953/ingenieur-e-systeme-et-reseaux-linux-devops-en-cdi-a-paris-14e-arrondissement-45000-54000 "Ingénieur(e) système et réseaux Linux Devops en CDI à Paris-14E-Arrondissement 45000-54000")
 

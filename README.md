@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/19 - [Développeur Frontend Chatbots H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6005/developpeur-frontend-chatbots-h-f-en-cdi-a-paris-35000-44000 "Développeur Frontend Chatbots H/F en CDI à Paris 35000-44000")
 * 2017/12/15 - [DevOps, révolutionnez l'économie par le logiciel libre et l'open data !](http://www.pyjobs.fr/jobs/details/6003/devops-revolutionnez-leconomie-par-le-logiciel-libre-et-lopen-data "DevOps, révolutionnez l'économie par le logiciel libre et l'open data !")
 * 2017/12/13 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6002/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2017/12/13 - [Data Scientist H/F en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6000/data-scientist-h-f-en-cdi-a-paris-60000-69000 "Data Scientist H/F en CDI à Paris 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/14 - [Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5955/developpeur-python-django-education-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000")
 * 2017/11/14 - [Développeur rails et javascript en Stage à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5957/developpeur-rails-et-javascript-en-stage-a-paris-14e-arrondissement "Développeur rails et javascript en Stage à Paris-14E-Arrondissement")
 * 2017/11/13 - [Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000](http://www.pyjobs.fr/jobs/details/5956/ingenieur-systeme-gnu-linux-h-f-en-cdd-a-pau-25000-34000 "Ingénieur Système GNU/Linux (H/F) en CDD à Pau 25000-34000")
-* 2017/11/11 - [DevOps position at AlephD (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5954/devops-position-at-alephd-h-f-en-cdi-a-paris "DevOps position at AlephD (H/F) en CDI à Paris")
 

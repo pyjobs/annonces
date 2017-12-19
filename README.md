@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/19 - [Ingénieur Système Cloud AWS H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6007/ingenieur-systeme-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Système Cloud AWS H/F en CDI à Paris 35000-44000")
 * 2017/12/19 - [Développeur Full Stack Web en Stage à Talence](http://www.pyjobs.fr/jobs/details/6004/developpeur-full-stack-web-en-stage-a-talence "Développeur Full Stack Web en Stage à Talence")
 * 2017/12/19 - [Senior Devops en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6006/senior-devops-en-cdi-a-bordeaux "Senior Devops en CDI à Bordeaux")
 * 2017/12/19 - [Développeur Frontend Chatbots H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6005/developpeur-frontend-chatbots-h-f-en-cdi-a-paris-35000-44000 "Développeur Frontend Chatbots H/F en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/14 - [Ingénieur Développeur Test et Automatisation en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/5960/ingenieur-developpeur-test-et-automatisation-en-cdi-a-puteaux-35000-44000 "Ingénieur Développeur Test et Automatisation en CDI à Puteaux 35000-44000")
 * 2017/11/14 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5959/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2017/11/14 - [Architecte Java Senior h/f à Paris La Défense](http://www.pyjobs.fr/jobs/details/5958/architecte-java-senior-h-f-a-paris-la-defense "Architecte Java Senior h/f à Paris La Défense")
-* 2017/11/14 - [Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5955/developpeur-python-django-education-h-f-en-cdi-a-paris-35000-44000 "Développeur Python/Django - Education (H/F) en CDI à Paris 35000-44000")
 

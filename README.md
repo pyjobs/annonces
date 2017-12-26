@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/26 - [Développeur Front-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6010/developpeur-front-end-h-f-en-cdi-a-nantes "Développeur Front-End (H/F) en CDI à Nantes")
 * 2017/12/26 - [Développeur Back-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6011/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-End (H/F) en CDI à Nantes")
 * 2017/12/26 - [Développeur web (H/F) en CDI à Meylan 25000-34000](http://www.pyjobs.fr/jobs/details/6009/developpeur-web-h-f-en-cdi-a-meylan-25000-34000 "Développeur web (H/F) en CDI à Meylan 25000-34000")
 * 2017/12/20 - [Développeur Python | Energie & Big Data (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6008/developpeur-python-energie-big-data-h-f-en-cdi-a-paris-45000-54000 "Développeur Python | Energie & Big Data (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/16 - [Ingénieur Développeur Test et Automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5964/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur Développeur Test et Automatisation en CDI 35000-44000")
 * 2017/11/16 - [Data Engineer – Secteur des médias en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/5962/data-engineer-secteur-des-medias-en-cdi-45000-54000 "Data Engineer – Secteur des médias en CDI 45000-54000")
 * 2017/11/16 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5963/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
-* 2017/11/14 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/5961/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
 

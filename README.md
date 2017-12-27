@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2017/12/26 - [Devops  Python/PHP experimenté en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6012/devops-python-php-experimente-en-cdi-a-paris-35000-44000 "Devops  Python/PHP experimenté en CDI à Paris 35000-44000")
 * 2017/12/26 - [Développeur Front-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6010/developpeur-front-end-h-f-en-cdi-a-nantes "Développeur Front-End (H/F) en CDI à Nantes")
 * 2017/12/26 - [Développeur Back-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6011/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-End (H/F) en CDI à Nantes")
 * 2017/12/26 - [Développeur web (H/F) en CDI à Meylan 25000-34000](http://www.pyjobs.fr/jobs/details/6009/developpeur-web-h-f-en-cdi-a-meylan-25000-34000 "Développeur web (H/F) en CDI à Meylan 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/16 - [DevOps & Cloud Engineer pour aider à devenir Cloud Fluent sur AWS ou GCP à Paris](http://www.pyjobs.fr/jobs/details/5965/devops-cloud-engineer-pour-aider-a-devenir-cloud-fluent-sur-aws-ou-gcp-a-paris "DevOps & Cloud Engineer pour aider à devenir Cloud Fluent sur AWS ou GCP à Paris")
 * 2017/11/16 - [Ingénieur Développeur Test et Automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5964/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur Développeur Test et Automatisation en CDI 35000-44000")
 * 2017/11/16 - [Data Engineer – Secteur des médias en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/5962/data-engineer-secteur-des-medias-en-cdi-45000-54000 "Data Engineer – Secteur des médias en CDI 45000-54000")
-* 2017/11/16 - [Développeur Back-end (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/5963/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-end (H/F) en CDI à Nantes")
 

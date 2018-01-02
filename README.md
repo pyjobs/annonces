@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/02 - [DevOps polyvalent dans la sécurité - F/H en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6015/devops-polyvalent-dans-la-securite-f-h-en-cdi-a-paris-55000-59000 "DevOps polyvalent dans la sécurité - F/H en CDI à Paris 55000-59000")
 * 2018/01/02 - [DevOps polyvalent dans la sécurité - F/H](http://www.pyjobs.fr/jobs/details/6013/devops-polyvalent-dans-la-securite-f-h "DevOps polyvalent dans la sécurité - F/H")
 * 2017/12/26 - [Devops  Python/PHP experimenté en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6012/devops-python-php-experimente-en-cdi-a-paris-35000-44000 "Devops  Python/PHP experimenté en CDI à Paris 35000-44000")
 * 2017/12/26 - [Développeur Front-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6010/developpeur-front-end-h-f-en-cdi-a-nantes "Développeur Front-End (H/F) en CDI à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/17 - [Développer logiciel C++/QT/QML/.NET en CDI à Mérignac 35000-44000](http://www.pyjobs.fr/jobs/details/5966/developper-logiciel-c-qt-qml-net-en-cdi-a-merignac-35000-44000 "Développer logiciel C++/QT/QML/.NET en CDI à Mérignac 35000-44000")
 * 2017/11/17 - [Ingénieur Sytèmes Embarqués C/C++/Python/RTOS en CDI à Mérignac 35000-44000](http://www.pyjobs.fr/jobs/details/5967/ingenieur-sytemes-embarques-c-c-python-rtos-en-cdi-a-merignac-35000-44000 "Ingénieur Sytèmes Embarqués C/C++/Python/RTOS en CDI à Mérignac 35000-44000")
 * 2017/11/16 - [DevOps & Cloud Engineer pour aider à devenir Cloud Fluent sur AWS ou GCP à Paris](http://www.pyjobs.fr/jobs/details/5965/devops-cloud-engineer-pour-aider-a-devenir-cloud-fluent-sur-aws-ou-gcp-a-paris "DevOps & Cloud Engineer pour aider à devenir Cloud Fluent sur AWS ou GCP à Paris")
-* 2017/11/16 - [Ingénieur Développeur Test et Automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/5964/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur Développeur Test et Automatisation en CDI 35000-44000")
 

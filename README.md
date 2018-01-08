@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/08 - [Fullstack Engineer (Ruby on Rails) H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6018/fullstack-engineer-ruby-on-rails-h-f-en-cdi-35000-44000 "Fullstack Engineer (Ruby on Rails) H/F en CDI 35000-44000")
 * 2018/01/08 - [Développeur Python orienté Data H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6021/developpeur-python-oriente-data-h-f-en-cdi-a-paris-35000-44000 "Développeur Python orienté Data H/F en CDI à Paris 35000-44000")
 * 2018/01/08 - [Développeur Back-End H/F (stage) en Stage à Nantes](http://www.pyjobs.fr/jobs/details/6020/developpeur-back-end-h-f-stage-en-stage-a-nantes "Développeur Back-End H/F (stage) en Stage à Nantes")
 * 2018/01/08 - [Full-Stack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6019/full-stack-web-developer-h-f-en-cdi-a-paris "Full-Stack Web Developer (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/22 - [Administrateur système ou plus communément appelé SysOps à Vannes (télétravail)](http://www.pyjobs.fr/jobs/details/5972/administrateur-systeme-ou-plus-communement-appele-sysops-a-vannes-teletravail "Administrateur système ou plus communément appelé SysOps à Vannes (télétravail)")
 * 2017/11/22 - [Stagiaire développeur(se) Python (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5973/stagiaire-developpeur-se-python-h-f-en-stage-a-paris "Stagiaire développeur(se) Python (H/F) en Stage à Paris")
 * 2017/11/22 - [Développeur Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5974/developpeur-python-h-f-en-cdi-a-paris "Développeur Python (H/F) en CDI à Paris")
-* 2017/11/20 - [administrateur système et réseaux h/f (cdi)](http://www.pyjobs.fr/jobs/details/5971/administrateur-systeme-et-reseaux-h-f-cdi "administrateur système et réseaux h/f (cdi)")
 

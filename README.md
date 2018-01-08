@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/08 - [Développeur Python orienté Data H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6021/developpeur-python-oriente-data-h-f-en-cdi-a-paris-35000-44000 "Développeur Python orienté Data H/F en CDI à Paris 35000-44000")
 * 2018/01/08 - [Développeur Back-End H/F (stage) en Stage à Nantes](http://www.pyjobs.fr/jobs/details/6020/developpeur-back-end-h-f-stage-en-stage-a-nantes "Développeur Back-End H/F (stage) en Stage à Nantes")
 * 2018/01/08 - [Full-Stack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6019/full-stack-web-developer-h-f-en-cdi-a-paris "Full-Stack Web Developer (H/F) en CDI à Paris")
 * 2018/01/08 - [Développeur rails et javascript (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6017/developpeur-rails-et-javascript-h-f-en-cdi-a-paris-14e-arrondissement "Développeur rails et javascript (H/F) en CDI à Paris-14E-Arrondissement")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/22 - [Stagiaire développeur(se) Python (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/5973/stagiaire-developpeur-se-python-h-f-en-stage-a-paris "Stagiaire développeur(se) Python (H/F) en Stage à Paris")
 * 2017/11/22 - [Développeur Python (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/5974/developpeur-python-h-f-en-cdi-a-paris "Développeur Python (H/F) en CDI à Paris")
 * 2017/11/20 - [administrateur système et réseaux h/f (cdi)](http://www.pyjobs.fr/jobs/details/5971/administrateur-systeme-et-reseaux-h-f-cdi "administrateur système et réseaux h/f (cdi)")
-* 2017/11/20 - [Gestionnaire de parc micro-informatique / Help-Desk H/F (CDI) Paris-17](http://www.pyjobs.fr/jobs/details/5970/gestionnaire-de-parc-micro-informatique-help-desk-h-f-cdi-paris-17 "Gestionnaire de parc micro-informatique / Help-Desk H/F (CDI) Paris-17")
 

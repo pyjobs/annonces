@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/08 - [Full-Stack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6019/full-stack-web-developer-h-f-en-cdi-a-paris "Full-Stack Web Developer (H/F) en CDI à Paris")
 * 2018/01/08 - [Développeur rails et javascript (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6017/developpeur-rails-et-javascript-h-f-en-cdi-a-paris-14e-arrondissement "Développeur rails et javascript (H/F) en CDI à Paris-14E-Arrondissement")
 * 2018/01/04 - [Lead Mobile Software Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6016/lead-mobile-software-engineer-h-f-en-cdi-a-paris-55000-59000 "Lead Mobile Software Engineer (H/F) en CDI à Paris 55000-59000")
 * 2018/01/02 - [Developpeur Web (H/F) en CDI à Toulon 25000-34000](http://www.pyjobs.fr/jobs/details/6014/developpeur-web-h-f-en-cdi-a-toulon-25000-34000 "Developpeur Web (H/F) en CDI à Toulon 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/20 - [administrateur système et réseaux h/f (cdi)](http://www.pyjobs.fr/jobs/details/5971/administrateur-systeme-et-reseaux-h-f-cdi "administrateur système et réseaux h/f (cdi)")
 * 2017/11/20 - [Gestionnaire de parc micro-informatique / Help-Desk H/F (CDI) Paris-17](http://www.pyjobs.fr/jobs/details/5970/gestionnaire-de-parc-micro-informatique-help-desk-h-f-cdi-paris-17 "Gestionnaire de parc micro-informatique / Help-Desk H/F (CDI) Paris-17")
 * 2017/11/20 - [Administrateur Système et Réseaux H/F (CDI) - Carcassonne](http://www.pyjobs.fr/jobs/details/5968/administrateur-systeme-et-reseaux-h-f-cdi-carcassonne "Administrateur Système et Réseaux H/F (CDI) - Carcassonne")
-* 2017/11/20 - [Head of Infrastructure en CDI à Paris](http://www.pyjobs.fr/jobs/details/5969/head-of-infrastructure-en-cdi-a-paris "Head of Infrastructure en CDI à Paris")
 

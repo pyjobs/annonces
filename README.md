@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/11 - [Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6025/java-scala-software-engineer-h-f-en-cdi-a-paris-45000-54000 "Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/01/09 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6024/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/01/09 - [Full-stack developer en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6022/full-stack-developer-en-cdi-25000-34000 "Full-stack developer en CDI 25000-34000")
 * 2018/01/09 - [Développeur React.JS orienté UX/UI (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6023/developpeur-react-js-oriente-ux-ui-h-f-en-cdi-a-paris-45000-54000 "Développeur React.JS orienté UX/UI (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/27 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5979/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2017/11/24 - [Assistant Développeur Java Fullstack (H/F) en Stage](http://www.pyjobs.fr/jobs/details/5976/assistant-developpeur-java-fullstack-h-f-en-stage "Assistant Développeur Java Fullstack (H/F) en Stage")
 * 2017/11/24 - [Développeur Python Django Open Education en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/5977/developpeur-python-django-open-education-en-cdi-a-paris-14e-arrondissement "Développeur Python Django Open Education en CDI à Paris-14E-Arrondissement")
-* 2017/11/23 - [Administrateur système/SysOps à Vannes (télétravail)](http://www.pyjobs.fr/jobs/details/5975/administrateur-systeme-sysops-a-vannes-teletravail "Administrateur système/SysOps à Vannes (télétravail)")
 

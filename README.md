@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/16 - [Growth Engineer / Front-end developer en CDI à Paris](http://www.pyjobs.fr/jobs/details/6027/growth-engineer-front-end-developer-en-cdi-a-paris "Growth Engineer / Front-end developer en CDI à Paris")
 * 2018/01/16 - [Stage ingénieur développemen Full Stack (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6026/stage-ingenieur-developpemen-full-stack-h-f-en-stage-a-paris "Stage ingénieur développemen Full Stack (H/F) en Stage à Paris")
 * 2018/01/11 - [Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6025/java-scala-software-engineer-h-f-en-cdi-a-paris-45000-54000 "Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/01/09 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6024/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/28 - [SysAdmin DevOps (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5980/sysadmin-devops-h-f-en-cdi-a-paris-55000-59000 "SysAdmin DevOps (H/F) en CDI à Paris 55000-59000")
 * 2017/11/27 - [Administrateur Système Linux (F/H) (H/F) en CDI](http://www.pyjobs.fr/jobs/details/5978/administrateur-systeme-linux-f-h-h-f-en-cdi "Administrateur Système Linux (F/H) (H/F) en CDI")
 * 2017/11/27 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/5979/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
-* 2017/11/24 - [Assistant Développeur Java Fullstack (H/F) en Stage](http://www.pyjobs.fr/jobs/details/5976/assistant-developpeur-java-fullstack-h-f-en-stage "Assistant Développeur Java Fullstack (H/F) en Stage")
 

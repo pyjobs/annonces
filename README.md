@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/18 - [Tech Lead Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6029/tech-lead-backend-python-h-f-en-cdi-a-paris-35000-44000 "Tech Lead Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2018/01/18 - [DevOps Python / Webservices (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6030/devops-python-webservices-h-f-en-cdi-a-paris-35000-44000 "DevOps Python / Webservices (H/F) en CDI à Paris 35000-44000")
 * 2018/01/16 - [Developer Front End / Mobile for Music App en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6028/developer-front-end-mobile-for-music-app-en-cdi-a-paris-45000-54000 "Developer Front End / Mobile for Music App en CDI à Paris 45000-54000")
 * 2018/01/16 - [Growth Engineer / Front-end developer en CDI à Paris](http://www.pyjobs.fr/jobs/details/6027/growth-engineer-front-end-developer-en-cdi-a-paris "Growth Engineer / Front-end developer en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/29 - [Directeur Technique Open Source H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/5983/directeur-technique-open-source-h-f-paris-la-defense "Directeur Technique Open Source H/F - Paris La Défense")
 * 2017/11/29 - [Spécialiste Iaas/Openstack/Docker H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/5982/specialiste-iaas-openstack-docker-h-f-paris-la-defense "Spécialiste Iaas/Openstack/Docker H/F - Paris La Défense")
 * 2017/11/29 - [Ingénieur SRE pour Saagie au Petit-Quevilly (76)](http://www.pyjobs.fr/jobs/details/5981/ingenieur-sre-pour-saagie-au-petit-quevilly-76 "Ingénieur SRE pour Saagie au Petit-Quevilly (76)")
-* 2017/11/28 - [SysAdmin DevOps (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5980/sysadmin-devops-h-f-en-cdi-a-paris-55000-59000 "SysAdmin DevOps (H/F) en CDI à Paris 55000-59000")
 

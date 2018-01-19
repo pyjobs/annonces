@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/19 - [DevOps Cloud pour de la vidéo en temps réel](http://www.pyjobs.fr/jobs/details/6032/devops-cloud-pour-de-la-video-en-temps-reel "DevOps Cloud pour de la vidéo en temps réel")
 * 2018/01/18 - [Scrum Master & Développeur(se)  à Nantes en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6031/scrum-master-developpeur-se-a-nantes-en-cdi-a-nantes-35000-44000 "Scrum Master & Développeur(se)  à Nantes en CDI à Nantes 35000-44000")
 * 2018/01/18 - [Tech Lead Backend Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6029/tech-lead-backend-python-h-f-en-cdi-a-paris-35000-44000 "Tech Lead Backend Python (H/F) en CDI à Paris 35000-44000")
 * 2018/01/18 - [DevOps Python / Webservices (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6030/devops-python-webservices-h-f-en-cdi-a-paris-35000-44000 "DevOps Python / Webservices (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/11/29 - [Dev Python / Admin sys / Teletravail (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/5985/dev-python-admin-sys-teletravail-h-f-en-cdi-a-paris-25000-34000 "Dev Python / Admin sys / Teletravail (H/F) en CDI à Paris 25000-34000")
 * 2017/11/29 - [Chef de projet technique Open Source H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/5984/chef-de-projet-technique-open-source-h-f-paris-la-defense "Chef de projet technique Open Source H/F - Paris La Défense")
 * 2017/11/29 - [Directeur Technique Open Source H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/5983/directeur-technique-open-source-h-f-paris-la-defense "Directeur Technique Open Source H/F - Paris La Défense")
-* 2017/11/29 - [Spécialiste Iaas/Openstack/Docker H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/5982/specialiste-iaas-openstack-docker-h-f-paris-la-defense "Spécialiste Iaas/Openstack/Docker H/F - Paris La Défense")
 

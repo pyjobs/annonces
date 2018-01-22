@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/22 - [Développeur Junior Python en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6038/developpeur-junior-python-en-cdi-a-paris-35000-44000 "Développeur Junior Python en CDI à Paris 35000-44000")
 * 2018/01/22 - [Développeur Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6039/developpeur-python-en-cdi-a-paris-45000-54000 "Développeur Python en CDI à Paris 45000-54000")
 * 2018/01/21 - [Dév PHP/WD/Maria à Crêches sur Saône](http://www.pyjobs.fr/jobs/details/6037/dev-php-wd-maria-a-creches-sur-saone "Dév PHP/WD/Maria à Crêches sur Saône")
 * 2018/01/19 - [Senior SW Developer en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6036/senior-sw-developer-en-cdi-35000-44000 "Senior SW Developer en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/05 - [Senior Front End Software Engineer (H/F) en CDI à Monaco 45000-54000](http://www.pyjobs.fr/jobs/details/5992/senior-front-end-software-engineer-h-f-en-cdi-a-monaco-45000-54000 "Senior Front End Software Engineer (H/F) en CDI à Monaco 45000-54000")
 * 2017/12/05 - [Data Scientist en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5993/data-scientist-en-cdi-a-puteaux "Data Scientist en CDI à Puteaux")
 * 2017/12/05 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/5990/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
-* 2017/12/01 - [développeur junior ou confirmé fullstackweb en CDI à Lyon 25000-34000](http://www.pyjobs.fr/jobs/details/5987/developpeur-junior-ou-confirme-fullstackweb-en-cdi-a-lyon-25000-34000 "développeur junior ou confirmé fullstackweb en CDI à Lyon 25000-34000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/23 - [CTO - Dev back-end (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6041/cto-dev-back-end-h-f-en-cdi "CTO - Dev back-end (H/F) en CDI")
 * 2018/01/23 - [Image Analysis Scientist en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6040/image-analysis-scientist-en-cdi-a-marseille-35000-44000 "Image Analysis Scientist en CDI à Marseille 35000-44000")
 * 2018/01/22 - [Développeur Junior Python en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6038/developpeur-junior-python-en-cdi-a-paris-35000-44000 "Développeur Junior Python en CDI à Paris 35000-44000")
 * 2018/01/22 - [Développeur Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6039/developpeur-python-en-cdi-a-paris-45000-54000 "Développeur Python en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/07 - [Data scientist | Big data à destination des g en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5995/data-scientist-big-data-a-destination-des-g-en-cdi-a-paris-55000-59000 "Data scientist | Big data à destination des g en CDI à Paris 55000-59000")
 * 2017/12/05 - [Stage developpeur fullstack, application SaaS d'analyse d'images médicales à Paris](http://www.pyjobs.fr/jobs/details/5991/stage-developpeur-fullstack-application-saas-danalyse-dimages-medicales-a-paris "Stage developpeur fullstack, application SaaS d'analyse d'images médicales à Paris")
 * 2017/12/05 - [Senior Front End Software Engineer (H/F) en CDI à Monaco 45000-54000](http://www.pyjobs.fr/jobs/details/5992/senior-front-end-software-engineer-h-f-en-cdi-a-monaco-45000-54000 "Senior Front End Software Engineer (H/F) en CDI à Monaco 45000-54000")
-* 2017/12/05 - [Data Scientist en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/5993/data-scientist-en-cdi-a-puteaux "Data Scientist en CDI à Puteaux")
 

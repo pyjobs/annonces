@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/29 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6045/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/01/25 - [Ingénieur DevOps (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6042/ingenieur-devops-h-f-en-cdi-a-lille "Ingénieur DevOps (H/F) en CDI à Lille")
 * 2018/01/25 - [Leader Technique Réseaux - DevOps (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/6043/leader-technique-reseaux-devops-h-f-en-cdi-a-puteaux "Leader Technique Réseaux - DevOps (H/F) en CDI à Puteaux")
 * 2018/01/23 - [CTO - Dev back-end (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6041/cto-dev-back-end-h-f-en-cdi "CTO - Dev back-end (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/08 - [Admini sys Linux confirmé courant devops en CDI à Paris](http://www.pyjobs.fr/jobs/details/5997/admini-sys-linux-confirme-courant-devops-en-cdi-a-paris "Admini sys Linux confirmé courant devops en CDI à Paris")
 * 2017/12/07 - [Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5996/developpeur-c-python-solution-saas-dans-l-en-cdi-a-paris-60000-69000 "Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000")
 * 2017/12/07 - [Administrateur·rice système Debian Linux en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/5994/administrateur-rice-systeme-debian-linux-en-cdi-a-paris-35000-44000 "Administrateur·rice système Debian Linux en CDI à Paris 35000-44000")
-* 2017/12/07 - [Data scientist | Big data à destination des g en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/5995/data-scientist-big-data-a-destination-des-g-en-cdi-a-paris-55000-59000 "Data scientist | Big data à destination des g en CDI à Paris 55000-59000")
 

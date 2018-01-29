@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/29 - [Ingénieur devops – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6046/ingenieur-devops-cdi-teletravail "Ingénieur devops – CDI (télétravail)")
 * 2018/01/29 - [Ingénieur Virtualisation et Stockage - CDI](http://www.pyjobs.fr/jobs/details/6044/ingenieur-virtualisation-et-stockage-cdi "Ingénieur Virtualisation et Stockage - CDI")
 * 2018/01/29 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6045/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/01/25 - [Ingénieur DevOps (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6042/ingenieur-devops-h-f-en-cdi-a-lille "Ingénieur DevOps (H/F) en CDI à Lille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/12 - [Ingénieur Devops pour Saagie au Petit-Quevilly (76)](http://www.pyjobs.fr/jobs/details/5999/ingenieur-devops-pour-saagie-au-petit-quevilly-76 "Ingénieur Devops pour Saagie au Petit-Quevilly (76)")
 * 2017/12/11 - [Web Designer UI/UX - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/5998/web-designer-ui-ux-h-f-en-freelance-a-paris "Web Designer UI/UX - H/F en Freelance à Paris")
 * 2017/12/08 - [Admini sys Linux confirmé courant devops en CDI à Paris](http://www.pyjobs.fr/jobs/details/5997/admini-sys-linux-confirme-courant-devops-en-cdi-a-paris "Admini sys Linux confirmé courant devops en CDI à Paris")
-* 2017/12/07 - [Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/5996/developpeur-c-python-solution-saas-dans-l-en-cdi-a-paris-60000-69000 "Développeur C++/Python | Solution Saas dans l en CDI à Paris 60000-69000")
 

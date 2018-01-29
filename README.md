@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/29 - [Suppression du gil en python](http://www.pyjobs.fr/jobs/details/6048/suppression-du-gil-en-python "Suppression du gil en python")
 * 2018/01/29 - [Scrum Master & Développeur(se) (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6047/scrum-master-developpeur-se-h-f-a-nantes "Scrum Master & Développeur(se) (H/F) à Nantes")
 * 2018/01/29 - [Ingénieur devops – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6046/ingenieur-devops-cdi-teletravail "Ingénieur devops – CDI (télétravail)")
 * 2018/01/29 - [Ingénieur Virtualisation et Stockage - CDI](http://www.pyjobs.fr/jobs/details/6044/ingenieur-virtualisation-et-stockage-cdi "Ingénieur Virtualisation et Stockage - CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/13 - [Data Scientist H/F en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6000/data-scientist-h-f-en-cdi-a-paris-60000-69000 "Data Scientist H/F en CDI à Paris 60000-69000")
 * 2017/12/13 - [Fullstack Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6001/fullstack-software-engineer-h-f-en-cdi-a-paris-45000-54000 "Fullstack Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2017/12/12 - [Ingénieur Devops pour Saagie au Petit-Quevilly (76)](http://www.pyjobs.fr/jobs/details/5999/ingenieur-devops-pour-saagie-au-petit-quevilly-76 "Ingénieur Devops pour Saagie au Petit-Quevilly (76)")
-* 2017/12/11 - [Web Designer UI/UX - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/5998/web-designer-ui-ux-h-f-en-freelance-a-paris "Web Designer UI/UX - H/F en Freelance à Paris")
 

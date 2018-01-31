@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/31 - [Administrateur Système Linux/ Devops (F/H) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6050/administrateur-systeme-linux-devops-f-h-en-cdi-a-paris "Administrateur Système Linux/ Devops (F/H) en CDI à Paris")
 * 2018/01/30 - [Administrateur Système DevOps (H/F) en CDI à Bereldange 25000-34000](http://www.pyjobs.fr/jobs/details/6049/administrateur-systeme-devops-h-f-en-cdi-a-bereldange-25000-34000 "Administrateur Système DevOps (H/F) en CDI à Bereldange 25000-34000")
 * 2018/01/29 - [Suppression du gil en python](http://www.pyjobs.fr/jobs/details/6048/suppression-du-gil-en-python "Suppression du gil en python")
 * 2018/01/29 - [Scrum Master & Développeur(se) (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6047/scrum-master-developpeur-se-h-f-a-nantes "Scrum Master & Développeur(se) (H/F) à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/15 - [DevOps, révolutionnez l'économie par le logiciel libre et l'open data !](http://www.pyjobs.fr/jobs/details/6003/devops-revolutionnez-leconomie-par-le-logiciel-libre-et-lopen-data "DevOps, révolutionnez l'économie par le logiciel libre et l'open data !")
 * 2017/12/13 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6002/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2017/12/13 - [Data Scientist H/F en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6000/data-scientist-h-f-en-cdi-a-paris-60000-69000 "Data Scientist H/F en CDI à Paris 60000-69000")
-* 2017/12/13 - [Fullstack Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6001/fullstack-software-engineer-h-f-en-cdi-a-paris-45000-54000 "Fullstack Software Engineer (H/F) en CDI à Paris 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/08 - [Admin Linux Securite (CISSP) - Paris](http://www.pyjobs.fr/jobs/details/6054/admin-linux-securite-cissp-paris "Admin Linux Securite (CISSP) - Paris")
 * 2018/02/05 - [Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6053/data-scientist-h-f-en-cdi-a-paris "Data Scientist (H/F) en CDI à Paris")
 * 2018/02/05 - [Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6052/developpeur-go-h-f-100-teletravail-en-cdi-a-paris-55000-59000 "Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000")
 * 2018/02/01 - [Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6051/developpeur-mobile-react-native-h-f-paris-en-cdi-a-paris-45000-54000 "Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/19 - [Ingénieur Système Cloud AWS H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6007/ingenieur-systeme-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Système Cloud AWS H/F en CDI à Paris 35000-44000")
 * 2017/12/19 - [Développeur Full Stack Web en Stage à Talence](http://www.pyjobs.fr/jobs/details/6004/developpeur-full-stack-web-en-stage-a-talence "Développeur Full Stack Web en Stage à Talence")
 * 2017/12/19 - [Senior Devops en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6006/senior-devops-en-cdi-a-bordeaux "Senior Devops en CDI à Bordeaux")
-* 2017/12/19 - [Développeur Frontend Chatbots H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6005/developpeur-frontend-chatbots-h-f-en-cdi-a-paris-35000-44000 "Développeur Frontend Chatbots H/F en CDI à Paris 35000-44000")
 

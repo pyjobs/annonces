@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/10 - [Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6056/developpeur-web-full-stack-symfony-3-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000")
 * 2018/02/09 - [Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000](http://www.pyjobs.fr/jobs/details/6055/developpeur-polyvalent-et-curieux-h-f-en-cdi-a-monaco-35000-44000 "Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000")
 * 2018/02/08 - [Admin Linux Securite (CISSP) - Paris](http://www.pyjobs.fr/jobs/details/6054/admin-linux-securite-cissp-paris "Admin Linux Securite (CISSP) - Paris")
 * 2018/02/05 - [Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6053/data-scientist-h-f-en-cdi-a-paris "Data Scientist (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/26 - [Développeur web (H/F) en CDI à Meylan 25000-34000](http://www.pyjobs.fr/jobs/details/6009/developpeur-web-h-f-en-cdi-a-meylan-25000-34000 "Développeur web (H/F) en CDI à Meylan 25000-34000")
 * 2017/12/20 - [Développeur Python | Energie & Big Data (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6008/developpeur-python-energie-big-data-h-f-en-cdi-a-paris-45000-54000 "Développeur Python | Energie & Big Data (H/F) en CDI à Paris 45000-54000")
 * 2017/12/19 - [Ingénieur Système Cloud AWS H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6007/ingenieur-systeme-cloud-aws-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Système Cloud AWS H/F en CDI à Paris 35000-44000")
-* 2017/12/19 - [Développeur Full Stack Web en Stage à Talence](http://www.pyjobs.fr/jobs/details/6004/developpeur-full-stack-web-en-stage-a-talence "Développeur Full Stack Web en Stage à Talence")
 

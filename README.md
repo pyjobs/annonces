@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/12 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6059/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/02/12 - [Développeur python fullstack](http://www.pyjobs.fr/jobs/details/6058/developpeur-python-fullstack "Développeur python fullstack")
 * 2018/02/12 - [DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6057/dev-python-php-experimente-en-teletravail-en-cdi-a-paris-35000-44000 "DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000")
 * 2018/02/10 - [Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6056/developpeur-web-full-stack-symfony-3-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2017/12/26 - [Devops  Python/PHP experimenté en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6012/devops-python-php-experimente-en-cdi-a-paris-35000-44000 "Devops  Python/PHP experimenté en CDI à Paris 35000-44000")
 * 2017/12/26 - [Développeur Front-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6010/developpeur-front-end-h-f-en-cdi-a-nantes "Développeur Front-End (H/F) en CDI à Nantes")
 * 2017/12/26 - [Développeur Back-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6011/developpeur-back-end-h-f-en-cdi-a-nantes "Développeur Back-End (H/F) en CDI à Nantes")
-* 2017/12/26 - [Développeur web (H/F) en CDI à Meylan 25000-34000](http://www.pyjobs.fr/jobs/details/6009/developpeur-web-h-f-en-cdi-a-meylan-25000-34000 "Développeur web (H/F) en CDI à Meylan 25000-34000")
 

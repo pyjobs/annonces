@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/13 - [Wanted : ingénieur DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6063/wanted-ingenieur-devops-h-f-en-cdi-a-paris "Wanted : ingénieur DevOps (H/F) en CDI à Paris")
 * 2018/02/13 - [Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis](http://www.pyjobs.fr/jobs/details/6062/administrateur-systemes-et-reseaux-pour-la-dsi-de-luniversite-paris-8-a-saint-denis "Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis")
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6061/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6060/stagiaire-developpeur-python "Stagiaire développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/04 - [Lead Mobile Software Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6016/lead-mobile-software-engineer-h-f-en-cdi-a-paris-55000-59000 "Lead Mobile Software Engineer (H/F) en CDI à Paris 55000-59000")
 * 2018/01/02 - [Developpeur Web (H/F) en CDI à Toulon 25000-34000](http://www.pyjobs.fr/jobs/details/6014/developpeur-web-h-f-en-cdi-a-toulon-25000-34000 "Developpeur Web (H/F) en CDI à Toulon 25000-34000")
 * 2018/01/02 - [DevOps polyvalent dans la sécurité - F/H en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6015/devops-polyvalent-dans-la-securite-f-h-en-cdi-a-paris-55000-59000 "DevOps polyvalent dans la sécurité - F/H en CDI à Paris 55000-59000")
-* 2018/01/02 - [DevOps polyvalent dans la sécurité - F/H](http://www.pyjobs.fr/jobs/details/6013/devops-polyvalent-dans-la-securite-f-h "DevOps polyvalent dans la sécurité - F/H")
 

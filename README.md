@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6061/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6060/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/12 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6059/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/02/12 - [Développeur python fullstack](http://www.pyjobs.fr/jobs/details/6058/developpeur-python-fullstack "Développeur python fullstack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/02 - [DevOps polyvalent dans la sécurité - F/H en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6015/devops-polyvalent-dans-la-securite-f-h-en-cdi-a-paris-55000-59000 "DevOps polyvalent dans la sécurité - F/H en CDI à Paris 55000-59000")
 * 2018/01/02 - [DevOps polyvalent dans la sécurité - F/H](http://www.pyjobs.fr/jobs/details/6013/devops-polyvalent-dans-la-securite-f-h "DevOps polyvalent dans la sécurité - F/H")
 * 2017/12/26 - [Devops  Python/PHP experimenté en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6012/devops-python-php-experimente-en-cdi-a-paris-35000-44000 "Devops  Python/PHP experimenté en CDI à Paris 35000-44000")
-* 2017/12/26 - [Développeur Front-End (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6010/developpeur-front-end-h-f-en-cdi-a-nantes "Développeur Front-End (H/F) en CDI à Nantes")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/21 - [Développeur Front / UX Junior en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6066/developpeur-front-ux-junior-en-cdi-a-paris-25000-34000 "Développeur Front / UX Junior en CDI à Paris 25000-34000")
 * 2018/02/21 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6065/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/20 - [Développeur python pour éditeur de logiciels libres à Lille ou Paris](http://www.pyjobs.fr/jobs/details/6064/developpeur-python-pour-editeur-de-logiciels-libres-a-lille-ou-paris "Développeur python pour éditeur de logiciels libres à Lille ou Paris")
 * 2018/02/13 - [Wanted : ingénieur DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6063/wanted-ingenieur-devops-h-f-en-cdi-a-paris "Wanted : ingénieur DevOps (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/08 - [Développeur Back-End H/F (stage) en Stage à Nantes](http://www.pyjobs.fr/jobs/details/6020/developpeur-back-end-h-f-stage-en-stage-a-nantes "Développeur Back-End H/F (stage) en Stage à Nantes")
 * 2018/01/08 - [Full-Stack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6019/full-stack-web-developer-h-f-en-cdi-a-paris "Full-Stack Web Developer (H/F) en CDI à Paris")
 * 2018/01/08 - [Développeur rails et javascript (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6017/developpeur-rails-et-javascript-h-f-en-cdi-a-paris-14e-arrondissement "Développeur rails et javascript (H/F) en CDI à Paris-14E-Arrondissement")
-* 2018/01/04 - [Lead Mobile Software Engineer (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6016/lead-mobile-software-engineer-h-f-en-cdi-a-paris-55000-59000 "Lead Mobile Software Engineer (H/F) en CDI à Paris 55000-59000")
 

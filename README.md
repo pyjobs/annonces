@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/22 - [Ingénieur C embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6070/ingenieur-c-embarque-toulouse-h-f "Ingénieur C embarqué Toulouse (H/F)")
 * 2018/02/22 - [Ingénieur Linux embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6067/ingenieur-linux-embarque-toulouse-h-f "Ingénieur Linux embarqué Toulouse (H/F)")
 * 2018/02/21 - [Développeur Front / UX Junior en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6066/developpeur-front-ux-junior-en-cdi-a-paris-25000-34000 "Développeur Front / UX Junior en CDI à Paris 25000-34000")
 * 2018/02/21 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6065/stagiaire-developpeur-python "Stagiaire développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/08 - [Fullstack Engineer (Ruby on Rails) H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6018/fullstack-engineer-ruby-on-rails-h-f-en-cdi-35000-44000 "Fullstack Engineer (Ruby on Rails) H/F en CDI 35000-44000")
 * 2018/01/08 - [Développeur Python orienté Data H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6021/developpeur-python-oriente-data-h-f-en-cdi-a-paris-35000-44000 "Développeur Python orienté Data H/F en CDI à Paris 35000-44000")
 * 2018/01/08 - [Développeur Back-End H/F (stage) en Stage à Nantes](http://www.pyjobs.fr/jobs/details/6020/developpeur-back-end-h-f-stage-en-stage-a-nantes "Développeur Back-End H/F (stage) en Stage à Nantes")
-* 2018/01/08 - [Full-Stack Web Developer (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6019/full-stack-web-developer-h-f-en-cdi-a-paris "Full-Stack Web Developer (H/F) en CDI à Paris")
 

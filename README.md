@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/26 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6072/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2018/02/22 - [AdminSys / DevOps - H/F en Stage en Stage](http://www.pyjobs.fr/jobs/details/6071/adminsys-devops-h-f-en-stage-en-stage "AdminSys / DevOps - H/F en Stage en Stage")
 * 2018/02/22 - [Expert C++ Paris (H/F)](http://www.pyjobs.fr/jobs/details/6068/expert-c-paris-h-f "Expert C++ Paris (H/F)")
 * 2018/02/22 - [Ingénieur développement embarqué et intégration logicielle Paris (H/F)](http://www.pyjobs.fr/jobs/details/6069/ingenieur-developpement-embarque-et-integration-logicielle-paris-h-f "Ingénieur développement embarqué et intégration logicielle Paris (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/11 - [Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6025/java-scala-software-engineer-h-f-en-cdi-a-paris-45000-54000 "Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/01/09 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6024/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/01/09 - [Full-stack developer en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6022/full-stack-developer-en-cdi-25000-34000 "Full-stack developer en CDI 25000-34000")
-* 2018/01/09 - [Développeur React.JS orienté UX/UI (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6023/developpeur-react-js-oriente-ux-ui-h-f-en-cdi-a-paris-45000-54000 "Développeur React.JS orienté UX/UI (H/F) en CDI à Paris 45000-54000")
 

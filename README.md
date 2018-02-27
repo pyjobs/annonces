@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/27 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6073/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/02/27 - [Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/6074/recrutement-dev-python-django-en-cdi-a-villeurbanne-35000-44000 "Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000")
 * 2018/02/26 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6072/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2018/02/22 - [AdminSys / DevOps - H/F en Stage en Stage](http://www.pyjobs.fr/jobs/details/6071/adminsys-devops-h-f-en-stage-en-stage "AdminSys / DevOps - H/F en Stage en Stage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/16 - [Growth Engineer / Front-end developer en CDI à Paris](http://www.pyjobs.fr/jobs/details/6027/growth-engineer-front-end-developer-en-cdi-a-paris "Growth Engineer / Front-end developer en CDI à Paris")
 * 2018/01/16 - [Stage ingénieur développemen Full Stack (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6026/stage-ingenieur-developpemen-full-stack-h-f-en-stage-a-paris "Stage ingénieur développemen Full Stack (H/F) en Stage à Paris")
 * 2018/01/11 - [Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6025/java-scala-software-engineer-h-f-en-cdi-a-paris-45000-54000 "Java/Scala Software Engineer (H/F) en CDI à Paris 45000-54000")
-* 2018/01/09 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6024/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 

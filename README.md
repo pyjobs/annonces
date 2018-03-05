@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/05 - [Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6080/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000")
 * 2018/03/05 - [CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan](http://www.pyjobs.fr/jobs/details/6081/concepteur-developpeur-applications-h-f-en-cdi-a-perpignan "CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan")
 * 2018/03/02 - [Ingénieur Système fan d’Open Source (H/F) en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/6079/ingenieur-systeme-fan-dopen-source-h-f-en-cdi-a-suresnes "Ingénieur Système fan d’Open Source (H/F) en CDI à Suresnes")
 * 2018/03/01 - [Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/6078/developpeur-se-python-django-en-startup-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/19 - [DevOps Python (H/F) en CDD à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6035/devops-python-h-f-en-cdd-a-paris-35000-44000 "DevOps Python (H/F) en CDD à Paris 35000-44000")
 * 2018/01/19 - [Lead DevOps en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6034/lead-devops-en-cdi-a-paris-60000-69000 "Lead DevOps en CDI à Paris 60000-69000")
 * 2018/01/19 - [DevOps Cloud pour de la vidéo en temps réel](http://www.pyjobs.fr/jobs/details/6032/devops-cloud-pour-de-la-video-en-temps-reel "DevOps Cloud pour de la vidéo en temps réel")
-* 2018/01/18 - [Scrum Master & Développeur(se)  à Nantes en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6031/scrum-master-developpeur-se-a-nantes-en-cdi-a-nantes-35000-44000 "Scrum Master & Développeur(se)  à Nantes en CDI à Nantes 35000-44000")
 

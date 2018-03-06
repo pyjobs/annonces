@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/06 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6083/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 * 2018/03/05 - [Ingénieur système linux/DevOps](http://www.pyjobs.fr/jobs/details/6082/ingenieur-systeme-linux-devops "Ingénieur système linux/DevOps")
 * 2018/03/05 - [Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6080/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000")
 * 2018/03/05 - [CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan](http://www.pyjobs.fr/jobs/details/6081/concepteur-developpeur-applications-h-f-en-cdi-a-perpignan "CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/19 - [Senior SW Developer en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6036/senior-sw-developer-en-cdi-35000-44000 "Senior SW Developer en CDI 35000-44000")
 * 2018/01/19 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6033/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/01/19 - [DevOps Python (H/F) en CDD à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6035/devops-python-h-f-en-cdd-a-paris-35000-44000 "DevOps Python (H/F) en CDD à Paris 35000-44000")
-* 2018/01/19 - [Lead DevOps en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6034/lead-devops-en-cdi-a-paris-60000-69000 "Lead DevOps en CDI à Paris 60000-69000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/08 - [Ingénieur Systèmes et Réseaux Linux à Nantes](http://www.pyjobs.fr/jobs/details/6085/ingenieur-systemes-et-reseaux-linux-a-nantes "Ingénieur Systèmes et Réseaux Linux à Nantes")
 * 2018/03/08 - [Back-end developer - H/F en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6084/back-end-developer-h-f-en-cdi-a-lyon-45000-54000 "Back-end developer - H/F en CDI à Lyon 45000-54000")
 * 2018/03/06 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6083/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 * 2018/03/05 - [Ingénieur système linux/DevOps](http://www.pyjobs.fr/jobs/details/6082/ingenieur-systeme-linux-devops "Ingénieur système linux/DevOps")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/22 - [Développeur Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6039/developpeur-python-en-cdi-a-paris-45000-54000 "Développeur Python en CDI à Paris 45000-54000")
 * 2018/01/21 - [Dév PHP/WD/Maria à Crêches sur Saône](http://www.pyjobs.fr/jobs/details/6037/dev-php-wd-maria-a-creches-sur-saone "Dév PHP/WD/Maria à Crêches sur Saône")
 * 2018/01/19 - [Senior SW Developer en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6036/senior-sw-developer-en-cdi-35000-44000 "Senior SW Developer en CDI 35000-44000")
-* 2018/01/19 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6033/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 

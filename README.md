@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/09 - [Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6088/lead-tech-backend-h-f-node-js-en-cdi-a-paris-60000-69000 "Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000")
 * 2018/03/09 - [Lead Tech Frontend en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6087/lead-tech-frontend-en-cdi-a-paris-60000-69000 "Lead Tech Frontend en CDI à Paris 60000-69000")
 * 2018/03/08 - [Devops / Architecte CLOUD - Excellence Tech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6086/devops-architecte-cloud-excellence-tech-en-cdi-60000-69000 "Devops / Architecte CLOUD - Excellence Tech en CDI 60000-69000")
 * 2018/03/08 - [Ingénieur Systèmes et Réseaux Linux à Nantes](http://www.pyjobs.fr/jobs/details/6085/ingenieur-systemes-et-reseaux-linux-a-nantes "Ingénieur Systèmes et Réseaux Linux à Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/23 - [CTO - Dev back-end (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6041/cto-dev-back-end-h-f-en-cdi "CTO - Dev back-end (H/F) en CDI")
 * 2018/01/23 - [Image Analysis Scientist en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6040/image-analysis-scientist-en-cdi-a-marseille-35000-44000 "Image Analysis Scientist en CDI à Marseille 35000-44000")
 * 2018/01/22 - [Développeur Junior Python en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6038/developpeur-junior-python-en-cdi-a-paris-35000-44000 "Développeur Junior Python en CDI à Paris 35000-44000")
-* 2018/01/22 - [Développeur Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6039/developpeur-python-en-cdi-a-paris-45000-54000 "Développeur Python en CDI à Paris 45000-54000")
 

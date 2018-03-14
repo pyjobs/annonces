@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/14 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6090/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
 * 2018/03/13 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6089/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/03/09 - [Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6088/lead-tech-backend-h-f-node-js-en-cdi-a-paris-60000-69000 "Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000")
 * 2018/03/09 - [Lead Tech Frontend en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6087/lead-tech-frontend-en-cdi-a-paris-60000-69000 "Lead Tech Frontend en CDI à Paris 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/25 - [Ingénieur DevOps (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6042/ingenieur-devops-h-f-en-cdi-a-lille "Ingénieur DevOps (H/F) en CDI à Lille")
 * 2018/01/25 - [Leader Technique Réseaux - DevOps (H/F) en CDI à Puteaux](http://www.pyjobs.fr/jobs/details/6043/leader-technique-reseaux-devops-h-f-en-cdi-a-puteaux "Leader Technique Réseaux - DevOps (H/F) en CDI à Puteaux")
 * 2018/01/23 - [CTO - Dev back-end (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6041/cto-dev-back-end-h-f-en-cdi "CTO - Dev back-end (H/F) en CDI")
-* 2018/01/23 - [Image Analysis Scientist en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6040/image-analysis-scientist-en-cdi-a-marseille-35000-44000 "Image Analysis Scientist en CDI à Marseille 35000-44000")
 

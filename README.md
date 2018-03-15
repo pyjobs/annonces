@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/29 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6045/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/03/15 - [Développeur Python orienté Data H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6093/developpeur-python-oriente-data-h-f-en-cdi-35000-44000 "Développeur Python orienté Data H/F en CDI 35000-44000")
 * 2018/03/15 - [Admin LINUX / Lead opérationnel - 3D en CDI à Paris](http://www.pyjobs.fr/jobs/details/6094/admin-linux-lead-operationnel-3d-en-cdi-a-paris "Admin LINUX / Lead opérationnel - 3D en CDI à Paris")
 * 2018/03/15 - [Full Stack Developer (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6092/full-stack-developer-h-f-en-cdi-a-lyon-45000-54000 "Full Stack Developer (H/F) en CDI à Lyon 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/29 - [Suppression du gil en python](http://www.pyjobs.fr/jobs/details/6048/suppression-du-gil-en-python "Suppression du gil en python")
 * 2018/01/29 - [Scrum Master & Développeur(se) (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6047/scrum-master-developpeur-se-h-f-a-nantes "Scrum Master & Développeur(se) (H/F) à Nantes")
 * 2018/01/29 - [Ingénieur devops – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6046/ingenieur-devops-cdi-teletravail "Ingénieur devops – CDI (télétravail)")
-* 2018/01/29 - [Ingénieur Virtualisation et Stockage - CDI](http://www.pyjobs.fr/jobs/details/6044/ingenieur-virtualisation-et-stockage-cdi "Ingénieur Virtualisation et Stockage - CDI")
 

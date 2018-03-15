@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/29 - [Ingénieur devops – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6046/ingenieur-devops-cdi-teletravail "Ingénieur devops – CDI (télétravail)")
 * 2018/01/29 - [Ingénieur Virtualisation et Stockage - CDI](http://www.pyjobs.fr/jobs/details/6044/ingenieur-virtualisation-et-stockage-cdi "Ingénieur Virtualisation et Stockage - CDI")
 * 2018/01/29 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6045/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/03/15 - [Développeur Python orienté Data H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6093/developpeur-python-oriente-data-h-f-en-cdi-35000-44000 "Développeur Python orienté Data H/F en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/01/31 - [Administrateur Système Linux/ Devops (F/H) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6050/administrateur-systeme-linux-devops-f-h-en-cdi-a-paris "Administrateur Système Linux/ Devops (F/H) en CDI à Paris")
 * 2018/01/30 - [Administrateur Système DevOps (H/F) en CDI à Bereldange 25000-34000](http://www.pyjobs.fr/jobs/details/6049/administrateur-systeme-devops-h-f-en-cdi-a-bereldange-25000-34000 "Administrateur Système DevOps (H/F) en CDI à Bereldange 25000-34000")
 * 2018/01/29 - [Suppression du gil en python](http://www.pyjobs.fr/jobs/details/6048/suppression-du-gil-en-python "Suppression du gil en python")
-* 2018/01/29 - [Scrum Master & Développeur(se) (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6047/scrum-master-developpeur-se-h-f-a-nantes "Scrum Master & Développeur(se) (H/F) à Nantes")
 

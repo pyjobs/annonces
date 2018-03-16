@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/05 - [Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6053/data-scientist-h-f-en-cdi-a-paris "Data Scientist (H/F) en CDI à Paris")
 * 2018/02/05 - [Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6052/developpeur-go-h-f-100-teletravail-en-cdi-a-paris-55000-59000 "Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000")
 * 2018/02/01 - [Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6051/developpeur-mobile-react-native-h-f-paris-en-cdi-a-paris-45000-54000 "Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000")
 * 2018/01/31 - [Administrateur Système Linux/ Devops (F/H) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6050/administrateur-systeme-linux-devops-f-h-en-cdi-a-paris "Administrateur Système Linux/ Devops (F/H) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6060/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/12 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6059/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/02/12 - [Développeur python fullstack](http://www.pyjobs.fr/jobs/details/6058/developpeur-python-fullstack "Développeur python fullstack")
-* 2018/02/12 - [DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6057/dev-python-php-experimente-en-teletravail-en-cdi-a-paris-35000-44000 "DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000")
 

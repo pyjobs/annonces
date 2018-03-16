@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/05 - [Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6080/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000")
 * 2018/03/05 - [CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan](http://www.pyjobs.fr/jobs/details/6081/concepteur-developpeur-applications-h-f-en-cdi-a-perpignan "CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan")
 * 2018/03/02 - [Ingénieur Système fan d’Open Source (H/F) en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/6079/ingenieur-systeme-fan-dopen-source-h-f-en-cdi-a-suresnes "Ingénieur Système fan d’Open Source (H/F) en CDI à Suresnes")
 * 2018/03/01 - [Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/6078/developpeur-se-python-django-en-startup-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/09 - [Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6088/lead-tech-backend-h-f-node-js-en-cdi-a-paris-60000-69000 "Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000")
 * 2018/03/09 - [Lead Tech Frontend en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6087/lead-tech-frontend-en-cdi-a-paris-60000-69000 "Lead Tech Frontend en CDI à Paris 60000-69000")
 * 2018/03/08 - [Devops / Architecte CLOUD - Excellence Tech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6086/devops-architecte-cloud-excellence-tech-en-cdi-60000-69000 "Devops / Architecte CLOUD - Excellence Tech en CDI 60000-69000")
-* 2018/03/08 - [Ingénieur Systèmes et Réseaux Linux à Nantes](http://www.pyjobs.fr/jobs/details/6085/ingenieur-systemes-et-reseaux-linux-a-nantes "Ingénieur Systèmes et Réseaux Linux à Nantes")
 

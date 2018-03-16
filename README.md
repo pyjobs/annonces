@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/12 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6059/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/02/12 - [Développeur python fullstack](http://www.pyjobs.fr/jobs/details/6058/developpeur-python-fullstack "Développeur python fullstack")
 * 2018/02/12 - [DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6057/dev-python-php-experimente-en-teletravail-en-cdi-a-paris-35000-44000 "DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000")
 * 2018/02/10 - [Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6056/developpeur-web-full-stack-symfony-3-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/21 - [Développeur Front / UX Junior en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6066/developpeur-front-ux-junior-en-cdi-a-paris-25000-34000 "Développeur Front / UX Junior en CDI à Paris 25000-34000")
 * 2018/02/21 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6065/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/20 - [Développeur python pour éditeur de logiciels libres à Lille ou Paris](http://www.pyjobs.fr/jobs/details/6064/developpeur-python-pour-editeur-de-logiciels-libres-a-lille-ou-paris "Développeur python pour éditeur de logiciels libres à Lille ou Paris")
-* 2018/02/13 - [Wanted : ingénieur DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6063/wanted-ingenieur-devops-h-f-en-cdi-a-paris "Wanted : ingénieur DevOps (H/F) en CDI à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/15 - [Full Stack Developer (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6092/full-stack-developer-h-f-en-cdi-a-lyon-45000-54000 "Full Stack Developer (H/F) en CDI à Lyon 45000-54000")
 * 2018/03/14 - [Développeur full-stack JS (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6091/developpeur-full-stack-js-h-f-en-stage-a-paris "Développeur full-stack JS (H/F) en Stage à Paris")
 * 2018/03/14 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6090/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
 * 2018/03/13 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6089/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/16 - [Développeur web back-end Python (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/6096/developpeur-web-back-end-python-h-f-en-cdi-a-marseille "Développeur web back-end Python (H/F) en CDI à Marseille")
 * 2018/01/29 - [Scrum Master & Développeur(se) (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6047/scrum-master-developpeur-se-h-f-a-nantes "Scrum Master & Développeur(se) (H/F) à Nantes")
 * 2018/01/29 - [Ingénieur devops – CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6046/ingenieur-devops-cdi-teletravail "Ingénieur devops – CDI (télétravail)")
-* 2018/01/29 - [Ingénieur Virtualisation et Stockage - CDI](http://www.pyjobs.fr/jobs/details/6044/ingenieur-virtualisation-et-stockage-cdi "Ingénieur Virtualisation et Stockage - CDI")
 

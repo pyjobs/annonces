@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/01 - [Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/6078/developpeur-se-python-django-en-startup-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
 * 2018/03/01 - [Directeur Technique Open Source H/F](http://www.pyjobs.fr/jobs/details/6077/directeur-technique-open-source-h-f "Directeur Technique Open Source H/F")
 * 2018/03/01 - [Architecte Java Senior H/F](http://www.pyjobs.fr/jobs/details/6076/architecte-java-senior-h-f "Architecte Java Senior H/F")
 * 2018/03/01 - [Spécialiste Iaas/Openstack/Docker H/F](http://www.pyjobs.fr/jobs/details/6075/specialiste-iaas-openstack-docker-h-f "Spécialiste Iaas/Openstack/Docker H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/08 - [Ingénieur Systèmes et Réseaux Linux à Nantes](http://www.pyjobs.fr/jobs/details/6085/ingenieur-systemes-et-reseaux-linux-a-nantes "Ingénieur Systèmes et Réseaux Linux à Nantes")
 * 2018/03/08 - [Back-end developer - H/F en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6084/back-end-developer-h-f-en-cdi-a-lyon-45000-54000 "Back-end developer - H/F en CDI à Lyon 45000-54000")
 * 2018/03/06 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6083/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
-* 2018/03/05 - [Ingénieur système linux/DevOps](http://www.pyjobs.fr/jobs/details/6082/ingenieur-systeme-linux-devops "Ingénieur système linux/DevOps")
 

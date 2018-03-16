@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/01 - [Architecte Java Senior H/F](http://www.pyjobs.fr/jobs/details/6076/architecte-java-senior-h-f "Architecte Java Senior H/F")
 * 2018/03/01 - [Spécialiste Iaas/Openstack/Docker H/F](http://www.pyjobs.fr/jobs/details/6075/specialiste-iaas-openstack-docker-h-f "Spécialiste Iaas/Openstack/Docker H/F")
 * 2018/02/27 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6073/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/02/27 - [Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/6074/recrutement-dev-python-django-en-cdi-a-villeurbanne-35000-44000 "Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/06 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6083/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 * 2018/03/05 - [Ingénieur système linux/DevOps](http://www.pyjobs.fr/jobs/details/6082/ingenieur-systeme-linux-devops "Ingénieur système linux/DevOps")
 * 2018/03/05 - [Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6080/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000")
-* 2018/03/05 - [CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan](http://www.pyjobs.fr/jobs/details/6081/concepteur-developpeur-applications-h-f-en-cdi-a-perpignan "CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan")
 

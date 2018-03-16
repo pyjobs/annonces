@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6061/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6060/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/12 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6059/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/02/12 - [Développeur python fullstack](http://www.pyjobs.fr/jobs/details/6058/developpeur-python-fullstack "Développeur python fullstack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/22 - [Ingénieur C embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6070/ingenieur-c-embarque-toulouse-h-f "Ingénieur C embarqué Toulouse (H/F)")
 * 2018/02/22 - [Ingénieur Linux embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6067/ingenieur-linux-embarque-toulouse-h-f "Ingénieur Linux embarqué Toulouse (H/F)")
 * 2018/02/21 - [Développeur Front / UX Junior en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6066/developpeur-front-ux-junior-en-cdi-a-paris-25000-34000 "Développeur Front / UX Junior en CDI à Paris 25000-34000")
-* 2018/02/21 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6065/stagiaire-developpeur-python "Stagiaire développeur python")
 

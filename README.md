@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/22 - [Expert C++ Paris (H/F)](http://www.pyjobs.fr/jobs/details/6068/expert-c-paris-h-f "Expert C++ Paris (H/F)")
 * 2018/02/22 - [Ingénieur développement embarqué et intégration logicielle Paris (H/F)](http://www.pyjobs.fr/jobs/details/6069/ingenieur-developpement-embarque-et-integration-logicielle-paris-h-f "Ingénieur développement embarqué et intégration logicielle Paris (H/F)")
 * 2018/02/22 - [Ingénieur C embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6070/ingenieur-c-embarque-toulouse-h-f "Ingénieur C embarqué Toulouse (H/F)")
 * 2018/02/22 - [Ingénieur Linux embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6067/ingenieur-linux-embarque-toulouse-h-f "Ingénieur Linux embarqué Toulouse (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/01 - [Directeur Technique Open Source H/F](http://www.pyjobs.fr/jobs/details/6077/directeur-technique-open-source-h-f "Directeur Technique Open Source H/F")
 * 2018/03/01 - [Architecte Java Senior H/F](http://www.pyjobs.fr/jobs/details/6076/architecte-java-senior-h-f "Architecte Java Senior H/F")
 * 2018/03/01 - [Spécialiste Iaas/Openstack/Docker H/F](http://www.pyjobs.fr/jobs/details/6075/specialiste-iaas-openstack-docker-h-f "Spécialiste Iaas/Openstack/Docker H/F")
-* 2018/02/27 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6073/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 

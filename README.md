@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/22 - [Ingénieur Linux embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6067/ingenieur-linux-embarque-toulouse-h-f "Ingénieur Linux embarqué Toulouse (H/F)")
 * 2018/02/21 - [Développeur Front / UX Junior en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6066/developpeur-front-ux-junior-en-cdi-a-paris-25000-34000 "Développeur Front / UX Junior en CDI à Paris 25000-34000")
 * 2018/02/21 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6065/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/20 - [Développeur python pour éditeur de logiciels libres à Lille ou Paris](http://www.pyjobs.fr/jobs/details/6064/developpeur-python-pour-editeur-de-logiciels-libres-a-lille-ou-paris "Développeur python pour éditeur de logiciels libres à Lille ou Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/27 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6073/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/02/27 - [Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/6074/recrutement-dev-python-django-en-cdi-a-villeurbanne-35000-44000 "Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000")
 * 2018/02/26 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6072/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
-* 2018/02/22 - [AdminSys / DevOps - H/F en Stage en Stage](http://www.pyjobs.fr/jobs/details/6071/adminsys-devops-h-f-en-stage-en-stage "AdminSys / DevOps - H/F en Stage en Stage")
 

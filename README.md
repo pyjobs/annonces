@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/08 - [Back-end developer - H/F en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6084/back-end-developer-h-f-en-cdi-a-lyon-45000-54000 "Back-end developer - H/F en CDI à Lyon 45000-54000")
 * 2018/03/06 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6083/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 * 2018/03/05 - [Ingénieur système linux/DevOps](http://www.pyjobs.fr/jobs/details/6082/ingenieur-systeme-linux-devops "Ingénieur système linux/DevOps")
 * 2018/03/05 - [Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6080/developpeur-full-stack-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Full-stack Python (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/14 - [Développeur full-stack JS (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6091/developpeur-full-stack-js-h-f-en-stage-a-paris "Développeur full-stack JS (H/F) en Stage à Paris")
 * 2018/03/14 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6090/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
 * 2018/03/13 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6089/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
-* 2018/03/09 - [Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6088/lead-tech-backend-h-f-node-js-en-cdi-a-paris-60000-69000 "Lead Tech Backend H/F #Node.js en CDI à Paris 60000-69000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/01/31 - [Administrateur Système Linux/ Devops (F/H) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6050/administrateur-systeme-linux-devops-f-h-en-cdi-a-paris "Administrateur Système Linux/ Devops (F/H) en CDI à Paris")
 * 2018/03/16 - [Lead e- DevOps en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6095/lead-e-devops-en-cdi-55000-59000 "Lead e- DevOps en CDI 55000-59000")
 * 2018/03/16 - [Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6099/ingenieur-production-site-reliability-eng-en-cdi-45000-54000 "Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000")
 * 2018/03/16 - [Devops (H/F) en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6098/devops-h-f-en-cdi-a-marseille-35000-44000 "Devops (H/F) en CDI à Marseille 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/12 - [DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6057/dev-python-php-experimente-en-teletravail-en-cdi-a-paris-35000-44000 "DEV Python/PHP expérimenté en Télétravail en CDI à Paris 35000-44000")
 * 2018/02/10 - [Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6056/developpeur-web-full-stack-symfony-3-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000")
 * 2018/02/09 - [Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000](http://www.pyjobs.fr/jobs/details/6055/developpeur-polyvalent-et-curieux-h-f-en-cdi-a-monaco-35000-44000 "Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000")
-* 2018/02/08 - [Admin Linux Securite (CISSP) - Paris](http://www.pyjobs.fr/jobs/details/6054/admin-linux-securite-cissp-paris "Admin Linux Securite (CISSP) - Paris")
 

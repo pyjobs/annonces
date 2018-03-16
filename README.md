@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/09 - [Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000](http://www.pyjobs.fr/jobs/details/6055/developpeur-polyvalent-et-curieux-h-f-en-cdi-a-monaco-35000-44000 "Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000")
 * 2018/02/08 - [Admin Linux Securite (CISSP) - Paris](http://www.pyjobs.fr/jobs/details/6054/admin-linux-securite-cissp-paris "Admin Linux Securite (CISSP) - Paris")
 * 2018/02/05 - [Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6053/data-scientist-h-f-en-cdi-a-paris "Data Scientist (H/F) en CDI à Paris")
 * 2018/02/05 - [Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6052/developpeur-go-h-f-100-teletravail-en-cdi-a-paris-55000-59000 "Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/13 - [Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis](http://www.pyjobs.fr/jobs/details/6062/administrateur-systemes-et-reseaux-pour-la-dsi-de-luniversite-paris-8-a-saint-denis "Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis")
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6061/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6060/stagiaire-developpeur-python "Stagiaire développeur python")
-* 2018/02/12 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6059/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 

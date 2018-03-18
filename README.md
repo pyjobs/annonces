@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/16 - [Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6099/ingenieur-production-site-reliability-eng-en-cdi-45000-54000 "Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000")
 * 2018/03/16 - [Devops (H/F) en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6098/devops-h-f-en-cdi-a-marseille-35000-44000 "Devops (H/F) en CDI à Marseille 35000-44000")
 * 2018/03/16 - [Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6097/integrateur-web-front-end-angularjs-cdi-h-f-en-cdi-a-marseille-35000-44000 "Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000")
 * 2018/03/16 - [Développeur web back-end Python (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/6096/developpeur-web-back-end-python-h-f-en-cdi-a-marseille "Développeur web back-end Python (H/F) en CDI à Marseille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/05 - [Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6053/data-scientist-h-f-en-cdi-a-paris "Data Scientist (H/F) en CDI à Paris")
 * 2018/02/05 - [Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6052/developpeur-go-h-f-100-teletravail-en-cdi-a-paris-55000-59000 "Développeur Go H/F 100% télétravail en CDI à Paris 55000-59000")
 * 2018/02/01 - [Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6051/developpeur-mobile-react-native-h-f-paris-en-cdi-a-paris-45000-54000 "Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000")
-* 2018/01/31 - [Administrateur Système Linux/ Devops (F/H) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6050/administrateur-systeme-linux-devops-f-h-en-cdi-a-paris "Administrateur Système Linux/ Devops (F/H) en CDI à Paris")
 

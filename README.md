@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/16 - [Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6097/integrateur-web-front-end-angularjs-cdi-h-f-en-cdi-a-marseille-35000-44000 "Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000")
 * 2018/03/16 - [Développeur web back-end Python (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/6096/developpeur-web-back-end-python-h-f-en-cdi-a-marseille "Développeur web back-end Python (H/F) en CDI à Marseille")
 * 2018/03/18 - [Développeur Python confirmé (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6100/developpeur-python-confirme-h-f-en-cdi-45000-54000 "Développeur Python confirmé (H/F) en CDI 45000-54000")
 * 2018/03/18 - [Dev/Archi web Python sénior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6101/dev-archi-web-python-senior-h-f-en-cdi-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/01 - [Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6051/developpeur-mobile-react-native-h-f-paris-en-cdi-a-paris-45000-54000 "Développeur Mobile React Native (H/F - Paris) en CDI à Paris 45000-54000")
 * 2018/01/31 - [Administrateur Système Linux/ Devops (F/H) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6050/administrateur-systeme-linux-devops-f-h-en-cdi-a-paris "Administrateur Système Linux/ Devops (F/H) en CDI à Paris")
 * 2018/03/16 - [Lead e- DevOps en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6095/lead-e-devops-en-cdi-55000-59000 "Lead e- DevOps en CDI 55000-59000")
-* 2018/03/16 - [Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6099/ingenieur-production-site-reliability-eng-en-cdi-45000-54000 "Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000")
 

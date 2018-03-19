@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/19 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6103/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2018/03/19 - [Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6102/developpeur-h-f-full-stack-python-en-cdi-a-paris-45000-54000 "Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000")
 * 2018/03/16 - [Lead e- DevOps en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6095/lead-e-devops-en-cdi-55000-59000 "Lead e- DevOps en CDI 55000-59000")
 * 2018/03/16 - [Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6099/ingenieur-production-site-reliability-eng-en-cdi-45000-54000 "Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/10 - [Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6056/developpeur-web-full-stack-symfony-3-h-f-en-cdi-a-saint-etienne-25000-34000 "Développeur web full stack - symfony 3 (H/F) en CDI à Saint-Étienne 25000-34000")
 * 2018/02/09 - [Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000](http://www.pyjobs.fr/jobs/details/6055/developpeur-polyvalent-et-curieux-h-f-en-cdi-a-monaco-35000-44000 "Développeur polyvalent et curieux (H/F) en CDI à Monaco 35000-44000")
 * 2018/02/08 - [Admin Linux Securite (CISSP) - Paris](http://www.pyjobs.fr/jobs/details/6054/admin-linux-securite-cissp-paris "Admin Linux Securite (CISSP) - Paris")
-* 2018/02/05 - [Data Scientist (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6053/data-scientist-h-f-en-cdi-a-paris "Data Scientist (H/F) en CDI à Paris")
 

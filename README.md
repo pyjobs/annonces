@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/02/21 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6065/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/20 - [Développeur python pour éditeur de logiciels libres à Lille ou Paris](http://www.pyjobs.fr/jobs/details/6064/developpeur-python-pour-editeur-de-logiciels-libres-a-lille-ou-paris "Développeur python pour éditeur de logiciels libres à Lille ou Paris")
 * 2018/02/13 - [Wanted : ingénieur DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6063/wanted-ingenieur-devops-h-f-en-cdi-a-paris "Wanted : ingénieur DevOps (H/F) en CDI à Paris")
 * 2018/02/13 - [Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis](http://www.pyjobs.fr/jobs/details/6062/administrateur-systemes-et-reseaux-pour-la-dsi-de-luniversite-paris-8-a-saint-denis "Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/22 - [Ingénieur développement embarqué et intégration logicielle Paris (H/F)](http://www.pyjobs.fr/jobs/details/6069/ingenieur-developpement-embarque-et-integration-logicielle-paris-h-f "Ingénieur développement embarqué et intégration logicielle Paris (H/F)")
 * 2018/02/22 - [Ingénieur C embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6070/ingenieur-c-embarque-toulouse-h-f "Ingénieur C embarqué Toulouse (H/F)")
 * 2018/02/22 - [Ingénieur Linux embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6067/ingenieur-linux-embarque-toulouse-h-f "Ingénieur Linux embarqué Toulouse (H/F)")
-* 2018/02/21 - [Développeur Front / UX Junior en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6066/developpeur-front-ux-junior-en-cdi-a-paris-25000-34000 "Développeur Front / UX Junior en CDI à Paris 25000-34000")
 

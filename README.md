@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/23 - [ADMINSYS Linux FACTORFX GRANVILLE](http://www.pyjobs.fr/jobs/details/6109/adminsys-linux-factorfx-granville "ADMINSYS Linux FACTORFX GRANVILLE")
 * 2018/03/16 - [Devops (H/F) en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6098/devops-h-f-en-cdi-a-marseille-35000-44000 "Devops (H/F) en CDI à Marseille 35000-44000")
 * 2018/03/16 - [Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6097/integrateur-web-front-end-angularjs-cdi-h-f-en-cdi-a-marseille-35000-44000 "Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000")
 * 2018/03/16 - [Développeur web back-end Python (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/6096/developpeur-web-back-end-python-h-f-en-cdi-a-marseille "Développeur web back-end Python (H/F) en CDI à Marseille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/20 - [Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000](http://www.pyjobs.fr/jobs/details/6104/software-engineer-h-f-en-cdi-a-tassin-la-demi-lune-45000-54000 "Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000")
 * 2018/03/19 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6103/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2018/03/19 - [Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6102/developpeur-h-f-full-stack-python-en-cdi-a-paris-45000-54000 "Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000")
-* 2018/03/16 - [Lead e- DevOps en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6095/lead-e-devops-en-cdi-55000-59000 "Lead e- DevOps en CDI 55000-59000")
 

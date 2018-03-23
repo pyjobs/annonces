@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/23 - [Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)](http://www.pyjobs.fr/jobs/details/6110/administrateur-systeme-linux-devops-h-f-nantes-teletravail "Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)")
 * 2018/03/21 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6108/developpeur-python-django "Développeur python / django")
 * 2018/03/21 - [Dev fullstack python + js (h/f) pou](http://www.pyjobs.fr/jobs/details/6106/dev-fullstack-python-js-h-f-pou "Dev fullstack python + js (h/f) pou")
 * 2018/03/21 - [Développeur python](http://www.pyjobs.fr/jobs/details/6107/developpeur-python "Développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/13 - [Wanted : ingénieur DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6063/wanted-ingenieur-devops-h-f-en-cdi-a-paris "Wanted : ingénieur DevOps (H/F) en CDI à Paris")
 * 2018/02/13 - [Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis](http://www.pyjobs.fr/jobs/details/6062/administrateur-systemes-et-reseaux-pour-la-dsi-de-luniversite-paris-8-a-saint-denis "Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis")
 * 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6061/stagiaire-developpeur-python "Stagiaire développeur python")
-* 2018/02/13 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6060/stagiaire-developpeur-python "Stagiaire développeur python")
 

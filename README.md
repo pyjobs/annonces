@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/26 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6111/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
 * 2018/03/26 - [Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6112/administrateur-systeme-linux-devops-h-f-en-cdi-25000-34000 "Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000")
 * 2018/03/23 - [Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)](http://www.pyjobs.fr/jobs/details/6110/administrateur-systeme-linux-devops-h-f-nantes-teletravail "Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)")
 * 2018/03/21 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6108/developpeur-python-django "Développeur python / django")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/21 - [Stagiaire développeur python](http://www.pyjobs.fr/jobs/details/6065/stagiaire-developpeur-python "Stagiaire développeur python")
 * 2018/02/20 - [Développeur python pour éditeur de logiciels libres à Lille ou Paris](http://www.pyjobs.fr/jobs/details/6064/developpeur-python-pour-editeur-de-logiciels-libres-a-lille-ou-paris "Développeur python pour éditeur de logiciels libres à Lille ou Paris")
 * 2018/02/13 - [Wanted : ingénieur DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6063/wanted-ingenieur-devops-h-f-en-cdi-a-paris "Wanted : ingénieur DevOps (H/F) en CDI à Paris")
-* 2018/02/13 - [Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis](http://www.pyjobs.fr/jobs/details/6062/administrateur-systemes-et-reseaux-pour-la-dsi-de-luniversite-paris-8-a-saint-denis "Administrateur systèmes et réseaux pour la DSI de l'université Paris 8 à Saint-Denis")
 

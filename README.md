@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/04 - [Développeur informatique en CDI à Les Ulis 35000-44000](http://www.pyjobs.fr/jobs/details/6118/developpeur-informatique-en-cdi-a-les-ulis-35000-44000 "Développeur informatique en CDI à Les Ulis 35000-44000")
 * 2018/03/28 - [Développeur ReactJS dans l'Open Education en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6117/developpeur-reactjs-dans-lopen-education-en-cdi-45000-54000 "Développeur ReactJS dans l'Open Education en CDI 45000-54000")
 * 2018/03/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/6116/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2018/03/27 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6115/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/02/22 - [AdminSys / DevOps - H/F en Stage en Stage](http://www.pyjobs.fr/jobs/details/6071/adminsys-devops-h-f-en-stage-en-stage "AdminSys / DevOps - H/F en Stage en Stage")
 * 2018/02/22 - [Expert C++ Paris (H/F)](http://www.pyjobs.fr/jobs/details/6068/expert-c-paris-h-f "Expert C++ Paris (H/F)")
 * 2018/02/22 - [Ingénieur développement embarqué et intégration logicielle Paris (H/F)](http://www.pyjobs.fr/jobs/details/6069/ingenieur-developpement-embarque-et-integration-logicielle-paris-h-f "Ingénieur développement embarqué et intégration logicielle Paris (H/F)")
-* 2018/02/22 - [Ingénieur C embarqué Toulouse (H/F)](http://www.pyjobs.fr/jobs/details/6070/ingenieur-c-embarque-toulouse-h-f "Ingénieur C embarqué Toulouse (H/F)")
 

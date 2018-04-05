@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/05 - [Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6119/administrateur-systeme-2-0-h-f-en-cdi-a-paris-35000-44000 "Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000")
 * 2018/04/05 - [Stage Développeur Web H/F en Stage à Paris](http://www.pyjobs.fr/jobs/details/6122/stage-developpeur-web-h-f-en-stage-a-paris "Stage Développeur Web H/F en Stage à Paris")
 * 2018/04/05 - [Ingénieur Android H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6121/ingenieur-android-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Android H/F en CDI à Paris 35000-44000")
 * 2018/04/05 - [Développeur Mobile en CDI à Marseille 25000-34000](http://www.pyjobs.fr/jobs/details/6120/developpeur-mobile-en-cdi-a-marseille-25000-34000 "Développeur Mobile en CDI à Marseille 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/01 - [Spécialiste Iaas/Openstack/Docker H/F](http://www.pyjobs.fr/jobs/details/6075/specialiste-iaas-openstack-docker-h-f "Spécialiste Iaas/Openstack/Docker H/F")
 * 2018/02/27 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6073/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/02/27 - [Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000](http://www.pyjobs.fr/jobs/details/6074/recrutement-dev-python-django-en-cdi-a-villeurbanne-35000-44000 "Recrutement Dev Python / Django en CDI à Villeurbanne 35000-44000")
-* 2018/02/26 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6072/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 

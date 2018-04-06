@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/06 - [Développeur python](http://www.pyjobs.fr/jobs/details/6124/developpeur-python "Développeur python")
 * 2018/04/06 - [Développeur python expérimenté](http://www.pyjobs.fr/jobs/details/6123/developpeur-python-experimente "Développeur python expérimenté")
 * 2018/04/05 - [Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6119/administrateur-systeme-2-0-h-f-en-cdi-a-paris-35000-44000 "Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000")
 * 2018/04/05 - [Stage Développeur Web H/F en Stage à Paris](http://www.pyjobs.fr/jobs/details/6122/stage-developpeur-web-h-f-en-stage-a-paris "Stage Développeur Web H/F en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/01 - [Directeur Technique Open Source H/F](http://www.pyjobs.fr/jobs/details/6077/directeur-technique-open-source-h-f "Directeur Technique Open Source H/F")
 * 2018/03/01 - [Architecte Java Senior H/F](http://www.pyjobs.fr/jobs/details/6076/architecte-java-senior-h-f "Architecte Java Senior H/F")
 * 2018/03/01 - [Spécialiste Iaas/Openstack/Docker H/F](http://www.pyjobs.fr/jobs/details/6075/specialiste-iaas-openstack-docker-h-f "Spécialiste Iaas/Openstack/Docker H/F")
-* 2018/02/27 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6073/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 

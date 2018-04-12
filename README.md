@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/12 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6127/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/04/09 - [Développeur Ruby on Rails en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6126/developpeur-ruby-on-rails-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails en CDI à Paris 35000-44000")
 * 2018/04/06 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6125/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/04/06 - [Développeur python](http://www.pyjobs.fr/jobs/details/6124/developpeur-python "Développeur python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/05 - [CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan](http://www.pyjobs.fr/jobs/details/6081/concepteur-developpeur-applications-h-f-en-cdi-a-perpignan "CONCEPTEUR DÉVELOPPEUR APPLICATIONS (H/F) en CDI à Perpignan")
 * 2018/03/02 - [Ingénieur Système fan d’Open Source (H/F) en CDI à Suresnes](http://www.pyjobs.fr/jobs/details/6079/ingenieur-systeme-fan-dopen-source-h-f-en-cdi-a-suresnes "Ingénieur Système fan d’Open Source (H/F) en CDI à Suresnes")
 * 2018/03/01 - [Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000](http://www.pyjobs.fr/jobs/details/6078/developpeur-se-python-django-en-startup-h-f-en-cdi-a-paris-19e-arrondissement-35000-44000 "Développeur•se Python/Django en startup (H/F) en CDI à Paris-19E-Arrondissement 35000-44000")
-* 2018/03/01 - [Directeur Technique Open Source H/F](http://www.pyjobs.fr/jobs/details/6077/directeur-technique-open-source-h-f "Directeur Technique Open Source H/F")
 

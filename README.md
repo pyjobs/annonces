@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/15 - [Développeur Python orienté Data H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6093/developpeur-python-oriente-data-h-f-en-cdi-35000-44000 "Développeur Python orienté Data H/F en CDI 35000-44000")
 * 2018/03/15 - [Admin LINUX / Lead opérationnel - 3D en CDI à Paris](http://www.pyjobs.fr/jobs/details/6094/admin-linux-lead-operationnel-3d-en-cdi-a-paris "Admin LINUX / Lead opérationnel - 3D en CDI à Paris")
 * 2018/03/15 - [Full Stack Developer (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6092/full-stack-developer-h-f-en-cdi-a-lyon-45000-54000 "Full Stack Developer (H/F) en CDI à Lyon 45000-54000")
 * 2018/03/14 - [Développeur full-stack JS (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6091/developpeur-full-stack-js-h-f-en-stage-a-paris "Développeur full-stack JS (H/F) en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/16 - [Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6097/integrateur-web-front-end-angularjs-cdi-h-f-en-cdi-a-marseille-35000-44000 "Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000")
 * 2018/03/16 - [Développeur web back-end Python (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/6096/developpeur-web-back-end-python-h-f-en-cdi-a-marseille "Développeur web back-end Python (H/F) en CDI à Marseille")
 * 2018/03/18 - [Développeur Python confirmé (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6100/developpeur-python-confirme-h-f-en-cdi-45000-54000 "Développeur Python confirmé (H/F) en CDI 45000-54000")
-* 2018/03/18 - [Dev/Archi web Python sénior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6101/dev-archi-web-python-senior-h-f-en-cdi-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI 55000-59000")
 

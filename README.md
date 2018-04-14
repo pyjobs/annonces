@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/21 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6108/developpeur-python-django "Développeur python / django")
 * 2018/03/21 - [Dev fullstack python + js (h/f) pou](http://www.pyjobs.fr/jobs/details/6106/dev-fullstack-python-js-h-f-pou "Dev fullstack python + js (h/f) pou")
 * 2018/03/21 - [Développeur python](http://www.pyjobs.fr/jobs/details/6107/developpeur-python "Développeur python")
 * 2018/03/20 - [Lead dev python data (H/F) à Nantes en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6105/lead-dev-python-data-h-f-a-nantes-en-cdi-a-nantes-35000-44000 "Lead dev python data (H/F) à Nantes en CDI à Nantes 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/26 - [Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6114/ingenieur-software-data-h-f-ref-50549-en-cdi-a-marcy-letoile-45000-54000 "Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000")
 * 2018/03/26 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6111/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
 * 2018/03/26 - [Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6112/administrateur-systeme-linux-devops-h-f-en-cdi-25000-34000 "Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000")
-* 2018/03/23 - [Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)](http://www.pyjobs.fr/jobs/details/6110/administrateur-systeme-linux-devops-h-f-nantes-teletravail "Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)")
 

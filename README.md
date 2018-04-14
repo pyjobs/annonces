@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/26 - [Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6114/ingenieur-software-data-h-f-ref-50549-en-cdi-a-marcy-letoile-45000-54000 "Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000")
 * 2018/03/26 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6111/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
 * 2018/03/26 - [Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6112/administrateur-systeme-linux-devops-h-f-en-cdi-25000-34000 "Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000")
 * 2018/03/23 - [Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)](http://www.pyjobs.fr/jobs/details/6110/administrateur-systeme-linux-devops-h-f-nantes-teletravail "Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/28 - [Développeur ReactJS dans l'Open Education en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6117/developpeur-reactjs-dans-lopen-education-en-cdi-45000-54000 "Développeur ReactJS dans l'Open Education en CDI 45000-54000")
 * 2018/03/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/6116/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2018/03/27 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6115/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
-* 2018/03/26 - [INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6113/ingenieur-r-d-developpement-full-stack-h-f-en-cdi-a-marcy-letoile-45000-54000 "INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000")
 

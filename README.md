@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/20 - [Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000](http://www.pyjobs.fr/jobs/details/6104/software-engineer-h-f-en-cdi-a-tassin-la-demi-lune-45000-54000 "Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000")
 * 2018/03/19 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6103/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2018/03/19 - [Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6102/developpeur-h-f-full-stack-python-en-cdi-a-paris-45000-54000 "Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000")
 * 2018/03/16 - [Lead e- DevOps en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6095/lead-e-devops-en-cdi-55000-59000 "Lead e- DevOps en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/21 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6108/developpeur-python-django "Développeur python / django")
 * 2018/03/21 - [Dev fullstack python + js (h/f) pou](http://www.pyjobs.fr/jobs/details/6106/dev-fullstack-python-js-h-f-pou "Dev fullstack python + js (h/f) pou")
 * 2018/03/21 - [Développeur python](http://www.pyjobs.fr/jobs/details/6107/developpeur-python "Développeur python")
-* 2018/03/20 - [Lead dev python data (H/F) à Nantes en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6105/lead-dev-python-data-h-f-a-nantes-en-cdi-a-nantes-35000-44000 "Lead dev python data (H/F) à Nantes en CDI à Nantes 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/19 - [Ingénieur R&D (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6134/ingenieur-r-d-h-f-en-cdi-a-nantes-35000-44000 "Ingénieur R&D (H/F) en CDI à Nantes 35000-44000")
 * 2018/04/17 - [CDI Paris - Développeur web Fullstack](http://www.pyjobs.fr/jobs/details/6132/cdi-paris-developpeur-web-fullstack "CDI Paris - Développeur web Fullstack")
 * 2018/04/16 - [Dev Full Stack (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6131/dev-full-stack-h-f-en-cdi-a-nantes "Dev Full Stack (H/F) en CDI à Nantes")
 * 2018/04/16 - [DevOps dans une startup innovante (télétravail)](http://www.pyjobs.fr/jobs/details/6130/devops-dans-une-startup-innovante-teletravail "DevOps dans une startup innovante (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/08 - [Devops / Architecte CLOUD - Excellence Tech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6086/devops-architecte-cloud-excellence-tech-en-cdi-60000-69000 "Devops / Architecte CLOUD - Excellence Tech en CDI 60000-69000")
 * 2018/03/08 - [Ingénieur Systèmes et Réseaux Linux à Nantes](http://www.pyjobs.fr/jobs/details/6085/ingenieur-systemes-et-reseaux-linux-a-nantes "Ingénieur Systèmes et Réseaux Linux à Nantes")
 * 2018/03/08 - [Back-end developer - H/F en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6084/back-end-developer-h-f-en-cdi-a-lyon-45000-54000 "Back-end developer - H/F en CDI à Lyon 45000-54000")
-* 2018/03/06 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6083/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 

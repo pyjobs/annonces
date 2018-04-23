@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/23 - [Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6141/developpeur-back-end-senior-python-h-f-en-cdi-a-paris-45000-54000 "Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000")
 * 2018/04/23 - [VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6144/vp-engineering-disrupter-la-publicite-h-f-en-cdi-a-paris-55000-59000 "VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000")
 * 2018/04/23 - [Head of engineering pour une Start-up USA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6143/head-of-engineering-pour-une-start-up-usa-en-cdi-a-paris-70000 "Head of engineering pour une Start-up USA en CDI à Paris >70000")
 * 2018/04/23 - [Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6142/dev-archi-web-python-senior-h-f-en-cdi-a-paris-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/16 - [Développeur web back-end Python (H/F) en CDI à Marseille](http://www.pyjobs.fr/jobs/details/6096/developpeur-web-back-end-python-h-f-en-cdi-a-marseille "Développeur web back-end Python (H/F) en CDI à Marseille")
 * 2018/03/18 - [Développeur Python confirmé (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6100/developpeur-python-confirme-h-f-en-cdi-45000-54000 "Développeur Python confirmé (H/F) en CDI 45000-54000")
 * 2018/03/18 - [Dev/Archi web Python sénior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6101/dev-archi-web-python-senior-h-f-en-cdi-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI 55000-59000")
-* 2018/03/15 - [Développeur Python orienté Data H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6093/developpeur-python-oriente-data-h-f-en-cdi-35000-44000 "Développeur Python orienté Data H/F en CDI 35000-44000")
 

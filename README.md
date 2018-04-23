@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/23 - [Développeur.se full stack @Ulule (CDI) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6138/developpeur-se-full-stack-ulule-cdi-en-cdi-45000-54000 "Développeur.se full stack @Ulule (CDI) en CDI 45000-54000")
 * 2018/04/23 - [Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6139/developpeur-se-backend-python-ulule-cdi-en-cdi-a-paris-45000-54000 "Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000")
 * 2018/04/20 - [CTO Dev/ML - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6137/cto-dev-ml-education-h-f-en-cdi-a-paris "CTO Dev/ML - Education (H/F) en CDI à Paris")
 * 2018/04/20 - [Ingénieur DevOps pour une startup EdTech à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6136/ingenieur-devops-pour-une-startup-edtech-a-paris-teletravail "Ingénieur DevOps pour une startup EdTech à Paris (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/15 - [Full Stack Developer (H/F) en CDI à Lyon 45000-54000](http://www.pyjobs.fr/jobs/details/6092/full-stack-developer-h-f-en-cdi-a-lyon-45000-54000 "Full Stack Developer (H/F) en CDI à Lyon 45000-54000")
 * 2018/03/14 - [Développeur full-stack JS (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6091/developpeur-full-stack-js-h-f-en-stage-a-paris "Développeur full-stack JS (H/F) en Stage à Paris")
 * 2018/03/14 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6090/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
-* 2018/03/13 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6089/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 

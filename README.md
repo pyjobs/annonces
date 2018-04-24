@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/24 - [Senior Web Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6148/senior-web-developer-h-f-en-cdi-a-paris-45000-54000 "Senior Web Developer (H/F) en CDI à Paris 45000-54000")
 * 2018/03/18 - [Développeur Python confirmé (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6100/developpeur-python-confirme-h-f-en-cdi-45000-54000 "Développeur Python confirmé (H/F) en CDI 45000-54000")
 * 2018/03/18 - [Dev/Archi web Python sénior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6101/dev-archi-web-python-senior-h-f-en-cdi-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI 55000-59000")
 * 2018/04/24 - [Lead dev web Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6145/lead-dev-web-python-h-f-en-cdi-a-paris-55000-59000 "Lead dev web Python (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/19 - [Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6102/developpeur-h-f-full-stack-python-en-cdi-a-paris-45000-54000 "Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000")
 * 2018/03/16 - [Lead e- DevOps en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6095/lead-e-devops-en-cdi-55000-59000 "Lead e- DevOps en CDI 55000-59000")
 * 2018/03/16 - [Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6099/ingenieur-production-site-reliability-eng-en-cdi-45000-54000 "Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000")
-* 2018/03/23 - [ADMINSYS Linux FACTORFX GRANVILLE](http://www.pyjobs.fr/jobs/details/6109/adminsys-linux-factorfx-granville "ADMINSYS Linux FACTORFX GRANVILLE")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/24 - [CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE](http://www.pyjobs.fr/jobs/details/6149/cdi-developpement-informatique-et-web-semantique "CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE")
 * 2018/03/23 - [ADMINSYS Linux FACTORFX GRANVILLE](http://www.pyjobs.fr/jobs/details/6109/adminsys-linux-factorfx-granville "ADMINSYS Linux FACTORFX GRANVILLE")
 * 2018/04/24 - [Senior Web Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6148/senior-web-developer-h-f-en-cdi-a-paris-45000-54000 "Senior Web Developer (H/F) en CDI à Paris 45000-54000")
 * 2018/03/18 - [Développeur Python confirmé (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6100/developpeur-python-confirme-h-f-en-cdi-45000-54000 "Développeur Python confirmé (H/F) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/20 - [Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000](http://www.pyjobs.fr/jobs/details/6104/software-engineer-h-f-en-cdi-a-tassin-la-demi-lune-45000-54000 "Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000")
 * 2018/03/19 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6103/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2018/03/19 - [Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6102/developpeur-h-f-full-stack-python-en-cdi-a-paris-45000-54000 "Développeur (H/F) Full-stack Python en CDI à Paris 45000-54000")
-* 2018/03/16 - [Lead e- DevOps en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6095/lead-e-devops-en-cdi-55000-59000 "Lead e- DevOps en CDI 55000-59000")
 

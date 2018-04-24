@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/18 - [Dev/Archi web Python sénior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6101/dev-archi-web-python-senior-h-f-en-cdi-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI 55000-59000")
 * 2018/04/24 - [Lead dev web Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6145/lead-dev-web-python-h-f-en-cdi-a-paris-55000-59000 "Lead dev web Python (H/F) en CDI à Paris 55000-59000")
 * 2018/04/24 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6147/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 * 2018/04/24 - [Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6146/developpeur-python-web-a-rennes-h-f-en-cdi-a-paris-35000-44000 "Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/16 - [Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6099/ingenieur-production-site-reliability-eng-en-cdi-45000-54000 "Ingénieur Production (Site Reliability Eng.) en CDI 45000-54000")
 * 2018/03/23 - [ADMINSYS Linux FACTORFX GRANVILLE](http://www.pyjobs.fr/jobs/details/6109/adminsys-linux-factorfx-granville "ADMINSYS Linux FACTORFX GRANVILLE")
 * 2018/03/16 - [Devops (H/F) en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6098/devops-h-f-en-cdi-a-marseille-35000-44000 "Devops (H/F) en CDI à Marseille 35000-44000")
-* 2018/03/16 - [Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6097/integrateur-web-front-end-angularjs-cdi-h-f-en-cdi-a-marseille-35000-44000 "Intégrateur web front-end AngularJS CDI H/F en CDI à Marseille 35000-44000")
 

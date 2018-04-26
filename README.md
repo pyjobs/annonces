@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/20 - [Ingénieur DevOps pour une startup EdTech à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6136/ingenieur-devops-pour-une-startup-edtech-a-paris-teletravail "Ingénieur DevOps pour une startup EdTech à Paris (télétravail)")
 * 2018/04/20 - [CTO Dev/ML - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6137/cto-dev-ml-education-h-f-en-cdi-a-paris "CTO Dev/ML - Education (H/F) en CDI à Paris")
 * 2018/04/20 - [Développeur PHP motivé (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6135/developpeur-php-motive-h-f-en-stage-a-paris "Développeur PHP motivé (H/F) en Stage à Paris")
 * 2018/04/19 - [Wanted : ingénieur DevOps (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6133/wanted-ingenieur-devops-h-f-en-cdi "Wanted : ingénieur DevOps (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/23 - [Head of engineering pour une Start-up USA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6143/head-of-engineering-pour-une-start-up-usa-en-cdi-a-paris-70000 "Head of engineering pour une Start-up USA en CDI à Paris >70000")
 * 2018/04/23 - [Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6142/dev-archi-web-python-senior-h-f-en-cdi-a-paris-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000")
 * 2018/04/23 - [Développeur Full-stack Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6140/developpeur-full-stack-python-h-f-en-cdi-45000-54000 "Développeur Full-stack Python (H/F) en CDI 45000-54000")
-* 2018/04/23 - [Développeur.se full stack @Ulule (CDI) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6138/developpeur-se-full-stack-ulule-cdi-en-cdi-45000-54000 "Développeur.se full stack @Ulule (CDI) en CDI 45000-54000")
 

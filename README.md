@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/05 - [Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6119/administrateur-systeme-2-0-h-f-en-cdi-a-paris-35000-44000 "Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000")
 * 2018/04/05 - [Stage Développeur Web H/F en Stage à Paris](http://www.pyjobs.fr/jobs/details/6122/stage-developpeur-web-h-f-en-stage-a-paris "Stage Développeur Web H/F en Stage à Paris")
 * 2018/04/05 - [Ingénieur Android H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6121/ingenieur-android-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Android H/F en CDI à Paris 35000-44000")
 * 2018/04/26 - [Développeur.se Front-End en CDI à Tours 35000-44000](http://www.pyjobs.fr/jobs/details/6151/developpeur-se-front-end-en-cdi-a-tours-35000-44000 "Développeur.se Front-End en CDI à Tours 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/12 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6127/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/04/09 - [Développeur Ruby on Rails en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6126/developpeur-ruby-on-rails-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails en CDI à Paris 35000-44000")
 * 2018/04/06 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6125/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
-* 2018/04/06 - [Développeur python](http://www.pyjobs.fr/jobs/details/6124/developpeur-python "Développeur python")
 

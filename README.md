@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/06 - [Développeur python](http://www.pyjobs.fr/jobs/details/6124/developpeur-python "Développeur python")
 * 2018/04/06 - [Développeur python expérimenté](http://www.pyjobs.fr/jobs/details/6123/developpeur-python-experimente "Développeur python expérimenté")
 * 2018/04/05 - [Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6119/administrateur-systeme-2-0-h-f-en-cdi-a-paris-35000-44000 "Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000")
 * 2018/04/05 - [Stage Développeur Web H/F en Stage à Paris](http://www.pyjobs.fr/jobs/details/6122/stage-developpeur-web-h-f-en-stage-a-paris "Stage Développeur Web H/F en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/13 - [CTO #Startup Fintech (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6128/cto-startup-fintech-h-f-en-cdi-60000-69000 "CTO #Startup Fintech (H/F) en CDI 60000-69000")
 * 2018/04/16 - [Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000](http://www.pyjobs.fr/jobs/details/6129/full-stack-developer-h-f-en-cdi-a-marguerittes-35000-44000 "Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000")
 * 2018/04/12 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6127/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
-* 2018/04/09 - [Développeur Ruby on Rails en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6126/developpeur-ruby-on-rails-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails en CDI à Paris 35000-44000")
 

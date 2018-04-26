@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/23 - [Développeur Full-stack Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6140/developpeur-full-stack-python-h-f-en-cdi-45000-54000 "Développeur Full-stack Python (H/F) en CDI 45000-54000")
 * 2018/04/23 - [Développeur.se full stack @Ulule (CDI) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6138/developpeur-se-full-stack-ulule-cdi-en-cdi-45000-54000 "Développeur.se full stack @Ulule (CDI) en CDI 45000-54000")
 * 2018/04/23 - [Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6139/developpeur-se-backend-python-ulule-cdi-en-cdi-a-paris-45000-54000 "Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000")
 * 2018/04/20 - [Ingénieur DevOps pour une startup EdTech à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6136/ingenieur-devops-pour-une-startup-edtech-a-paris-teletravail "Ingénieur DevOps pour une startup EdTech à Paris (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/24 - [Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6146/developpeur-python-web-a-rennes-h-f-en-cdi-a-paris-35000-44000 "Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000")
 * 2018/04/23 - [Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6141/developpeur-back-end-senior-python-h-f-en-cdi-a-paris-45000-54000 "Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000")
 * 2018/04/23 - [VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6144/vp-engineering-disrupter-la-publicite-h-f-en-cdi-a-paris-55000-59000 "VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000")
-* 2018/04/23 - [Head of engineering pour une Start-up USA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6143/head-of-engineering-pour-une-start-up-usa-en-cdi-a-paris-70000 "Head of engineering pour une Start-up USA en CDI à Paris >70000")
 

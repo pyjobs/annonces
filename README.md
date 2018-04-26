@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/23 - [Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6141/developpeur-back-end-senior-python-h-f-en-cdi-a-paris-45000-54000 "Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000")
 * 2018/04/23 - [VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6144/vp-engineering-disrupter-la-publicite-h-f-en-cdi-a-paris-55000-59000 "VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000")
 * 2018/04/23 - [Head of engineering pour une Start-up USA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6143/head-of-engineering-pour-une-start-up-usa-en-cdi-a-paris-70000 "Head of engineering pour une Start-up USA en CDI à Paris >70000")
 * 2018/04/23 - [Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6142/dev-archi-web-python-senior-h-f-en-cdi-a-paris-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/18 - [Développeur Python confirmé (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6100/developpeur-python-confirme-h-f-en-cdi-45000-54000 "Développeur Python confirmé (H/F) en CDI 45000-54000")
 * 2018/03/18 - [Dev/Archi web Python sénior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6101/dev-archi-web-python-senior-h-f-en-cdi-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI 55000-59000")
 * 2018/04/24 - [Lead dev web Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6145/lead-dev-web-python-h-f-en-cdi-a-paris-55000-59000 "Lead dev web Python (H/F) en CDI à Paris 55000-59000")
-* 2018/04/24 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6147/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 

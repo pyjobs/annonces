@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/20 - [Développeur PHP motivé (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6135/developpeur-php-motive-h-f-en-stage-a-paris "Développeur PHP motivé (H/F) en Stage à Paris")
 * 2018/04/19 - [Wanted : ingénieur DevOps (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6133/wanted-ingenieur-devops-h-f-en-cdi "Wanted : ingénieur DevOps (H/F) en CDI")
 * 2018/04/19 - [Ingénieur R&D (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6134/ingenieur-r-d-h-f-en-cdi-a-nantes-35000-44000 "Ingénieur R&D (H/F) en CDI à Nantes 35000-44000")
 * 2018/04/17 - [CDI Paris - Développeur web Fullstack](http://www.pyjobs.fr/jobs/details/6132/cdi-paris-developpeur-web-fullstack "CDI Paris - Développeur web Fullstack")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/23 - [Développeur Full-stack Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6140/developpeur-full-stack-python-h-f-en-cdi-45000-54000 "Développeur Full-stack Python (H/F) en CDI 45000-54000")
 * 2018/04/23 - [Développeur.se full stack @Ulule (CDI) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6138/developpeur-se-full-stack-ulule-cdi-en-cdi-45000-54000 "Développeur.se full stack @Ulule (CDI) en CDI 45000-54000")
 * 2018/04/23 - [Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6139/developpeur-se-backend-python-ulule-cdi-en-cdi-a-paris-45000-54000 "Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000")
-* 2018/04/20 - [CTO Dev/ML - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6137/cto-dev-ml-education-h-f-en-cdi-a-paris "CTO Dev/ML - Education (H/F) en CDI à Paris")
 

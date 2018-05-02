@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/02 - [Ingénieur Cloud / DevOps pour Matters, startup studio à Paris](http://www.pyjobs.fr/jobs/details/6154/ingenieur-cloud-devops-pour-matters-startup-studio-a-paris "Ingénieur Cloud / DevOps pour Matters, startup studio à Paris")
 * 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
 * 2018/04/25 - [Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6150/developpeur-euse-ios-objective-c-h-f-en-cdi-a-paris-35000-44000 "Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000")
 * 2018/04/24 - [CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE](http://www.pyjobs.fr/jobs/details/6149/cdi-developpement-informatique-et-web-semantique "CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/21 - [Dev fullstack python + js (h/f) pou](http://www.pyjobs.fr/jobs/details/6106/dev-fullstack-python-js-h-f-pou "Dev fullstack python + js (h/f) pou")
 * 2018/03/21 - [Développeur python](http://www.pyjobs.fr/jobs/details/6107/developpeur-python "Développeur python")
 * 2018/03/20 - [Lead dev python data (H/F) à Nantes en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6105/lead-dev-python-data-h-f-a-nantes-en-cdi-a-nantes-35000-44000 "Lead dev python data (H/F) à Nantes en CDI à Nantes 35000-44000")
-* 2018/03/20 - [Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000](http://www.pyjobs.fr/jobs/details/6104/software-engineer-h-f-en-cdi-a-tassin-la-demi-lune-45000-54000 "Software Engineer (H/F) en CDI à Tassin-la-Demi-Lune 45000-54000")
 

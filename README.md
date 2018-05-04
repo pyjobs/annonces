@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/26 - [Développeur.se Front-End en CDI à Tours 35000-44000](http://www.pyjobs.fr/jobs/details/6151/developpeur-se-front-end-en-cdi-a-tours-35000-44000 "Développeur.se Front-End en CDI à Tours 35000-44000")
 * 2018/04/05 - [Développeur Mobile en CDI à Marseille 25000-34000](http://www.pyjobs.fr/jobs/details/6120/developpeur-mobile-en-cdi-a-marseille-25000-34000 "Développeur Mobile en CDI à Marseille 25000-34000")
 * 2018/04/04 - [Développeur informatique en CDI à Les Ulis 35000-44000](http://www.pyjobs.fr/jobs/details/6118/developpeur-informatique-en-cdi-a-les-ulis-35000-44000 "Développeur informatique en CDI à Les Ulis 35000-44000")
 * 2018/03/28 - [Développeur ReactJS dans l'Open Education en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6117/developpeur-reactjs-dans-lopen-education-en-cdi-45000-54000 "Développeur ReactJS dans l'Open Education en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/06 - [Développeur python](http://www.pyjobs.fr/jobs/details/6124/developpeur-python "Développeur python")
 * 2018/04/06 - [Développeur python expérimenté](http://www.pyjobs.fr/jobs/details/6123/developpeur-python-experimente "Développeur python expérimenté")
 * 2018/04/05 - [Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6119/administrateur-systeme-2-0-h-f-en-cdi-a-paris-35000-44000 "Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000")
-* 2018/04/05 - [Stage Développeur Web H/F en Stage à Paris](http://www.pyjobs.fr/jobs/details/6122/stage-developpeur-web-h-f-en-stage-a-paris "Stage Développeur Web H/F en Stage à Paris")
 

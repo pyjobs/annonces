@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/03/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/6116/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2018/03/27 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6115/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 * 2018/03/26 - [INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6113/ingenieur-r-d-developpement-full-stack-h-f-en-cdi-a-marcy-letoile-45000-54000 "INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000")
 * 2018/03/26 - [Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6114/ingenieur-software-data-h-f-ref-50549-en-cdi-a-marcy-letoile-45000-54000 "Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/05 - [Ingénieur Android H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6121/ingenieur-android-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Android H/F en CDI à Paris 35000-44000")
 * 2018/04/26 - [Développeur.se Front-End en CDI à Tours 35000-44000](http://www.pyjobs.fr/jobs/details/6151/developpeur-se-front-end-en-cdi-a-tours-35000-44000 "Développeur.se Front-End en CDI à Tours 35000-44000")
 * 2018/04/05 - [Développeur Mobile en CDI à Marseille 25000-34000](http://www.pyjobs.fr/jobs/details/6120/developpeur-mobile-en-cdi-a-marseille-25000-34000 "Développeur Mobile en CDI à Marseille 25000-34000")
-* 2018/04/04 - [Développeur informatique en CDI à Les Ulis 35000-44000](http://www.pyjobs.fr/jobs/details/6118/developpeur-informatique-en-cdi-a-les-ulis-35000-44000 "Développeur informatique en CDI à Les Ulis 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/04 - [Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6157/dev-fullstack-glose-h-f-en-cdi-a-paris-45000-54000 "Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000")
 * 2018/05/04 - [Data Analyst Junior en Stage à Paris](http://www.pyjobs.fr/jobs/details/6155/data-analyst-junior-en-stage-a-paris "Data Analyst Junior en Stage à Paris")
 * 2018/05/02 - [Ingénieur Cloud / DevOps pour Matters, startup studio à Paris](http://www.pyjobs.fr/jobs/details/6154/ingenieur-cloud-devops-pour-matters-startup-studio-a-paris "Ingénieur Cloud / DevOps pour Matters, startup studio à Paris")
 * 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/23 - [Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)](http://www.pyjobs.fr/jobs/details/6110/administrateur-systeme-linux-devops-h-f-nantes-teletravail "Administrateur Système Linux/ Devops (H/F) - NANTES (télétravail)")
 * 2018/03/21 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6108/developpeur-python-django "Développeur python / django")
 * 2018/03/21 - [Dev fullstack python + js (h/f) pou](http://www.pyjobs.fr/jobs/details/6106/dev-fullstack-python-js-h-f-pou "Dev fullstack python + js (h/f) pou")
-* 2018/03/21 - [Développeur python](http://www.pyjobs.fr/jobs/details/6107/developpeur-python "Développeur python")
 

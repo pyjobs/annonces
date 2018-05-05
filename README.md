@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/04 - [ADMIN SYS avec une forte compétence Web pour renforcer notre équipe à Paris](http://www.pyjobs.fr/jobs/details/6158/admin-sys-avec-une-forte-competence-web-pour-renforcer-notre-equipe-a-paris "ADMIN SYS avec une forte compétence Web pour renforcer notre équipe à Paris")
 * 2018/05/04 - [Développeur/se Back-end JAVA 8 IoT (H/F) en CDI à Antony 35000-44000](http://www.pyjobs.fr/jobs/details/6156/developpeur-se-back-end-java-8-iot-h-f-en-cdi-a-antony-35000-44000 "Développeur/se Back-end JAVA 8 IoT (H/F) en CDI à Antony 35000-44000")
 * 2018/05/04 - [Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6157/dev-fullstack-glose-h-f-en-cdi-a-paris-45000-54000 "Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000")
 * 2018/05/04 - [Data Analyst Junior en Stage à Paris](http://www.pyjobs.fr/jobs/details/6155/data-analyst-junior-en-stage-a-paris "Data Analyst Junior en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/04 - [Développeur rails et javascript (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6161/developpeur-rails-et-javascript-h-f-en-cdi "Développeur rails et javascript (H/F) en CDI")
 * 2018/03/26 - [Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6111/dev-full-stack-python-angularjs-h-f-en-cdi-a-nantes-25000-34000 "Dev Full Stack  (Python, AngularJs) (H/F) en CDI à Nantes 25000-34000")
 * 2018/03/26 - [Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6112/administrateur-systeme-linux-devops-h-f-en-cdi-25000-34000 "Administrateur Système Linux/ Devops (H/F) en CDI 25000-34000")
-* 2018/05/04 - [CDI Développement Python à Toulouse](http://www.pyjobs.fr/jobs/details/6160/cdi-developpement-python-a-toulouse "CDI Développement Python à Toulouse")
 

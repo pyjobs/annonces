@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/24 - [Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6146/developpeur-python-web-a-rennes-h-f-en-cdi-a-paris-35000-44000 "Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000")
 * 2018/04/23 - [Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6141/developpeur-back-end-senior-python-h-f-en-cdi-a-paris-45000-54000 "Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000")
 * 2018/04/23 - [VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6144/vp-engineering-disrupter-la-publicite-h-f-en-cdi-a-paris-55000-59000 "VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000")
 * 2018/04/23 - [Head of engineering pour une Start-up USA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6143/head-of-engineering-pour-une-start-up-usa-en-cdi-a-paris-70000 "Head of engineering pour une Start-up USA en CDI à Paris >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/23 - [ADMINSYS Linux FACTORFX GRANVILLE](http://www.pyjobs.fr/jobs/details/6109/adminsys-linux-factorfx-granville "ADMINSYS Linux FACTORFX GRANVILLE")
 * 2018/04/24 - [Senior Web Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6148/senior-web-developer-h-f-en-cdi-a-paris-45000-54000 "Senior Web Developer (H/F) en CDI à Paris 45000-54000")
 * 2018/04/29 - [Développeur(se) Python/Django full stack (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6152/developpeur-se-python-django-full-stack-h-f-a-nantes "Développeur(se) Python/Django full stack (H/F) à Nantes")
-* 2018/04/24 - [Lead dev web Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6145/lead-dev-web-python-h-f-en-cdi-a-paris-55000-59000 "Lead dev web Python (H/F) en CDI à Paris 55000-59000")
 

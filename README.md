@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/29 - [Développeur(se) Python/Django full stack (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6152/developpeur-se-python-django-full-stack-h-f-a-nantes "Développeur(se) Python/Django full stack (H/F) à Nantes")
 * 2018/04/24 - [Lead dev web Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6145/lead-dev-web-python-h-f-en-cdi-a-paris-55000-59000 "Lead dev web Python (H/F) en CDI à Paris 55000-59000")
 * 2018/04/24 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6147/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 * 2018/05/05 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6162/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/02 - [Ingénieur Cloud / DevOps pour Matters, startup studio à Paris](http://www.pyjobs.fr/jobs/details/6154/ingenieur-cloud-devops-pour-matters-startup-studio-a-paris "Ingénieur Cloud / DevOps pour Matters, startup studio à Paris")
 * 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
 * 2018/04/25 - [Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6150/developpeur-euse-ios-objective-c-h-f-en-cdi-a-paris-35000-44000 "Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000")
-* 2018/04/24 - [CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE](http://www.pyjobs.fr/jobs/details/6149/cdi-developpement-informatique-et-web-semantique "CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE")
 

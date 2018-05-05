@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/16 - [Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000](http://www.pyjobs.fr/jobs/details/6129/full-stack-developer-h-f-en-cdi-a-marguerittes-35000-44000 "Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000")
 * 2018/04/13 - [CTO #Startup Fintech (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6128/cto-startup-fintech-h-f-en-cdi-60000-69000 "CTO #Startup Fintech (H/F) en CDI 60000-69000")
 * 2018/04/12 - [Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6127/technical-api-product-manager-h-f-en-cdi-a-paris-20e-arrondissement-45000-54000 "Technical/API Product Manager (H/F) en CDI à Paris-20E-Arrondissement 45000-54000")
 * 2018/04/09 - [Développeur Ruby on Rails en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6126/developpeur-ruby-on-rails-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/19 - [Wanted : ingénieur DevOps (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6133/wanted-ingenieur-devops-h-f-en-cdi "Wanted : ingénieur DevOps (H/F) en CDI")
 * 2018/04/19 - [Ingénieur R&D (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6134/ingenieur-r-d-h-f-en-cdi-a-nantes-35000-44000 "Ingénieur R&D (H/F) en CDI à Nantes 35000-44000")
 * 2018/04/17 - [CDI Paris - Développeur web Fullstack](http://www.pyjobs.fr/jobs/details/6132/cdi-paris-developpeur-web-fullstack "CDI Paris - Développeur web Fullstack")
-* 2018/04/16 - [Dev Full Stack (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6131/dev-full-stack-h-f-en-cdi-a-nantes "Dev Full Stack (H/F) en CDI à Nantes")
 

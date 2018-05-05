@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/24 - [CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE](http://www.pyjobs.fr/jobs/details/6149/cdi-developpement-informatique-et-web-semantique "CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE")
 * 2018/04/24 - [Senior Web Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6148/senior-web-developer-h-f-en-cdi-a-paris-45000-54000 "Senior Web Developer (H/F) en CDI à Paris 45000-54000")
 * 2018/04/29 - [Développeur(se) Python/Django full stack (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6152/developpeur-se-python-django-full-stack-h-f-a-nantes "Développeur(se) Python/Django full stack (H/F) à Nantes")
 * 2018/04/24 - [Lead dev web Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6145/lead-dev-web-python-h-f-en-cdi-a-paris-55000-59000 "Lead dev web Python (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/04 - [Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6157/dev-fullstack-glose-h-f-en-cdi-a-paris-45000-54000 "Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000")
 * 2018/05/04 - [Data Analyst Junior en Stage à Paris](http://www.pyjobs.fr/jobs/details/6155/data-analyst-junior-en-stage-a-paris "Data Analyst Junior en Stage à Paris")
 * 2018/05/02 - [Ingénieur Cloud / DevOps pour Matters, startup studio à Paris](http://www.pyjobs.fr/jobs/details/6154/ingenieur-cloud-devops-pour-matters-startup-studio-a-paris "Ingénieur Cloud / DevOps pour Matters, startup studio à Paris")
-* 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
 

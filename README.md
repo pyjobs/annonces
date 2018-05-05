@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/24 - [Lead dev web Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6145/lead-dev-web-python-h-f-en-cdi-a-paris-55000-59000 "Lead dev web Python (H/F) en CDI à Paris 55000-59000")
 * 2018/04/24 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6147/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 * 2018/05/05 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6162/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/04/24 - [Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6146/developpeur-python-web-a-rennes-h-f-en-cdi-a-paris-35000-44000 "Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
 * 2018/04/25 - [Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6150/developpeur-euse-ios-objective-c-h-f-en-cdi-a-paris-35000-44000 "Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000")
 * 2018/04/24 - [CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE](http://www.pyjobs.fr/jobs/details/6149/cdi-developpement-informatique-et-web-semantique "CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE")
-* 2018/03/23 - [ADMINSYS Linux FACTORFX GRANVILLE](http://www.pyjobs.fr/jobs/details/6109/adminsys-linux-factorfx-granville "ADMINSYS Linux FACTORFX GRANVILLE")
 

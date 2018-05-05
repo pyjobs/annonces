@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
 * 2018/04/25 - [Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6150/developpeur-euse-ios-objective-c-h-f-en-cdi-a-paris-35000-44000 "Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000")
 * 2018/04/24 - [CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE](http://www.pyjobs.fr/jobs/details/6149/cdi-developpement-informatique-et-web-semantique "CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE")
 * 2018/04/24 - [Senior Web Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6148/senior-web-developer-h-f-en-cdi-a-paris-45000-54000 "Senior Web Developer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/04 - [ADMIN SYS avec une forte compétence Web pour renforcer notre équipe à Paris](http://www.pyjobs.fr/jobs/details/6158/admin-sys-avec-une-forte-competence-web-pour-renforcer-notre-equipe-a-paris "ADMIN SYS avec une forte compétence Web pour renforcer notre équipe à Paris")
 * 2018/05/04 - [Développeur/se Back-end JAVA 8 IoT (H/F) en CDI à Antony 35000-44000](http://www.pyjobs.fr/jobs/details/6156/developpeur-se-back-end-java-8-iot-h-f-en-cdi-a-antony-35000-44000 "Développeur/se Back-end JAVA 8 IoT (H/F) en CDI à Antony 35000-44000")
 * 2018/05/04 - [Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6157/dev-fullstack-glose-h-f-en-cdi-a-paris-45000-54000 "Dev Fullstack @ Glose (H/F) en CDI à Paris 45000-54000")
-* 2018/05/04 - [Data Analyst Junior en Stage à Paris](http://www.pyjobs.fr/jobs/details/6155/data-analyst-junior-en-stage-a-paris "Data Analyst Junior en Stage à Paris")
 

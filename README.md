@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/07 - [Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6163/developpeur-confirme-back-end-python-django-en-cdi-a-paris-19e-arrondissement-45000-54000 "Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000")
 * 2018/05/04 - [CDI Développement Python à Toulouse](http://www.pyjobs.fr/jobs/details/6160/cdi-developpement-python-a-toulouse "CDI Développement Python à Toulouse")
 * 2018/05/04 - [CDI Développement Web Python JavaScript à Toulouse](http://www.pyjobs.fr/jobs/details/6159/cdi-developpement-web-python-javascript-a-toulouse "CDI Développement Web Python JavaScript à Toulouse")
 * 2018/05/04 - [ADMIN SYS avec une forte compétence Web pour renforcer notre équipe à Paris](http://www.pyjobs.fr/jobs/details/6158/admin-sys-avec-une-forte-competence-web-pour-renforcer-notre-equipe-a-paris "ADMIN SYS avec une forte compétence Web pour renforcer notre équipe à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/27 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6115/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 * 2018/03/26 - [INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6113/ingenieur-r-d-developpement-full-stack-h-f-en-cdi-a-marcy-letoile-45000-54000 "INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000")
 * 2018/03/26 - [Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6114/ingenieur-software-data-h-f-ref-50549-en-cdi-a-marcy-letoile-45000-54000 "Ingénieur Software/Data  H/F  ref. 50549 en CDI à Marcy-l'Étoile 45000-54000")
-* 2018/05/04 - [Développeur rails et javascript (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6161/developpeur-rails-et-javascript-h-f-en-cdi "Développeur rails et javascript (H/F) en CDI")
 

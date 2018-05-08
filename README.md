@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/08 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6164/developpeur-python-django "Développeur python / django")
 * 2018/05/04 - [Développeur rails et javascript (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6161/developpeur-rails-et-javascript-h-f-en-cdi "Développeur rails et javascript (H/F) en CDI")
 * 2018/05/07 - [Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6163/developpeur-confirme-back-end-python-django-en-cdi-a-paris-19e-arrondissement-45000-54000 "Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000")
 * 2018/05/04 - [CDI Développement Python à Toulouse](http://www.pyjobs.fr/jobs/details/6160/cdi-developpement-python-a-toulouse "CDI Développement Python à Toulouse")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/03/28 - [Développeur ReactJS dans l'Open Education en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6117/developpeur-reactjs-dans-lopen-education-en-cdi-45000-54000 "Développeur ReactJS dans l'Open Education en CDI 45000-54000")
 * 2018/03/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/6116/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
 * 2018/03/27 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6115/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
-* 2018/03/26 - [INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000](http://www.pyjobs.fr/jobs/details/6113/ingenieur-r-d-developpement-full-stack-h-f-en-cdi-a-marcy-letoile-45000-54000 "INGÉNIEUR R&D DÉVELOPPEMENT FULL STACK H/F en CDI à Marcy-l'Étoile 45000-54000")
 

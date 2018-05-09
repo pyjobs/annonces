@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/09 - [DEV Python/PHP en Télétravail (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6165/dev-python-php-en-teletravail-h-f-en-cdi-a-paris-25000-34000 "DEV Python/PHP en Télétravail (H/F) en CDI à Paris 25000-34000")
 * 2018/05/08 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6164/developpeur-python-django "Développeur python / django")
 * 2018/05/04 - [Développeur rails et javascript (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6161/developpeur-rails-et-javascript-h-f-en-cdi "Développeur rails et javascript (H/F) en CDI")
 * 2018/05/07 - [Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6163/developpeur-confirme-back-end-python-django-en-cdi-a-paris-19e-arrondissement-45000-54000 "Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/04 - [Développeur informatique en CDI à Les Ulis 35000-44000](http://www.pyjobs.fr/jobs/details/6118/developpeur-informatique-en-cdi-a-les-ulis-35000-44000 "Développeur informatique en CDI à Les Ulis 35000-44000")
 * 2018/03/28 - [Développeur ReactJS dans l'Open Education en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6117/developpeur-reactjs-dans-lopen-education-en-cdi-45000-54000 "Développeur ReactJS dans l'Open Education en CDI 45000-54000")
 * 2018/03/28 - [H/F Ingénieur Développement C/C++/Linux](http://www.pyjobs.fr/jobs/details/6116/h-f-ingenieur-developpement-c-c-linux "H/F Ingénieur Développement C/C++/Linux")
-* 2018/03/27 - [Ingénieur Linux Réseaux](http://www.pyjobs.fr/jobs/details/6115/ingenieur-linux-reseaux "Ingénieur Linux Réseaux")
 

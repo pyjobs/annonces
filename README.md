@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/14 - [Administrateur Système Linux/ Devops (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6171/administrateur-systeme-linux-devops-f-h-en-cdi "Administrateur Système Linux/ Devops (F/H) en CDI")
 * 2018/05/14 - [Leader Technique Réseaux en CDI à Lille](http://www.pyjobs.fr/jobs/details/6172/leader-technique-reseaux-en-cdi-a-lille "Leader Technique Réseaux en CDI à Lille")
 * 2018/04/26 - [Développeur.se Front-End en CDI à Tours 35000-44000](http://www.pyjobs.fr/jobs/details/6151/developpeur-se-front-end-en-cdi-a-tours-35000-44000 "Développeur.se Front-End en CDI à Tours 35000-44000")
 * 2018/05/14 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6169/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/06 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6125/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/04/06 - [Développeur python](http://www.pyjobs.fr/jobs/details/6124/developpeur-python "Développeur python")
 * 2018/04/06 - [Développeur python expérimenté](http://www.pyjobs.fr/jobs/details/6123/developpeur-python-experimente "Développeur python expérimenté")
-* 2018/04/05 - [Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6119/administrateur-systeme-2-0-h-f-en-cdi-a-paris-35000-44000 "Administrateur Système 2.0 (H/F) en CDI à Paris 35000-44000")
 

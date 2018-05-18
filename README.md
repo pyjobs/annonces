@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/18 - [Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6179/ingenieur-administrateur-systeme-et-reseaux-en-cdi-a-marseille-35000-44000 "Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000")
 * 2018/05/18 - [Administrateur système (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6177/administrateur-systeme-h-f-en-cdi "Administrateur système (H/F) en CDI")
 * 2018/05/18 - [Data Manager (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6178/data-manager-h-f-en-cdi "Data Manager (H/F) en CDI")
 * 2018/05/18 - [Ingénieur·e data & web mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6176/ingenieur-e-data-web-mining-h-f-en-cdi-a-paris "Ingénieur·e data & web mining (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/17 - [CDI Paris - Développeur web Fullstack](http://www.pyjobs.fr/jobs/details/6132/cdi-paris-developpeur-web-fullstack "CDI Paris - Développeur web Fullstack")
 * 2018/04/16 - [Dev Full Stack (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6131/dev-full-stack-h-f-en-cdi-a-nantes "Dev Full Stack (H/F) en CDI à Nantes")
 * 2018/04/16 - [DevOps dans une startup innovante (télétravail)](http://www.pyjobs.fr/jobs/details/6130/devops-dans-une-startup-innovante-teletravail "DevOps dans une startup innovante (télétravail)")
-* 2018/04/16 - [Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000](http://www.pyjobs.fr/jobs/details/6129/full-stack-developer-h-f-en-cdi-a-marguerittes-35000-44000 "Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000")
 

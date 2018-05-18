@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/18 - [Administrateur système (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6177/administrateur-systeme-h-f-en-cdi "Administrateur système (H/F) en CDI")
 * 2018/05/18 - [Data Manager (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6178/data-manager-h-f-en-cdi "Data Manager (H/F) en CDI")
 * 2018/05/18 - [Ingénieur·e data & web mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6176/ingenieur-e-data-web-mining-h-f-en-cdi-a-paris "Ingénieur·e data & web mining (H/F) en CDI à Paris")
 * 2018/05/17 - [Ingénieur Développement Backend (H/F) en CDI à Villeurbanne](http://www.pyjobs.fr/jobs/details/6175/ingenieur-developpement-backend-h-f-en-cdi-a-villeurbanne "Ingénieur Développement Backend (H/F) en CDI à Villeurbanne")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/16 - [Dev Full Stack (H/F) en CDI à Nantes](http://www.pyjobs.fr/jobs/details/6131/dev-full-stack-h-f-en-cdi-a-nantes "Dev Full Stack (H/F) en CDI à Nantes")
 * 2018/04/16 - [DevOps dans une startup innovante (télétravail)](http://www.pyjobs.fr/jobs/details/6130/devops-dans-une-startup-innovante-teletravail "DevOps dans une startup innovante (télétravail)")
 * 2018/04/16 - [Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000](http://www.pyjobs.fr/jobs/details/6129/full-stack-developer-h-f-en-cdi-a-marguerittes-35000-44000 "Full Stack Developer (H/F) en CDI à Marguerittes 35000-44000")
-* 2018/04/13 - [CTO #Startup Fintech (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6128/cto-startup-fintech-h-f-en-cdi-60000-69000 "CTO #Startup Fintech (H/F) en CDI 60000-69000")
 

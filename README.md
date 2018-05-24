@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/24 - [CTO associé en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6182/cto-associe-en-freelance-a-paris "CTO associé en Freelance à Paris")
 * 2018/05/21 - [Ingénieur Big Data – Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6181/ingenieur-big-data-python-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Big Data – Python (H/F) en CDI à Paris 45000-54000")
 * 2018/05/20 - [Développeur pour Edge Computing à Paris, Lille, Shanghai, Tokyo, Munich](http://www.pyjobs.fr/jobs/details/6180/developpeur-pour-edge-computing-a-paris-lille-shanghai-tokyo-munich "Développeur pour Edge Computing à Paris, Lille, Shanghai, Tokyo, Munich")
 * 2018/05/18 - [Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6179/ingenieur-administrateur-systeme-et-reseaux-en-cdi-a-marseille-35000-44000 "Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/20 - [Développeur PHP motivé (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6135/developpeur-php-motive-h-f-en-stage-a-paris "Développeur PHP motivé (H/F) en Stage à Paris")
 * 2018/04/19 - [Wanted : ingénieur DevOps (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6133/wanted-ingenieur-devops-h-f-en-cdi "Wanted : ingénieur DevOps (H/F) en CDI")
 * 2018/04/19 - [Ingénieur R&D (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6134/ingenieur-r-d-h-f-en-cdi-a-nantes-35000-44000 "Ingénieur R&D (H/F) en CDI à Nantes 35000-44000")
-* 2018/04/17 - [CDI Paris - Développeur web Fullstack](http://www.pyjobs.fr/jobs/details/6132/cdi-paris-developpeur-web-fullstack "CDI Paris - Développeur web Fullstack")
 

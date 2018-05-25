@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/25 - [Beekeeping Software Engineer/Developer en Stage à New York 25000-34000](http://www.pyjobs.fr/jobs/details/6186/beekeeping-software-engineer-developer-en-stage-a-new-york-25000-34000 "Beekeeping Software Engineer/Developer en Stage à New York 25000-34000")
 * 2018/05/24 - [Développeur Python / Django (H/F) en Freelance à Auch](http://www.pyjobs.fr/jobs/details/6183/developpeur-python-django-h-f-en-freelance-a-auch "Développeur Python / Django (H/F) en Freelance à Auch")
 * 2018/05/24 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6184/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 * 2018/05/24 - [CTO associé en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6182/cto-associe-en-freelance-a-paris "CTO associé en Freelance à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/23 - [Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6139/developpeur-se-backend-python-ulule-cdi-en-cdi-a-paris-45000-54000 "Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000")
 * 2018/04/20 - [Ingénieur DevOps pour une startup EdTech à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6136/ingenieur-devops-pour-une-startup-edtech-a-paris-teletravail "Ingénieur DevOps pour une startup EdTech à Paris (télétravail)")
 * 2018/04/20 - [CTO Dev/ML - Education (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6137/cto-dev-ml-education-h-f-en-cdi-a-paris "CTO Dev/ML - Education (H/F) en CDI à Paris")
-* 2018/04/20 - [Développeur PHP motivé (H/F) en Stage à Paris](http://www.pyjobs.fr/jobs/details/6135/developpeur-php-motive-h-f-en-stage-a-paris "Développeur PHP motivé (H/F) en Stage à Paris")
 

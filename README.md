@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6187/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/25 - [Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6185/lead-data-engineer-editeur-a-la-pointe-ia-en-cdi-a-paris-70000 "Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000")
 * 2018/05/25 - [Beekeeping Software Engineer/Developer en Stage à New York 25000-34000](http://www.pyjobs.fr/jobs/details/6186/beekeeping-software-engineer-developer-en-stage-a-new-york-25000-34000 "Beekeeping Software Engineer/Developer en Stage à New York 25000-34000")
 * 2018/05/24 - [Développeur Python / Django (H/F) en Freelance à Auch](http://www.pyjobs.fr/jobs/details/6183/developpeur-python-django-h-f-en-freelance-a-auch "Développeur Python / Django (H/F) en Freelance à Auch")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/23 - [Développeur Full-stack Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6140/developpeur-full-stack-python-h-f-en-cdi-45000-54000 "Développeur Full-stack Python (H/F) en CDI 45000-54000")
 * 2018/04/23 - [Développeur.se full stack @Ulule (CDI) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6138/developpeur-se-full-stack-ulule-cdi-en-cdi-45000-54000 "Développeur.se full stack @Ulule (CDI) en CDI 45000-54000")
 * 2018/04/23 - [Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6139/developpeur-se-backend-python-ulule-cdi-en-cdi-a-paris-45000-54000 "Développeur.se backend Python @ Ulule (CDI) en CDI à Paris 45000-54000")
-* 2018/04/20 - [Ingénieur DevOps pour une startup EdTech à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6136/ingenieur-devops-pour-une-startup-edtech-a-paris-teletravail "Ingénieur DevOps pour une startup EdTech à Paris (télétravail)")
 

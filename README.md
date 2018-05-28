@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/28 - [Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6189/software-engineer-web-python-vue-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000")
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6188/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6187/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/25 - [Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6185/lead-data-engineer-editeur-a-la-pointe-ia-en-cdi-a-paris-70000 "Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/23 - [Head of engineering pour une Start-up USA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6143/head-of-engineering-pour-une-start-up-usa-en-cdi-a-paris-70000 "Head of engineering pour une Start-up USA en CDI à Paris >70000")
 * 2018/04/23 - [Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6142/dev-archi-web-python-senior-h-f-en-cdi-a-paris-55000-59000 "Dev/Archi web Python sénior (H/F) en CDI à Paris 55000-59000")
 * 2018/04/23 - [Développeur Full-stack Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6140/developpeur-full-stack-python-h-f-en-cdi-45000-54000 "Développeur Full-stack Python (H/F) en CDI 45000-54000")
-* 2018/04/23 - [Développeur.se full stack @Ulule (CDI) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6138/developpeur-se-full-stack-ulule-cdi-en-cdi-45000-54000 "Développeur.se full stack @Ulule (CDI) en CDI 45000-54000")
 

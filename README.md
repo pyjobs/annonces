@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/31 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/6192/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6190/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6191/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/05/28 - [Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6189/software-engineer-web-python-vue-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/24 - [Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6146/developpeur-python-web-a-rennes-h-f-en-cdi-a-paris-35000-44000 "Développeur Python web à Rennes (H/F) en CDI à Paris 35000-44000")
 * 2018/04/23 - [Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6141/developpeur-back-end-senior-python-h-f-en-cdi-a-paris-45000-54000 "Développeur back-end sénior Python (H/F) en CDI à Paris 45000-54000")
 * 2018/04/23 - [VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6144/vp-engineering-disrupter-la-publicite-h-f-en-cdi-a-paris-55000-59000 "VP Engineering- disrupter la publicité !(H/F) en CDI à Paris 55000-59000")
-* 2018/04/23 - [Head of engineering pour une Start-up USA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6143/head-of-engineering-pour-une-start-up-usa-en-cdi-a-paris-70000 "Head of engineering pour une Start-up USA en CDI à Paris >70000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/06 - [Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6198/lead-data-scientist-editeur-pointu-en-data-en-cdi-a-paris-70000 "Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000")
 * 2018/06/06 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6199/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
 * 2018/05/05 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6162/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/06/06 - [Developpeur junior en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6195/developpeur-junior-en-cdi-25000-34000 "Developpeur junior en CDI 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
 * 2018/04/25 - [Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6150/developpeur-euse-ios-objective-c-h-f-en-cdi-a-paris-35000-44000 "Développeur·euse iOS / Objective-C (H/F) en CDI à Paris 35000-44000")
 * 2018/04/24 - [CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE](http://www.pyjobs.fr/jobs/details/6149/cdi-developpement-informatique-et-web-semantique "CDI - DÉVELOPPEMENT INFORMATIQUE ET WEB SEMANTIQUE")
-* 2018/04/24 - [Senior Web Developer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6148/senior-web-developer-h-f-en-cdi-a-paris-45000-54000 "Senior Web Developer (H/F) en CDI à Paris 45000-54000")
 

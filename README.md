@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/08 - [Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000](http://www.pyjobs.fr/jobs/details/6202/integrateur-web-systeme-cadre-en-cdd-a-dijon-35000-44000 "Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000")
 * 2018/06/08 - [Developpeur python alternance](http://www.pyjobs.fr/jobs/details/6203/developpeur-python-alternance "Developpeur python alternance")
 * 2018/05/14 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6169/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2018/05/14 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6170/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/17 - [Ingénieur Développement Backend (H/F) en CDI à Villeurbanne](http://www.pyjobs.fr/jobs/details/6175/ingenieur-developpement-backend-h-f-en-cdi-a-villeurbanne "Ingénieur Développement Backend (H/F) en CDI à Villeurbanne")
 * 2018/05/17 - [Développeur web full stack senior en CDI](http://www.pyjobs.fr/jobs/details/6174/developpeur-web-full-stack-senior-en-cdi "Développeur web full stack senior en CDI")
 * 2018/05/16 - [AdminSys](http://www.pyjobs.fr/jobs/details/6173/adminsys "AdminSys")
-* 2018/05/14 - [Administrateur Système Linux/ Devops (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6171/administrateur-systeme-linux-devops-f-h-en-cdi "Administrateur Système Linux/ Devops (F/H) en CDI")
 

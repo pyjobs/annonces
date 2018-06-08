@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/14 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6170/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/05/11 - [Head of Engineering Data pour une startup IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6168/head-of-engineering-data-pour-une-startup-ia-en-cdi-a-paris-70000 "Head of Engineering Data pour une startup IA en CDI à Paris >70000")
 * 2018/05/09 - [Assistant Développeur PHP/JS (H/F) en Contrat pro](http://www.pyjobs.fr/jobs/details/6166/assistant-developpeur-php-js-h-f-en-contrat-pro "Assistant Développeur PHP/JS (H/F) en Contrat pro")
 * 2018/05/09 - [Assistant Développeur Java en Contrat pro à Nantes <24000](http://www.pyjobs.fr/jobs/details/6167/assistant-developpeur-java-en-contrat-pro-a-nantes-24000 "Assistant Développeur Java en Contrat pro à Nantes <24000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/14 - [Administrateur Système Linux/ Devops (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6171/administrateur-systeme-linux-devops-f-h-en-cdi "Administrateur Système Linux/ Devops (F/H) en CDI")
 * 2018/05/14 - [Leader Technique Réseaux en CDI à Lille](http://www.pyjobs.fr/jobs/details/6172/leader-technique-reseaux-en-cdi-a-lille "Leader Technique Réseaux en CDI à Lille")
 * 2018/04/26 - [Développeur.se Front-End en CDI à Tours 35000-44000](http://www.pyjobs.fr/jobs/details/6151/developpeur-se-front-end-en-cdi-a-tours-35000-44000 "Développeur.se Front-End en CDI à Tours 35000-44000")
-* 2018/05/14 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6169/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 

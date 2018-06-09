@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/05 - [Ingénieur Système devops / SRE chez CozyCloud (télétravail)](http://www.pyjobs.fr/jobs/details/6194/ingenieur-systeme-devops-sre-chez-cozycloud-teletravail "Ingénieur Système devops / SRE chez CozyCloud (télétravail)")
 * 2018/06/04 - [Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/6193/developpeur-web-et-mobile-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000")
 * 2018/05/31 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/6192/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6190/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/06 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6199/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
 * 2018/05/05 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6162/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/06/06 - [Developpeur junior en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6195/developpeur-junior-en-cdi-25000-34000 "Developpeur junior en CDI 25000-34000")
-* 2018/06/06 - [Developpeur ERP (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6197/developpeur-erp-h-f-en-cdi-a-paris-25000-34000 "Developpeur ERP (H/F) en CDI à Paris 25000-34000")
 

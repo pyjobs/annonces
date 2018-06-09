@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/06 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6199/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
 * 2018/06/06 - [Developpeur junior en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6195/developpeur-junior-en-cdi-25000-34000 "Developpeur junior en CDI 25000-34000")
 * 2018/05/05 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6162/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/06/06 - [Developpeur ERP (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6197/developpeur-erp-h-f-en-cdi-a-paris-25000-34000 "Developpeur ERP (H/F) en CDI à Paris 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/04/30 - [Sysadmin/Devops Linux (télétravail)](http://www.pyjobs.fr/jobs/details/6153/sysadmin-devops-linux-teletravail "Sysadmin/Devops Linux (télétravail)")
 * 2018/06/07 - [CTO #Startup Fintech Internationale - H/F en CDI >70000](http://www.pyjobs.fr/jobs/details/6201/cto-startup-fintech-internationale-h-f-en-cdi-70000 "CTO #Startup Fintech Internationale - H/F en CDI >70000")
 * 2018/06/07 - [Data Developer (H/F) en CDI à La Rochelle 25000-34000](http://www.pyjobs.fr/jobs/details/6200/data-developer-h-f-en-cdi-a-la-rochelle-25000-34000 "Data Developer (H/F) en CDI à La Rochelle 25000-34000")
-* 2018/04/29 - [Développeur(se) Python/Django full stack (H/F) à Nantes](http://www.pyjobs.fr/jobs/details/6152/developpeur-se-python-django-full-stack-h-f-a-nantes "Développeur(se) Python/Django full stack (H/F) à Nantes")
 

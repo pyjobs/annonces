@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6191/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/05/28 - [Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6189/software-engineer-web-python-vue-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000")
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6188/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6187/edge-computing-slapos-python "Edge computing slapos python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/06 - [Développeur .Net Core 2 – Editeur IA & Data en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6196/developpeur-net-core-2-editeur-ia-data-en-cdi-a-paris-45000-54000 "Développeur .Net Core 2 – Editeur IA & Data en CDI à Paris 45000-54000")
 * 2018/06/05 - [Ingénieur Système devops / SRE chez CozyCloud (télétravail)](http://www.pyjobs.fr/jobs/details/6194/ingenieur-systeme-devops-sre-chez-cozycloud-teletravail "Ingénieur Système devops / SRE chez CozyCloud (télétravail)")
 * 2018/06/04 - [Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/6193/developpeur-web-et-mobile-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000")
-* 2018/05/31 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/6192/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
 

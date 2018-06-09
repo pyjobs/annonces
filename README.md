@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/18 - [Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6179/ingenieur-administrateur-systeme-et-reseaux-en-cdi-a-marseille-35000-44000 "Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000")
 * 2018/05/18 - [Administrateur système (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6177/administrateur-systeme-h-f-en-cdi "Administrateur système (H/F) en CDI")
 * 2018/05/18 - [Data Manager (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6178/data-manager-h-f-en-cdi "Data Manager (H/F) en CDI")
 * 2018/05/18 - [Ingénieur·e data & web mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6176/ingenieur-e-data-web-mining-h-f-en-cdi-a-paris "Ingénieur·e data & web mining (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/24 - [Développeur Python / Django (H/F) en Freelance à Auch](http://www.pyjobs.fr/jobs/details/6183/developpeur-python-django-h-f-en-freelance-a-auch "Développeur Python / Django (H/F) en Freelance à Auch")
 * 2018/05/24 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6184/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 * 2018/05/24 - [CTO associé en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6182/cto-associe-en-freelance-a-paris "CTO associé en Freelance à Paris")
-* 2018/05/21 - [Ingénieur Big Data – Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6181/ingenieur-big-data-python-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Big Data – Python (H/F) en CDI à Paris 45000-54000")
 

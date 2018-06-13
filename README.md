@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/13 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6208/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/06/13 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6209/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
 * 2018/06/13 - [Lead Développeur Full JavaScript / Architecte en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6207/lead-developpeur-full-javascript-architecte-en-cdi-60000-69000 "Lead Développeur Full JavaScript / Architecte en CDI 60000-69000")
 * 2018/06/12 - [Administrateur Système et Réseau (H/F) en CDI à Morbier](http://www.pyjobs.fr/jobs/details/6205/administrateur-systeme-et-reseau-h-f-en-cdi-a-morbier "Administrateur Système et Réseau (H/F) en CDI à Morbier")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/04 - [Développeur rails et javascript (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6161/developpeur-rails-et-javascript-h-f-en-cdi "Développeur rails et javascript (H/F) en CDI")
 * 2018/05/07 - [Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000](http://www.pyjobs.fr/jobs/details/6163/developpeur-confirme-back-end-python-django-en-cdi-a-paris-19e-arrondissement-45000-54000 "Développeur Confirmé back-end Python Django en CDI à Paris-19E-Arrondissement 45000-54000")
 * 2018/05/04 - [CDI Développement Python à Toulouse](http://www.pyjobs.fr/jobs/details/6160/cdi-developpement-python-a-toulouse "CDI Développement Python à Toulouse")
-* 2018/05/04 - [CDI Développement Web Python JavaScript à Toulouse](http://www.pyjobs.fr/jobs/details/6159/cdi-developpement-web-python-javascript-a-toulouse "CDI Développement Web Python JavaScript à Toulouse")
 

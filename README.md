@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/16 - [AdminSys](http://www.pyjobs.fr/jobs/details/6173/adminsys "AdminSys")
 * 2018/05/14 - [Administrateur Système Linux/ Devops (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6171/administrateur-systeme-linux-devops-f-h-en-cdi "Administrateur Système Linux/ Devops (F/H) en CDI")
 * 2018/05/14 - [Leader Technique Réseaux en CDI à Lille](http://www.pyjobs.fr/jobs/details/6172/leader-technique-reseaux-en-cdi-a-lille "Leader Technique Réseaux en CDI à Lille")
 * 2018/06/08 - [Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000](http://www.pyjobs.fr/jobs/details/6202/integrateur-web-systeme-cadre-en-cdd-a-dijon-35000-44000 "Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/18 - [Data Manager (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6178/data-manager-h-f-en-cdi "Data Manager (H/F) en CDI")
 * 2018/05/18 - [Ingénieur·e data & web mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6176/ingenieur-e-data-web-mining-h-f-en-cdi-a-paris "Ingénieur·e data & web mining (H/F) en CDI à Paris")
 * 2018/05/17 - [Ingénieur Développement Backend (H/F) en CDI à Villeurbanne](http://www.pyjobs.fr/jobs/details/6175/ingenieur-developpement-backend-h-f-en-cdi-a-villeurbanne "Ingénieur Développement Backend (H/F) en CDI à Villeurbanne")
-* 2018/05/17 - [Développeur web full stack senior en CDI](http://www.pyjobs.fr/jobs/details/6174/developpeur-web-full-stack-senior-en-cdi "Développeur web full stack senior en CDI")
 

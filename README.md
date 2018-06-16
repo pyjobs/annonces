@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/06 - [Developpeur ERP (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6197/developpeur-erp-h-f-en-cdi-a-paris-25000-34000 "Developpeur ERP (H/F) en CDI à Paris 25000-34000")
 * 2018/06/06 - [Développeur .Net Core 2 – Editeur IA & Data en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6196/developpeur-net-core-2-editeur-ia-data-en-cdi-a-paris-45000-54000 "Développeur .Net Core 2 – Editeur IA & Data en CDI à Paris 45000-54000")
 * 2018/06/05 - [Ingénieur Système devops / SRE chez CozyCloud (télétravail)](http://www.pyjobs.fr/jobs/details/6194/ingenieur-systeme-devops-sre-chez-cozycloud-teletravail "Ingénieur Système devops / SRE chez CozyCloud (télétravail)")
 * 2018/06/04 - [Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/6193/developpeur-web-et-mobile-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/06 - [Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6198/lead-data-scientist-editeur-pointu-en-data-en-cdi-a-paris-70000 "Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000")
 * 2018/06/06 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6199/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
 * 2018/06/06 - [Developpeur junior en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6195/developpeur-junior-en-cdi-25000-34000 "Developpeur junior en CDI 25000-34000")
-* 2018/05/05 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6162/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 

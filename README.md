@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6188/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6187/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/25 - [Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6185/lead-data-engineer-editeur-a-la-pointe-ia-en-cdi-a-paris-70000 "Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000")
 * 2018/05/25 - [Beekeeping Software Engineer/Developer en Stage à New York 25000-34000](http://www.pyjobs.fr/jobs/details/6186/beekeeping-software-engineer-developer-en-stage-a-new-york-25000-34000 "Beekeeping Software Engineer/Developer en Stage à New York 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/31 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/6192/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6190/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6191/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
-* 2018/05/28 - [Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6189/software-engineer-web-python-vue-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/05/18 - [Ingénieur·e data & web mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6176/ingenieur-e-data-web-mining-h-f-en-cdi-a-paris "Ingénieur·e data & web mining (H/F) en CDI à Paris")
 * 2018/05/17 - [Ingénieur Développement Backend (H/F) en CDI à Villeurbanne](http://www.pyjobs.fr/jobs/details/6175/ingenieur-developpement-backend-h-f-en-cdi-a-villeurbanne "Ingénieur Développement Backend (H/F) en CDI à Villeurbanne")
 * 2018/05/17 - [Développeur web full stack senior en CDI](http://www.pyjobs.fr/jobs/details/6174/developpeur-web-full-stack-senior-en-cdi "Développeur web full stack senior en CDI")
 * 2018/05/16 - [AdminSys](http://www.pyjobs.fr/jobs/details/6173/adminsys "AdminSys")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/20 - [Développeur pour Edge Computing à Paris, Lille, Shanghai, Tokyo, Munich](http://www.pyjobs.fr/jobs/details/6180/developpeur-pour-edge-computing-a-paris-lille-shanghai-tokyo-munich "Développeur pour Edge Computing à Paris, Lille, Shanghai, Tokyo, Munich")
 * 2018/05/18 - [Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6179/ingenieur-administrateur-systeme-et-reseaux-en-cdi-a-marseille-35000-44000 "Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000")
 * 2018/05/18 - [Administrateur système (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6177/administrateur-systeme-h-f-en-cdi "Administrateur système (H/F) en CDI")
-* 2018/05/18 - [Data Manager (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6178/data-manager-h-f-en-cdi "Data Manager (H/F) en CDI")
 

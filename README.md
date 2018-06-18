@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/07 - [CTO #Startup Fintech Internationale - H/F en CDI >70000](http://www.pyjobs.fr/jobs/details/6201/cto-startup-fintech-internationale-h-f-en-cdi-70000 "CTO #Startup Fintech Internationale - H/F en CDI >70000")
 * 2018/06/07 - [Data Developer (H/F) en CDI à La Rochelle 25000-34000](http://www.pyjobs.fr/jobs/details/6200/data-developer-h-f-en-cdi-a-la-rochelle-25000-34000 "Data Developer (H/F) en CDI à La Rochelle 25000-34000")
 * 2018/06/06 - [Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6198/lead-data-scientist-editeur-pointu-en-data-en-cdi-a-paris-70000 "Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000")
 * 2018/06/06 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6199/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/13 - [Lead Développeur Full JavaScript / Architecte en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6207/lead-developpeur-full-javascript-architecte-en-cdi-60000-69000 "Lead Développeur Full JavaScript / Architecte en CDI 60000-69000")
 * 2018/06/12 - [Administrateur Système et Réseau (H/F) en CDI à Morbier](http://www.pyjobs.fr/jobs/details/6205/administrateur-systeme-et-reseau-h-f-en-cdi-a-morbier "Administrateur Système et Réseau (H/F) en CDI à Morbier")
 * 2018/06/12 - [Assistant Data Scientist (H/F) en Alternance à Puteaux](http://www.pyjobs.fr/jobs/details/6206/assistant-data-scientist-h-f-en-alternance-a-puteaux "Assistant Data Scientist (H/F) en Alternance à Puteaux")
-* 2018/06/11 - [Intégrateur Applicatif (H/F) en CDI à Glénay 25000-34000](http://www.pyjobs.fr/jobs/details/6204/integrateur-applicatif-h-f-en-cdi-a-glenay-25000-34000 "Intégrateur Applicatif (H/F) en CDI à Glénay 25000-34000")
 

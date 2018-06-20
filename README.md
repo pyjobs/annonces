@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/20 - [Développeur Python Talend - Marketplace en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6216/developpeur-python-talend-marketplace-en-cdi-a-paris-45000-54000 "Développeur Python Talend - Marketplace en CDI à Paris 45000-54000")
 * 2018/06/19 - [Développeur Backend Node.JS (H/F) en CDI à Pau 35000-44000](http://www.pyjobs.fr/jobs/details/6215/developpeur-backend-node-js-h-f-en-cdi-a-pau-35000-44000 "Développeur Backend Node.JS (H/F) en CDI à Pau 35000-44000")
 * 2018/06/15 - [Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6212/wanted-adminsys-devops-h-f-en-cdi-a-paris-45000-54000 "Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000")
 * 2018/06/19 - [Développeur web Front-End sur Paris en Stage à Paris](http://www.pyjobs.fr/jobs/details/6214/developpeur-web-front-end-sur-paris-en-stage-a-paris "Développeur web Front-End sur Paris en Stage à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/14 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6170/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/05/11 - [Head of Engineering Data pour une startup IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6168/head-of-engineering-data-pour-une-startup-ia-en-cdi-a-paris-70000 "Head of Engineering Data pour une startup IA en CDI à Paris >70000")
 * 2018/05/09 - [Assistant Développeur PHP/JS (H/F) en Contrat pro](http://www.pyjobs.fr/jobs/details/6166/assistant-developpeur-php-js-h-f-en-contrat-pro "Assistant Développeur PHP/JS (H/F) en Contrat pro")
-* 2018/05/09 - [Assistant Développeur Java en Contrat pro à Nantes <24000](http://www.pyjobs.fr/jobs/details/6167/assistant-developpeur-java-en-contrat-pro-a-nantes-24000 "Assistant Développeur Java en Contrat pro à Nantes <24000")
 

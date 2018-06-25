@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/08 - [Developpeur python alternance](http://www.pyjobs.fr/jobs/details/6203/developpeur-python-alternance "Developpeur python alternance")
 * 2018/06/25 - [Ingénieur Système & Réseaux Windows (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6221/ingenieur-systeme-reseaux-windows-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Système & Réseaux Windows (H/F) en CDI à Paris 35000-44000")
 * 2018/06/25 - [SysAdmin Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6220/sysadmin-linux-h-f-en-cdi "SysAdmin Linux (H/F) en CDI")
 * 2018/06/25 - [Lead developpeur Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6219/lead-developpeur-python-h-f-en-cdi-a-paris-55000-59000 "Lead developpeur Python (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/16 - [AdminSys](http://www.pyjobs.fr/jobs/details/6173/adminsys "AdminSys")
 * 2018/05/14 - [Administrateur Système Linux/ Devops (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6171/administrateur-systeme-linux-devops-f-h-en-cdi "Administrateur Système Linux/ Devops (F/H) en CDI")
 * 2018/05/14 - [Leader Technique Réseaux en CDI à Lille](http://www.pyjobs.fr/jobs/details/6172/leader-technique-reseaux-en-cdi-a-lille "Leader Technique Réseaux en CDI à Lille")
-* 2018/06/08 - [Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000](http://www.pyjobs.fr/jobs/details/6202/integrateur-web-systeme-cadre-en-cdd-a-dijon-35000-44000 "Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/25 - [Lead developpeur Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6219/lead-developpeur-python-h-f-en-cdi-a-paris-55000-59000 "Lead developpeur Python (H/F) en CDI à Paris 55000-59000")
 * 2018/06/22 - [Développeur Javascript (Angular, React, Vue) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6218/developpeur-javascript-angular-react-vue-en-cdi-a-paris-45000-54000 "Développeur Javascript (Angular, React, Vue) en CDI à Paris 45000-54000")
 * 2018/06/21 - [DevOps Engineer (H/F) en CDI à Esch-sur-Alzette](http://www.pyjobs.fr/jobs/details/6217/devops-engineer-h-f-en-cdi-a-esch-sur-alzette "DevOps Engineer (H/F) en CDI à Esch-sur-Alzette")
 * 2018/06/20 - [Développeur Python Talend - Marketplace en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6216/developpeur-python-talend-marketplace-en-cdi-a-paris-45000-54000 "Développeur Python Talend - Marketplace en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/08 - [Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000](http://www.pyjobs.fr/jobs/details/6202/integrateur-web-systeme-cadre-en-cdd-a-dijon-35000-44000 "Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000")
 * 2018/06/08 - [Developpeur python alternance](http://www.pyjobs.fr/jobs/details/6203/developpeur-python-alternance "Developpeur python alternance")
 * 2018/05/14 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6169/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
-* 2018/05/14 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6170/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 

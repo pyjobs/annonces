@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6224/developpeur-full-stack-js-vue-js-node-js-en-cdi-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI 45000-54000")
 * 2018/06/29 - [Développeur Back end Python -Lille](http://www.pyjobs.fr/jobs/details/6222/developpeur-back-end-python-lille "Développeur Back end Python -Lille")
 * 2018/06/08 - [Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000](http://www.pyjobs.fr/jobs/details/6202/integrateur-web-systeme-cadre-en-cdd-a-dijon-35000-44000 "Intégrateur Web/Système (Cadre) en CDD à Dijon 35000-44000")
 * 2018/06/08 - [Developpeur python alternance](http://www.pyjobs.fr/jobs/details/6203/developpeur-python-alternance "Developpeur python alternance")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/18 - [Ingénieur·e data & web mining (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6176/ingenieur-e-data-web-mining-h-f-en-cdi-a-paris "Ingénieur·e data & web mining (H/F) en CDI à Paris")
 * 2018/05/17 - [Ingénieur Développement Backend (H/F) en CDI à Villeurbanne](http://www.pyjobs.fr/jobs/details/6175/ingenieur-developpement-backend-h-f-en-cdi-a-villeurbanne "Ingénieur Développement Backend (H/F) en CDI à Villeurbanne")
 * 2018/05/17 - [Développeur web full stack senior en CDI](http://www.pyjobs.fr/jobs/details/6174/developpeur-web-full-stack-senior-en-cdi "Développeur web full stack senior en CDI")
-* 2018/05/16 - [AdminSys](http://www.pyjobs.fr/jobs/details/6173/adminsys "AdminSys")
 

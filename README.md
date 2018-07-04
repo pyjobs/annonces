@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6229/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000")
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6231/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 * 2018/07/04 - [Lead dev web Python (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6230/lead-dev-web-python-h-f-en-cdi-55000-59000 "Lead dev web Python (H/F) en CDI 55000-59000")
 * 2018/07/04 - [Architecte Cloud - DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6227/architecte-cloud-devops-h-f-en-cdi-a-paris "Architecte Cloud - DevOps (H/F) en CDI à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/24 - [Développeur Python / Django (H/F) en Freelance à Auch](http://www.pyjobs.fr/jobs/details/6183/developpeur-python-django-h-f-en-freelance-a-auch "Développeur Python / Django (H/F) en Freelance à Auch")
 * 2018/05/24 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6184/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 * 2018/05/24 - [CTO associé en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6182/cto-associe-en-freelance-a-paris "CTO associé en Freelance à Paris")
-* 2018/05/21 - [Ingénieur Big Data – Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6181/ingenieur-big-data-python-h-f-en-cdi-a-paris-45000-54000 "Ingénieur Big Data – Python (H/F) en CDI à Paris 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/04 - [INGENIEUR DEVOPS (H/F) en CDI à Clichy](http://www.pyjobs.fr/jobs/details/6228/ingenieur-devops-h-f-en-cdi-a-clichy "INGENIEUR DEVOPS (H/F) en CDI à Clichy")
 * 2018/07/04 - [Full stack python developer](http://www.pyjobs.fr/jobs/details/6226/full-stack-python-developer "Full stack python developer")
 * 2018/07/03 - [DevOps Python en télétravail (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6225/devops-python-en-teletravail-h-f-en-cdi-25000-34000 "DevOps Python en télétravail (H/F) en CDI 25000-34000")
 * 2018/07/02 - [Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6223/lead-dev-backend-node-js-en-startup-de-lia-en-cdi-a-paris-70000 "Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/20 - [Développeur pour Edge Computing à Paris, Lille, Shanghai, Tokyo, Munich](http://www.pyjobs.fr/jobs/details/6180/developpeur-pour-edge-computing-a-paris-lille-shanghai-tokyo-munich "Développeur pour Edge Computing à Paris, Lille, Shanghai, Tokyo, Munich")
 * 2018/05/18 - [Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000](http://www.pyjobs.fr/jobs/details/6179/ingenieur-administrateur-systeme-et-reseaux-en-cdi-a-marseille-35000-44000 "Ingénieur Administrateur système et réseaux en CDI à Marseille 35000-44000")
 * 2018/05/18 - [Administrateur système (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6177/administrateur-systeme-h-f-en-cdi "Administrateur système (H/F) en CDI")
-* 2018/05/18 - [Data Manager (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6178/data-manager-h-f-en-cdi "Data Manager (H/F) en CDI")
 

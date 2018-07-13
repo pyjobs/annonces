@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/13 - [Ingénieur.e de recherche pour le médialab de Sciences Po à Paris](http://www.pyjobs.fr/jobs/details/6233/ingenieur-e-de-recherche-pour-le-medialab-de-sciences-po-a-paris "Ingénieur.e de recherche pour le médialab de Sciences Po à Paris")
 * 2018/07/09 - [Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6232/developpeur-ruby-on-rails-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000")
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6229/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000")
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6231/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/25 - [Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6185/lead-data-engineer-editeur-a-la-pointe-ia-en-cdi-a-paris-70000 "Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000")
 * 2018/05/25 - [Beekeeping Software Engineer/Developer en Stage à New York 25000-34000](http://www.pyjobs.fr/jobs/details/6186/beekeeping-software-engineer-developer-en-stage-a-new-york-25000-34000 "Beekeeping Software Engineer/Developer en Stage à New York 25000-34000")
 * 2018/05/24 - [Développeur Python / Django (H/F) en Freelance à Auch](http://www.pyjobs.fr/jobs/details/6183/developpeur-python-django-h-f-en-freelance-a-auch "Développeur Python / Django (H/F) en Freelance à Auch")
-* 2018/05/24 - [Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6184/software-engineer-fullstack-h-f-en-cdi-a-paris-45000-54000 "Software Engineer Fullstack (H/F) en CDI à Paris 45000-54000")
 

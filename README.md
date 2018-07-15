@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/15 - [Developpeur(se) embarqué - C en CDI](http://www.pyjobs.fr/jobs/details/6235/developpeur-se-embarque-c-en-cdi "Developpeur(se) embarqué - C en CDI")
 * 2018/07/13 - [Junior Developer – France](http://www.pyjobs.fr/jobs/details/6234/junior-developer-france "Junior Developer – France")
 * 2018/07/13 - [Ingénieur.e de recherche pour le médialab de Sciences Po à Paris](http://www.pyjobs.fr/jobs/details/6233/ingenieur-e-de-recherche-pour-le-medialab-de-sciences-po-a-paris "Ingénieur.e de recherche pour le médialab de Sciences Po à Paris")
 * 2018/07/09 - [Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6232/developpeur-ruby-on-rails-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6188/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6187/edge-computing-slapos-python "Edge computing slapos python")
 * 2018/05/25 - [Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6185/lead-data-engineer-editeur-a-la-pointe-ia-en-cdi-a-paris-70000 "Lead DATA Engineer – Editeur à la pointe - IA en CDI à Paris >70000")
-* 2018/05/25 - [Beekeeping Software Engineer/Developer en Stage à New York 25000-34000](http://www.pyjobs.fr/jobs/details/6186/beekeeping-software-engineer-developer-en-stage-a-new-york-25000-34000 "Beekeeping Software Engineer/Developer en Stage à New York 25000-34000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/16 - [Ingénieur de production / Devops en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/6236/ingenieur-de-production-devops-en-cdi-a-lille-35000-44000 "Ingénieur de production / Devops en CDI à Lille 35000-44000")
 * 2018/07/16 - [Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6239/ingenieur-developpeur-test-et-automatisation-en-cdi-a-nantes-35000-44000 "Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000")
 * 2018/07/16 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6238/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/07/16 - [Backend Engineer en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/6237/backend-engineer-en-cdi-a-boulogne-billancourt-35000-44000 "Backend Engineer en CDI à Boulogne-Billancourt 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/31 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/6192/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6190/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6191/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
-* 2018/05/28 - [Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6189/software-engineer-web-python-vue-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000")
 

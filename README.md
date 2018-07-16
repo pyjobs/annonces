@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/16 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6238/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/07/16 - [Backend Engineer en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/6237/backend-engineer-en-cdi-a-boulogne-billancourt-35000-44000 "Backend Engineer en CDI à Boulogne-Billancourt 35000-44000")
 * 2018/07/15 - [Developpeur(se) embarqué - C en CDI](http://www.pyjobs.fr/jobs/details/6235/developpeur-se-embarque-c-en-cdi "Developpeur(se) embarqué - C en CDI")
 * 2018/07/13 - [Junior Developer – France](http://www.pyjobs.fr/jobs/details/6234/junior-developer-france "Junior Developer – France")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6191/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 * 2018/05/28 - [Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6189/software-engineer-web-python-vue-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (Web/Python/Vue) (H/F) en CDI à Paris 45000-54000")
 * 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6188/edge-computing-slapos-python "Edge computing slapos python")
-* 2018/05/26 - [Edge computing slapos python](http://www.pyjobs.fr/jobs/details/6187/edge-computing-slapos-python "Edge computing slapos python")
 

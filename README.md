@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/20 - [Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source](http://www.pyjobs.fr/jobs/details/6241/administrateur-systemes-et-reseaux-agence-marseille-cdi-web-open-source "Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source")
 * 2018/07/20 - [Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6240/dev-thetribe-f-h-h-f-en-cdi-a-nantes-35000-44000 "Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000")
 * 2018/07/16 - [Ingénieur de production / Devops en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/6236/ingenieur-de-production-devops-en-cdi-a-lille-35000-44000 "Ingénieur de production / Devops en CDI à Lille 35000-44000")
 * 2018/07/16 - [Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6239/ingenieur-developpeur-test-et-automatisation-en-cdi-a-nantes-35000-44000 "Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/05 - [Ingénieur Système devops / SRE chez CozyCloud (télétravail)](http://www.pyjobs.fr/jobs/details/6194/ingenieur-systeme-devops-sre-chez-cozycloud-teletravail "Ingénieur Système devops / SRE chez CozyCloud (télétravail)")
 * 2018/06/04 - [Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000](http://www.pyjobs.fr/jobs/details/6193/developpeur-web-et-mobile-h-f-en-cdi-a-bordeaux-35000-44000 "Développeur Web et mobile (H/F) en CDI à Bordeaux 35000-44000")
 * 2018/05/31 - [Administrateur Système et Réseaux (H/F) en CDI à Angers](http://www.pyjobs.fr/jobs/details/6192/administrateur-systeme-et-reseaux-h-f-en-cdi-a-angers "Administrateur Système et Réseaux (H/F) en CDI à Angers")
-* 2018/05/30 - [Software Engineer (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6190/software-engineer-h-f-en-cdi-a-paris-45000-54000 "Software Engineer (H/F) en CDI à Paris 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/30 - [Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000](http://www.pyjobs.fr/jobs/details/6245/developpeur-back-fullstack-h-f-en-cdi-a-doha-35000-44000 "Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000")
 * 2018/07/27 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6244/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2018/07/23 - [Lead Developer (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6243/lead-developer-h-f-en-cdi-a-paris-60000-69000 "Lead Developer (H/F) en CDI à Paris 60000-69000")
 * 2018/07/20 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6242/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/06 - [Developpeur junior en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6195/developpeur-junior-en-cdi-25000-34000 "Developpeur junior en CDI 25000-34000")
 * 2018/06/18 - [Dév Python pour Django à Strasbourg H/F](http://www.pyjobs.fr/jobs/details/6213/dev-python-pour-django-a-strasbourg-h-f "Dév Python pour Django à Strasbourg H/F")
 * 2018/06/06 - [Developpeur ERP (H/F) en CDI à Paris 25000-34000](http://www.pyjobs.fr/jobs/details/6197/developpeur-erp-h-f-en-cdi-a-paris-25000-34000 "Developpeur ERP (H/F) en CDI à Paris 25000-34000")
-* 2018/06/06 - [Développeur .Net Core 2 – Editeur IA & Data en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6196/developpeur-net-core-2-editeur-ia-data-en-cdi-a-paris-45000-54000 "Développeur .Net Core 2 – Editeur IA & Data en CDI à Paris 45000-54000")
 

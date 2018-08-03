@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/18 - [Dév Python pour Django à Strasbourg H/F](http://www.pyjobs.fr/jobs/details/6213/dev-python-pour-django-a-strasbourg-h-f "Dév Python pour Django à Strasbourg H/F")
 * 2018/08/03 - [Dev Front confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6247/dev-front-confirme-h-f-en-cdi-a-paris-45000-54000 "Dev Front confirmé (H/F) en CDI à Paris 45000-54000")
 * 2018/08/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6246/developpeur-full-stack-js-vue-js-node-js-en-cdi-a-paris-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000")
 * 2018/07/30 - [Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000](http://www.pyjobs.fr/jobs/details/6245/developpeur-back-fullstack-h-f-en-cdi-a-doha-35000-44000 "Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/07 - [Data Developer (H/F) en CDI à La Rochelle 25000-34000](http://www.pyjobs.fr/jobs/details/6200/data-developer-h-f-en-cdi-a-la-rochelle-25000-34000 "Data Developer (H/F) en CDI à La Rochelle 25000-34000")
 * 2018/06/06 - [Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6198/lead-data-scientist-editeur-pointu-en-data-en-cdi-a-paris-70000 "Lead DATA Scientist – Editeur pointu en Data en CDI à Paris >70000")
 * 2018/06/06 - [AdminSys Mélomane (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6199/adminsys-melomane-h-f-en-cdi-a-paris-45000-54000 "AdminSys Mélomane (H/F) en CDI à Paris 45000-54000")
-* 2018/06/06 - [Developpeur junior en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6195/developpeur-junior-en-cdi-25000-34000 "Developpeur junior en CDI 25000-34000")
 

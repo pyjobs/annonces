@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/13 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6208/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/06/13 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6209/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
 * 2018/06/13 - [Lead Développeur Full JavaScript / Architecte en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6207/lead-developpeur-full-javascript-architecte-en-cdi-60000-69000 "Lead Développeur Full JavaScript / Architecte en CDI 60000-69000")
 * 2018/06/12 - [Administrateur Système et Réseau (H/F) en CDI à Morbier](http://www.pyjobs.fr/jobs/details/6205/administrateur-systeme-et-reseau-h-f-en-cdi-a-morbier "Administrateur Système et Réseau (H/F) en CDI à Morbier")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/15 - [Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6212/wanted-adminsys-devops-h-f-en-cdi-a-paris-45000-54000 "Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000")
 * 2018/06/19 - [Développeur web Front-End sur Paris en Stage à Paris](http://www.pyjobs.fr/jobs/details/6214/developpeur-web-front-end-sur-paris-en-stage-a-paris "Développeur web Front-End sur Paris en Stage à Paris")
 * 2018/06/14 - [Développeur full-stack web (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6211/developpeur-full-stack-web-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack web (H/F) en CDI à Paris 45000-54000")
-* 2018/06/13 - [Apprenti developpeur python](http://www.pyjobs.fr/jobs/details/6210/apprenti-developpeur-python "Apprenti developpeur python")
 

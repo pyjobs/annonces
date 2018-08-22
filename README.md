@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/04 - [Lead dev web Python (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6230/lead-dev-web-python-h-f-en-cdi-55000-59000 "Lead dev web Python (H/F) en CDI 55000-59000")
 * 2018/07/04 - [Architecte Cloud - DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6227/architecte-cloud-devops-h-f-en-cdi-a-paris "Architecte Cloud - DevOps (H/F) en CDI à Paris")
 * 2018/07/04 - [INGENIEUR DEVOPS (H/F) en CDI à Clichy](http://www.pyjobs.fr/jobs/details/6228/ingenieur-devops-h-f-en-cdi-a-clichy "INGENIEUR DEVOPS (H/F) en CDI à Clichy")
 * 2018/07/04 - [Full stack python developer](http://www.pyjobs.fr/jobs/details/6226/full-stack-python-developer "Full stack python developer")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/15 - [Developpeur(se) embarqué - C en CDI](http://www.pyjobs.fr/jobs/details/6235/developpeur-se-embarque-c-en-cdi "Developpeur(se) embarqué - C en CDI")
 * 2018/07/13 - [Junior Developer – France](http://www.pyjobs.fr/jobs/details/6234/junior-developer-france "Junior Developer – France")
 * 2018/07/13 - [Ingénieur.e de recherche pour le médialab de Sciences Po à Paris](http://www.pyjobs.fr/jobs/details/6233/ingenieur-e-de-recherche-pour-le-medialab-de-sciences-po-a-paris "Ingénieur.e de recherche pour le médialab de Sciences Po à Paris")
-* 2018/07/09 - [Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6232/developpeur-ruby-on-rails-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000")
 

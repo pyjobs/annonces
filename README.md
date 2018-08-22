@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/12 - [Assistant Data Scientist (H/F) en Alternance à Puteaux](http://www.pyjobs.fr/jobs/details/6206/assistant-data-scientist-h-f-en-alternance-a-puteaux "Assistant Data Scientist (H/F) en Alternance à Puteaux")
 * 2018/06/11 - [Intégrateur Applicatif (H/F) en CDI à Glénay 25000-34000](http://www.pyjobs.fr/jobs/details/6204/integrateur-applicatif-h-f-en-cdi-a-glenay-25000-34000 "Intégrateur Applicatif (H/F) en CDI à Glénay 25000-34000")
 * 2018/08/21 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6252/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
 * 2018/08/19 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6251/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/13 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6208/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/06/13 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6209/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
 * 2018/06/13 - [Lead Développeur Full JavaScript / Architecte en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6207/lead-developpeur-full-javascript-architecte-en-cdi-60000-69000 "Lead Développeur Full JavaScript / Architecte en CDI 60000-69000")
-* 2018/06/12 - [Administrateur Système et Réseau (H/F) en CDI à Morbier](http://www.pyjobs.fr/jobs/details/6205/administrateur-systeme-et-reseau-h-f-en-cdi-a-morbier "Administrateur Système et Réseau (H/F) en CDI à Morbier")
 

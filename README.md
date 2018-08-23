@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/16 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6250/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/08/10 - [Développeur/Intégrateur front end (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6249/developpeur-integrateur-front-end-h-f-en-cdd "Développeur/Intégrateur front end (H/F) en CDD")
 * 2018/08/07 - [{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}](http://www.pyjobs.fr/jobs/details/6248/ingenieur-e-web-ruby-on-rails-full-stack-pour-bd-numerique-a-la-rochelle "{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}")
 * 2018/08/03 - [Dev Front confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6247/dev-front-confirme-h-f-en-cdi-a-paris-45000-54000 "Dev Front confirmé (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/13 - [Lead Développeur Full JavaScript / Architecte en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6207/lead-developpeur-full-javascript-architecte-en-cdi-60000-69000 "Lead Développeur Full JavaScript / Architecte en CDI 60000-69000")
 * 2018/06/12 - [Administrateur Système et Réseau (H/F) en CDI à Morbier](http://www.pyjobs.fr/jobs/details/6205/administrateur-systeme-et-reseau-h-f-en-cdi-a-morbier "Administrateur Système et Réseau (H/F) en CDI à Morbier")
 * 2018/06/12 - [Assistant Data Scientist (H/F) en Alternance à Puteaux](http://www.pyjobs.fr/jobs/details/6206/assistant-data-scientist-h-f-en-alternance-a-puteaux "Assistant Data Scientist (H/F) en Alternance à Puteaux")
-* 2018/06/11 - [Intégrateur Applicatif (H/F) en CDI à Glénay 25000-34000](http://www.pyjobs.fr/jobs/details/6204/integrateur-applicatif-h-f-en-cdi-a-glenay-25000-34000 "Intégrateur Applicatif (H/F) en CDI à Glénay 25000-34000")
 

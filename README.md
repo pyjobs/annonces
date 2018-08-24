@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/15 - [Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6212/wanted-adminsys-devops-h-f-en-cdi-a-paris-45000-54000 "Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000")
 * 2018/06/19 - [Développeur web Front-End sur Paris en Stage à Paris](http://www.pyjobs.fr/jobs/details/6214/developpeur-web-front-end-sur-paris-en-stage-a-paris "Développeur web Front-End sur Paris en Stage à Paris")
 * 2018/06/14 - [Développeur full-stack web (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6211/developpeur-full-stack-web-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack web (H/F) en CDI à Paris 45000-54000")
 * 2018/08/24 - [Administrateur Système / DevOps - H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6258/administrateur-systeme-devops-h-f-en-cdi-35000-44000 "Administrateur Système / DevOps - H/F en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/22 - [Développeur Javascript (Angular, React, Vue) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6218/developpeur-javascript-angular-react-vue-en-cdi-a-paris-45000-54000 "Développeur Javascript (Angular, React, Vue) en CDI à Paris 45000-54000")
 * 2018/06/21 - [DevOps Engineer (H/F) en CDI à Esch-sur-Alzette](http://www.pyjobs.fr/jobs/details/6217/devops-engineer-h-f-en-cdi-a-esch-sur-alzette "DevOps Engineer (H/F) en CDI à Esch-sur-Alzette")
 * 2018/06/20 - [Développeur Python Talend - Marketplace en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6216/developpeur-python-talend-marketplace-en-cdi-a-paris-45000-54000 "Développeur Python Talend - Marketplace en CDI à Paris 45000-54000")
-* 2018/06/19 - [Développeur Backend Node.JS (H/F) en CDI à Pau 35000-44000](http://www.pyjobs.fr/jobs/details/6215/developpeur-backend-node-js-h-f-en-cdi-a-pau-35000-44000 "Développeur Backend Node.JS (H/F) en CDI à Pau 35000-44000")
 

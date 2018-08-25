@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/20 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6242/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2018/07/20 - [Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source](http://www.pyjobs.fr/jobs/details/6241/administrateur-systemes-et-reseaux-agence-marseille-cdi-web-open-source "Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source")
 * 2018/07/20 - [Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6240/dev-thetribe-f-h-h-f-en-cdi-a-nantes-35000-44000 "Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000")
 * 2018/07/16 - [Ingénieur de production / Devops en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/6236/ingenieur-de-production-devops-en-cdi-a-lille-35000-44000 "Ingénieur de production / Devops en CDI à Lille 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6246/developpeur-full-stack-js-vue-js-node-js-en-cdi-a-paris-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000")
 * 2018/06/18 - [Dév Python pour Django à Strasbourg H/F](http://www.pyjobs.fr/jobs/details/6213/dev-python-pour-django-a-strasbourg-h-f "Dév Python pour Django à Strasbourg H/F")
 * 2018/07/30 - [Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000](http://www.pyjobs.fr/jobs/details/6245/developpeur-back-fullstack-h-f-en-cdi-a-doha-35000-44000 "Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000")
-* 2018/07/27 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6244/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 

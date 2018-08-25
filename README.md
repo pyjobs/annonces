@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6246/developpeur-full-stack-js-vue-js-node-js-en-cdi-a-paris-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000")
 * 2018/07/30 - [Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000](http://www.pyjobs.fr/jobs/details/6245/developpeur-back-fullstack-h-f-en-cdi-a-doha-35000-44000 "Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000")
 * 2018/06/18 - [Dév Python pour Django à Strasbourg H/F](http://www.pyjobs.fr/jobs/details/6213/dev-python-pour-django-a-strasbourg-h-f "Dév Python pour Django à Strasbourg H/F")
 * 2018/07/27 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6244/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/19 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6251/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2018/08/16 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6250/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/08/10 - [Développeur/Intégrateur front end (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6249/developpeur-integrateur-front-end-h-f-en-cdd "Développeur/Intégrateur front end (H/F) en CDD")
-* 2018/08/07 - [{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}](http://www.pyjobs.fr/jobs/details/6248/ingenieur-e-web-ruby-on-rails-full-stack-pour-bd-numerique-a-la-rochelle "{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/04 - [INGENIEUR DEVOPS (H/F) en CDI à Clichy](http://www.pyjobs.fr/jobs/details/6228/ingenieur-devops-h-f-en-cdi-a-clichy "INGENIEUR DEVOPS (H/F) en CDI à Clichy")
 * 2018/07/04 - [Full stack python developer](http://www.pyjobs.fr/jobs/details/6226/full-stack-python-developer "Full stack python developer")
 * 2018/07/03 - [DevOps Python en télétravail (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6225/devops-python-en-teletravail-h-f-en-cdi-25000-34000 "DevOps Python en télétravail (H/F) en CDI 25000-34000")
 * 2018/07/02 - [Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6223/lead-dev-backend-node-js-en-startup-de-lia-en-cdi-a-paris-70000 "Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/09 - [Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6232/developpeur-ruby-on-rails-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000")
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6229/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000")
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6231/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
-* 2018/07/04 - [Lead dev web Python (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6230/lead-dev-web-python-h-f-en-cdi-55000-59000 "Lead dev web Python (H/F) en CDI 55000-59000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/19 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6251/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2018/08/16 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6250/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/08/10 - [Développeur/Intégrateur front end (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6249/developpeur-integrateur-front-end-h-f-en-cdd "Développeur/Intégrateur front end (H/F) en CDD")
 * 2018/08/07 - [{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}](http://www.pyjobs.fr/jobs/details/6248/ingenieur-e-web-ruby-on-rails-full-stack-pour-bd-numerique-a-la-rochelle "{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/13 - [Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000](http://www.pyjobs.fr/jobs/details/6208/developpeur-test-et-automatisation-h-f-en-cdi-a-puteaux-35000-44000 "Développeur Test et Automatisation (H/F) en CDI à Puteaux 35000-44000")
 * 2018/06/13 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6209/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
 * 2018/06/13 - [Lead Développeur Full JavaScript / Architecte en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6207/lead-developpeur-full-javascript-architecte-en-cdi-60000-69000 "Lead Développeur Full JavaScript / Architecte en CDI 60000-69000")
-* 2018/08/23 - [Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6257/developpeur-erp-django-fullstack-teletravail "Développeur ERP Django Fullstack (télétravail)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/16 - [Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6239/ingenieur-developpeur-test-et-automatisation-en-cdi-a-nantes-35000-44000 "Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000")
 * 2018/07/16 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6238/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/07/16 - [Backend Engineer en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/6237/backend-engineer-en-cdi-a-boulogne-billancourt-35000-44000 "Backend Engineer en CDI à Boulogne-Billancourt 35000-44000")
 * 2018/07/15 - [Developpeur(se) embarqué - C en CDI](http://www.pyjobs.fr/jobs/details/6235/developpeur-se-embarque-c-en-cdi "Developpeur(se) embarqué - C en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/23 - [Lead Developer (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6243/lead-developer-h-f-en-cdi-a-paris-60000-69000 "Lead Developer (H/F) en CDI à Paris 60000-69000")
 * 2018/07/20 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6242/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2018/07/20 - [Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source](http://www.pyjobs.fr/jobs/details/6241/administrateur-systemes-et-reseaux-agence-marseille-cdi-web-open-source "Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source")
-* 2018/07/20 - [Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6240/dev-thetribe-f-h-h-f-en-cdi-a-nantes-35000-44000 "Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000")
 

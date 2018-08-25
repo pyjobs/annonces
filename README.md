@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/04 - [Architecte Cloud - DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6227/architecte-cloud-devops-h-f-en-cdi-a-paris "Architecte Cloud - DevOps (H/F) en CDI à Paris")
 * 2018/07/04 - [INGENIEUR DEVOPS (H/F) en CDI à Clichy](http://www.pyjobs.fr/jobs/details/6228/ingenieur-devops-h-f-en-cdi-a-clichy "INGENIEUR DEVOPS (H/F) en CDI à Clichy")
 * 2018/07/04 - [Full stack python developer](http://www.pyjobs.fr/jobs/details/6226/full-stack-python-developer "Full stack python developer")
 * 2018/07/03 - [DevOps Python en télétravail (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6225/devops-python-en-teletravail-h-f-en-cdi-25000-34000 "DevOps Python en télétravail (H/F) en CDI 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/13 - [Ingénieur.e de recherche pour le médialab de Sciences Po à Paris](http://www.pyjobs.fr/jobs/details/6233/ingenieur-e-de-recherche-pour-le-medialab-de-sciences-po-a-paris "Ingénieur.e de recherche pour le médialab de Sciences Po à Paris")
 * 2018/07/09 - [Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6232/developpeur-ruby-on-rails-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000")
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6229/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000")
-* 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6231/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 

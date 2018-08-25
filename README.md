@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/02 - [Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6223/lead-dev-backend-node-js-en-startup-de-lia-en-cdi-a-paris-70000 "Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000")
 * 2018/07/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6224/developpeur-full-stack-js-vue-js-node-js-en-cdi-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI 45000-54000")
 * 2018/08/22 - [Product Owner Senior / PPO - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6254/product-owner-senior-ppo-h-f-en-freelance-a-paris "Product Owner Senior / PPO - H/F en Freelance à Paris")
 * 2018/06/29 - [Développeur Back end Python -Lille](http://www.pyjobs.fr/jobs/details/6222/developpeur-back-end-python-lille "Développeur Back end Python -Lille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/04 - [Lead dev web Python (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6230/lead-dev-web-python-h-f-en-cdi-55000-59000 "Lead dev web Python (H/F) en CDI 55000-59000")
 * 2018/07/04 - [Architecte Cloud - DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6227/architecte-cloud-devops-h-f-en-cdi-a-paris "Architecte Cloud - DevOps (H/F) en CDI à Paris")
 * 2018/07/04 - [INGENIEUR DEVOPS (H/F) en CDI à Clichy](http://www.pyjobs.fr/jobs/details/6228/ingenieur-devops-h-f-en-cdi-a-clichy "INGENIEUR DEVOPS (H/F) en CDI à Clichy")
-* 2018/07/04 - [Full stack python developer](http://www.pyjobs.fr/jobs/details/6226/full-stack-python-developer "Full stack python developer")
 

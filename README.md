@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/29 - [Administrateur Système Linux H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6262/administrateur-systeme-linux-h-f-paris-la-defense "Administrateur Système Linux H/F - Paris La Défense")
 * 2018/08/29 - [Chef de projet H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6263/chef-de-projet-h-f-paris-la-defense "Chef de projet H/F - Paris La Défense")
 * 2018/08/29 - [Data scientist H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6261/data-scientist-h-f-paris-la-defense "Data scientist H/F - Paris La Défense")
 * 2018/08/29 - [Développeur Python pour faire du webscraping à Paris](http://www.pyjobs.fr/jobs/details/6260/developpeur-python-pour-faire-du-webscraping-a-paris "Développeur Python pour faire du webscraping à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/20 - [Développeur Python Talend - Marketplace en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6216/developpeur-python-talend-marketplace-en-cdi-a-paris-45000-54000 "Développeur Python Talend - Marketplace en CDI à Paris 45000-54000")
 * 2018/06/19 - [Développeur Backend Node.JS (H/F) en CDI à Pau 35000-44000](http://www.pyjobs.fr/jobs/details/6215/developpeur-backend-node-js-h-f-en-cdi-a-pau-35000-44000 "Développeur Backend Node.JS (H/F) en CDI à Pau 35000-44000")
 * 2018/06/15 - [Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6212/wanted-adminsys-devops-h-f-en-cdi-a-paris-45000-54000 "Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000")
-* 2018/06/19 - [Développeur web Front-End sur Paris en Stage à Paris](http://www.pyjobs.fr/jobs/details/6214/developpeur-web-front-end-sur-paris-en-stage-a-paris "Développeur web Front-End sur Paris en Stage à Paris")
 

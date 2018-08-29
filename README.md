@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/29 - [Data scientist H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6261/data-scientist-h-f-paris-la-defense "Data scientist H/F - Paris La Défense")
 * 2018/08/29 - [Développeur Python pour faire du webscraping à Paris](http://www.pyjobs.fr/jobs/details/6260/developpeur-python-pour-faire-du-webscraping-a-paris "Développeur Python pour faire du webscraping à Paris")
 * 2018/08/23 - [Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6257/developpeur-erp-django-fullstack-teletravail "Développeur ERP Django Fullstack (télétravail)")
 * 2018/08/21 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6252/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/15 - [Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6212/wanted-adminsys-devops-h-f-en-cdi-a-paris-45000-54000 "Wanted : AdminSys DevOps (H/F) en CDI à Paris 45000-54000")
 * 2018/06/19 - [Développeur web Front-End sur Paris en Stage à Paris](http://www.pyjobs.fr/jobs/details/6214/developpeur-web-front-end-sur-paris-en-stage-a-paris "Développeur web Front-End sur Paris en Stage à Paris")
 * 2018/06/14 - [Développeur full-stack web (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6211/developpeur-full-stack-web-h-f-en-cdi-a-paris-45000-54000 "Développeur full-stack web (H/F) en CDI à Paris 45000-54000")
-* 2018/08/24 - [Administrateur Système / DevOps - H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6258/administrateur-systeme-devops-h-f-en-cdi-35000-44000 "Administrateur Système / DevOps - H/F en CDI 35000-44000")
 

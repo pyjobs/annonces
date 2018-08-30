@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/06/25 - [SysAdmin Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6220/sysadmin-linux-h-f-en-cdi "SysAdmin Linux (H/F) en CDI")
 * 2018/08/24 - [Assistant informatique (H/F) en CDD <24000](http://www.pyjobs.fr/jobs/details/6259/assistant-informatique-h-f-en-cdd-24000 "Assistant informatique (H/F) en CDD <24000")
 * 2018/08/22 - [Offre d’emploi: Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6253/offre-demploi-developpeur-erp-django-fullstack-teletravail "Offre d’emploi: Développeur ERP Django Fullstack (télétravail)")
 * 2018/06/25 - [Lead developpeur Python (H/F) en CDI à Paris 55000-59000](http://www.pyjobs.fr/jobs/details/6219/lead-developpeur-python-h-f-en-cdi-a-paris-55000-59000 "Lead developpeur Python (H/F) en CDI à Paris 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/06/29 - [Développeur Back end Python -Lille](http://www.pyjobs.fr/jobs/details/6222/developpeur-back-end-python-lille "Développeur Back end Python -Lille")
 * 2018/08/22 - [Développeur Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6256/developpeur-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Python (H/F) en CDI à Paris 45000-54000")
 * 2018/08/22 - [Développeur (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6255/developpeur-h-f-en-cdi-a-bordeaux "Développeur (H/F) en CDI à Bordeaux")
-* 2018/06/25 - [Ingénieur Système & Réseaux Windows (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6221/ingenieur-systeme-reseaux-windows-h-f-en-cdi-a-paris-35000-44000 "Ingénieur Système & Réseaux Windows (H/F) en CDI à Paris 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/30 - [Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000](http://www.pyjobs.fr/jobs/details/6245/developpeur-back-fullstack-h-f-en-cdi-a-doha-35000-44000 "Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000")
 * 2018/07/27 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6244/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
 * 2018/07/23 - [Lead Developer (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6243/lead-developer-h-f-en-cdi-a-paris-60000-69000 "Lead Developer (H/F) en CDI à Paris 60000-69000")
 * 2018/07/20 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6242/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/16 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6250/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
 * 2018/08/10 - [Développeur/Intégrateur front end (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6249/developpeur-integrateur-front-end-h-f-en-cdd "Développeur/Intégrateur front end (H/F) en CDD")
 * 2018/08/07 - [{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}](http://www.pyjobs.fr/jobs/details/6248/ingenieur-e-web-ruby-on-rails-full-stack-pour-bd-numerique-a-la-rochelle "{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}")
-* 2018/08/03 - [Dev Front confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6247/dev-front-confirme-h-f-en-cdi-a-paris-45000-54000 "Dev Front confirmé (H/F) en CDI à Paris 45000-54000")
 

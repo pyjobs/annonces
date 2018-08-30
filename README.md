@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/07/15 - [Developpeur(se) embarqué - C en CDI](http://www.pyjobs.fr/jobs/details/6235/developpeur-se-embarque-c-en-cdi "Developpeur(se) embarqué - C en CDI")
 * 2018/07/13 - [Junior Developer – France](http://www.pyjobs.fr/jobs/details/6234/junior-developer-france "Junior Developer – France")
 * 2018/08/30 - [AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6265/adminsys-sans-fausse-note-h-f-en-cdi-a-paris-45000-54000 "AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000")
 * 2018/07/13 - [Ingénieur.e de recherche pour le médialab de Sciences Po à Paris](http://www.pyjobs.fr/jobs/details/6233/ingenieur-e-de-recherche-pour-le-medialab-de-sciences-po-a-paris "Ingénieur.e de recherche pour le médialab de Sciences Po à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/20 - [Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source](http://www.pyjobs.fr/jobs/details/6241/administrateur-systemes-et-reseaux-agence-marseille-cdi-web-open-source "Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source")
 * 2018/07/20 - [Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6240/dev-thetribe-f-h-h-f-en-cdi-a-nantes-35000-44000 "Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000")
 * 2018/07/16 - [Ingénieur de production / Devops en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/6236/ingenieur-de-production-devops-en-cdi-a-lille-35000-44000 "Ingénieur de production / Devops en CDI à Lille 35000-44000")
-* 2018/07/16 - [Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6239/ingenieur-developpeur-test-et-automatisation-en-cdi-a-nantes-35000-44000 "Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000")
 

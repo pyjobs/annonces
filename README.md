@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/10 - [Développeur Front React (studio d'animation) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6275/developpeur-front-react-studio-danimation-en-cdi-a-paris-45000-54000 "Développeur Front React (studio d'animation) en CDI à Paris 45000-54000")
 * 2018/08/22 - [Product Owner Senior / PPO - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6254/product-owner-senior-ppo-h-f-en-freelance-a-paris "Product Owner Senior / PPO - H/F en Freelance à Paris")
 * 2018/09/10 - [Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)](http://www.pyjobs.fr/jobs/details/6273/dalibo-recherche-un-une-dba-postgresql-sur-la-france-entiere-teletravail "Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)")
 * 2018/08/22 - [Développeur Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6256/developpeur-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Python (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/04 - [Full stack python developer](http://www.pyjobs.fr/jobs/details/6226/full-stack-python-developer "Full stack python developer")
 * 2018/08/30 - [Spécialiste Openstack H/F](http://www.pyjobs.fr/jobs/details/6264/specialiste-openstack-h-f "Spécialiste Openstack H/F")
 * 2018/07/03 - [DevOps Python en télétravail (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6225/devops-python-en-teletravail-h-f-en-cdi-25000-34000 "DevOps Python en télétravail (H/F) en CDI 25000-34000")
-* 2018/07/02 - [Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000](http://www.pyjobs.fr/jobs/details/6223/lead-dev-backend-node-js-en-startup-de-lia-en-cdi-a-paris-70000 "Lead Dev Backend Node JS en startup de l'IA en CDI à Paris >70000")
 

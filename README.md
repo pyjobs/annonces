@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/22 - [Développeur (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6255/developpeur-h-f-en-cdi-a-bordeaux "Développeur (H/F) en CDI à Bordeaux")
 * 2018/09/10 - [Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6272/dev-web-full-stack-symfony-3-a-st-etienne-en-cdi-a-saint-etienne-25000-34000 "Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000")
 * 2018/08/24 - [Assistant informatique (H/F) en CDD <24000](http://www.pyjobs.fr/jobs/details/6259/assistant-informatique-h-f-en-cdd-24000 "Assistant informatique (H/F) en CDD <24000")
 * 2018/09/06 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6271/developpeur-python-django "Développeur python / django")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6224/developpeur-full-stack-js-vue-js-node-js-en-cdi-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI 45000-54000")
 * 2018/08/22 - [Product Owner Senior / PPO - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6254/product-owner-senior-ppo-h-f-en-freelance-a-paris "Product Owner Senior / PPO - H/F en Freelance à Paris")
 * 2018/06/29 - [Développeur Back end Python -Lille](http://www.pyjobs.fr/jobs/details/6222/developpeur-back-end-python-lille "Développeur Back end Python -Lille")
-* 2018/08/22 - [Développeur Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6256/developpeur-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Python (H/F) en CDI à Paris 45000-54000")
 

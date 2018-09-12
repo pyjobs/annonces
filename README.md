@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/12 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6278/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 * 2018/08/30 - [Spécialiste Openstack H/F](http://www.pyjobs.fr/jobs/details/6264/specialiste-openstack-h-f "Spécialiste Openstack H/F")
 * 2018/09/10 - [Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6274/developpeur-pipeline-python-studio-danim-en-cdi-a-paris-35000-44000 "Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000")
 * 2018/09/10 - [Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6276/developpeur-fullstack-js-h-f-en-cdi-a-nantes-35000-44000 "Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6231/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 * 2018/07/04 - [Lead dev web Python (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6230/lead-dev-web-python-h-f-en-cdi-55000-59000 "Lead dev web Python (H/F) en CDI 55000-59000")
 * 2018/07/04 - [Architecte Cloud - DevOps (H/F) en CDI à Paris](http://www.pyjobs.fr/jobs/details/6227/architecte-cloud-devops-h-f-en-cdi-a-paris "Architecte Cloud - DevOps (H/F) en CDI à Paris")
-* 2018/07/04 - [INGENIEUR DEVOPS (H/F) en CDI à Clichy](http://www.pyjobs.fr/jobs/details/6228/ingenieur-devops-h-f-en-cdi-a-clichy "INGENIEUR DEVOPS (H/F) en CDI à Clichy")
 

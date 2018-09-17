@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/17 - [Développeur Pipeline Python (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6281/developpeur-pipeline-python-h-f-en-cdi-a-paris-35000-44000 "Développeur Pipeline Python (H/F) en CDI à Paris 35000-44000")
 * 2018/09/13 - [Ingénieur Big Data H/F](http://www.pyjobs.fr/jobs/details/6279/ingenieur-big-data-h-f "Ingénieur Big Data H/F")
 * 2018/09/12 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6277/developpeur-full-stack-js-vue-js-node-js-en-cdi-35000-44000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI 35000-44000")
 * 2018/09/12 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6278/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/13 - [Ingénieur.e de recherche pour le médialab de Sciences Po à Paris](http://www.pyjobs.fr/jobs/details/6233/ingenieur-e-de-recherche-pour-le-medialab-de-sciences-po-a-paris "Ingénieur.e de recherche pour le médialab de Sciences Po à Paris")
 * 2018/07/09 - [Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6232/developpeur-ruby-on-rails-fullstack-h-f-en-cdi-a-paris-35000-44000 "Développeur Ruby on Rails Fullstack  H/F en CDI à Paris 35000-44000")
 * 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6229/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI 60000-69000")
-* 2018/07/04 - [Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6231/developpeur-senior-python-go-bas-niveau-h-f-en-cdi-a-paris-60000-69000 "Développeur sénior Python/Go bas niveau (H/F) en CDI à Paris 60000-69000")
 

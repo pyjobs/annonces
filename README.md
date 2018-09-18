@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/23 - [Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6257/developpeur-erp-django-fullstack-teletravail "Développeur ERP Django Fullstack (télétravail)")
 * 2018/08/21 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6252/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
 * 2018/08/19 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6251/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2018/08/16 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6250/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/29 - [Administrateur Système Linux H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6262/administrateur-systeme-linux-h-f-paris-la-defense "Administrateur Système Linux H/F - Paris La Défense")
 * 2018/08/29 - [Chef de projet H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6263/chef-de-projet-h-f-paris-la-defense "Chef de projet H/F - Paris La Défense")
 * 2018/08/29 - [Data scientist H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6261/data-scientist-h-f-paris-la-defense "Data scientist H/F - Paris La Défense")
-* 2018/08/29 - [Développeur Python pour faire du webscraping à Paris](http://www.pyjobs.fr/jobs/details/6260/developpeur-python-pour-faire-du-webscraping-a-paris "Développeur Python pour faire du webscraping à Paris")
 

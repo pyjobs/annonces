@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/06 - [Développeur python scraping](http://www.pyjobs.fr/jobs/details/6270/developpeur-python-scraping "Développeur python scraping")
 * 2018/09/04 - [Développeur Back End / Administrateur (h/f) en CDD à Paris](http://www.pyjobs.fr/jobs/details/6269/developpeur-back-end-administrateur-h-f-en-cdd-a-paris "Développeur Back End / Administrateur (h/f) en CDD à Paris")
 * 2018/09/03 - [Développeur python scraping](http://www.pyjobs.fr/jobs/details/6268/developpeur-python-scraping "Développeur python scraping")
 * 2018/08/31 - [Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6267/developpeur-rails-javascript-h-f-en-alternance-a-paris-14e-arrondissement "Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/10 - [Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6272/dev-web-full-stack-symfony-3-a-st-etienne-en-cdi-a-saint-etienne-25000-34000 "Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000")
 * 2018/08/24 - [Assistant informatique (H/F) en CDD <24000](http://www.pyjobs.fr/jobs/details/6259/assistant-informatique-h-f-en-cdd-24000 "Assistant informatique (H/F) en CDD <24000")
 * 2018/09/06 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6271/developpeur-python-django "Développeur python / django")
-* 2018/08/22 - [Offre d’emploi: Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6253/offre-demploi-developpeur-erp-django-fullstack-teletravail "Offre d’emploi: Développeur ERP Django Fullstack (télétravail)")
 

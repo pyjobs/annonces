@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/24 - [Assistant informatique (H/F) en CDD <24000](http://www.pyjobs.fr/jobs/details/6259/assistant-informatique-h-f-en-cdd-24000 "Assistant informatique (H/F) en CDD <24000")
 * 2018/09/19 - [Développeur back-end Python / Go (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6282/developpeur-back-end-python-go-h-f-en-cdi-45000-54000 "Développeur back-end Python / Go (H/F) en CDI 45000-54000")
 * 2018/09/06 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6271/developpeur-python-django "Développeur python / django")
 * 2018/08/22 - [Offre d’emploi: Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6253/offre-demploi-developpeur-erp-django-fullstack-teletravail "Offre d’emploi: Développeur ERP Django Fullstack (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/22 - [Product Owner Senior / PPO - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6254/product-owner-senior-ppo-h-f-en-freelance-a-paris "Product Owner Senior / PPO - H/F en Freelance à Paris")
 * 2018/09/10 - [Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)](http://www.pyjobs.fr/jobs/details/6273/dalibo-recherche-un-une-dba-postgresql-sur-la-france-entiere-teletravail "Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)")
 * 2018/08/22 - [Développeur Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6256/developpeur-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Python (H/F) en CDI à Paris 45000-54000")
-* 2018/08/22 - [Développeur (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6255/developpeur-h-f-en-cdi-a-bordeaux "Développeur (H/F) en CDI à Bordeaux")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/10 - [Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)](http://www.pyjobs.fr/jobs/details/6273/dalibo-recherche-un-une-dba-postgresql-sur-la-france-entiere-teletravail "Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)")
 * 2018/08/22 - [Product Owner Senior / PPO - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6254/product-owner-senior-ppo-h-f-en-freelance-a-paris "Product Owner Senior / PPO - H/F en Freelance à Paris")
 * 2018/08/22 - [Développeur Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6256/developpeur-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Python (H/F) en CDI à Paris 45000-54000")
 * 2018/08/22 - [Développeur (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6255/developpeur-h-f-en-cdi-a-bordeaux "Développeur (H/F) en CDI à Bordeaux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/12 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6278/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 * 2018/08/30 - [Spécialiste Openstack H/F](http://www.pyjobs.fr/jobs/details/6264/specialiste-openstack-h-f "Spécialiste Openstack H/F")
 * 2018/09/10 - [Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6274/developpeur-pipeline-python-studio-danim-en-cdi-a-paris-35000-44000 "Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000")
-* 2018/09/10 - [Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6276/developpeur-fullstack-js-h-f-en-cdi-a-nantes-35000-44000 "Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000")
 

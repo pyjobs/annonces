@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/22 - [Développeur Python (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6256/developpeur-python-h-f-en-cdi-a-paris-45000-54000 "Développeur Python (H/F) en CDI à Paris 45000-54000")
 * 2018/08/22 - [Développeur (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6255/developpeur-h-f-en-cdi-a-bordeaux "Développeur (H/F) en CDI à Bordeaux")
 * 2018/09/10 - [Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6272/dev-web-full-stack-symfony-3-a-st-etienne-en-cdi-a-saint-etienne-25000-34000 "Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000")
 * 2018/08/24 - [Assistant informatique (H/F) en CDD <24000](http://www.pyjobs.fr/jobs/details/6259/assistant-informatique-h-f-en-cdd-24000 "Assistant informatique (H/F) en CDD <24000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/10 - [Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6274/developpeur-pipeline-python-studio-danim-en-cdi-a-paris-35000-44000 "Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000")
 * 2018/09/10 - [Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6276/developpeur-fullstack-js-h-f-en-cdi-a-nantes-35000-44000 "Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000")
 * 2018/09/10 - [Développeur Front React (studio d'animation) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6275/developpeur-front-react-studio-danimation-en-cdi-a-paris-45000-54000 "Développeur Front React (studio d'animation) en CDI à Paris 45000-54000")
-* 2018/08/22 - [Product Owner Senior / PPO - H/F en Freelance à Paris](http://www.pyjobs.fr/jobs/details/6254/product-owner-senior-ppo-h-f-en-freelance-a-paris "Product Owner Senior / PPO - H/F en Freelance à Paris")
 

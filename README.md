@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/20 - [Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe](http://www.pyjobs.fr/jobs/details/6293/administrateur-systeme-et-reseaux-pour-lobservatoire-volcanologique-et-sismologique-de-guadeloupe "Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe")
 * 2018/08/30 - [AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6265/adminsys-sans-fausse-note-h-f-en-cdi-a-paris-45000-54000 "AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000")
 * 2018/09/19 - [Developpeur pipeline python](http://www.pyjobs.fr/jobs/details/6292/developpeur-pipeline-python "Developpeur pipeline python")
 * 2018/09/17 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6280/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/16 - [Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6239/ingenieur-developpeur-test-et-automatisation-en-cdi-a-nantes-35000-44000 "Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000")
 * 2018/07/16 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6238/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 * 2018/07/16 - [Backend Engineer en CDI à Boulogne-Billancourt 35000-44000](http://www.pyjobs.fr/jobs/details/6237/backend-engineer-en-cdi-a-boulogne-billancourt-35000-44000 "Backend Engineer en CDI à Boulogne-Billancourt 35000-44000")
-* 2018/07/15 - [Developpeur(se) embarqué - C en CDI](http://www.pyjobs.fr/jobs/details/6235/developpeur-se-embarque-c-en-cdi "Developpeur(se) embarqué - C en CDI")
 

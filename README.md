@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/24 - [Développeur Analyste (H/F) en CDD à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6295/developpeur-analyste-h-f-en-cdd-a-paris-45000-54000 "Développeur Analyste (H/F) en CDD à Paris 45000-54000")
 * 2018/09/21 - [Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6294/python-developer-data-mining-h-f-en-cdi-a-paris-35000-44000 "Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000")
 * 2018/09/20 - [Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe](http://www.pyjobs.fr/jobs/details/6293/administrateur-systeme-et-reseaux-pour-lobservatoire-volcanologique-et-sismologique-de-guadeloupe "Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe")
 * 2018/08/30 - [AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6265/adminsys-sans-fausse-note-h-f-en-cdi-a-paris-45000-54000 "AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/20 - [Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6240/dev-thetribe-f-h-h-f-en-cdi-a-nantes-35000-44000 "Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000")
 * 2018/07/16 - [Ingénieur de production / Devops en CDI à Lille 35000-44000](http://www.pyjobs.fr/jobs/details/6236/ingenieur-de-production-devops-en-cdi-a-lille-35000-44000 "Ingénieur de production / Devops en CDI à Lille 35000-44000")
 * 2018/07/16 - [Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6239/ingenieur-developpeur-test-et-automatisation-en-cdi-a-nantes-35000-44000 "Ingénieur Développeur test et automatisation en CDI à Nantes 35000-44000")
-* 2018/07/16 - [Développeur Test et Automatisation (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6238/developpeur-test-et-automatisation-h-f-en-cdi-35000-44000 "Développeur Test et Automatisation (H/F) en CDI 35000-44000")
 

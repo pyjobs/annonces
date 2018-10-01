@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
 * 2018/10/01 - [Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)](http://www.pyjobs.fr/jobs/details/6297/linux-systems-administrator-for-code-enigma-anywhere-in-the-eu-teletravail "Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)")
 * 2018/09/28 - [Développeur Python/Django full stack (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6296/developpeur-python-django-full-stack-h-f-en-cdi-25000-34000 "Développeur Python/Django full stack (H/F) en CDI 25000-34000")
 * 2018/09/24 - [Développeur Analyste (H/F) en CDD à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6295/developpeur-analyste-h-f-en-cdd-a-paris-45000-54000 "Développeur Analyste (H/F) en CDD à Paris 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/07/23 - [Lead Developer (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6243/lead-developer-h-f-en-cdi-a-paris-60000-69000 "Lead Developer (H/F) en CDI à Paris 60000-69000")
 * 2018/07/20 - [Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000](http://www.pyjobs.fr/jobs/details/6242/developpeur-c-c-linux-h-f-en-cdi-a-wasquehal-45000-54000 "Développeur C/C++ Linux (H/F) en CDI à Wasquehal 45000-54000")
 * 2018/07/20 - [Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source](http://www.pyjobs.fr/jobs/details/6241/administrateur-systemes-et-reseaux-agence-marseille-cdi-web-open-source "Administrateur Systèmes et Réseaux - Agence Marseille - CDI - Web/Open Source")
-* 2018/07/20 - [Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6240/dev-thetribe-f-h-h-f-en-cdi-a-nantes-35000-44000 "Dev @theTribe – F/H (H/F) en CDI à Nantes 35000-44000")
 

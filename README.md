@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/04 - [Lead Developer -Lille](http://www.pyjobs.fr/jobs/details/6301/lead-developer-lille "Lead Developer -Lille")
 * 2018/10/01 - [Administrateur de Système Linux en CDI](http://www.pyjobs.fr/jobs/details/6299/administrateur-de-systeme-linux-en-cdi "Administrateur de Système Linux en CDI")
 * 2018/10/01 - [Database Reliability Engineer H/F en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6300/database-reliability-engineer-h-f-en-cdi-60000-69000 "Database Reliability Engineer H/F en CDI 60000-69000")
 * 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6246/developpeur-full-stack-js-vue-js-node-js-en-cdi-a-paris-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000")
 * 2018/07/30 - [Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000](http://www.pyjobs.fr/jobs/details/6245/developpeur-back-fullstack-h-f-en-cdi-a-doha-35000-44000 "Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000")
 * 2018/07/27 - [Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000](http://www.pyjobs.fr/jobs/details/6244/developpeur-python-django-full-stack-h-f-en-cdi-a-nantes-25000-34000 "Développeur Python/Django full stack (H/F) en CDI à Nantes 25000-34000")
-* 2018/07/23 - [Lead Developer (H/F) en CDI à Paris 60000-69000](http://www.pyjobs.fr/jobs/details/6243/lead-developer-h-f-en-cdi-a-paris-60000-69000 "Lead Developer (H/F) en CDI à Paris 60000-69000")
 

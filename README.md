@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/09 - [Développeur C++/Python en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6302/developpeur-c-python-en-cdi-45000-54000 "Développeur C++/Python en CDI 45000-54000")
 * 2018/10/09 - [Développeur Full Stack H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6303/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack H/F en CDI 35000-44000")
 * 2018/10/04 - [Lead Developer -Lille](http://www.pyjobs.fr/jobs/details/6301/lead-developer-lille "Lead Developer -Lille")
 * 2018/10/01 - [Administrateur de Système Linux en CDI](http://www.pyjobs.fr/jobs/details/6299/administrateur-de-systeme-linux-en-cdi "Administrateur de Système Linux en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/07 - [{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}](http://www.pyjobs.fr/jobs/details/6248/ingenieur-e-web-ruby-on-rails-full-stack-pour-bd-numerique-a-la-rochelle "{Ingénieur.e Web Ruby on Rails "full stack"} pour {BD numérique} à {La Rochelle}")
 * 2018/08/03 - [Dev Front confirmé (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6247/dev-front-confirme-h-f-en-cdi-a-paris-45000-54000 "Dev Front confirmé (H/F) en CDI à Paris 45000-54000")
 * 2018/08/02 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6246/developpeur-full-stack-js-vue-js-node-js-en-cdi-a-paris-45000-54000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI à Paris 45000-54000")
-* 2018/07/30 - [Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000](http://www.pyjobs.fr/jobs/details/6245/developpeur-back-fullstack-h-f-en-cdi-a-doha-35000-44000 "Développeur Back / Fullstack (H/F) en CDI à Doha 35000-44000")
 

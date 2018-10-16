@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/16 - [Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6308/developpeur-rails-vuejs-h-f-en-cdi-a-paris-14e-arrondissement "Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement")
 * 2018/10/12 - [Développeur web de logiciels libres à Paris](http://www.pyjobs.fr/jobs/details/6306/developpeur-web-de-logiciels-libres-a-paris "Développeur web de logiciels libres à Paris")
 * 2018/10/12 - [Développeur web de logiciels libres pour le 24ème à Paris](http://www.pyjobs.fr/jobs/details/6305/developpeur-web-de-logiciels-libres-pour-le-24eme-a-paris "Développeur web de logiciels libres pour le 24ème à Paris")
 * 2018/10/10 - [DÉVELOPPEUR FULLSTACK JUNIOR en CDI](http://www.pyjobs.fr/jobs/details/6304/developpeur-fullstack-junior-en-cdi "DÉVELOPPEUR FULLSTACK JUNIOR en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/21 - [Leader Technique Réseaux (H/F) en CDI à Lille](http://www.pyjobs.fr/jobs/details/6252/leader-technique-reseaux-h-f-en-cdi-a-lille "Leader Technique Réseaux (H/F) en CDI à Lille")
 * 2018/08/19 - [Développeur confirmé FullStack (H/F) en CDI à Bordeaux](http://www.pyjobs.fr/jobs/details/6251/developpeur-confirme-fullstack-h-f-en-cdi-a-bordeaux "Développeur confirmé FullStack (H/F) en CDI à Bordeaux")
 * 2018/08/16 - [Développeur python / django à Paris XX](http://www.pyjobs.fr/jobs/details/6250/developpeur-python-django-a-paris-xx "Développeur python / django à Paris XX")
-* 2018/08/10 - [Développeur/Intégrateur front end (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6249/developpeur-integrateur-front-end-h-f-en-cdd "Développeur/Intégrateur front end (H/F) en CDD")
 

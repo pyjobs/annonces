@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/08/29 - [Chef de projet H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6263/chef-de-projet-h-f-paris-la-defense "Chef de projet H/F - Paris La Défense")
 * 2018/08/29 - [Data scientist H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6261/data-scientist-h-f-paris-la-defense "Data scientist H/F - Paris La Défense")
 * 2018/08/29 - [Développeur Python pour faire du webscraping à Paris](http://www.pyjobs.fr/jobs/details/6260/developpeur-python-pour-faire-du-webscraping-a-paris "Développeur Python pour faire du webscraping à Paris")
 * 2018/08/23 - [Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6257/developpeur-erp-django-fullstack-teletravail "Développeur ERP Django Fullstack (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/31 - [Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6267/developpeur-rails-javascript-h-f-en-alternance-a-paris-14e-arrondissement "Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement")
 * 2018/08/31 - [TECHNICIEN/NE SYSTEMES LINUX](http://www.pyjobs.fr/jobs/details/6266/technicien-ne-systemes-linux "TECHNICIEN/NE SYSTEMES LINUX")
 * 2018/08/24 - [Administrateur Système / DevOps - H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6258/administrateur-systeme-devops-h-f-en-cdi-35000-44000 "Administrateur Système / DevOps - H/F en CDI 35000-44000")
-* 2018/08/29 - [Administrateur Système Linux H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6262/administrateur-systeme-linux-h-f-paris-la-defense "Administrateur Système Linux H/F - Paris La Défense")
 

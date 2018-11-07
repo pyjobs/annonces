@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/19 - [Administrateur Système Linux](http://www.pyjobs.fr/jobs/details/6309/administrateur-systeme-linux "Administrateur Système Linux")
 * 2018/10/16 - [Ingénieur de développement JAVA H/F](http://www.pyjobs.fr/jobs/details/6307/ingenieur-de-developpement-java-h-f "Ingénieur de développement JAVA H/F")
 * 2018/10/16 - [Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6308/developpeur-rails-vuejs-h-f-en-cdi-a-paris-14e-arrondissement "Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement")
 * 2018/10/12 - [Développeur web de logiciels libres à Paris](http://www.pyjobs.fr/jobs/details/6306/developpeur-web-de-logiciels-libres-a-paris "Développeur web de logiciels libres à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/29 - [Data scientist H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6261/data-scientist-h-f-paris-la-defense "Data scientist H/F - Paris La Défense")
 * 2018/08/29 - [Développeur Python pour faire du webscraping à Paris](http://www.pyjobs.fr/jobs/details/6260/developpeur-python-pour-faire-du-webscraping-a-paris "Développeur Python pour faire du webscraping à Paris")
 * 2018/08/23 - [Développeur ERP Django Fullstack (télétravail)](http://www.pyjobs.fr/jobs/details/6257/developpeur-erp-django-fullstack-teletravail "Développeur ERP Django Fullstack (télétravail)")
-* 2018/10/23 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6311/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 

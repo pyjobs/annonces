@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/09 - [Développeur C++/Python en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6302/developpeur-c-python-en-cdi-45000-54000 "Développeur C++/Python en CDI 45000-54000")
 * 2018/10/09 - [Développeur Full Stack H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6303/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack H/F en CDI 35000-44000")
 * 2018/10/04 - [Lead Developer -Lille](http://www.pyjobs.fr/jobs/details/6301/lead-developer-lille "Lead Developer -Lille")
 * 2018/10/01 - [Administrateur de Système Linux en CDI](http://www.pyjobs.fr/jobs/details/6299/administrateur-de-systeme-linux-en-cdi "Administrateur de Système Linux en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/16 - [Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6308/developpeur-rails-vuejs-h-f-en-cdi-a-paris-14e-arrondissement "Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement")
 * 2018/10/12 - [Développeur web de logiciels libres à Paris](http://www.pyjobs.fr/jobs/details/6306/developpeur-web-de-logiciels-libres-a-paris "Développeur web de logiciels libres à Paris")
 * 2018/10/12 - [Développeur web de logiciels libres pour le 24ème à Paris](http://www.pyjobs.fr/jobs/details/6305/developpeur-web-de-logiciels-libres-pour-le-24eme-a-paris "Développeur web de logiciels libres pour le 24ème à Paris")
-* 2018/10/10 - [DÉVELOPPEUR FULLSTACK JUNIOR en CDI](http://www.pyjobs.fr/jobs/details/6304/developpeur-fullstack-junior-en-cdi "DÉVELOPPEUR FULLSTACK JUNIOR en CDI")
 

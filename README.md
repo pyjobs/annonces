@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/21 - [Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6294/python-developer-data-mining-h-f-en-cdi-a-paris-35000-44000 "Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000")
 * 2018/09/20 - [Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe](http://www.pyjobs.fr/jobs/details/6293/administrateur-systeme-et-reseaux-pour-lobservatoire-volcanologique-et-sismologique-de-guadeloupe "Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe")
 * 2018/08/30 - [AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6265/adminsys-sans-fausse-note-h-f-en-cdi-a-paris-45000-54000 "AdminSys sans fausse note (H/F) en CDI à Paris 45000-54000")
 * 2018/09/19 - [Developpeur pipeline python](http://www.pyjobs.fr/jobs/details/6292/developpeur-pipeline-python "Developpeur pipeline python")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
 * 2018/10/01 - [Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)](http://www.pyjobs.fr/jobs/details/6297/linux-systems-administrator-for-code-enigma-anywhere-in-the-eu-teletravail "Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)")
 * 2018/09/28 - [Développeur Python/Django full stack (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6296/developpeur-python-django-full-stack-h-f-en-cdi-25000-34000 "Développeur Python/Django full stack (H/F) en CDI 25000-34000")
-* 2018/09/24 - [Développeur Analyste (H/F) en CDD à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6295/developpeur-analyste-h-f-en-cdd-a-paris-45000-54000 "Développeur Analyste (H/F) en CDD à Paris 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/15 - [Passionné(e) Odoo/ERP (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6319/passionne-e-odoo-erp-h-f-en-cdi "Passionné(e) Odoo/ERP (H/F) en CDI")
 * 2018/10/23 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6311/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2018/10/19 - [Ingénieur développeur test et automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6310/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur développeur test et automatisation en CDI 35000-44000")
 * 2018/10/19 - [Administrateur Système Linux](http://www.pyjobs.fr/jobs/details/6309/administrateur-systeme-linux "Administrateur Système Linux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/08 - [Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6317/developpeur-python-talend-marketplace-h-f-en-cdi-45000-54000 "Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000")
 * 2018/08/29 - [Administrateur Système Linux H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6262/administrateur-systeme-linux-h-f-paris-la-defense "Administrateur Système Linux H/F - Paris La Défense")
 * 2018/08/29 - [Chef de projet H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6263/chef-de-projet-h-f-paris-la-defense "Chef de projet H/F - Paris La Défense")
-* 2018/08/29 - [Data scientist H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6261/data-scientist-h-f-paris-la-defense "Data scientist H/F - Paris La Défense")
 

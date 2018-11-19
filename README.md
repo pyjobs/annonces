@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/19 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/6321/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2018/11/16 - [Node.js software engineer – Toulouse en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6320/node-js-software-engineer-toulouse-en-cdi-35000-44000 "Node.js software engineer – Toulouse en CDI 35000-44000")
 * 2018/11/15 - [Passionné(e) Odoo/ERP (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6319/passionne-e-odoo-erp-h-f-en-cdi "Passionné(e) Odoo/ERP (H/F) en CDI")
 * 2018/10/23 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6311/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/08/31 - [Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6267/developpeur-rails-javascript-h-f-en-alternance-a-paris-14e-arrondissement "Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement")
 * 2018/08/31 - [TECHNICIEN/NE SYSTEMES LINUX](http://www.pyjobs.fr/jobs/details/6266/technicien-ne-systemes-linux "TECHNICIEN/NE SYSTEMES LINUX")
 * 2018/11/08 - [Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6317/developpeur-python-talend-marketplace-h-f-en-cdi-45000-54000 "Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000")
-* 2018/08/29 - [Administrateur Système Linux H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6262/administrateur-systeme-linux-h-f-paris-la-defense "Administrateur Système Linux H/F - Paris La Défense")
 

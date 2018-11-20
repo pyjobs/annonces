@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/08 - [Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6317/developpeur-python-talend-marketplace-h-f-en-cdi-45000-54000 "Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000")
 * 2018/11/20 - [Administrateur Systèmes en CDI](http://www.pyjobs.fr/jobs/details/6322/administrateur-systemes-en-cdi "Administrateur Systèmes en CDI")
 * 2018/11/19 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/6321/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2018/11/16 - [Node.js software engineer – Toulouse en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6320/node-js-software-engineer-toulouse-en-cdi-35000-44000 "Node.js software engineer – Toulouse en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/04 - [Développeur Back End / Administrateur (h/f) en CDD à Paris](http://www.pyjobs.fr/jobs/details/6269/developpeur-back-end-administrateur-h-f-en-cdd-a-paris "Développeur Back End / Administrateur (h/f) en CDD à Paris")
 * 2018/09/03 - [Développeur python scraping](http://www.pyjobs.fr/jobs/details/6268/developpeur-python-scraping "Développeur python scraping")
 * 2018/08/31 - [Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6267/developpeur-rails-javascript-h-f-en-alternance-a-paris-14e-arrondissement "Développeur rails / javascript (H/F) en Alternance à Paris-14E-Arrondissement")
-* 2018/08/31 - [TECHNICIEN/NE SYSTEMES LINUX](http://www.pyjobs.fr/jobs/details/6266/technicien-ne-systemes-linux "TECHNICIEN/NE SYSTEMES LINUX")
 

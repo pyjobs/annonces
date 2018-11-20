@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/06 - [Développeur python scraping](http://www.pyjobs.fr/jobs/details/6270/developpeur-python-scraping "Développeur python scraping")
 * 2018/09/04 - [Développeur Back End / Administrateur (h/f) en CDD à Paris](http://www.pyjobs.fr/jobs/details/6269/developpeur-back-end-administrateur-h-f-en-cdd-a-paris "Développeur Back End / Administrateur (h/f) en CDD à Paris")
 * 2018/09/03 - [Développeur python scraping](http://www.pyjobs.fr/jobs/details/6268/developpeur-python-scraping "Développeur python scraping")
 * 2018/11/20 - [Développeur Django (télétravail)](http://www.pyjobs.fr/jobs/details/6323/developpeur-django-teletravail "Développeur Django (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/10 - [Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6272/dev-web-full-stack-symfony-3-a-st-etienne-en-cdi-a-saint-etienne-25000-34000 "Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000")
 * 2018/11/09 - [Ingénieur logiciel (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6318/ingenieur-logiciel-h-f-en-cdi "Ingénieur logiciel (H/F) en CDI")
 * 2018/09/19 - [Développeur back-end Python / Go (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6282/developpeur-back-end-python-go-h-f-en-cdi-45000-54000 "Développeur back-end Python / Go (H/F) en CDI 45000-54000")
-* 2018/09/06 - [Développeur python / django](http://www.pyjobs.fr/jobs/details/6271/developpeur-python-django "Développeur python / django")
 

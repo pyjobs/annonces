@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/10 - [Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6272/dev-web-full-stack-symfony-3-a-st-etienne-en-cdi-a-saint-etienne-25000-34000 "Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000")
 * 2018/09/19 - [Développeur back-end Python / Go (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6282/developpeur-back-end-python-go-h-f-en-cdi-45000-54000 "Développeur back-end Python / Go (H/F) en CDI 45000-54000")
 * 2018/11/23 - [Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6329/ingenieur-systemes-reseaux-linux-h-f-en-cdi-45000-54000 "Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000")
 * 2018/10/31 - [Ingénieur de test et validation logiciel - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6312/ingenieur-de-test-et-validation-logiciel-automatisation-big-data-paris "Ingénieur de test et validation logiciel - automatisation - Big Data - Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/20 - [DEVELOPPEUR PYTHON H/F](http://www.pyjobs.fr/jobs/details/6324/developpeur-python-h-f "DEVELOPPEUR PYTHON H/F")
 * 2018/11/06 - [DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)](http://www.pyjobs.fr/jobs/details/6314/developpeur-logiciel-embarque-c-python-pour-cdi-a-ivry-sur-seine-teletravail "DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)")
 * 2018/11/05 - [Administrateur système pour de l'hébergement web à Lille](http://www.pyjobs.fr/jobs/details/6313/administrateur-systeme-pour-de-lhebergement-web-a-lille "Administrateur système pour de l'hébergement web à Lille")
-* 2018/11/09 - [Ingénieur logiciel (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6318/ingenieur-logiciel-h-f-en-cdi "Ingénieur logiciel (H/F) en CDI")
 

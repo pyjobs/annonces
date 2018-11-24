@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/17 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6280/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 * 2018/09/13 - [Ingénieur Big Data H/F](http://www.pyjobs.fr/jobs/details/6279/ingenieur-big-data-h-f "Ingénieur Big Data H/F")
 * 2018/09/19 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6283/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
 * 2018/09/19 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6284/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/24 - [Développeur Analyste (H/F) en CDD à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6295/developpeur-analyste-h-f-en-cdd-a-paris-45000-54000 "Développeur Analyste (H/F) en CDD à Paris 45000-54000")
 * 2018/09/21 - [Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6294/python-developer-data-mining-h-f-en-cdi-a-paris-35000-44000 "Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000")
 * 2018/09/20 - [Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe](http://www.pyjobs.fr/jobs/details/6293/administrateur-systeme-et-reseaux-pour-lobservatoire-volcanologique-et-sismologique-de-guadeloupe "Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe")
-* 2018/09/19 - [Developpeur pipeline python](http://www.pyjobs.fr/jobs/details/6292/developpeur-pipeline-python "Developpeur pipeline python")
 

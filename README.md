@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/10 - [Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6274/developpeur-pipeline-python-studio-danim-en-cdi-a-paris-35000-44000 "Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000")
 * 2018/09/10 - [Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6276/developpeur-fullstack-js-h-f-en-cdi-a-nantes-35000-44000 "Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000")
 * 2018/11/06 - [Administrateur Système Cloud - Paris 10 (télétravail)](http://www.pyjobs.fr/jobs/details/6315/administrateur-systeme-cloud-paris-10-teletravail "Administrateur Système Cloud - Paris 10 (télétravail)")
 * 2018/09/10 - [Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)](http://www.pyjobs.fr/jobs/details/6273/dalibo-recherche-un-une-dba-postgresql-sur-la-france-entiere-teletravail "Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/19 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6283/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
 * 2018/09/19 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6284/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 * 2018/09/12 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6277/developpeur-full-stack-js-vue-js-node-js-en-cdi-35000-44000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI 35000-44000")
-* 2018/09/12 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6278/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 

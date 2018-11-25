@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/22 - [Développeur.se PHP (H/F) en CDD 25000-34000](http://www.pyjobs.fr/jobs/details/6327/developpeur-se-php-h-f-en-cdd-25000-34000 "Développeur.se PHP (H/F) en CDD 25000-34000")
 * 2018/11/22 - [Ingénieur DevOps (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6328/ingenieur-devops-f-h-en-cdi "Ingénieur DevOps (F/H) en CDI")
 * 2018/11/20 - [Développeur Django (télétravail)](http://www.pyjobs.fr/jobs/details/6323/developpeur-django-teletravail "Développeur Django (télétravail)")
 * 2018/11/22 - [Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)](http://www.pyjobs.fr/jobs/details/6326/developpeur-euse-php-cdd-univ-12-mois-pour-openedition-a-marseille-teletravail "Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/19 - [Développeur back-end Python / Go (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6282/developpeur-back-end-python-go-h-f-en-cdi-45000-54000 "Développeur back-end Python / Go (H/F) en CDI 45000-54000")
 * 2018/11/23 - [Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6329/ingenieur-systemes-reseaux-linux-h-f-en-cdi-45000-54000 "Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000")
 * 2018/10/31 - [Ingénieur de test et validation logiciel - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6312/ingenieur-de-test-et-validation-logiciel-automatisation-big-data-paris "Ingénieur de test et validation logiciel - automatisation - Big Data - Paris")
-* 2018/09/06 - [Développeur python scraping](http://www.pyjobs.fr/jobs/details/6270/developpeur-python-scraping "Développeur python scraping")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/12 - [Développeur web de logiciels libres à Paris](http://www.pyjobs.fr/jobs/details/6306/developpeur-web-de-logiciels-libres-a-paris "Développeur web de logiciels libres à Paris")
 * 2018/10/12 - [Développeur web de logiciels libres pour le 24ème à Paris](http://www.pyjobs.fr/jobs/details/6305/developpeur-web-de-logiciels-libres-pour-le-24eme-a-paris "Développeur web de logiciels libres pour le 24ème à Paris")
 * 2018/11/07 - [Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6316/ingenieur-de-test-et-validation-logiciel-python-automatisation-big-data-paris "Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris")
 * 2018/10/10 - [DÉVELOPPEUR FULLSTACK JUNIOR en CDI](http://www.pyjobs.fr/jobs/details/6304/developpeur-fullstack-junior-en-cdi "DÉVELOPPEUR FULLSTACK JUNIOR en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/21 - [Lead Instructor Data Analytics - PARIS en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6325/lead-instructor-data-analytics-paris-en-cdi-45000-54000 "Lead Instructor Data Analytics - PARIS en CDI 45000-54000")
 * 2018/10/19 - [Administrateur Système Linux](http://www.pyjobs.fr/jobs/details/6309/administrateur-systeme-linux "Administrateur Système Linux")
 * 2018/10/16 - [Ingénieur de développement JAVA H/F](http://www.pyjobs.fr/jobs/details/6307/ingenieur-de-developpement-java-h-f "Ingénieur de développement JAVA H/F")
-* 2018/10/16 - [Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6308/developpeur-rails-vuejs-h-f-en-cdi-a-paris-14e-arrondissement "Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement")
 

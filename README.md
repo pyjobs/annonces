@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/06 - [Administrateur Système Cloud - Paris 10 (télétravail)](http://www.pyjobs.fr/jobs/details/6315/administrateur-systeme-cloud-paris-10-teletravail "Administrateur Système Cloud - Paris 10 (télétravail)")
 * 2018/11/20 - [DEVELOPPEUR PYTHON H/F](http://www.pyjobs.fr/jobs/details/6324/developpeur-python-h-f "DEVELOPPEUR PYTHON H/F")
 * 2018/11/06 - [DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)](http://www.pyjobs.fr/jobs/details/6314/developpeur-logiciel-embarque-c-python-pour-cdi-a-ivry-sur-seine-teletravail "DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)")
 * 2018/11/05 - [Administrateur système pour de l'hébergement web à Lille](http://www.pyjobs.fr/jobs/details/6313/administrateur-systeme-pour-de-lhebergement-web-a-lille "Administrateur système pour de l'hébergement web à Lille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/19 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6284/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 * 2018/09/12 - [Développeur Full Stack JS (Vue.js / Node.js) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6277/developpeur-full-stack-js-vue-js-node-js-en-cdi-35000-44000 "Développeur Full Stack JS (Vue.js / Node.js) en CDI 35000-44000")
 * 2018/09/12 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6278/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
-* 2018/09/10 - [Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6274/developpeur-pipeline-python-studio-danim-en-cdi-a-paris-35000-44000 "Développeur pipeline Python (Studio d'anim) en CDI à Paris 35000-44000")
 

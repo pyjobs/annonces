@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/23 - [Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6329/ingenieur-systemes-reseaux-linux-h-f-en-cdi-45000-54000 "Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000")
 * 2018/11/09 - [Ingénieur logiciel (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6318/ingenieur-logiciel-h-f-en-cdi "Ingénieur logiciel (H/F) en CDI")
 * 2018/10/31 - [Ingénieur de test et validation logiciel - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6312/ingenieur-de-test-et-validation-logiciel-automatisation-big-data-paris "Ingénieur de test et validation logiciel - automatisation - Big Data - Paris")
 * 2018/09/19 - [Développeur back-end Python / Go (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6282/developpeur-back-end-python-go-h-f-en-cdi-45000-54000 "Développeur back-end Python / Go (H/F) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/10 - [Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000](http://www.pyjobs.fr/jobs/details/6276/developpeur-fullstack-js-h-f-en-cdi-a-nantes-35000-44000 "Développeur fullstack JS (H/F) en CDI à Nantes 35000-44000")
 * 2018/11/06 - [Administrateur Système Cloud - Paris 10 (télétravail)](http://www.pyjobs.fr/jobs/details/6315/administrateur-systeme-cloud-paris-10-teletravail "Administrateur Système Cloud - Paris 10 (télétravail)")
 * 2018/09/10 - [Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)](http://www.pyjobs.fr/jobs/details/6273/dalibo-recherche-un-une-dba-postgresql-sur-la-france-entiere-teletravail "Dalibo recherche un/une DBA PostgreSQL sur la France entière (télétravail)")
-* 2018/09/10 - [Développeur Front React (studio d'animation) en CDI à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6275/developpeur-front-react-studio-danimation-en-cdi-a-paris-45000-54000 "Développeur Front React (studio d'animation) en CDI à Paris 45000-54000")
 

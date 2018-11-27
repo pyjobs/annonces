@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/27 - [Lead dev back-end projet from scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6334/lead-dev-back-end-projet-from-scratch-en-cdi-60000-69000 "Lead dev back-end projet from scratch en CDI 60000-69000")
 * 2018/11/27 - [Développeur full-stack expérimenté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6333/developpeur-full-stack-experimente-en-cdi-55000-59000 "Développeur full-stack expérimenté en CDI 55000-59000")
 * 2018/11/27 - [Développeur backoffice box eSanté (H/F) en CDD 35000-44000](http://www.pyjobs.fr/jobs/details/6332/developpeur-backoffice-box-esante-h-f-en-cdd-35000-44000 "Développeur backoffice box eSanté (H/F) en CDD 35000-44000")
 * 2018/11/27 - [CTO (Chief Technical Officer) en CDI >70000](http://www.pyjobs.fr/jobs/details/6331/cto-chief-technical-officer-en-cdi-70000 "CTO (Chief Technical Officer) en CDI >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/06 - [DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)](http://www.pyjobs.fr/jobs/details/6314/developpeur-logiciel-embarque-c-python-pour-cdi-a-ivry-sur-seine-teletravail "DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)")
 * 2018/11/05 - [Administrateur système pour de l'hébergement web à Lille](http://www.pyjobs.fr/jobs/details/6313/administrateur-systeme-pour-de-lhebergement-web-a-lille "Administrateur système pour de l'hébergement web à Lille")
 * 2018/11/09 - [Ingénieur logiciel (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6318/ingenieur-logiciel-h-f-en-cdi "Ingénieur logiciel (H/F) en CDI")
-* 2018/09/10 - [Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000](http://www.pyjobs.fr/jobs/details/6272/dev-web-full-stack-symfony-3-a-st-etienne-en-cdi-a-saint-etienne-25000-34000 "Dev web full stack, symfony 3 à St Etienne en CDI à Saint-Étienne 25000-34000")
 

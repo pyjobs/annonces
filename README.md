@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/03 - [Développeur web Full Stack - Musique / Paris en Stage](http://www.pyjobs.fr/jobs/details/6337/developpeur-web-full-stack-musique-paris-en-stage "Développeur web Full Stack - Musique / Paris en Stage")
 * 2018/11/29 - [Stagiaire Ingénieur DevOps (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6336/stagiaire-ingenieur-devops-h-f-en-stage "Stagiaire Ingénieur DevOps (H/F) en Stage")
 * 2018/11/29 - [Devops - Spécialiste Openstack H/F](http://www.pyjobs.fr/jobs/details/6335/devops-specialiste-openstack-h-f "Devops - Spécialiste Openstack H/F")
 * 2018/11/06 - [Administrateur Système Cloud - Paris 10 (télétravail)](http://www.pyjobs.fr/jobs/details/6315/administrateur-systeme-cloud-paris-10-teletravail "Administrateur Système Cloud - Paris 10 (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/17 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6280/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 * 2018/09/13 - [Ingénieur Big Data H/F](http://www.pyjobs.fr/jobs/details/6279/ingenieur-big-data-h-f "Ingénieur Big Data H/F")
 * 2018/09/19 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6283/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
-* 2018/09/19 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6284/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 

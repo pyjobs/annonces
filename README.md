@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/09/28 - [Développeur Python/Django full stack (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6296/developpeur-python-django-full-stack-h-f-en-cdi-25000-34000 "Développeur Python/Django full stack (H/F) en CDI 25000-34000")
 * 2018/09/24 - [Développeur Analyste (H/F) en CDD à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6295/developpeur-analyste-h-f-en-cdd-a-paris-45000-54000 "Développeur Analyste (H/F) en CDD à Paris 45000-54000")
 * 2018/09/21 - [Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6294/python-developer-data-mining-h-f-en-cdi-a-paris-35000-44000 "Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000")
 * 2018/09/20 - [Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe](http://www.pyjobs.fr/jobs/details/6293/administrateur-systeme-et-reseaux-pour-lobservatoire-volcanologique-et-sismologique-de-guadeloupe "Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/04 - [Lead Developer -Lille](http://www.pyjobs.fr/jobs/details/6301/lead-developer-lille "Lead Developer -Lille")
 * 2018/10/01 - [Administrateur de Système Linux en CDI](http://www.pyjobs.fr/jobs/details/6299/administrateur-de-systeme-linux-en-cdi "Administrateur de Système Linux en CDI")
 * 2018/10/01 - [Database Reliability Engineer H/F en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6300/database-reliability-engineer-h-f-en-cdi-60000-69000 "Database Reliability Engineer H/F en CDI 60000-69000")
-* 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
 

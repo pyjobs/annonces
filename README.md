@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/06 - [Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)](http://www.pyjobs.fr/jobs/details/6338/stage-developpeur-frontend-vue-js-pour-une-startup-dans-le-film-danimation-teletravail "Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)")
 * 2018/09/19 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6283/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
 * 2018/09/19 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6284/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 * 2018/12/03 - [Développeur web Full Stack - Musique / Paris en Stage](http://www.pyjobs.fr/jobs/details/6337/developpeur-web-full-stack-musique-paris-en-stage "Développeur web Full Stack - Musique / Paris en Stage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/21 - [Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6294/python-developer-data-mining-h-f-en-cdi-a-paris-35000-44000 "Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000")
 * 2018/09/20 - [Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe](http://www.pyjobs.fr/jobs/details/6293/administrateur-systeme-et-reseaux-pour-lobservatoire-volcanologique-et-sismologique-de-guadeloupe "Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe")
 * 2018/09/19 - [Developpeur pipeline python](http://www.pyjobs.fr/jobs/details/6292/developpeur-pipeline-python "Developpeur pipeline python")
-* 2018/09/17 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6280/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 

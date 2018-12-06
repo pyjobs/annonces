@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/01 - [Administrateur de Système Linux en CDI](http://www.pyjobs.fr/jobs/details/6299/administrateur-de-systeme-linux-en-cdi "Administrateur de Système Linux en CDI")
 * 2018/10/01 - [Database Reliability Engineer H/F en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6300/database-reliability-engineer-h-f-en-cdi-60000-69000 "Database Reliability Engineer H/F en CDI 60000-69000")
 * 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
 * 2018/10/01 - [Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)](http://www.pyjobs.fr/jobs/details/6297/linux-systems-administrator-for-code-enigma-anywhere-in-the-eu-teletravail "Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/07 - [Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6316/ingenieur-de-test-et-validation-logiciel-python-automatisation-big-data-paris "Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris")
 * 2018/10/10 - [DÉVELOPPEUR FULLSTACK JUNIOR en CDI](http://www.pyjobs.fr/jobs/details/6304/developpeur-fullstack-junior-en-cdi "DÉVELOPPEUR FULLSTACK JUNIOR en CDI")
 * 2018/10/09 - [Développeur C++/Python en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6302/developpeur-c-python-en-cdi-45000-54000 "Développeur C++/Python en CDI 45000-54000")
-* 2018/10/09 - [Développeur Full Stack H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6303/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack H/F en CDI 35000-44000")
 

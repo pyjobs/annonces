@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/23 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6311/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2018/11/21 - [Lead Instructor Data Analytics - PARIS en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6325/lead-instructor-data-analytics-paris-en-cdi-45000-54000 "Lead Instructor Data Analytics - PARIS en CDI 45000-54000")
 * 2018/10/19 - [Ingénieur développeur test et automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6310/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur développeur test et automatisation en CDI 35000-44000")
 * 2018/10/19 - [Administrateur Système Linux](http://www.pyjobs.fr/jobs/details/6309/administrateur-systeme-linux "Administrateur Système Linux")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/08 - [Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6317/developpeur-python-talend-marketplace-h-f-en-cdi-45000-54000 "Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000")
 * 2018/11/20 - [Administrateur Systèmes en CDI](http://www.pyjobs.fr/jobs/details/6322/administrateur-systemes-en-cdi "Administrateur Systèmes en CDI")
 * 2018/11/19 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/6321/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
-* 2018/11/16 - [Node.js software engineer – Toulouse en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6320/node-js-software-engineer-toulouse-en-cdi-35000-44000 "Node.js software engineer – Toulouse en CDI 35000-44000")
 

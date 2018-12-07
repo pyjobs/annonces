@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/07 - [Ingénieur QA & Python Automatisation pour un éditeur de logiciels à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6342/ingenieur-qa-python-automatisation-pour-un-editeur-de-logiciels-a-paris-teletravail "Ingénieur QA & Python Automatisation pour un éditeur de logiciels à Paris (télétravail)")
 * 2018/11/20 - [DEVELOPPEUR PYTHON H/F](http://www.pyjobs.fr/jobs/details/6324/developpeur-python-h-f "DEVELOPPEUR PYTHON H/F")
 * 2018/11/06 - [Administrateur Système Cloud - Paris 10 (télétravail)](http://www.pyjobs.fr/jobs/details/6315/administrateur-systeme-cloud-paris-10-teletravail "Administrateur Système Cloud - Paris 10 (télétravail)")
 * 2018/12/07 - [Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6341/ingenieur-qa-developpeur-python-pour-un-editeur-de-logiciels-a-paris-teletravail "Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/12/06 - [Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)](http://www.pyjobs.fr/jobs/details/6338/stage-developpeur-frontend-vue-js-pour-une-startup-dans-le-film-danimation-teletravail "Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)")
 * 2018/09/19 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6283/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
 * 2018/09/19 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6284/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
-* 2018/12/03 - [Développeur web Full Stack - Musique / Paris en Stage](http://www.pyjobs.fr/jobs/details/6337/developpeur-web-full-stack-musique-paris-en-stage "Développeur web Full Stack - Musique / Paris en Stage")
 

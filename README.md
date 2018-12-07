@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/06 - [Administrateur Système Cloud - Paris 10 (télétravail)](http://www.pyjobs.fr/jobs/details/6315/administrateur-systeme-cloud-paris-10-teletravail "Administrateur Système Cloud - Paris 10 (télétravail)")
 * 2018/12/07 - [Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6341/ingenieur-qa-developpeur-python-pour-un-editeur-de-logiciels-a-paris-teletravail "Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)")
 * 2018/11/06 - [DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)](http://www.pyjobs.fr/jobs/details/6314/developpeur-logiciel-embarque-c-python-pour-cdi-a-ivry-sur-seine-teletravail "DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)")
 * 2018/11/05 - [Administrateur système pour de l'hébergement web à Lille](http://www.pyjobs.fr/jobs/details/6313/administrateur-systeme-pour-de-lhebergement-web-a-lille "Administrateur système pour de l'hébergement web à Lille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/19 - [Développeur Full Stack (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6284/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack (H/F) en CDI 35000-44000")
 * 2018/12/03 - [Développeur web Full Stack - Musique / Paris en Stage](http://www.pyjobs.fr/jobs/details/6337/developpeur-web-full-stack-musique-paris-en-stage "Développeur web Full Stack - Musique / Paris en Stage")
 * 2018/11/29 - [Stagiaire Ingénieur DevOps (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6336/stagiaire-ingenieur-devops-h-f-en-stage "Stagiaire Ingénieur DevOps (H/F) en Stage")
-* 2018/11/29 - [Devops - Spécialiste Openstack H/F](http://www.pyjobs.fr/jobs/details/6335/devops-specialiste-openstack-h-f "Devops - Spécialiste Openstack H/F")
 

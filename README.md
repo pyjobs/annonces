@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/10 - [Développeur Informatique (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6343/developpeur-informatique-h-f-en-cdi "Développeur Informatique (H/F) en CDI")
 * 2018/12/06 - [Développeur Frontend Stagiaire (Vue.js) (télétravail)](http://www.pyjobs.fr/jobs/details/6339/developpeur-frontend-stagiaire-vue-js-teletravail "Développeur Frontend Stagiaire (Vue.js) (télétravail)")
 * 2018/12/06 - [Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)](http://www.pyjobs.fr/jobs/details/6338/stage-developpeur-frontend-vue-js-pour-une-startup-dans-le-film-danimation-teletravail "Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)")
 * 2018/12/03 - [Développeur web Full Stack - Musique / Paris en Stage](http://www.pyjobs.fr/jobs/details/6337/developpeur-web-full-stack-musique-paris-en-stage "Développeur web Full Stack - Musique / Paris en Stage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/09/24 - [Développeur Analyste (H/F) en CDD à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6295/developpeur-analyste-h-f-en-cdd-a-paris-45000-54000 "Développeur Analyste (H/F) en CDD à Paris 45000-54000")
 * 2018/09/21 - [Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000](http://www.pyjobs.fr/jobs/details/6294/python-developer-data-mining-h-f-en-cdi-a-paris-35000-44000 "Python Developer / Data Mining (H/F) en CDI à Paris 35000-44000")
 * 2018/09/20 - [Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe](http://www.pyjobs.fr/jobs/details/6293/administrateur-systeme-et-reseaux-pour-lobservatoire-volcanologique-et-sismologique-de-guadeloupe "Administrateur Système et Réseaux pour l'observatoire volcanologique et sismologique de Guadeloupe")
-* 2018/12/06 - [Développeur Node.js #Startup en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6340/developpeur-node-js-startup-en-cdi-35000-44000 "Développeur Node.js #Startup en CDI 35000-44000")
 

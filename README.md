@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/13 - [Ingénieur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/6345/ingenieur-systemes-reseaux-linux-h-f "Ingénieur Systèmes/Réseaux Linux (H/F)")
 * 2018/12/12 - [Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille](http://www.pyjobs.fr/jobs/details/6344/ingenieur-systeme-oriente-devops-pour-de-lhebergement-cloud-et-on-premise-a-lille "Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille")
 * 2018/12/06 - [Développeur Node.js #Startup en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6340/developpeur-node-js-startup-en-cdi-35000-44000 "Développeur Node.js #Startup en CDI 35000-44000")
 * 2018/12/10 - [Développeur Informatique (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6343/developpeur-informatique-h-f-en-cdi "Développeur Informatique (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
 * 2018/10/01 - [Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)](http://www.pyjobs.fr/jobs/details/6297/linux-systems-administrator-for-code-enigma-anywhere-in-the-eu-teletravail "Linux Systems Administrator for Code Enigma anywhere in the EU (télétravail)")
 * 2018/09/28 - [Développeur Python/Django full stack (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6296/developpeur-python-django-full-stack-h-f-en-cdi-25000-34000 "Développeur Python/Django full stack (H/F) en CDI 25000-34000")
-* 2018/09/24 - [Développeur Analyste (H/F) en CDD à Paris 45000-54000](http://www.pyjobs.fr/jobs/details/6295/developpeur-analyste-h-f-en-cdd-a-paris-45000-54000 "Développeur Analyste (H/F) en CDD à Paris 45000-54000")
 

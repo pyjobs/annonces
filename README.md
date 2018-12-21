@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/21 - [Administrateur système - DevOps en CDI](http://www.pyjobs.fr/jobs/details/6348/administrateur-systeme-devops-en-cdi "Administrateur système - DevOps en CDI")
 * 2018/12/17 - [Développeur Python "libre" dans une SCOP à Grenoble](http://www.pyjobs.fr/jobs/details/6347/developpeur-python-libre-dans-une-scop-a-grenoble "Développeur Python "libre" dans une SCOP à Grenoble")
 * 2018/12/13 - [Développeur fullstack JS + Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6346/developpeur-fullstack-js-teletravail-en-cdi-45000-54000 "Développeur fullstack JS + Télétravail en CDI 45000-54000")
 * 2018/12/13 - [Ingénieur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/6345/ingenieur-systemes-reseaux-linux-h-f "Ingénieur Systèmes/Réseaux Linux (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/04 - [Lead Developer -Lille](http://www.pyjobs.fr/jobs/details/6301/lead-developer-lille "Lead Developer -Lille")
 * 2018/10/01 - [Administrateur de Système Linux en CDI](http://www.pyjobs.fr/jobs/details/6299/administrateur-de-systeme-linux-en-cdi "Administrateur de Système Linux en CDI")
 * 2018/10/01 - [Database Reliability Engineer H/F en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6300/database-reliability-engineer-h-f-en-cdi-60000-69000 "Database Reliability Engineer H/F en CDI 60000-69000")
-* 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
 

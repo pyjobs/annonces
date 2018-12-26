@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/26 - [Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6353/dev-senior-fullstack-node-angular-en-esante-en-cdi-55000-59000 "Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000")
 * 2018/12/26 - [Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6352/dev-junior-confirme-full-js-en-esante-h-f-en-cdi-45000-54000 "Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000")
 * 2018/12/26 - [Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6351/dev-fullstack-js-dans-les-reseaux-wifi-h-f-en-cdi-45000-54000 "Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000")
 * 2018/12/26 - [Dev Senior Fullstack JS a forte volumétrie en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6350/dev-senior-fullstack-js-a-forte-volumetrie-en-cdi-55000-59000 "Dev Senior Fullstack JS a forte volumétrie en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/07 - [Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6316/ingenieur-de-test-et-validation-logiciel-python-automatisation-big-data-paris "Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris")
 * 2018/10/12 - [Développeur web de logiciels libres pour le 24ème à Paris](http://www.pyjobs.fr/jobs/details/6305/developpeur-web-de-logiciels-libres-pour-le-24eme-a-paris "Développeur web de logiciels libres pour le 24ème à Paris")
 * 2018/10/10 - [DÉVELOPPEUR FULLSTACK JUNIOR en CDI](http://www.pyjobs.fr/jobs/details/6304/developpeur-fullstack-junior-en-cdi "DÉVELOPPEUR FULLSTACK JUNIOR en CDI")
-* 2018/10/09 - [Développeur C++/Python en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6302/developpeur-c-python-en-cdi-45000-54000 "Développeur C++/Python en CDI 45000-54000")
 

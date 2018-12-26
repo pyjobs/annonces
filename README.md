@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/26 - [Dev Senior Fullstack JS a forte volumétrie en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6350/dev-senior-fullstack-js-a-forte-volumetrie-en-cdi-55000-59000 "Dev Senior Fullstack JS a forte volumétrie en CDI 55000-59000")
 * 2018/10/01 - [Lead Developper -Lille](http://www.pyjobs.fr/jobs/details/6298/lead-developper-lille "Lead Developper -Lille")
 * 2018/12/21 - [Administrateur système - DevOps en CDI](http://www.pyjobs.fr/jobs/details/6348/administrateur-systeme-devops-en-cdi "Administrateur système - DevOps en CDI")
 * 2018/12/17 - [Développeur Python "libre" dans une SCOP à Grenoble](http://www.pyjobs.fr/jobs/details/6347/developpeur-python-libre-dans-une-scop-a-grenoble "Développeur Python "libre" dans une SCOP à Grenoble")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/09 - [Développeur C++/Python en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6302/developpeur-c-python-en-cdi-45000-54000 "Développeur C++/Python en CDI 45000-54000")
 * 2018/10/09 - [Développeur Full Stack H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6303/developpeur-full-stack-h-f-en-cdi-35000-44000 "Développeur Full Stack H/F en CDI 35000-44000")
 * 2018/10/04 - [Lead Developer -Lille](http://www.pyjobs.fr/jobs/details/6301/lead-developer-lille "Lead Developer -Lille")
-* 2018/10/01 - [Administrateur de Système Linux en CDI](http://www.pyjobs.fr/jobs/details/6299/administrateur-de-systeme-linux-en-cdi "Administrateur de Système Linux en CDI")
 

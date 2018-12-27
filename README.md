@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/10/19 - [Administrateur Système Linux](http://www.pyjobs.fr/jobs/details/6309/administrateur-systeme-linux "Administrateur Système Linux")
 * 2018/10/16 - [Ingénieur de développement JAVA H/F](http://www.pyjobs.fr/jobs/details/6307/ingenieur-de-developpement-java-h-f "Ingénieur de développement JAVA H/F")
 * 2018/10/16 - [Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6308/developpeur-rails-vuejs-h-f-en-cdi-a-paris-14e-arrondissement "Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement")
 * 2018/10/12 - [Développeur web de logiciels libres à Paris](http://www.pyjobs.fr/jobs/details/6306/developpeur-web-de-logiciels-libres-a-paris "Développeur web de logiciels libres à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/15 - [Passionné(e) Odoo/ERP (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6319/passionne-e-odoo-erp-h-f-en-cdi "Passionné(e) Odoo/ERP (H/F) en CDI")
 * 2018/10/23 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6311/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2018/11/21 - [Lead Instructor Data Analytics - PARIS en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6325/lead-instructor-data-analytics-paris-en-cdi-45000-54000 "Lead Instructor Data Analytics - PARIS en CDI 45000-54000")
-* 2018/10/19 - [Ingénieur développeur test et automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6310/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur développeur test et automatisation en CDI 35000-44000")
 

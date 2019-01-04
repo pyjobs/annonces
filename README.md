@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/07 - [Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6316/ingenieur-de-test-et-validation-logiciel-python-automatisation-big-data-paris "Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris")
 * 2018/12/26 - [Senior Full JS en Temps Réel et Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6349/senior-full-js-en-temps-reel-et-volumetrie-en-cdi-70000 "Senior Full JS en Temps Réel et Volumétrie en CDI >70000")
 * 2018/12/26 - [Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6354/dev-senior-back-js-en-temps-reel-volumetrie-en-cdi-70000 "Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000")
 * 2018/12/26 - [Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6353/dev-senior-fullstack-node-angular-en-esante-en-cdi-55000-59000 "Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/19 - [Ingénieur développeur test et automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6310/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur développeur test et automatisation en CDI 35000-44000")
 * 2018/10/19 - [Administrateur Système Linux](http://www.pyjobs.fr/jobs/details/6309/administrateur-systeme-linux "Administrateur Système Linux")
 * 2018/10/16 - [Ingénieur de développement JAVA H/F](http://www.pyjobs.fr/jobs/details/6307/ingenieur-de-developpement-java-h-f "Ingénieur de développement JAVA H/F")
-* 2018/10/16 - [Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6308/developpeur-rails-vuejs-h-f-en-cdi-a-paris-14e-arrondissement "Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/26 - [Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6354/dev-senior-back-js-en-temps-reel-volumetrie-en-cdi-70000 "Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000")
 * 2018/12/26 - [Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6353/dev-senior-fullstack-node-angular-en-esante-en-cdi-55000-59000 "Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000")
 * 2018/12/26 - [Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6352/dev-junior-confirme-full-js-en-esante-h-f-en-cdi-45000-54000 "Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000")
 * 2018/12/26 - [Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6351/dev-fullstack-js-dans-les-reseaux-wifi-h-f-en-cdi-45000-54000 "Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/10/16 - [Ingénieur de développement JAVA H/F](http://www.pyjobs.fr/jobs/details/6307/ingenieur-de-developpement-java-h-f "Ingénieur de développement JAVA H/F")
 * 2018/10/16 - [Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement](http://www.pyjobs.fr/jobs/details/6308/developpeur-rails-vuejs-h-f-en-cdi-a-paris-14e-arrondissement "Développeur Rails / VueJS (H/F) en CDI à Paris-14E-Arrondissement")
 * 2018/10/12 - [Développeur web de logiciels libres à Paris](http://www.pyjobs.fr/jobs/details/6306/developpeur-web-de-logiciels-libres-a-paris "Développeur web de logiciels libres à Paris")
-* 2018/11/07 - [Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6316/ingenieur-de-test-et-validation-logiciel-python-automatisation-big-data-paris "Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris")
 

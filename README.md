@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/08 - [Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)](http://www.pyjobs.fr/jobs/details/6360/administrateur-systemes-et-reseaux-confirme-a-la-dsi-de-luniversite-paris-8-saint-denis "Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)")
 * 2019/01/08 - [Développeur full stack Django / API / Python / Angular à la DSI de l'université Paris 8 (Saint-Denis)](http://www.pyjobs.fr/jobs/details/6359/developpeur-full-stack-django-api-python-angular-a-la-dsi-de-luniversite-paris-8-saint-denis "Développeur full stack Django / API / Python / Angular à la DSI de l'université Paris 8 (Saint-Denis)")
 * 2019/01/06 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6358/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2018/11/07 - [Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6316/ingenieur-de-test-et-validation-logiciel-python-automatisation-big-data-paris "Ingénieur de test et validation logiciel - Python - automatisation - Big Data - Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/15 - [Passionné(e) Odoo/ERP (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6319/passionne-e-odoo-erp-h-f-en-cdi "Passionné(e) Odoo/ERP (H/F) en CDI")
 * 2018/10/23 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6311/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2018/11/21 - [Lead Instructor Data Analytics - PARIS en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6325/lead-instructor-data-analytics-paris-en-cdi-45000-54000 "Lead Instructor Data Analytics - PARIS en CDI 45000-54000")
-* 2018/10/19 - [Ingénieur développeur test et automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6310/ingenieur-developpeur-test-et-automatisation-en-cdi-35000-44000 "Ingénieur développeur test et automatisation en CDI 35000-44000")
 

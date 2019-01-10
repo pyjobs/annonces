@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/22 - [Ingénieur DevOps (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6328/ingenieur-devops-f-h-en-cdi "Ingénieur DevOps (F/H) en CDI")
 * 2018/11/22 - [Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)](http://www.pyjobs.fr/jobs/details/6326/developpeur-euse-php-cdd-univ-12-mois-pour-openedition-a-marseille-teletravail "Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)")
 * 2018/11/20 - [Développeur Django (télétravail)](http://www.pyjobs.fr/jobs/details/6323/developpeur-django-teletravail "Développeur Django (télétravail)")
 * 2018/11/20 - [Administrateur Systèmes en CDI](http://www.pyjobs.fr/jobs/details/6322/administrateur-systemes-en-cdi "Administrateur Systèmes en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/27 - [Lead dev back-end projet from scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6334/lead-dev-back-end-projet-from-scratch-en-cdi-60000-69000 "Lead dev back-end projet from scratch en CDI 60000-69000")
 * 2018/11/27 - [Développeur full-stack expérimenté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6333/developpeur-full-stack-experimente-en-cdi-55000-59000 "Développeur full-stack expérimenté en CDI 55000-59000")
 * 2018/11/27 - [Développeur backoffice box eSanté (H/F) en CDD 35000-44000](http://www.pyjobs.fr/jobs/details/6332/developpeur-backoffice-box-esante-h-f-en-cdd-35000-44000 "Développeur backoffice box eSanté (H/F) en CDD 35000-44000")
-* 2018/11/27 - [CTO (Chief Technical Officer) en CDI >70000](http://www.pyjobs.fr/jobs/details/6331/cto-chief-technical-officer-en-cdi-70000 "CTO (Chief Technical Officer) en CDI >70000")
 

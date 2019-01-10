@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/20 - [Administrateur Systèmes en CDI](http://www.pyjobs.fr/jobs/details/6322/administrateur-systemes-en-cdi "Administrateur Systèmes en CDI")
 * 2018/11/19 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/6321/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 * 2018/11/08 - [Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6317/developpeur-python-talend-marketplace-h-f-en-cdi-45000-54000 "Développeur Python Talend - Marketplace (H/F) en CDI 45000-54000")
 * 2018/11/16 - [Node.js software engineer – Toulouse en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6320/node-js-software-engineer-toulouse-en-cdi-35000-44000 "Node.js software engineer – Toulouse en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/27 - [CTO (Chief Technical Officer) en CDI >70000](http://www.pyjobs.fr/jobs/details/6331/cto-chief-technical-officer-en-cdi-70000 "CTO (Chief Technical Officer) en CDI >70000")
 * 2018/11/22 - [Développeur.se PHP (H/F) en CDD 25000-34000](http://www.pyjobs.fr/jobs/details/6327/developpeur-se-php-h-f-en-cdd-25000-34000 "Développeur.se PHP (H/F) en CDD 25000-34000")
 * 2018/11/22 - [Ingénieur DevOps (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6328/ingenieur-devops-f-h-en-cdi "Ingénieur DevOps (F/H) en CDI")
-* 2018/11/22 - [Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)](http://www.pyjobs.fr/jobs/details/6326/developpeur-euse-php-cdd-univ-12-mois-pour-openedition-a-marseille-teletravail "Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)")
 

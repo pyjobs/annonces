@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/09 - [Ingénieur logiciel (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6318/ingenieur-logiciel-h-f-en-cdi "Ingénieur logiciel (H/F) en CDI")
 * 2018/11/27 - [DevOps (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6330/devops-h-f-en-cdi "DevOps (H/F) en CDI")
 * 2018/11/27 - [Lead dev back-end projet from scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6334/lead-dev-back-end-projet-from-scratch-en-cdi-60000-69000 "Lead dev back-end projet from scratch en CDI 60000-69000")
 * 2018/11/27 - [Développeur full-stack expérimenté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6333/developpeur-full-stack-experimente-en-cdi-55000-59000 "Développeur full-stack expérimenté en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/12/07 - [Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6341/ingenieur-qa-developpeur-python-pour-un-editeur-de-logiciels-a-paris-teletravail "Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)")
 * 2018/11/06 - [DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)](http://www.pyjobs.fr/jobs/details/6314/developpeur-logiciel-embarque-c-python-pour-cdi-a-ivry-sur-seine-teletravail "DEVELOPPEUR Logiciel Embarqué (C++ / Python) pour CDI à Ivry sur Seine (télétravail)")
 * 2018/11/05 - [Administrateur système pour de l'hébergement web à Lille](http://www.pyjobs.fr/jobs/details/6313/administrateur-systeme-pour-de-lhebergement-web-a-lille "Administrateur système pour de l'hébergement web à Lille")
-* 2018/11/23 - [Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6329/ingenieur-systemes-reseaux-linux-h-f-en-cdi-45000-54000 "Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000")
 

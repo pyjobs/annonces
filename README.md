@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/11/27 - [Lead dev back-end projet from scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6334/lead-dev-back-end-projet-from-scratch-en-cdi-60000-69000 "Lead dev back-end projet from scratch en CDI 60000-69000")
 * 2018/11/27 - [Développeur full-stack expérimenté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6333/developpeur-full-stack-experimente-en-cdi-55000-59000 "Développeur full-stack expérimenté en CDI 55000-59000")
 * 2018/11/27 - [Développeur backoffice box eSanté (H/F) en CDD 35000-44000](http://www.pyjobs.fr/jobs/details/6332/developpeur-backoffice-box-esante-h-f-en-cdd-35000-44000 "Développeur backoffice box eSanté (H/F) en CDD 35000-44000")
 * 2018/11/27 - [CTO (Chief Technical Officer) en CDI >70000](http://www.pyjobs.fr/jobs/details/6331/cto-chief-technical-officer-en-cdi-70000 "CTO (Chief Technical Officer) en CDI >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/05 - [Administrateur système pour de l'hébergement web à Lille](http://www.pyjobs.fr/jobs/details/6313/administrateur-systeme-pour-de-lhebergement-web-a-lille "Administrateur système pour de l'hébergement web à Lille")
 * 2018/11/23 - [Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6329/ingenieur-systemes-reseaux-linux-h-f-en-cdi-45000-54000 "Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000")
 * 2018/11/09 - [Ingénieur logiciel (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6318/ingenieur-logiciel-h-f-en-cdi "Ingénieur logiciel (H/F) en CDI")
-* 2018/10/31 - [Ingénieur de test et validation logiciel - automatisation - Big Data - Paris](http://www.pyjobs.fr/jobs/details/6312/ingenieur-de-test-et-validation-logiciel-automatisation-big-data-paris "Ingénieur de test et validation logiciel - automatisation - Big Data - Paris")
 

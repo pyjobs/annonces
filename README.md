@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/11 - [Ingénieur QA - Python Automation en CDI directement chez un éditeur de logiciels à Paris](http://www.pyjobs.fr/jobs/details/6364/ingenieur-qa-python-automation-en-cdi-directement-chez-un-editeur-de-logiciels-a-paris "Ingénieur QA - Python Automation en CDI directement chez un éditeur de logiciels à Paris")
 * 2018/11/23 - [Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6329/ingenieur-systemes-reseaux-linux-h-f-en-cdi-45000-54000 "Ingénieur Systèmes/Réseaux Linux (H/F) en CDI 45000-54000")
 * 2019/01/22 - [Développeur Full-Stack (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6369/developpeur-full-stack-h-f-en-cdd "Développeur Full-Stack (H/F) en CDD")
 * 2018/11/27 - [DevOps (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6330/devops-h-f-en-cdi "DevOps (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/20 - [DEVELOPPEUR PYTHON H/F](http://www.pyjobs.fr/jobs/details/6324/developpeur-python-h-f "DEVELOPPEUR PYTHON H/F")
 * 2019/01/15 - [Ingénieur QA en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6366/ingenieur-qa-en-cdi-45000-54000 "Ingénieur QA en CDI 45000-54000")
 * 2018/12/07 - [Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6341/ingenieur-qa-developpeur-python-pour-un-editeur-de-logiciels-a-paris-teletravail "Ingénieur QA & Développeur Python pour un éditeur de logiciels à Paris (télétravail)")
-* 2019/01/12 - [DevOps / Référent AWS (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6365/devops-referent-aws-h-f-en-cdi-60000-69000 "DevOps / Référent AWS (H/F) en CDI 60000-69000")
 

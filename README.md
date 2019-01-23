@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/13 - [Ingénieur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/6345/ingenieur-systemes-reseaux-linux-h-f "Ingénieur Systèmes/Réseaux Linux (H/F)")
 * 2018/12/12 - [Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille](http://www.pyjobs.fr/jobs/details/6344/ingenieur-systeme-oriente-devops-pour-de-lhebergement-cloud-et-on-premise-a-lille "Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille")
 * 2018/12/06 - [Développeur Node.js #Startup en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6340/developpeur-node-js-startup-en-cdi-35000-44000 "Développeur Node.js #Startup en CDI 35000-44000")
 * 2018/12/10 - [Développeur Informatique (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6343/developpeur-informatique-h-f-en-cdi "Développeur Informatique (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/04 - [Chef•fe de projet data technologies (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6356/chef-fe-de-projet-data-technologies-h-f-en-cdi-45000-54000 "Chef•fe de projet data technologies (H/F) en CDI 45000-54000")
 * 2018/12/21 - [Administrateur système - DevOps en CDI](http://www.pyjobs.fr/jobs/details/6348/administrateur-systeme-devops-en-cdi "Administrateur système - DevOps en CDI")
 * 2018/12/17 - [Développeur Python "libre" dans une SCOP à Grenoble](http://www.pyjobs.fr/jobs/details/6347/developpeur-python-libre-dans-une-scop-a-grenoble "Développeur Python "libre" dans une SCOP à Grenoble")
-* 2018/12/13 - [Développeur fullstack JS + Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6346/developpeur-fullstack-js-teletravail-en-cdi-45000-54000 "Développeur fullstack JS + Télétravail en CDI 45000-54000")
 

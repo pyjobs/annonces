@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/10 - [Développeur Python (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6363/developpeur-python-h-f-en-cdi-25000-34000 "Développeur Python (H/F) en CDI 25000-34000")
 * 2019/01/10 - [Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6361/developpeur-python-odoo-ou-qui-veut-en-faire-en-cdi-35000-44000 "Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000")
 * 2019/01/10 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6362/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
 * 2019/01/08 - [Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)](http://www.pyjobs.fr/jobs/details/6360/administrateur-systemes-et-reseaux-confirme-a-la-dsi-de-luniversite-paris-8-saint-denis "Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/22 - [Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)](http://www.pyjobs.fr/jobs/details/6326/developpeur-euse-php-cdd-univ-12-mois-pour-openedition-a-marseille-teletravail "Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)")
 * 2018/11/20 - [Développeur Django (télétravail)](http://www.pyjobs.fr/jobs/details/6323/developpeur-django-teletravail "Développeur Django (télétravail)")
 * 2018/11/20 - [Administrateur Systèmes en CDI](http://www.pyjobs.fr/jobs/details/6322/administrateur-systemes-en-cdi "Administrateur Systèmes en CDI")
-* 2018/11/19 - [Intégrateur IAM Open Source H/F](http://www.pyjobs.fr/jobs/details/6321/integrateur-iam-open-source-h-f "Intégrateur IAM Open Source H/F")
 

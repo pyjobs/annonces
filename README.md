@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/24 - [Développeur Node.js / React.js en Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6372/developpeur-node-js-react-js-en-teletravail-en-cdi-45000-54000 "Développeur Node.js / React.js en Télétravail en CDI 45000-54000")
 * 2019/01/24 - [Node.js Software Engineer en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6373/node-js-software-engineer-en-cdi-45000-54000 "Node.js Software Engineer en CDI 45000-54000")
 * 2019/01/10 - [Développeur Python (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6363/developpeur-python-h-f-en-cdi-25000-34000 "Développeur Python (H/F) en CDI 25000-34000")
 * 2019/01/10 - [Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6361/developpeur-python-odoo-ou-qui-veut-en-faire-en-cdi-35000-44000 "Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/22 - [Développeur.se PHP (H/F) en CDD 25000-34000](http://www.pyjobs.fr/jobs/details/6327/developpeur-se-php-h-f-en-cdd-25000-34000 "Développeur.se PHP (H/F) en CDD 25000-34000")
 * 2018/11/22 - [Ingénieur DevOps (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6328/ingenieur-devops-f-h-en-cdi "Ingénieur DevOps (F/H) en CDI")
 * 2018/11/22 - [Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)](http://www.pyjobs.fr/jobs/details/6326/developpeur-euse-php-cdd-univ-12-mois-pour-openedition-a-marseille-teletravail "Développeur.euse PHP (CDD Univ. 12 mois) pour OpenEdition à Marseille (télétravail)")
-* 2018/11/20 - [Développeur Django (télétravail)](http://www.pyjobs.fr/jobs/details/6323/developpeur-django-teletravail "Développeur Django (télétravail)")
 

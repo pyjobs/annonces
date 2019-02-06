@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/10 - [Développeur Python (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6363/developpeur-python-h-f-en-cdi-25000-34000 "Développeur Python (H/F) en CDI 25000-34000")
 * 2019/01/10 - [Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6361/developpeur-python-odoo-ou-qui-veut-en-faire-en-cdi-35000-44000 "Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000")
 * 2019/01/10 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6362/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
 * 2019/01/18 - [Développeur Node.js : Toulouse + télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6367/developpeur-node-js-toulouse-teletravail-en-cdi-45000-54000 "Développeur Node.js : Toulouse + télétravail en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/04 - [Développeur Web Full Stack en CDI](http://www.pyjobs.fr/jobs/details/6379/developpeur-web-full-stack-en-cdi "Développeur Web Full Stack en CDI")
 * 2019/02/04 - [Administrateur(trice) systèmes Linux/Debian à Grenoble](http://www.pyjobs.fr/jobs/details/6378/administrateur-trice-systemes-linux-debian-a-grenoble "Administrateur(trice) systèmes Linux/Debian à Grenoble")
 * 2019/01/24 - [Développeur Edge Computing à Lille (stage) (télétravail)](http://www.pyjobs.fr/jobs/details/6374/developpeur-edge-computing-a-lille-stage-teletravail "Développeur Edge Computing à Lille (stage) (télétravail)")
-* 2019/01/24 - [Développeur Node.js / React.js en Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6372/developpeur-node-js-react-js-en-teletravail-en-cdi-45000-54000 "Développeur Node.js / React.js en Télétravail en CDI 45000-54000")
 

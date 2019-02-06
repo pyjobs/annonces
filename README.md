@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2018/12/26 - [Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6352/dev-junior-confirme-full-js-en-esante-h-f-en-cdi-45000-54000 "Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000")
 * 2019/02/01 - [DevOps Python (H/F) Nantes](http://www.pyjobs.fr/jobs/details/6376/devops-python-h-f-nantes "DevOps Python (H/F) Nantes")
 * 2018/12/26 - [Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6351/dev-fullstack-js-dans-les-reseaux-wifi-h-f-en-cdi-45000-54000 "Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000")
 * 2019/02/01 - [Développeur(se) Python / Django (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6377/developpeur-se-python-django-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/06 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6358/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2019/01/18 - [Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6368/developpeur-se-python-django-qt-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000")
 * 2018/12/26 - [Senior Full JS en Temps Réel et Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6349/senior-full-js-en-temps-reel-et-volumetrie-en-cdi-70000 "Senior Full JS en Temps Réel et Volumétrie en CDI >70000")
-* 2018/12/26 - [Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6354/dev-senior-back-js-en-temps-reel-volumetrie-en-cdi-70000 "Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000")
 

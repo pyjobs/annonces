@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/04 - [Administrateur(trice) systèmes Linux/Debian à Grenoble](http://www.pyjobs.fr/jobs/details/6378/administrateur-trice-systemes-linux-debian-a-grenoble "Administrateur(trice) systèmes Linux/Debian à Grenoble")
 * 2019/01/24 - [Développeur Edge Computing à Lille (stage) (télétravail)](http://www.pyjobs.fr/jobs/details/6374/developpeur-edge-computing-a-lille-stage-teletravail "Développeur Edge Computing à Lille (stage) (télétravail)")
 * 2019/01/24 - [Développeur Node.js / React.js en Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6372/developpeur-node-js-react-js-en-teletravail-en-cdi-45000-54000 "Développeur Node.js / React.js en Télétravail en CDI 45000-54000")
 * 2019/01/24 - [Node.js Software Engineer en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6373/node-js-software-engineer-en-cdi-45000-54000 "Node.js Software Engineer en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/11/27 - [Lead dev back-end projet from scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6334/lead-dev-back-end-projet-from-scratch-en-cdi-60000-69000 "Lead dev back-end projet from scratch en CDI 60000-69000")
 * 2018/11/27 - [Développeur full-stack expérimenté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6333/developpeur-full-stack-experimente-en-cdi-55000-59000 "Développeur full-stack expérimenté en CDI 55000-59000")
 * 2018/11/27 - [Développeur backoffice box eSanté (H/F) en CDD 35000-44000](http://www.pyjobs.fr/jobs/details/6332/developpeur-backoffice-box-esante-h-f-en-cdd-35000-44000 "Développeur backoffice box eSanté (H/F) en CDD 35000-44000")
-* 2018/11/27 - [CTO (Chief Technical Officer) en CDI >70000](http://www.pyjobs.fr/jobs/details/6331/cto-chief-technical-officer-en-cdi-70000 "CTO (Chief Technical Officer) en CDI >70000")
 

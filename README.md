@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/08 - [Administrateur système linux @Mention - startup SaaS - Paris](http://www.pyjobs.fr/jobs/details/6383/administrateur-systeme-linux-mention-startup-saas-paris "Administrateur système linux @Mention - startup SaaS - Paris")
 * 2019/02/07 - [[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6382/iot-embedded-software-intern-luxembourg-en-stage-25000-34000 "[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000")
 * 2019/02/04 - [Développeur Web Full Stack en CDI](http://www.pyjobs.fr/jobs/details/6379/developpeur-web-full-stack-en-cdi "Développeur Web Full Stack en CDI")
 * 2019/02/04 - [Administrateur(trice) systèmes Linux/Debian à Grenoble](http://www.pyjobs.fr/jobs/details/6378/administrateur-trice-systemes-linux-debian-a-grenoble "Administrateur(trice) systèmes Linux/Debian à Grenoble")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/05 - [INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6380/ingenieur-systeme-embarque-experimente-h-f-en-cdi "INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI")
 * 2019/01/22 - [Développeur Full-Stack (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6369/developpeur-full-stack-h-f-en-cdd "Développeur Full-Stack (H/F) en CDD")
 * 2018/11/27 - [DevOps (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6330/devops-h-f-en-cdi "DevOps (H/F) en CDI")
-* 2018/11/27 - [Lead dev back-end projet from scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6334/lead-dev-back-end-projet-from-scratch-en-cdi-60000-69000 "Lead dev back-end projet from scratch en CDI 60000-69000")
 

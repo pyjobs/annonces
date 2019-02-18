@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/18 - [Ingénieur DeVops H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6388/ingenieur-devops-h-f-teletravail "Ingénieur DeVops H-F (télétravail)")
 * 2019/02/15 - [STAGE MACHINE LEARNING (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6387/stage-machine-learning-h-f-en-stage "STAGE MACHINE LEARNING (H/F) en Stage")
 * 2019/01/31 - [Développeur Web Back-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6375/developpeur-web-back-end-h-f-en-cdi-35000-44000 "Développeur Web Back-End (H/F) en CDI 35000-44000")
 * 2018/12/07 - [Ingénieur QA & Python Automatisation pour un éditeur de logiciels à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6342/ingenieur-qa-python-automatisation-pour-un-editeur-de-logiciels-a-paris-teletravail "Ingénieur QA & Python Automatisation pour un éditeur de logiciels à Paris (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/12/06 - [Développeur Node.js #Startup en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6340/developpeur-node-js-startup-en-cdi-35000-44000 "Développeur Node.js #Startup en CDI 35000-44000")
 * 2018/12/10 - [Développeur Informatique (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6343/developpeur-informatique-h-f-en-cdi "Développeur Informatique (H/F) en CDI")
 * 2018/12/06 - [Développeur Frontend Stagiaire (Vue.js) (télétravail)](http://www.pyjobs.fr/jobs/details/6339/developpeur-frontend-stagiaire-vue-js-teletravail "Développeur Frontend Stagiaire (Vue.js) (télétravail)")
-* 2018/12/06 - [Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)](http://www.pyjobs.fr/jobs/details/6338/stage-developpeur-frontend-vue-js-pour-une-startup-dans-le-film-danimation-teletravail "Stage Développeur Frontend (Vue.js) pour une startup dans le film d'animation (télétravail)")
 

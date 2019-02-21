@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/08 - [Administrateur système linux - startup SaaS B2B - Paris](http://www.pyjobs.fr/jobs/details/6384/administrateur-systeme-linux-startup-saas-b2b-paris "Administrateur système linux - startup SaaS B2B - Paris")
 * 2019/02/08 - [Administrateur système linux @Mention - startup SaaS - Paris](http://www.pyjobs.fr/jobs/details/6383/administrateur-systeme-linux-mention-startup-saas-paris "Administrateur système linux @Mention - startup SaaS - Paris")
 * 2019/02/07 - [[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6382/iot-embedded-software-intern-luxembourg-en-stage-25000-34000 "[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000")
 * 2019/02/04 - [Développeur Web Full Stack en CDI](http://www.pyjobs.fr/jobs/details/6379/developpeur-web-full-stack-en-cdi "Développeur Web Full Stack en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/11 - [Ingénieur QA - Python Automation en CDI directement chez un éditeur de logiciels à Paris](http://www.pyjobs.fr/jobs/details/6364/ingenieur-qa-python-automation-en-cdi-directement-chez-un-editeur-de-logiciels-a-paris "Ingénieur QA - Python Automation en CDI directement chez un éditeur de logiciels à Paris")
 * 2019/02/05 - [INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6380/ingenieur-systeme-embarque-experimente-h-f-en-cdi "INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI")
 * 2019/01/22 - [Développeur Full-Stack (H/F) en CDD](http://www.pyjobs.fr/jobs/details/6369/developpeur-full-stack-h-f-en-cdd "Développeur Full-Stack (H/F) en CDD")
-* 2019/02/12 - [Fullstack Developer Web & Data (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6385/fullstack-developer-web-data-h-f-en-stage "Fullstack Developer Web & Data (H/F) en Stage")
 

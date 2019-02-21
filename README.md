@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/18 - [Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6368/developpeur-se-python-django-qt-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000")
 * 2019/01/06 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6358/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2018/12/26 - [Senior Full JS en Temps Réel et Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6349/senior-full-js-en-temps-reel-et-volumetrie-en-cdi-70000 "Senior Full JS en Temps Réel et Volumétrie en CDI >70000")
 * 2018/12/26 - [Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6354/dev-senior-back-js-en-temps-reel-volumetrie-en-cdi-70000 "Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/18 - [Développeur Node.js : Toulouse + télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6367/developpeur-node-js-toulouse-teletravail-en-cdi-45000-54000 "Développeur Node.js : Toulouse + télétravail en CDI 45000-54000")
 * 2019/01/08 - [Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)](http://www.pyjobs.fr/jobs/details/6360/administrateur-systemes-et-reseaux-confirme-a-la-dsi-de-luniversite-paris-8-saint-denis "Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)")
 * 2019/01/23 - [Devellopeur Python experimenté en CDI](http://www.pyjobs.fr/jobs/details/6371/devellopeur-python-experimente-en-cdi "Devellopeur Python experimenté en CDI")
-* 2019/01/08 - [Développeur full stack Django / API / Python / Angular à la DSI de l'université Paris 8 (Saint-Denis)](http://www.pyjobs.fr/jobs/details/6359/developpeur-full-stack-django-api-python-angular-a-la-dsi-de-luniversite-paris-8-saint-denis "Développeur full stack Django / API / Python / Angular à la DSI de l'université Paris 8 (Saint-Denis)")
 

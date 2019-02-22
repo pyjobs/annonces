@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/18 - [Lead dev bas niveau/CTO - From scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6389/lead-dev-bas-niveau-cto-from-scratch-en-cdi-60000-69000 "Lead dev bas niveau/CTO - From scratch en CDI 60000-69000")
 * 2019/02/18 - [Ingénieur DeVops H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6388/ingenieur-devops-h-f-teletravail "Ingénieur DeVops H-F (télétravail)")
 * 2019/02/15 - [STAGE MACHINE LEARNING (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6387/stage-machine-learning-h-f-en-stage "STAGE MACHINE LEARNING (H/F) en Stage")
 * 2019/01/31 - [Développeur Web Back-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6375/developpeur-web-back-end-h-f-en-cdi-35000-44000 "Développeur Web Back-End (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/12/12 - [Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille](http://www.pyjobs.fr/jobs/details/6344/ingenieur-systeme-oriente-devops-pour-de-lhebergement-cloud-et-on-premise-a-lille "Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille")
 * 2019/02/20 - [Ingénieur DevOps H/F](http://www.pyjobs.fr/jobs/details/6390/ingenieur-devops-h-f "Ingénieur DevOps H/F")
 * 2018/12/10 - [Développeur Informatique (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6343/developpeur-informatique-h-f-en-cdi "Développeur Informatique (H/F) en CDI")
-* 2018/12/06 - [Développeur Frontend Stagiaire (Vue.js) (télétravail)](http://www.pyjobs.fr/jobs/details/6339/developpeur-frontend-stagiaire-vue-js-teletravail "Développeur Frontend Stagiaire (Vue.js) (télétravail)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/31 - [Développeur Web Back-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6375/developpeur-web-back-end-h-f-en-cdi-35000-44000 "Développeur Web Back-End (H/F) en CDI 35000-44000")
 * 2018/12/07 - [Ingénieur QA & Python Automatisation pour un éditeur de logiciels à Paris (télétravail)](http://www.pyjobs.fr/jobs/details/6342/ingenieur-qa-python-automatisation-pour-un-editeur-de-logiciels-a-paris-teletravail "Ingénieur QA & Python Automatisation pour un éditeur de logiciels à Paris (télétravail)")
 * 2019/01/15 - [Ingénieur QA en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6366/ingenieur-qa-en-cdi-45000-54000 "Ingénieur QA en CDI 45000-54000")
 * 2019/01/12 - [DevOps / Référent AWS (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6365/devops-referent-aws-h-f-en-cdi-60000-69000 "DevOps / Référent AWS (H/F) en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/12/06 - [Développeur Frontend Stagiaire (Vue.js) (télétravail)](http://www.pyjobs.fr/jobs/details/6339/developpeur-frontend-stagiaire-vue-js-teletravail "Développeur Frontend Stagiaire (Vue.js) (télétravail)")
 * 2019/02/18 - [Lead dev bas niveau/CTO - From scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6389/lead-dev-bas-niveau-cto-from-scratch-en-cdi-60000-69000 "Lead dev bas niveau/CTO - From scratch en CDI 60000-69000")
 * 2019/02/18 - [Ingénieur DeVops H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6388/ingenieur-devops-h-f-teletravail "Ingénieur DeVops H-F (télétravail)")
-* 2019/02/15 - [STAGE MACHINE LEARNING (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6387/stage-machine-learning-h-f-en-stage "STAGE MACHINE LEARNING (H/F) en Stage")
 

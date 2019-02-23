@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/18 - [Développeur Node.js : Toulouse + télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6367/developpeur-node-js-toulouse-teletravail-en-cdi-45000-54000 "Développeur Node.js : Toulouse + télétravail en CDI 45000-54000")
 * 2019/01/23 - [Devellopeur Python experimenté en CDI](http://www.pyjobs.fr/jobs/details/6371/devellopeur-python-experimente-en-cdi "Devellopeur Python experimenté en CDI")
 * 2019/01/08 - [Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)](http://www.pyjobs.fr/jobs/details/6360/administrateur-systemes-et-reseaux-confirme-a-la-dsi-de-luniversite-paris-8-saint-denis "Administrateur systèmes et réseaux _confirmé_ à la DSI de l'université Paris 8 (Saint-Denis)")
 * 2019/01/18 - [Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6368/developpeur-se-python-django-qt-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/24 - [Node.js Software Engineer en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6373/node-js-software-engineer-en-cdi-45000-54000 "Node.js Software Engineer en CDI 45000-54000")
 * 2019/01/10 - [Développeur Python (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6363/developpeur-python-h-f-en-cdi-25000-34000 "Développeur Python (H/F) en CDI 25000-34000")
 * 2019/01/10 - [Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6361/developpeur-python-odoo-ou-qui-veut-en-faire-en-cdi-35000-44000 "Développeur Python Odoo, ou qui veut en faire en CDI 35000-44000")
-* 2019/01/10 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6362/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
 

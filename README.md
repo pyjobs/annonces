@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/20 - [Ingénieur DevOps H/F](http://www.pyjobs.fr/jobs/details/6390/ingenieur-devops-h-f "Ingénieur DevOps H/F")
 * 2019/02/25 - [Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô](http://www.pyjobs.fr/jobs/details/6394/technicien-ne-systemes-reseaux-et-telecom-a-saint-lo "Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô")
 * 2019/02/22 - [Administrateur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/6392/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux H/F")
 * 2019/02/18 - [Lead dev bas niveau/CTO - From scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6389/lead-dev-bas-niveau-cto-from-scratch-en-cdi-60000-69000 "Lead dev bas niveau/CTO - From scratch en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/12/17 - [Développeur Python "libre" dans une SCOP à Grenoble](http://www.pyjobs.fr/jobs/details/6347/developpeur-python-libre-dans-une-scop-a-grenoble "Développeur Python "libre" dans une SCOP à Grenoble")
 * 2018/12/13 - [Développeur fullstack JS + Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6346/developpeur-fullstack-js-teletravail-en-cdi-45000-54000 "Développeur fullstack JS + Télétravail en CDI 45000-54000")
 * 2018/12/13 - [Ingénieur Systèmes/Réseaux Linux (H/F)](http://www.pyjobs.fr/jobs/details/6345/ingenieur-systemes-reseaux-linux-h-f "Ingénieur Systèmes/Réseaux Linux (H/F)")
-* 2018/12/12 - [Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille](http://www.pyjobs.fr/jobs/details/6344/ingenieur-systeme-oriente-devops-pour-de-lhebergement-cloud-et-on-premise-a-lille "Ingénieur système orienté DevOps pour de l'hébergement Cloud et on premise à Lille")
 

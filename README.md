@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/04 - [Web developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6357/web-developer-h-f-en-cdi "Web developer (H/F) en CDI")
 * 2019/01/04 - [Chef•fe de projet data technologies (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6356/chef-fe-de-projet-data-technologies-h-f-en-cdi-45000-54000 "Chef•fe de projet data technologies (H/F) en CDI 45000-54000")
 * 2019/03/01 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6397/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
 * 2019/03/01 - [administrateur/ingénieur système en CDI](http://www.pyjobs.fr/jobs/details/6399/administrateur-ingenieur-systeme-en-cdi "administrateur/ingénieur système en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/23 - [DevOps Python (H/F) Nantes en CDI](http://www.pyjobs.fr/jobs/details/6370/devops-python-h-f-nantes-en-cdi "DevOps Python (H/F) Nantes en CDI")
 * 2019/02/22 - [Administrateur Système Linux (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6393/administrateur-systeme-linux-f-h-en-cdi "Administrateur Système Linux (F/H) en CDI")
 * 2018/12/26 - [Dev Senior Fullstack JS a forte volumétrie en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6350/dev-senior-fullstack-js-a-forte-volumetrie-en-cdi-55000-59000 "Dev Senior Fullstack JS a forte volumétrie en CDI 55000-59000")
-* 2019/01/04 - [Chargé(e) de tests et de qualité logicielle en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6355/charge-e-de-tests-et-de-qualite-logicielle-en-cdi-25000-34000 "Chargé(e) de tests et de qualité logicielle en CDI 25000-34000")
 

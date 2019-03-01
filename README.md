@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/01 - [Stagiaire développeur Python (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6398/stagiaire-developpeur-python-h-f-en-stage "Stagiaire développeur Python (H/F) en Stage")
 * 2019/02/26 - [Admin systèmes et réseaux dans une petite entreprise vers Grenoble](http://www.pyjobs.fr/jobs/details/6396/admin-systemes-et-reseaux-dans-une-petite-entreprise-vers-grenoble "Admin systèmes et réseaux dans une petite entreprise vers Grenoble")
 * 2019/02/26 - [Developpeur web cartographie interactive et webservices à Paris](http://www.pyjobs.fr/jobs/details/6395/developpeur-web-cartographie-interactive-et-webservices-a-paris "Developpeur web cartographie interactive et webservices à Paris")
 * 2019/02/20 - [Ingénieur DevOps H/F](http://www.pyjobs.fr/jobs/details/6390/ingenieur-devops-h-f "Ingénieur DevOps H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/04 - [Web developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6357/web-developer-h-f-en-cdi "Web developer (H/F) en CDI")
 * 2019/01/04 - [Chef•fe de projet data technologies (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6356/chef-fe-de-projet-data-technologies-h-f-en-cdi-45000-54000 "Chef•fe de projet data technologies (H/F) en CDI 45000-54000")
 * 2018/12/21 - [Administrateur système - DevOps en CDI](http://www.pyjobs.fr/jobs/details/6348/administrateur-systeme-devops-en-cdi "Administrateur système - DevOps en CDI")
-* 2018/12/17 - [Développeur Python "libre" dans une SCOP à Grenoble](http://www.pyjobs.fr/jobs/details/6347/developpeur-python-libre-dans-une-scop-a-grenoble "Développeur Python "libre" dans une SCOP à Grenoble")
 

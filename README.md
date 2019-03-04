@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/22 - [Administrateur Système Linux (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6393/administrateur-systeme-linux-f-h-en-cdi "Administrateur Système Linux (F/H) en CDI")
 * 2019/03/04 - [Développeur Symfony Vintage ;) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6400/developpeur-symfony-vintage-en-cdi-45000-54000 "Développeur Symfony Vintage ;) en CDI 45000-54000")
 * 2019/01/04 - [Chargé(e) de tests et de qualité logicielle en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6355/charge-e-de-tests-et-de-qualite-logicielle-en-cdi-25000-34000 "Chargé(e) de tests et de qualité logicielle en CDI 25000-34000")
 * 2019/01/04 - [Web developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6357/web-developer-h-f-en-cdi "Web developer (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/01 - [Développeur(se) Python / Django (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6377/developpeur-se-python-django-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django (H/F) en CDI 35000-44000")
 * 2018/12/26 - [Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6351/dev-fullstack-js-dans-les-reseaux-wifi-h-f-en-cdi-45000-54000 "Dev Fullstack JS dans les réseaux Wifi (H/F) en CDI 45000-54000")
 * 2019/02/06 - [[IoT] Data Science Internship (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6381/iot-data-science-internship-luxembourg-en-stage-25000-34000 "[IoT] Data Science Internship (Luxembourg) en Stage 25000-34000")
-* 2019/01/23 - [DevOps Python (H/F) Nantes en CDI](http://www.pyjobs.fr/jobs/details/6370/devops-python-h-f-nantes-en-cdi "DevOps Python (H/F) Nantes en CDI")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/05 - [Support - Admin Sys Linux (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6401/support-admin-sys-linux-h-f-en-cdi-25000-34000 "Support - Admin Sys Linux (H/F) en CDI 25000-34000")
 * 2019/02/06 - [[IoT] Data Science Internship (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6381/iot-data-science-internship-luxembourg-en-stage-25000-34000 "[IoT] Data Science Internship (Luxembourg) en Stage 25000-34000")
 * 2019/01/23 - [DevOps Python (H/F) Nantes en CDI](http://www.pyjobs.fr/jobs/details/6370/devops-python-h-f-nantes-en-cdi "DevOps Python (H/F) Nantes en CDI")
 * 2019/02/22 - [Administrateur Système Linux (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6393/administrateur-systeme-linux-f-h-en-cdi "Administrateur Système Linux (F/H) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2018/12/26 - [Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6353/dev-senior-fullstack-node-angular-en-esante-en-cdi-55000-59000 "Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000")
 * 2019/02/01 - [DevOps Python (H/F) Nantes](http://www.pyjobs.fr/jobs/details/6376/devops-python-h-f-nantes "DevOps Python (H/F) Nantes")
 * 2018/12/26 - [Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6352/dev-junior-confirme-full-js-en-esante-h-f-en-cdi-45000-54000 "Dev Junior / Confirmé Full JS en eSanté (H/F) en CDI 45000-54000")
-* 2019/02/01 - [Développeur(se) Python / Django (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6377/developpeur-se-python-django-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django (H/F) en CDI 35000-44000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/01 - [DevOps Python (H/F) Nantes](http://www.pyjobs.fr/jobs/details/6376/devops-python-h-f-nantes "DevOps Python (H/F) Nantes")
 * 2019/03/05 - [Ingénieur SysOPS Montpellier et Lyon](http://www.pyjobs.fr/jobs/details/6402/ingenieur-sysops-montpellier-et-lyon "Ingénieur SysOPS Montpellier et Lyon")
 * 2019/02/01 - [Développeur(se) Python / Django (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6377/developpeur-se-python-django-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django (H/F) en CDI 35000-44000")
 * 2019/03/05 - [Support - Admin Sys Linux (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6401/support-admin-sys-linux-h-f-en-cdi-25000-34000 "Support - Admin Sys Linux (H/F) en CDI 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/06 - [Développeur Python (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6358/developpeur-python-h-f-en-cdi-45000-54000 "Développeur Python (H/F) en CDI 45000-54000")
 * 2018/12/26 - [Senior Full JS en Temps Réel et Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6349/senior-full-js-en-temps-reel-et-volumetrie-en-cdi-70000 "Senior Full JS en Temps Réel et Volumétrie en CDI >70000")
 * 2018/12/26 - [Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000](http://www.pyjobs.fr/jobs/details/6354/dev-senior-back-js-en-temps-reel-volumetrie-en-cdi-70000 "Dev Senior Back JS en Temps Réel / Volumétrie en CDI >70000")
-* 2018/12/26 - [Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6353/dev-senior-fullstack-node-angular-en-esante-en-cdi-55000-59000 "Dev Senior Fullstack Node / Angular en eSanté en CDI 55000-59000")
 

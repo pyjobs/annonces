@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/26 - [Admin systèmes et réseaux dans une petite entreprise vers Grenoble](http://www.pyjobs.fr/jobs/details/6396/admin-systemes-et-reseaux-dans-une-petite-entreprise-vers-grenoble "Admin systèmes et réseaux dans une petite entreprise vers Grenoble")
 * 2019/02/26 - [Developpeur web cartographie interactive et webservices à Paris](http://www.pyjobs.fr/jobs/details/6395/developpeur-web-cartographie-interactive-et-webservices-a-paris "Developpeur web cartographie interactive et webservices à Paris")
 * 2019/02/20 - [Ingénieur DevOps H/F](http://www.pyjobs.fr/jobs/details/6390/ingenieur-devops-h-f "Ingénieur DevOps H/F")
 * 2019/02/25 - [Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô](http://www.pyjobs.fr/jobs/details/6394/technicien-ne-systemes-reseaux-et-telecom-a-saint-lo "Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/04 - [Web developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6357/web-developer-h-f-en-cdi "Web developer (H/F) en CDI")
 * 2019/01/04 - [Chef•fe de projet data technologies (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6356/chef-fe-de-projet-data-technologies-h-f-en-cdi-45000-54000 "Chef•fe de projet data technologies (H/F) en CDI 45000-54000")
 * 2019/03/01 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6397/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
-* 2019/03/01 - [administrateur/ingénieur système en CDI](http://www.pyjobs.fr/jobs/details/6399/administrateur-ingenieur-systeme-en-cdi "administrateur/ingénieur système en CDI")
 

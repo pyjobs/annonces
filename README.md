@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/12 - [DevOps / Référent AWS (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6365/devops-referent-aws-h-f-en-cdi-60000-69000 "DevOps / Référent AWS (H/F) en CDI 60000-69000")
 * 2019/02/05 - [INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6380/ingenieur-systeme-embarque-experimente-h-f-en-cdi "INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI")
 * 2019/01/11 - [Ingénieur QA - Python Automation en CDI directement chez un éditeur de logiciels à Paris](http://www.pyjobs.fr/jobs/details/6364/ingenieur-qa-python-automation-en-cdi-directement-chez-un-editeur-de-logiciels-a-paris "Ingénieur QA - Python Automation en CDI directement chez un éditeur de logiciels à Paris")
 * 2019/02/12 - [Fullstack Developer Web & Data (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6385/fullstack-developer-web-data-h-f-en-stage "Fullstack Developer Web & Data (H/F) en Stage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/18 - [Ingénieur DeVops H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6388/ingenieur-devops-h-f-teletravail "Ingénieur DeVops H-F (télétravail)")
 * 2019/02/15 - [STAGE MACHINE LEARNING (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6387/stage-machine-learning-h-f-en-stage "STAGE MACHINE LEARNING (H/F) en Stage")
 * 2019/01/31 - [Développeur Web Back-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6375/developpeur-web-back-end-h-f-en-cdi-35000-44000 "Développeur Web Back-End (H/F) en CDI 35000-44000")
-* 2019/01/15 - [Ingénieur QA en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6366/ingenieur-qa-en-cdi-45000-54000 "Ingénieur QA en CDI 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/27 - [Dévelopeur Ruby | Musique | Paris | H/F en CDI](http://www.pyjobs.fr/jobs/details/6411/developeur-ruby-musique-paris-h-f-en-cdi "Dévelopeur Ruby | Musique | Paris | H/F en CDI")
 * 2019/01/18 - [Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6368/developpeur-se-python-django-qt-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000")
 * 2019/03/26 - [Release Manager de la LegalTech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6410/release-manager-de-la-legaltech-en-cdi-60000-69000 "Release Manager de la LegalTech en CDI 60000-69000")
 * 2019/03/25 - [Datascientist en CDI](http://www.pyjobs.fr/jobs/details/6409/datascientist-en-cdi "Datascientist en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/10 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6362/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
 * 2019/02/21 - [Lead Développeur_Projet éthique_Python/Django en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6391/lead-developpeur-projet-ethique-python-django-en-cdi-45000-54000 "Lead Développeur_Projet éthique_Python/Django en CDI 45000-54000")
 * 2019/01/18 - [Développeur Node.js : Toulouse + télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6367/developpeur-node-js-toulouse-teletravail-en-cdi-45000-54000 "Développeur Node.js : Toulouse + télétravail en CDI 45000-54000")
-* 2019/01/23 - [Devellopeur Python experimenté en CDI](http://www.pyjobs.fr/jobs/details/6371/devellopeur-python-experimente-en-cdi "Devellopeur Python experimenté en CDI")
 

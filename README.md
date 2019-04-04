@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/04 - [Developer Full Stack Python / Django en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6413/developer-full-stack-python-django-en-cdi-55000-59000 "Developer Full Stack Python / Django en CDI 55000-59000")
 * 2019/04/03 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6412/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
 * 2019/02/21 - [Lead Développeur_Projet éthique_Python/Django en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6391/lead-developpeur-projet-ethique-python-django-en-cdi-45000-54000 "Lead Développeur_Projet éthique_Python/Django en CDI 45000-54000")
 * 2019/01/18 - [Développeur Node.js : Toulouse + télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6367/developpeur-node-js-toulouse-teletravail-en-cdi-45000-54000 "Développeur Node.js : Toulouse + télétravail en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/24 - [Développeur Edge Computing à Lille (stage) (télétravail)](http://www.pyjobs.fr/jobs/details/6374/developpeur-edge-computing-a-lille-stage-teletravail "Développeur Edge Computing à Lille (stage) (télétravail)")
 * 2019/01/24 - [Développeur Node.js / React.js en Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6372/developpeur-node-js-react-js-en-teletravail-en-cdi-45000-54000 "Développeur Node.js / React.js en Télétravail en CDI 45000-54000")
 * 2019/01/24 - [Node.js Software Engineer en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6373/node-js-software-engineer-en-cdi-45000-54000 "Node.js Software Engineer en CDI 45000-54000")
-* 2019/01/10 - [Développeur Python (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6363/developpeur-python-h-f-en-cdi-25000-34000 "Développeur Python (H/F) en CDI 25000-34000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/04 - [Administrateur(trice) systèmes Linux/Debian à Grenoble](http://www.pyjobs.fr/jobs/details/6378/administrateur-trice-systemes-linux-debian-a-grenoble "Administrateur(trice) systèmes Linux/Debian à Grenoble")
 * 2019/01/24 - [Développeur Edge Computing à Lille (stage) (télétravail)](http://www.pyjobs.fr/jobs/details/6374/developpeur-edge-computing-a-lille-stage-teletravail "Développeur Edge Computing à Lille (stage) (télétravail)")
 * 2019/01/24 - [Développeur Node.js / React.js en Télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6372/developpeur-node-js-react-js-en-teletravail-en-cdi-45000-54000 "Développeur Node.js / React.js en Télétravail en CDI 45000-54000")
 * 2019/01/24 - [Node.js Software Engineer en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6373/node-js-software-engineer-en-cdi-45000-54000 "Node.js Software Engineer en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/08 - [Administrateur système linux - startup SaaS B2B - Paris](http://www.pyjobs.fr/jobs/details/6384/administrateur-systeme-linux-startup-saas-b2b-paris "Administrateur système linux - startup SaaS B2B - Paris")
 * 2019/02/08 - [Administrateur système linux @Mention - startup SaaS - Paris](http://www.pyjobs.fr/jobs/details/6383/administrateur-systeme-linux-mention-startup-saas-paris "Administrateur système linux @Mention - startup SaaS - Paris")
 * 2019/02/07 - [[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6382/iot-embedded-software-intern-luxembourg-en-stage-25000-34000 "[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000")
-* 2019/02/04 - [Développeur Web Full Stack en CDI](http://www.pyjobs.fr/jobs/details/6379/developpeur-web-full-stack-en-cdi "Développeur Web Full Stack en CDI")
 

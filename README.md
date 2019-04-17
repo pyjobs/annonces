@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/24 - [Node.js Software Engineer en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6373/node-js-software-engineer-en-cdi-45000-54000 "Node.js Software Engineer en CDI 45000-54000")
 * 2019/04/08 - [[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6414/iot-backend-dev-intern-luxembourg-h-f-en-stage-25000-34000 "[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000")
 * 2019/04/04 - [Developer Full Stack Python / Django en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6413/developer-full-stack-python-django-en-cdi-55000-59000 "Developer Full Stack Python / Django en CDI 55000-59000")
 * 2019/04/03 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6412/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/07 - [[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6382/iot-embedded-software-intern-luxembourg-en-stage-25000-34000 "[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000")
 * 2019/02/04 - [Développeur Web Full Stack en CDI](http://www.pyjobs.fr/jobs/details/6379/developpeur-web-full-stack-en-cdi "Développeur Web Full Stack en CDI")
 * 2019/02/04 - [Administrateur(trice) systèmes Linux/Debian à Grenoble](http://www.pyjobs.fr/jobs/details/6378/administrateur-trice-systemes-linux-debian-a-grenoble "Administrateur(trice) systèmes Linux/Debian à Grenoble")
-* 2019/01/24 - [Développeur Edge Computing à Lille (stage) (télétravail)](http://www.pyjobs.fr/jobs/details/6374/developpeur-edge-computing-a-lille-stage-teletravail "Développeur Edge Computing à Lille (stage) (télétravail)")
 

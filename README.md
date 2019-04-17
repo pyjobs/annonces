@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/17 - [DevOps Engineer (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6417/devops-engineer-h-f-en-cdi-55000-59000 "DevOps Engineer (H/F) en CDI 55000-59000")
 * 2019/04/17 - [Devops Futur Lead en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6418/devops-futur-lead-en-cdi-55000-59000 "Devops Futur Lead en CDI 55000-59000")
 * 2019/04/11 - [Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)](http://www.pyjobs.fr/jobs/details/6416/ingenieur-systeme-devops-open-source-pour-une-startup-experte-en-cloud-en-france-teletravail "Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)")
 * 2019/02/05 - [INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6380/ingenieur-systeme-embarque-experimente-h-f-en-cdi "INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/08 - [Développeur Senior PHP Symphony (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6406/developpeur-senior-php-symphony-h-f-en-cdi-45000-54000 "Développeur Senior PHP Symphony (H/F) en CDI 45000-54000")
 * 2019/02/18 - [Lead dev bas niveau/CTO - From scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6389/lead-dev-bas-niveau-cto-from-scratch-en-cdi-60000-69000 "Lead dev bas niveau/CTO - From scratch en CDI 60000-69000")
 * 2019/02/18 - [Ingénieur DeVops H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6388/ingenieur-devops-h-f-teletravail "Ingénieur DeVops H-F (télétravail)")
-* 2019/02/15 - [STAGE MACHINE LEARNING (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6387/stage-machine-learning-h-f-en-stage "STAGE MACHINE LEARNING (H/F) en Stage")
 

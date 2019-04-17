@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/07 - [Développeur Python API pour un agrégateur de données à Paris](http://www.pyjobs.fr/jobs/details/6405/developpeur-python-api-pour-un-agregateur-de-donnees-a-paris "Développeur Python API pour un agrégateur de données à Paris")
 * 2019/03/06 - [DevOps du E-Commerce en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6403/devops-du-e-commerce-en-cdi-45000-54000 "DevOps du E-Commerce en CDI 45000-54000")
 * 2019/03/06 - [Administrateur réseau H/F | Nantes en CDI](http://www.pyjobs.fr/jobs/details/6404/administrateur-reseau-h-f-nantes-en-cdi "Administrateur réseau H/F | Nantes en CDI")
 * 2019/02/01 - [DevOps Python (H/F) Nantes](http://www.pyjobs.fr/jobs/details/6376/devops-python-h-f-nantes "DevOps Python (H/F) Nantes")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/18 - [Développeur Node.js : Toulouse + télétravail en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6367/developpeur-node-js-toulouse-teletravail-en-cdi-45000-54000 "Développeur Node.js : Toulouse + télétravail en CDI 45000-54000")
 * 2019/01/23 - [Devellopeur Python experimenté en CDI](http://www.pyjobs.fr/jobs/details/6371/devellopeur-python-experimente-en-cdi "Devellopeur Python experimenté en CDI")
 * 2019/03/27 - [Dévelopeur Ruby | Musique | Paris | H/F en CDI](http://www.pyjobs.fr/jobs/details/6411/developeur-ruby-musique-paris-h-f-en-cdi "Dévelopeur Ruby | Musique | Paris | H/F en CDI")
-* 2019/01/18 - [Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6368/developpeur-se-python-django-qt-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django / Qt (H/F) en CDI 35000-44000")
 

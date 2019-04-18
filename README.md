@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/01/31 - [Développeur Web Back-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6375/developpeur-web-back-end-h-f-en-cdi-35000-44000 "Développeur Web Back-End (H/F) en CDI 35000-44000")
 * 2019/04/17 - [DevOps Engineer (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6417/devops-engineer-h-f-en-cdi-55000-59000 "DevOps Engineer (H/F) en CDI 55000-59000")
 * 2019/04/17 - [Devops Futur Lead en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6418/devops-futur-lead-en-cdi-55000-59000 "Devops Futur Lead en CDI 55000-59000")
 * 2019/04/18 - [Développeur Ruby/Rails API (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6421/developpeur-ruby-rails-api-h-f-en-cdi-35000-44000 "Développeur Ruby/Rails API (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/08 - [Développeur Senior PHP Symphony (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6406/developpeur-senior-php-symphony-h-f-en-cdi-45000-54000 "Développeur Senior PHP Symphony (H/F) en CDI 45000-54000")
 * 2019/02/22 - [Administrateur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/6392/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux H/F")
 * 2019/02/18 - [Lead dev bas niveau/CTO - From scratch en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6389/lead-dev-bas-niveau-cto-from-scratch-en-cdi-60000-69000 "Lead dev bas niveau/CTO - From scratch en CDI 60000-69000")
-* 2019/02/18 - [Ingénieur DeVops H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6388/ingenieur-devops-h-f-teletravail "Ingénieur DeVops H-F (télétravail)")
 

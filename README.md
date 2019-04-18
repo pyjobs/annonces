@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/01 - [administrateur/ingénieur système en CDI](http://www.pyjobs.fr/jobs/details/6399/administrateur-ingenieur-systeme-en-cdi "administrateur/ingénieur système en CDI")
 * 2019/03/01 - [Stagiaire développeur Python (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6398/stagiaire-developpeur-python-h-f-en-stage "Stagiaire développeur Python (H/F) en Stage")
 * 2019/02/26 - [Admin systèmes et réseaux dans une petite entreprise vers Grenoble](http://www.pyjobs.fr/jobs/details/6396/admin-systemes-et-reseaux-dans-une-petite-entreprise-vers-grenoble "Admin systèmes et réseaux dans une petite entreprise vers Grenoble")
 * 2019/02/26 - [Developpeur web cartographie interactive et webservices à Paris](http://www.pyjobs.fr/jobs/details/6395/developpeur-web-cartographie-interactive-et-webservices-a-paris "Developpeur web cartographie interactive et webservices à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/01/23 - [DevOps Python (H/F) Nantes en CDI](http://www.pyjobs.fr/jobs/details/6370/devops-python-h-f-nantes-en-cdi "DevOps Python (H/F) Nantes en CDI")
 * 2019/03/14 - [Développeur ERP5 à Lille](http://www.pyjobs.fr/jobs/details/6408/developpeur-erp5-a-lille "Développeur ERP5 à Lille")
 * 2019/03/04 - [Développeur Symfony Vintage ;) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6400/developpeur-symfony-vintage-en-cdi-45000-54000 "Développeur Symfony Vintage ;) en CDI 45000-54000")
-* 2019/03/12 - [DevOps confirmé - Administrateur Système H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6407/devops-confirme-administrateur-systeme-h-f-en-cdi-35000-44000 "DevOps confirmé - Administrateur Système H/F en CDI 35000-44000")
 

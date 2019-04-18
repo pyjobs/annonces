@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/18 - [Senior Software Engineer_Tech Lead Nodejs en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6422/senior-software-engineer-tech-lead-nodejs-en-cdi-45000-54000 "Senior Software Engineer_Tech Lead Nodejs en CDI 45000-54000")
 * 2019/02/01 - [Développeur(se) Python / Django (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6377/developpeur-se-python-django-h-f-en-cdi-35000-44000 "Développeur(se) Python / Django (H/F) en CDI 35000-44000")
 * 2019/03/05 - [Support - Admin Sys Linux (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6401/support-admin-sys-linux-h-f-en-cdi-25000-34000 "Support - Admin Sys Linux (H/F) en CDI 25000-34000")
 * 2019/02/06 - [[IoT] Data Science Internship (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6381/iot-data-science-internship-luxembourg-en-stage-25000-34000 "[IoT] Data Science Internship (Luxembourg) en Stage 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/06 - [DevOps du E-Commerce en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6403/devops-du-e-commerce-en-cdi-45000-54000 "DevOps du E-Commerce en CDI 45000-54000")
 * 2019/03/06 - [Administrateur réseau H/F | Nantes en CDI](http://www.pyjobs.fr/jobs/details/6404/administrateur-reseau-h-f-nantes-en-cdi "Administrateur réseau H/F | Nantes en CDI")
 * 2019/02/01 - [DevOps Python (H/F) Nantes](http://www.pyjobs.fr/jobs/details/6376/devops-python-h-f-nantes "DevOps Python (H/F) Nantes")
-* 2019/04/17 - [Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)](http://www.pyjobs.fr/jobs/details/6419/ingenieur-e-systeme-devops-open-source-pour-une-startup-experte-en-cloud-a-paris-lyon-nantes-teletravail "Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)")
 

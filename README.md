@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/18 - [Développeur Ruby/Rails API (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6421/developpeur-ruby-rails-api-h-f-en-cdi-35000-44000 "Développeur Ruby/Rails API (H/F) en CDI 35000-44000")
 * 2019/04/11 - [Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)](http://www.pyjobs.fr/jobs/details/6416/ingenieur-systeme-devops-open-source-pour-une-startup-experte-en-cloud-en-france-teletravail "Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)")
 * 2019/02/05 - [INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6380/ingenieur-systeme-embarque-experimente-h-f-en-cdi "INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI")
 * 2019/04/09 - [Sysadmin(e) tendance devops (ouest lyonnais/remote partiel) (télétravail)](http://www.pyjobs.fr/jobs/details/6415/sysadmin-e-tendance-devops-ouest-lyonnais-remote-partiel-teletravail "Sysadmin(e) tendance devops (ouest lyonnais/remote partiel) (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/15 - [STAGE MACHINE LEARNING (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6387/stage-machine-learning-h-f-en-stage "STAGE MACHINE LEARNING (H/F) en Stage")
 * 2019/01/31 - [Développeur Web Back-End (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6375/developpeur-web-back-end-h-f-en-cdi-35000-44000 "Développeur Web Back-End (H/F) en CDI 35000-44000")
 * 2019/04/17 - [DevOps Engineer (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6417/devops-engineer-h-f-en-cdi-55000-59000 "DevOps Engineer (H/F) en CDI 55000-59000")
-* 2019/04/17 - [Devops Futur Lead en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6418/devops-futur-lead-en-cdi-55000-59000 "Devops Futur Lead en CDI 55000-59000")
 

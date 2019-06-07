@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/08 - [Administrateur système linux @Mention - startup SaaS - Paris](http://www.pyjobs.fr/jobs/details/6383/administrateur-systeme-linux-mention-startup-saas-paris "Administrateur système linux @Mention - startup SaaS - Paris")
 * 2019/02/07 - [[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6382/iot-embedded-software-intern-luxembourg-en-stage-25000-34000 "[IoT] Embedded Software Intern (Luxembourg) en Stage 25000-34000")
 * 2019/06/07 - [Big Data Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6430/big-data-developer-h-f-en-cdi "Big Data Developer (H/F) en CDI")
 * 2019/06/05 - [Développeur iOS en Stage <24000](http://www.pyjobs.fr/jobs/details/6429/developpeur-ios-en-stage-24000 "Développeur iOS en Stage <24000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/09 - [Sysadmin(e) tendance devops (ouest lyonnais/remote partiel) (télétravail)](http://www.pyjobs.fr/jobs/details/6415/sysadmin-e-tendance-devops-ouest-lyonnais-remote-partiel-teletravail "Sysadmin(e) tendance devops (ouest lyonnais/remote partiel) (télétravail)")
 * 2019/02/12 - [Fullstack Developer Web & Data (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6385/fullstack-developer-web-data-h-f-en-stage "Fullstack Developer Web & Data (H/F) en Stage")
 * 2019/02/11 - [Développeur.euse Web Full Stack (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6386/developpeur-euse-web-full-stack-h-f-en-cdi-45000-54000 "Développeur.euse Web Full Stack (H/F) en CDI 45000-54000")
-* 2019/02/08 - [Administrateur système linux - startup SaaS B2B - Paris](http://www.pyjobs.fr/jobs/details/6384/administrateur-systeme-linux-startup-saas-b2b-paris "Administrateur système linux - startup SaaS B2B - Paris")
 

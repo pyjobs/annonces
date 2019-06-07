@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/11 - [Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)](http://www.pyjobs.fr/jobs/details/6416/ingenieur-systeme-devops-open-source-pour-une-startup-experte-en-cloud-en-france-teletravail "Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)")
 * 2019/04/09 - [Sysadmin(e) tendance devops (ouest lyonnais/remote partiel) (télétravail)](http://www.pyjobs.fr/jobs/details/6415/sysadmin-e-tendance-devops-ouest-lyonnais-remote-partiel-teletravail "Sysadmin(e) tendance devops (ouest lyonnais/remote partiel) (télétravail)")
 * 2019/02/12 - [Fullstack Developer Web & Data (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6385/fullstack-developer-web-data-h-f-en-stage "Fullstack Developer Web & Data (H/F) en Stage")
 * 2019/02/11 - [Développeur.euse Web Full Stack (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6386/developpeur-euse-web-full-stack-h-f-en-cdi-45000-54000 "Développeur.euse Web Full Stack (H/F) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/29 - [Développeur·se Python (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6426/developpeur-se-python-h-f-en-cdi "Développeur·se Python (H/F) en CDI")
 * 2019/04/17 - [DevOps Engineer (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6417/devops-engineer-h-f-en-cdi-55000-59000 "DevOps Engineer (H/F) en CDI 55000-59000")
 * 2019/04/17 - [Devops Futur Lead en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6418/devops-futur-lead-en-cdi-55000-59000 "Devops Futur Lead en CDI 55000-59000")
-* 2019/04/18 - [Développeur Ruby/Rails API (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6421/developpeur-ruby-rails-api-h-f-en-cdi-35000-44000 "Développeur Ruby/Rails API (H/F) en CDI 35000-44000")
 

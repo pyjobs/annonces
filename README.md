@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/02/12 - [Fullstack Developer Web & Data (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6385/fullstack-developer-web-data-h-f-en-stage "Fullstack Developer Web & Data (H/F) en Stage")
 * 2019/02/11 - [Développeur.euse Web Full Stack (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6386/developpeur-euse-web-full-stack-h-f-en-cdi-45000-54000 "Développeur.euse Web Full Stack (H/F) en CDI 45000-54000")
 * 2019/06/07 - [Assistant Chargé D'études Datamining (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6431/assistant-charge-detudes-datamining-h-f-en-alternance "Assistant Chargé D'études Datamining (H/F) en Alternance")
 * 2019/02/08 - [Administrateur système linux - startup SaaS B2B - Paris](http://www.pyjobs.fr/jobs/details/6384/administrateur-systeme-linux-startup-saas-b2b-paris "Administrateur système linux - startup SaaS B2B - Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/17 - [Devops Futur Lead en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6418/devops-futur-lead-en-cdi-55000-59000 "Devops Futur Lead en CDI 55000-59000")
 * 2019/04/18 - [Développeur Ruby/Rails API (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6421/developpeur-ruby-rails-api-h-f-en-cdi-35000-44000 "Développeur Ruby/Rails API (H/F) en CDI 35000-44000")
 * 2019/04/11 - [Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)](http://www.pyjobs.fr/jobs/details/6416/ingenieur-systeme-devops-open-source-pour-une-startup-experte-en-cloud-en-france-teletravail "Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)")
-* 2019/02/05 - [INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6380/ingenieur-systeme-embarque-experimente-h-f-en-cdi "INGÉNIEUR SYSTÈME EMBARQUÉ EXPÉRIMENTÉ (H/F) en CDI")
 

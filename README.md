@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/06/05 - [Développeur iOS en Stage <24000](http://www.pyjobs.fr/jobs/details/6429/developpeur-ios-en-stage-24000 "Développeur iOS en Stage <24000")
 * 2019/04/25 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6425/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 * 2019/04/23 - [Développeur Fullstack Python - Angular en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6424/developpeur-fullstack-python-angular-en-cdi-45000-54000 "Développeur Fullstack Python - Angular en CDI 45000-54000")
 * 2019/04/23 - [Lead développeur Python (H/F) Strasbourg](http://www.pyjobs.fr/jobs/details/6423/lead-developpeur-python-h-f-strasbourg "Lead développeur Python (H/F) Strasbourg")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/11 - [Développeur.euse Web Full Stack (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6386/developpeur-euse-web-full-stack-h-f-en-cdi-45000-54000 "Développeur.euse Web Full Stack (H/F) en CDI 45000-54000")
 * 2019/06/07 - [Assistant Chargé D'études Datamining (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6431/assistant-charge-detudes-datamining-h-f-en-alternance "Assistant Chargé D'études Datamining (H/F) en Alternance")
 * 2019/02/08 - [Administrateur système linux - startup SaaS B2B - Paris](http://www.pyjobs.fr/jobs/details/6384/administrateur-systeme-linux-startup-saas-b2b-paris "Administrateur système linux - startup SaaS B2B - Paris")
-* 2019/02/08 - [Administrateur système linux @Mention - startup SaaS - Paris](http://www.pyjobs.fr/jobs/details/6383/administrateur-systeme-linux-mention-startup-saas-paris "Administrateur système linux @Mention - startup SaaS - Paris")
 

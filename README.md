@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/06 - [Administrateur réseau H/F | Nantes en CDI](http://www.pyjobs.fr/jobs/details/6404/administrateur-reseau-h-f-nantes-en-cdi "Administrateur réseau H/F | Nantes en CDI")
 * 2019/05/13 - [Développeur.euse Back-end Senior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6428/developpeur-euse-back-end-senior-h-f-en-cdi-55000-59000 "Développeur.euse Back-end Senior (H/F) en CDI 55000-59000")
 * 2019/04/17 - [Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)](http://www.pyjobs.fr/jobs/details/6419/ingenieur-e-systeme-devops-open-source-pour-une-startup-experte-en-cloud-a-paris-lyon-nantes-teletravail "Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)")
 * 2019/03/05 - [Ingénieur SysOPS Montpellier et Lyon](http://www.pyjobs.fr/jobs/details/6402/ingenieur-sysops-montpellier-et-lyon "Ingénieur SysOPS Montpellier et Lyon")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/27 - [Dévelopeur Ruby | Musique | Paris | H/F en CDI](http://www.pyjobs.fr/jobs/details/6411/developeur-ruby-musique-paris-h-f-en-cdi "Dévelopeur Ruby | Musique | Paris | H/F en CDI")
 * 2019/04/17 - [Développeur logiciel pour application géomatique en Guadeloupe](http://www.pyjobs.fr/jobs/details/6420/developpeur-logiciel-pour-application-geomatique-en-guadeloupe "Développeur logiciel pour application géomatique en Guadeloupe")
 * 2019/03/26 - [Release Manager de la LegalTech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6410/release-manager-de-la-legaltech-en-cdi-60000-69000 "Release Manager de la LegalTech en CDI 60000-69000")
-* 2019/03/25 - [Datascientist en CDI](http://www.pyjobs.fr/jobs/details/6409/datascientist-en-cdi "Datascientist en CDI")
 

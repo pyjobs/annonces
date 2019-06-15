@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6434/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
 * 2019/06/14 - [TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6433/technicien-systeme-h-f-en-cdi-25000-34000 "TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000")
 * 2019/02/22 - [Administrateur Système Linux (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6393/administrateur-systeme-linux-f-h-en-cdi "Administrateur Système Linux (F/H) en CDI")
 * 2019/03/14 - [Développeur ERP5 à Lille](http://www.pyjobs.fr/jobs/details/6408/developpeur-erp5-a-lille "Développeur ERP5 à Lille")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/17 - [Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)](http://www.pyjobs.fr/jobs/details/6419/ingenieur-e-systeme-devops-open-source-pour-une-startup-experte-en-cloud-a-paris-lyon-nantes-teletravail "Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)")
 * 2019/03/05 - [Ingénieur SysOPS Montpellier et Lyon](http://www.pyjobs.fr/jobs/details/6402/ingenieur-sysops-montpellier-et-lyon "Ingénieur SysOPS Montpellier et Lyon")
 * 2019/04/18 - [Senior Software Engineer_Tech Lead Nodejs en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6422/senior-software-engineer-tech-lead-nodejs-en-cdi-45000-54000 "Senior Software Engineer_Tech Lead Nodejs en CDI 45000-54000")
-* 2019/05/07 - [Développeur Full Stack (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6427/developpeur-full-stack-h-f-en-cdi "Développeur Full Stack (H/F) en CDI")
 

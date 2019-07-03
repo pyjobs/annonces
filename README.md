@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/03 - [Ingénieur DevOps H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6441/ingenieur-devops-h-f-paris-la-defense "Ingénieur DevOps H/F - Paris La Défense")
 * 2019/03/08 - [Développeur Senior PHP Symphony (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6406/developpeur-senior-php-symphony-h-f-en-cdi-45000-54000 "Développeur Senior PHP Symphony (H/F) en CDI 45000-54000")
 * 2019/02/22 - [Administrateur Systèmes et Réseaux H/F](http://www.pyjobs.fr/jobs/details/6392/administrateur-systemes-et-reseaux-h-f "Administrateur Systèmes et Réseaux H/F")
 * 2019/07/01 - [DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)](http://www.pyjobs.fr/jobs/details/6440/developpeuse-eur-front-et-ou-back-teletravail "DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/01 - [Stagiaire développeur Python (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6398/stagiaire-developpeur-python-h-f-en-stage "Stagiaire développeur Python (H/F) en Stage")
 * 2019/02/26 - [Admin systèmes et réseaux dans une petite entreprise vers Grenoble](http://www.pyjobs.fr/jobs/details/6396/admin-systemes-et-reseaux-dans-une-petite-entreprise-vers-grenoble "Admin systèmes et réseaux dans une petite entreprise vers Grenoble")
 * 2019/02/26 - [Developpeur web cartographie interactive et webservices à Paris](http://www.pyjobs.fr/jobs/details/6395/developpeur-web-cartographie-interactive-et-webservices-a-paris "Developpeur web cartographie interactive et webservices à Paris")
-* 2019/02/25 - [Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô](http://www.pyjobs.fr/jobs/details/6394/technicien-ne-systemes-reseaux-et-telecom-a-saint-lo "Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô")
 

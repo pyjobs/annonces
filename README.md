@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/06/27 - [Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6439/data-scientist-nlp-stage-1-a-6-mois-h-f-en-stage "Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage")
 * 2019/06/21 - [Full Stack Developer (Python, AngularJs) en CDI](http://www.pyjobs.fr/jobs/details/6438/full-stack-developer-python-angularjs-en-cdi "Full Stack Developer (Python, AngularJs) en CDI")
 * 2019/04/29 - [Développeur·se Python (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6426/developpeur-se-python-h-f-en-cdi "Développeur·se Python (H/F) en CDI")
 * 2019/04/17 - [DevOps Engineer (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6417/devops-engineer-h-f-en-cdi-55000-59000 "DevOps Engineer (H/F) en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/02/26 - [Developpeur web cartographie interactive et webservices à Paris](http://www.pyjobs.fr/jobs/details/6395/developpeur-web-cartographie-interactive-et-webservices-a-paris "Developpeur web cartographie interactive et webservices à Paris")
 * 2019/02/25 - [Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô](http://www.pyjobs.fr/jobs/details/6394/technicien-ne-systemes-reseaux-et-telecom-a-saint-lo "Technicien(ne) Systèmes, Réseaux et Télécom à Saint-Lô")
 * 2019/07/03 - [Ingénieur DevOps H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6441/ingenieur-devops-h-f-paris-la-defense "Ingénieur DevOps H/F - Paris La Défense")
-* 2019/03/08 - [Développeur Senior PHP Symphony (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6406/developpeur-senior-php-symphony-h-f-en-cdi-45000-54000 "Développeur Senior PHP Symphony (H/F) en CDI 45000-54000")
 

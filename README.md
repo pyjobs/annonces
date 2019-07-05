@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/04 - [Développeur Symfony Vintage ;) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6400/developpeur-symfony-vintage-en-cdi-45000-54000 "Développeur Symfony Vintage ;) en CDI 45000-54000")
 * 2019/03/12 - [DevOps confirmé - Administrateur Système H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6407/devops-confirme-administrateur-systeme-h-f-en-cdi-35000-44000 "DevOps confirmé - Administrateur Système H/F en CDI 35000-44000")
 * 2019/03/01 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6397/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
 * 2019/03/01 - [administrateur/ingénieur système en CDI](http://www.pyjobs.fr/jobs/details/6399/administrateur-ingenieur-systeme-en-cdi "administrateur/ingénieur système en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6434/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
 * 2019/06/14 - [TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6433/technicien-systeme-h-f-en-cdi-25000-34000 "TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000")
 * 2019/02/22 - [Administrateur Système Linux (F/H) en CDI](http://www.pyjobs.fr/jobs/details/6393/administrateur-systeme-linux-f-h-en-cdi "Administrateur Système Linux (F/H) en CDI")
-* 2019/03/14 - [Développeur ERP5 à Lille](http://www.pyjobs.fr/jobs/details/6408/developpeur-erp5-a-lille "Développeur ERP5 à Lille")
 

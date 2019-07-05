@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/05 - [ALTERNANCE Assistant Data Scientist (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6443/alternance-assistant-data-scientist-h-f-en-alternance "ALTERNANCE Assistant Data Scientist (H/F) en Alternance")
 * 2019/07/05 - [ALTERNANCE Assistant Data Scientist (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6444/alternance-assistant-data-scientist-h-f-en-alternance "ALTERNANCE Assistant Data Scientist (H/F) en Alternance")
 * 2019/04/18 - [Développeur Ruby/Rails API (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6421/developpeur-ruby-rails-api-h-f-en-cdi-35000-44000 "Développeur Ruby/Rails API (H/F) en CDI 35000-44000")
 * 2019/04/11 - [Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)](http://www.pyjobs.fr/jobs/details/6416/ingenieur-systeme-devops-open-source-pour-une-startup-experte-en-cloud-en-france-teletravail "Ingénieur Système/DevOps Open Source pour une Startup experte en Cloud en France (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/07/01 - [DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)](http://www.pyjobs.fr/jobs/details/6440/developpeuse-eur-front-et-ou-back-teletravail "DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)")
 * 2019/06/27 - [Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6439/data-scientist-nlp-stage-1-a-6-mois-h-f-en-stage "Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage")
 * 2019/06/21 - [Full Stack Developer (Python, AngularJs) en CDI](http://www.pyjobs.fr/jobs/details/6438/full-stack-developer-python-angularjs-en-cdi "Full Stack Developer (Python, AngularJs) en CDI")
-* 2019/04/29 - [Développeur·se Python (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6426/developpeur-se-python-h-f-en-cdi "Développeur·se Python (H/F) en CDI")
 

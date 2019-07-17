@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/26 - [Release Manager de la LegalTech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6410/release-manager-de-la-legaltech-en-cdi-60000-69000 "Release Manager de la LegalTech en CDI 60000-69000")
 * 2019/03/25 - [Datascientist en CDI](http://www.pyjobs.fr/jobs/details/6409/datascientist-en-cdi "Datascientist en CDI")
 * 2019/03/07 - [Développeur Python API pour un agrégateur de données à Paris](http://www.pyjobs.fr/jobs/details/6405/developpeur-python-api-pour-un-agregateur-de-donnees-a-paris "Développeur Python API pour un agrégateur de données à Paris")
 * 2019/03/06 - [DevOps du E-Commerce en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6403/devops-du-e-commerce-en-cdi-45000-54000 "DevOps du E-Commerce en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/04 - [Developer Full Stack Python / Django en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6413/developer-full-stack-python-django-en-cdi-55000-59000 "Developer Full Stack Python / Django en CDI 55000-59000")
 * 2019/04/03 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6412/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
 * 2019/03/27 - [Dévelopeur Ruby | Musique | Paris | H/F en CDI](http://www.pyjobs.fr/jobs/details/6411/developeur-ruby-musique-paris-h-f-en-cdi "Dévelopeur Ruby | Musique | Paris | H/F en CDI")
-* 2019/04/17 - [Développeur logiciel pour application géomatique en Guadeloupe](http://www.pyjobs.fr/jobs/details/6420/developpeur-logiciel-pour-application-geomatique-en-guadeloupe "Développeur logiciel pour application géomatique en Guadeloupe")
 

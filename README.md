@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/03 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6412/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
 * 2019/03/27 - [Dévelopeur Ruby | Musique | Paris | H/F en CDI](http://www.pyjobs.fr/jobs/details/6411/developeur-ruby-musique-paris-h-f-en-cdi "Dévelopeur Ruby | Musique | Paris | H/F en CDI")
 * 2019/04/17 - [Développeur logiciel pour application géomatique en Guadeloupe](http://www.pyjobs.fr/jobs/details/6420/developpeur-logiciel-pour-application-geomatique-en-guadeloupe "Développeur logiciel pour application géomatique en Guadeloupe")
 * 2019/03/26 - [Release Manager de la LegalTech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6410/release-manager-de-la-legaltech-en-cdi-60000-69000 "Release Manager de la LegalTech en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/23 - [Développeur Fullstack Python - Angular en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6424/developpeur-fullstack-python-angular-en-cdi-45000-54000 "Développeur Fullstack Python - Angular en CDI 45000-54000")
 * 2019/04/23 - [Lead développeur Python (H/F) Strasbourg](http://www.pyjobs.fr/jobs/details/6423/lead-developpeur-python-h-f-strasbourg "Lead développeur Python (H/F) Strasbourg")
 * 2019/04/08 - [[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6414/iot-backend-dev-intern-luxembourg-h-f-en-stage-25000-34000 "[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000")
-* 2019/04/04 - [Developer Full Stack Python / Django en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6413/developer-full-stack-python-django-en-cdi-55000-59000 "Developer Full Stack Python / Django en CDI 55000-59000")
 

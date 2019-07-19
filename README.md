@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/19 - [Chef de projet agile (scrum) H/F en CDI](http://www.pyjobs.fr/jobs/details/6447/chef-de-projet-agile-scrum-h-f-en-cdi "Chef de projet agile (scrum) H/F en CDI")
 * 2019/07/03 - [Ingénieur DevOps H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6441/ingenieur-devops-h-f-paris-la-defense "Ingénieur DevOps H/F - Paris La Défense")
 * 2019/07/01 - [DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)](http://www.pyjobs.fr/jobs/details/6440/developpeuse-eur-front-et-ou-back-teletravail "DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)")
 * 2019/03/08 - [Développeur Senior PHP Symphony (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6406/developpeur-senior-php-symphony-h-f-en-cdi-45000-54000 "Développeur Senior PHP Symphony (H/F) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/12 - [DevOps confirmé - Administrateur Système H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6407/devops-confirme-administrateur-systeme-h-f-en-cdi-35000-44000 "DevOps confirmé - Administrateur Système H/F en CDI 35000-44000")
 * 2019/03/01 - [Développeur C/C++ Linux (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6397/developpeur-c-c-linux-h-f-en-cdi-45000-54000 "Développeur C/C++ Linux (H/F) en CDI 45000-54000")
 * 2019/03/01 - [administrateur/ingénieur système en CDI](http://www.pyjobs.fr/jobs/details/6399/administrateur-ingenieur-systeme-en-cdi "administrateur/ingénieur système en CDI")
-* 2019/03/01 - [Stagiaire développeur Python (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6398/stagiaire-developpeur-python-h-f-en-stage "Stagiaire développeur Python (H/F) en Stage")
 

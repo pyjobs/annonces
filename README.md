@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/03/14 - [Développeur ERP5 à Lille](http://www.pyjobs.fr/jobs/details/6408/developpeur-erp5-a-lille "Développeur ERP5 à Lille")
 * 2019/03/12 - [DevOps confirmé - Administrateur Système H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6407/devops-confirme-administrateur-systeme-h-f-en-cdi-35000-44000 "DevOps confirmé - Administrateur Système H/F en CDI 35000-44000")
 * 2019/07/24 - [DevOps / CI en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6450/devops-ci-en-cdi-60000-69000 "DevOps / CI en CDI 60000-69000")
 * 2019/07/24 - [DevOps Cloud en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6452/devops-cloud-en-cdi-45000-54000 "DevOps Cloud en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/05 - [Support - Admin Sys Linux (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6401/support-admin-sys-linux-h-f-en-cdi-25000-34000 "Support - Admin Sys Linux (H/F) en CDI 25000-34000")
 * 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6432/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
 * 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6434/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
-* 2019/06/14 - [TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6433/technicien-systeme-h-f-en-cdi-25000-34000 "TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000")
 

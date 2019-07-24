@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/24 - [DevOps Cloud en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6452/devops-cloud-en-cdi-45000-54000 "DevOps Cloud en CDI 45000-54000")
 * 2019/07/24 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6451/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
 * 2019/07/23 - [TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI](http://www.pyjobs.fr/jobs/details/6448/technicien-support-et-exploitation-h-f-en-cdi "TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI")
 * 2019/07/23 - [Développeur NodeJS - Projet MaaS (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6449/developpeur-nodejs-projet-maas-h-f-en-cdi-35000-44000 "Développeur NodeJS - Projet MaaS (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/06/14 - [TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6433/technicien-systeme-h-f-en-cdi-25000-34000 "TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000")
 * 2019/07/16 - [Développeur Linux ouvert sur les technos du web - Saint Gratien - 95](http://www.pyjobs.fr/jobs/details/6445/developpeur-linux-ouvert-sur-les-technos-du-web-saint-gratien-95 "Développeur Linux ouvert sur les technos du web - Saint Gratien - 95")
 * 2019/03/14 - [Développeur ERP5 à Lille](http://www.pyjobs.fr/jobs/details/6408/developpeur-erp5-a-lille "Développeur ERP5 à Lille")
-* 2019/03/04 - [Développeur Symfony Vintage ;) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6400/developpeur-symfony-vintage-en-cdi-45000-54000 "Développeur Symfony Vintage ;) en CDI 45000-54000")
 

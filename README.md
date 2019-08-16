@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/05/13 - [Développeur.euse Back-end Senior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6428/developpeur-euse-back-end-senior-h-f-en-cdi-55000-59000 "Développeur.euse Back-end Senior (H/F) en CDI 55000-59000")
 * 2019/08/15 - [Ingénieur Python senior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6454/ingenieur-python-senior-h-f-en-cdi-35000-44000 "Ingénieur Python senior (H/F) en CDI 35000-44000")
 * 2019/07/04 - [Ingénieur DevOps H/F à Lyon](http://www.pyjobs.fr/jobs/details/6442/ingenieur-devops-h-f-a-lyon "Ingénieur DevOps H/F à Lyon")
 * 2019/04/17 - [Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)](http://www.pyjobs.fr/jobs/details/6419/ingenieur-e-systeme-devops-open-source-pour-une-startup-experte-en-cloud-a-paris-lyon-nantes-teletravail "Ingénieur(e) Système/DevOps Open Source pour une Startup experte en Cloud à Paris/Lyon/Nantes (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/26 - [Release Manager de la LegalTech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6410/release-manager-de-la-legaltech-en-cdi-60000-69000 "Release Manager de la LegalTech en CDI 60000-69000")
 * 2019/03/25 - [Datascientist en CDI](http://www.pyjobs.fr/jobs/details/6409/datascientist-en-cdi "Datascientist en CDI")
 * 2019/03/07 - [Développeur Python API pour un agrégateur de données à Paris](http://www.pyjobs.fr/jobs/details/6405/developpeur-python-api-pour-un-agregateur-de-donnees-a-paris "Développeur Python API pour un agrégateur de données à Paris")
-* 2019/03/06 - [DevOps du E-Commerce en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6403/devops-du-e-commerce-en-cdi-45000-54000 "DevOps du E-Commerce en CDI 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/08/21 - [Ingénieur SysOPS Lyon et Montpellier](http://www.pyjobs.fr/jobs/details/6456/ingenieur-sysops-lyon-et-montpellier "Ingénieur SysOPS Lyon et Montpellier")
 * 2019/08/16 - [Directeur technique pour Kozea à Lyon](http://www.pyjobs.fr/jobs/details/6455/directeur-technique-pour-kozea-a-lyon "Directeur technique pour Kozea à Lyon")
 * 2019/05/13 - [Développeur.euse Back-end Senior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6428/developpeur-euse-back-end-senior-h-f-en-cdi-55000-59000 "Développeur.euse Back-end Senior (H/F) en CDI 55000-59000")
 * 2019/08/15 - [Ingénieur Python senior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6454/ingenieur-python-senior-h-f-en-cdi-35000-44000 "Ingénieur Python senior (H/F) en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/27 - [Dévelopeur Ruby | Musique | Paris | H/F en CDI](http://www.pyjobs.fr/jobs/details/6411/developeur-ruby-musique-paris-h-f-en-cdi "Dévelopeur Ruby | Musique | Paris | H/F en CDI")
 * 2019/04/17 - [Développeur logiciel pour application géomatique en Guadeloupe](http://www.pyjobs.fr/jobs/details/6420/developpeur-logiciel-pour-application-geomatique-en-guadeloupe "Développeur logiciel pour application géomatique en Guadeloupe")
 * 2019/03/26 - [Release Manager de la LegalTech en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6410/release-manager-de-la-legaltech-en-cdi-60000-69000 "Release Manager de la LegalTech en CDI 60000-69000")
-* 2019/03/25 - [Datascientist en CDI](http://www.pyjobs.fr/jobs/details/6409/datascientist-en-cdi "Datascientist en CDI")
 

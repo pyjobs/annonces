@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/19 - [Chef de projet agile (scrum) H/F en CDI](http://www.pyjobs.fr/jobs/details/6447/chef-de-projet-agile-scrum-h-f-en-cdi "Chef de projet agile (scrum) H/F en CDI")
 * 2019/07/03 - [Ingénieur DevOps H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6441/ingenieur-devops-h-f-paris-la-defense "Ingénieur DevOps H/F - Paris La Défense")
 * 2019/07/01 - [DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)](http://www.pyjobs.fr/jobs/details/6440/developpeuse-eur-front-et-ou-back-teletravail "DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)")
 * 2019/09/04 - [Solution Architecte en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6457/solution-architecte-en-cdi-45000-54000 "Solution Architecte en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/07/24 - [DevOps / CI en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6450/devops-ci-en-cdi-60000-69000 "DevOps / CI en CDI 60000-69000")
 * 2019/07/24 - [DevOps Cloud en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6452/devops-cloud-en-cdi-45000-54000 "DevOps Cloud en CDI 45000-54000")
 * 2019/07/24 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6451/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
-* 2019/07/23 - [TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI](http://www.pyjobs.fr/jobs/details/6448/technicien-support-et-exploitation-h-f-en-cdi "TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI")
 

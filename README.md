@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/23 - [TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI](http://www.pyjobs.fr/jobs/details/6448/technicien-support-et-exploitation-h-f-en-cdi "TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI")
 * 2019/07/23 - [Développeur NodeJS - Projet MaaS (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6449/developpeur-nodejs-projet-maas-h-f-en-cdi-35000-44000 "Développeur NodeJS - Projet MaaS (H/F) en CDI 35000-44000")
 * 2019/07/19 - [Chef de projet agile (scrum) H/F en CDI](http://www.pyjobs.fr/jobs/details/6447/chef-de-projet-agile-scrum-h-f-en-cdi "Chef de projet agile (scrum) H/F en CDI")
 * 2019/07/03 - [Ingénieur DevOps H/F - Paris La Défense](http://www.pyjobs.fr/jobs/details/6441/ingenieur-devops-h-f-paris-la-defense "Ingénieur DevOps H/F - Paris La Défense")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/03/14 - [Développeur ERP5 à Lille](http://www.pyjobs.fr/jobs/details/6408/developpeur-erp5-a-lille "Développeur ERP5 à Lille")
 * 2019/03/12 - [DevOps confirmé - Administrateur Système H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6407/devops-confirme-administrateur-systeme-h-f-en-cdi-35000-44000 "DevOps confirmé - Administrateur Système H/F en CDI 35000-44000")
 * 2019/07/24 - [DevOps / CI en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6450/devops-ci-en-cdi-60000-69000 "DevOps / CI en CDI 60000-69000")
-* 2019/07/24 - [DevOps Cloud en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6452/devops-cloud-en-cdi-45000-54000 "DevOps Cloud en CDI 45000-54000")
 

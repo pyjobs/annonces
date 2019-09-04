@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/01 - [DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)](http://www.pyjobs.fr/jobs/details/6440/developpeuse-eur-front-et-ou-back-teletravail "DEVELOPPEUSE/EUR FRONT ET/OU BACK (télétravail)")
 * 2019/09/04 - [Solution Architecte en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6457/solution-architecte-en-cdi-45000-54000 "Solution Architecte en CDI 45000-54000")
 * 2019/09/04 - [Ingénieur QA spécialisé en automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6458/ingenieur-qa-specialise-en-automatisation-en-cdi-35000-44000 "Ingénieur QA spécialisé en automatisation en CDI 35000-44000")
 * 2019/06/27 - [Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6439/data-scientist-nlp-stage-1-a-6-mois-h-f-en-stage "Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/07/24 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6451/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
 * 2019/07/23 - [TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI](http://www.pyjobs.fr/jobs/details/6448/technicien-support-et-exploitation-h-f-en-cdi "TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI")
 * 2019/07/23 - [Développeur NodeJS - Projet MaaS (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6449/developpeur-nodejs-projet-maas-h-f-en-cdi-35000-44000 "Développeur NodeJS - Projet MaaS (H/F) en CDI 35000-44000")
-* 2019/07/19 - [Chef de projet agile (scrum) H/F en CDI](http://www.pyjobs.fr/jobs/details/6447/chef-de-projet-agile-scrum-h-f-en-cdi "Chef de projet agile (scrum) H/F en CDI")
 

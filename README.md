@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/17 - [Développeur logiciel pour application géomatique en Guadeloupe](http://www.pyjobs.fr/jobs/details/6420/developpeur-logiciel-pour-application-geomatique-en-guadeloupe "Développeur logiciel pour application géomatique en Guadeloupe")
 * 2019/09/19 - [Lead dev Ruby en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6461/lead-dev-ruby-en-cdi-55000-59000 "Lead dev Ruby en CDI 55000-59000")
 * 2019/09/18 - [Back-end Developer - Drupal (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6460/back-end-developer-drupal-h-f-en-cdi-25000-34000 "Back-end Developer - Drupal (H/F) en CDI 25000-34000")
 * 2019/08/21 - [Ingénieur SysOPS Lyon et Montpellier](http://www.pyjobs.fr/jobs/details/6456/ingenieur-sysops-lyon-et-montpellier "Ingénieur SysOPS Lyon et Montpellier")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/08 - [[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6414/iot-backend-dev-intern-luxembourg-h-f-en-stage-25000-34000 "[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000")
 * 2019/04/04 - [Developer Full Stack Python / Django en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6413/developer-full-stack-python-django-en-cdi-55000-59000 "Developer Full Stack Python / Django en CDI 55000-59000")
 * 2019/04/03 - [Développeur web (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6412/developpeur-web-h-f-en-cdi "Développeur web (H/F) en CDI")
-* 2019/03/27 - [Dévelopeur Ruby | Musique | Paris | H/F en CDI](http://www.pyjobs.fr/jobs/details/6411/developeur-ruby-musique-paris-h-f-en-cdi "Dévelopeur Ruby | Musique | Paris | H/F en CDI")
 

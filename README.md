@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/09/30 - [Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6463/administrateur-systemes-et-reseaux-devops-h-f-teletravail "Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)")
 * 2019/09/26 - [Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)](http://www.pyjobs.fr/jobs/details/6462/administrateur-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne-teletravail "Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)")
 * 2019/04/17 - [Développeur logiciel pour application géomatique en Guadeloupe](http://www.pyjobs.fr/jobs/details/6420/developpeur-logiciel-pour-application-geomatique-en-guadeloupe "Développeur logiciel pour application géomatique en Guadeloupe")
 * 2019/09/19 - [Lead dev Ruby en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6461/lead-dev-ruby-en-cdi-55000-59000 "Lead dev Ruby en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/23 - [Développeur Fullstack Python - Angular en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6424/developpeur-fullstack-python-angular-en-cdi-45000-54000 "Développeur Fullstack Python - Angular en CDI 45000-54000")
 * 2019/04/23 - [Lead développeur Python (H/F) Strasbourg](http://www.pyjobs.fr/jobs/details/6423/lead-developpeur-python-h-f-strasbourg "Lead développeur Python (H/F) Strasbourg")
 * 2019/04/08 - [[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000](http://www.pyjobs.fr/jobs/details/6414/iot-backend-dev-intern-luxembourg-h-f-en-stage-25000-34000 "[IoT] Backend Dev Intern (Luxembourg) (H/F) en Stage 25000-34000")
-* 2019/04/04 - [Developer Full Stack Python / Django en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6413/developer-full-stack-python-django-en-cdi-55000-59000 "Developer Full Stack Python / Django en CDI 55000-59000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/09/18 - [Back-end Developer - Drupal (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6460/back-end-developer-drupal-h-f-en-cdi-25000-34000 "Back-end Developer - Drupal (H/F) en CDI 25000-34000")
 * 2019/08/21 - [Ingénieur SysOPS Lyon et Montpellier](http://www.pyjobs.fr/jobs/details/6456/ingenieur-sysops-lyon-et-montpellier "Ingénieur SysOPS Lyon et Montpellier")
 * 2019/08/16 - [Directeur technique pour Kozea à Lyon](http://www.pyjobs.fr/jobs/details/6455/directeur-technique-pour-kozea-a-lyon "Directeur technique pour Kozea à Lyon")
 * 2019/05/13 - [Développeur.euse Back-end Senior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6428/developpeur-euse-back-end-senior-h-f-en-cdi-55000-59000 "Développeur.euse Back-end Senior (H/F) en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/09/30 - [Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6463/administrateur-systemes-et-reseaux-devops-h-f-teletravail "Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)")
 * 2019/09/26 - [Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)](http://www.pyjobs.fr/jobs/details/6462/administrateur-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne-teletravail "Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)")
 * 2019/04/17 - [Développeur logiciel pour application géomatique en Guadeloupe](http://www.pyjobs.fr/jobs/details/6420/developpeur-logiciel-pour-application-geomatique-en-guadeloupe "Développeur logiciel pour application géomatique en Guadeloupe")
-* 2019/09/19 - [Lead dev Ruby en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6461/lead-dev-ruby-en-cdi-55000-59000 "Lead dev Ruby en CDI 55000-59000")
 

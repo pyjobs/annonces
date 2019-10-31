@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/23 - [Développeur Fullstack Python - Angular en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6424/developpeur-fullstack-python-angular-en-cdi-45000-54000 "Développeur Fullstack Python - Angular en CDI 45000-54000")
 * 2019/04/23 - [Lead développeur Python (H/F) Strasbourg](http://www.pyjobs.fr/jobs/details/6423/lead-developpeur-python-h-f-strasbourg "Lead développeur Python (H/F) Strasbourg")
 * 2019/09/30 - [Devops Futur Lead (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6464/devops-futur-lead-h-f-en-cdi-55000-59000 "Devops Futur Lead (H/F) en CDI 55000-59000")
 * 2019/09/30 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6466/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/06/18 - [Développeur Back-end_Python/Django F/H en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6435/developpeur-back-end-python-django-f-h-en-cdi-35000-44000 "Développeur Back-end_Python/Django F/H en CDI 35000-44000")
 * 2019/06/07 - [Big Data Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6430/big-data-developer-h-f-en-cdi "Big Data Developer (H/F) en CDI")
 * 2019/06/05 - [Développeur iOS en Stage <24000](http://www.pyjobs.fr/jobs/details/6429/developpeur-ios-en-stage-24000 "Développeur iOS en Stage <24000")
-* 2019/04/25 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6425/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 

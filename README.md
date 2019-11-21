@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/04/29 - [Développeur·se Python (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6426/developpeur-se-python-h-f-en-cdi "Développeur·se Python (H/F) en CDI")
 * 2019/10/22 - [Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris](http://www.pyjobs.fr/jobs/details/6469/integrateur-dapplications-pour-la-mise-en-operation-dun-centre-de-transformation-des-meta-donnees-a-paris "Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris")
 * 2019/07/05 - [ALTERNANCE Assistant Data Scientist (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6443/alternance-assistant-data-scientist-h-f-en-alternance "ALTERNANCE Assistant Data Scientist (H/F) en Alternance")
 * 2019/10/10 - [Développeur Python scraping (H/F)](http://www.pyjobs.fr/jobs/details/6468/developpeur-python-scraping-h-f "Développeur Python scraping (H/F)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/09/04 - [Solution Architecte en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6457/solution-architecte-en-cdi-45000-54000 "Solution Architecte en CDI 45000-54000")
 * 2019/09/04 - [Ingénieur QA spécialisé en automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6458/ingenieur-qa-specialise-en-automatisation-en-cdi-35000-44000 "Ingénieur QA spécialisé en automatisation en CDI 35000-44000")
 * 2019/06/27 - [Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage](http://www.pyjobs.fr/jobs/details/6439/data-scientist-nlp-stage-1-a-6-mois-h-f-en-stage "Data Scientist/NLP  Stage 1 à 6 mois, (H/F) en Stage")
-* 2019/06/21 - [Full Stack Developer (Python, AngularJs) en CDI](http://www.pyjobs.fr/jobs/details/6438/full-stack-developer-python-angularjs-en-cdi "Full Stack Developer (Python, AngularJs) en CDI")
 

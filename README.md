@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/16 - [Développeur Linux ouvert sur les technos du web - Saint Gratien - 95](http://www.pyjobs.fr/jobs/details/6445/developpeur-linux-ouvert-sur-les-technos-du-web-saint-gratien-95 "Développeur Linux ouvert sur les technos du web - Saint Gratien - 95")
 * 2019/06/14 - [TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6433/technicien-systeme-h-f-en-cdi-25000-34000 "TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000")
 * 2019/09/10 - [DevOps Manager en CDI >70000](http://www.pyjobs.fr/jobs/details/6459/devops-manager-en-cdi-70000 "DevOps Manager en CDI >70000")
 * 2019/07/24 - [DevOps / CI en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6450/devops-ci-en-cdi-60000-69000 "DevOps / CI en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/05/07 - [Développeur Full Stack (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6427/developpeur-full-stack-h-f-en-cdi "Développeur Full Stack (H/F) en CDI")
 * 2019/04/18 - [Senior Software Engineer_Tech Lead Nodejs en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6422/senior-software-engineer-tech-lead-nodejs-en-cdi-45000-54000 "Senior Software Engineer_Tech Lead Nodejs en CDI 45000-54000")
 * 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6432/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
-* 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6434/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
 

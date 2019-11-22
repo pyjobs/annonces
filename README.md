@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/10/23 - [Developer Python experimenté (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6470/developer-python-experimente-h-f-en-cdi-25000-34000 "Developer Python experimenté (H/F) en CDI 25000-34000")
 * 2019/08/04 - [[2019] Dev Python / JS à Paris 3ème arrondissement](http://www.pyjobs.fr/jobs/details/6453/2019-dev-python-js-a-paris-3eme-arrondissement "[2019] Dev Python / JS à Paris 3ème arrondissement")
 * 2019/05/07 - [Développeur Full Stack (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6427/developpeur-full-stack-h-f-en-cdi "Développeur Full Stack (H/F) en CDI")
 * 2019/11/22 - [Mediapart recrute un·e administrateur·trice système à Paris](http://www.pyjobs.fr/jobs/details/6473/mediapart-recrute-un-e-administrateur-trice-systeme-a-paris "Mediapart recrute un·e administrateur·trice système à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/08/16 - [Directeur technique pour Kozea à Lyon](http://www.pyjobs.fr/jobs/details/6455/directeur-technique-pour-kozea-a-lyon "Directeur technique pour Kozea à Lyon")
 * 2019/05/13 - [Développeur.euse Back-end Senior (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6428/developpeur-euse-back-end-senior-h-f-en-cdi-55000-59000 "Développeur.euse Back-end Senior (H/F) en CDI 55000-59000")
 * 2019/08/15 - [Ingénieur Python senior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6454/ingenieur-python-senior-h-f-en-cdi-35000-44000 "Ingénieur Python senior (H/F) en CDI 35000-44000")
-* 2019/07/04 - [Ingénieur DevOps H/F à Lyon](http://www.pyjobs.fr/jobs/details/6442/ingenieur-devops-h-f-a-lyon "Ingénieur DevOps H/F à Lyon")
 

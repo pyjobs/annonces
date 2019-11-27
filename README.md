@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/11/27 - [Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion](http://www.pyjobs.fr/jobs/details/6474/administrateur-systemes-et-reseaux-pour-observatoire-volcanologique-a-la-reunion "Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion")
 * 2019/09/30 - [Devops Futur Lead (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6464/devops-futur-lead-h-f-en-cdi-55000-59000 "Devops Futur Lead (H/F) en CDI 55000-59000")
 * 2019/09/30 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6466/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
 * 2019/09/30 - [DevOps Cloud (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6465/devops-cloud-h-f-en-cdi-45000-54000 "DevOps Cloud (H/F) en CDI 45000-54000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/06/07 - [Big Data Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6430/big-data-developer-h-f-en-cdi "Big Data Developer (H/F) en CDI")
 * 2019/06/05 - [Développeur iOS en Stage <24000](http://www.pyjobs.fr/jobs/details/6429/developpeur-ios-en-stage-24000 "Développeur iOS en Stage <24000")
 * 2019/04/25 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6425/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
-* 2019/04/23 - [Développeur Fullstack Python - Angular en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6424/developpeur-fullstack-python-angular-en-cdi-45000-54000 "Développeur Fullstack Python - Angular en CDI 45000-54000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/11/29 - [Administrateur-trice systèmes et réseaux pour ATD Quart Monde](http://www.pyjobs.fr/jobs/details/6475/administrateur-trice-systemes-et-reseaux-pour-atd-quart-monde "Administrateur-trice systèmes et réseaux pour ATD Quart Monde")
 * 2019/11/27 - [Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion](http://www.pyjobs.fr/jobs/details/6474/administrateur-systemes-et-reseaux-pour-observatoire-volcanologique-a-la-reunion "Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion")
 * 2019/09/30 - [Devops Futur Lead (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6464/devops-futur-lead-h-f-en-cdi-55000-59000 "Devops Futur Lead (H/F) en CDI 55000-59000")
 * 2019/09/30 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6466/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/06/18 - [Développeur Back-end_Python/Django F/H en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6435/developpeur-back-end-python-django-f-h-en-cdi-35000-44000 "Développeur Back-end_Python/Django F/H en CDI 35000-44000")
 * 2019/06/07 - [Big Data Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6430/big-data-developer-h-f-en-cdi "Big Data Developer (H/F) en CDI")
 * 2019/06/05 - [Développeur iOS en Stage <24000](http://www.pyjobs.fr/jobs/details/6429/developpeur-ios-en-stage-24000 "Développeur iOS en Stage <24000")
-* 2019/04/25 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6425/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 

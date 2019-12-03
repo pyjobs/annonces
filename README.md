@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/06/18 - [Développeur Back-end_Python/Django F/H en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6435/developpeur-back-end-python-django-f-h-en-cdi-35000-44000 "Développeur Back-end_Python/Django F/H en CDI 35000-44000")
 * 2019/06/07 - [Big Data Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6430/big-data-developer-h-f-en-cdi "Big Data Developer (H/F) en CDI")
 * 2019/06/05 - [Développeur iOS en Stage <24000](http://www.pyjobs.fr/jobs/details/6429/developpeur-ios-en-stage-24000 "Développeur iOS en Stage <24000")
 * 2019/12/03 - [Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)](http://www.pyjobs.fr/jobs/details/6476/linux-aws-systems-administrator-at-code-enigma-remote-teletravail "Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/06/20 - [Senior Back-End Engineer (Python/Elixir) (H/F en CDI](http://www.pyjobs.fr/jobs/details/6437/senior-back-end-engineer-python-elixir-h-f-en-cdi "Senior Back-End Engineer (Python/Elixir) (H/F en CDI")
 * 2019/06/20 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6436/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 * 2019/07/17 - [DEV FULL STACK H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6446/dev-full-stack-h-f-en-cdi-35000-44000 "DEV FULL STACK H/F en CDI 35000-44000")
-* 2019/06/07 - [Assistant Chargé D'études Datamining (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6431/assistant-charge-detudes-datamining-h-f-en-alternance "Assistant Chargé D'études Datamining (H/F) en Alternance")
 

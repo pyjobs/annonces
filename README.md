@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/05 - [ALTERNANCE Assistant Data Scientist (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6444/alternance-assistant-data-scientist-h-f-en-alternance "ALTERNANCE Assistant Data Scientist (H/F) en Alternance")
 * 2019/11/21 - [Administrateur Système (H/F)](http://www.pyjobs.fr/jobs/details/6472/administrateur-systeme-h-f "Administrateur Système (H/F)")
 * 2019/10/10 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6467/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2019/06/20 - [Senior Back-End Engineer (Python/Elixir) (H/F en CDI](http://www.pyjobs.fr/jobs/details/6437/senior-back-end-engineer-python-elixir-h-f-en-cdi "Senior Back-End Engineer (Python/Elixir) (H/F en CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/04/29 - [Développeur·se Python (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6426/developpeur-se-python-h-f-en-cdi "Développeur·se Python (H/F) en CDI")
 * 2019/10/22 - [Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris](http://www.pyjobs.fr/jobs/details/6469/integrateur-dapplications-pour-la-mise-en-operation-dun-centre-de-transformation-des-meta-donnees-a-paris "Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris")
 * 2019/07/05 - [ALTERNANCE Assistant Data Scientist (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6443/alternance-assistant-data-scientist-h-f-en-alternance "ALTERNANCE Assistant Data Scientist (H/F) en Alternance")
-* 2019/10/10 - [Développeur Python scraping (H/F)](http://www.pyjobs.fr/jobs/details/6468/developpeur-python-scraping-h-f "Développeur Python scraping (H/F)")
 

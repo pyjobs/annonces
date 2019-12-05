@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6432/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
 * 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6434/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
 * 2019/07/16 - [Développeur Linux ouvert sur les technos du web - Saint Gratien - 95](http://www.pyjobs.fr/jobs/details/6445/developpeur-linux-ouvert-sur-les-technos-du-web-saint-gratien-95 "Développeur Linux ouvert sur les technos du web - Saint Gratien - 95")
 * 2019/06/14 - [TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6433/technicien-systeme-h-f-en-cdi-25000-34000 "TECHNICIEN SYSTÈME (H/F) en CDI 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/10/23 - [Developer Python experimenté (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6470/developer-python-experimente-h-f-en-cdi-25000-34000 "Developer Python experimenté (H/F) en CDI 25000-34000")
 * 2019/08/04 - [[2019] Dev Python / JS à Paris 3ème arrondissement](http://www.pyjobs.fr/jobs/details/6453/2019-dev-python-js-a-paris-3eme-arrondissement "[2019] Dev Python / JS à Paris 3ème arrondissement")
 * 2019/05/07 - [Développeur Full Stack (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6427/developpeur-full-stack-h-f-en-cdi "Développeur Full Stack (H/F) en CDI")
-* 2019/11/22 - [Mediapart recrute un·e administrateur·trice système à Paris](http://www.pyjobs.fr/jobs/details/6473/mediapart-recrute-un-e-administrateur-trice-systeme-a-paris "Mediapart recrute un·e administrateur·trice système à Paris")
 

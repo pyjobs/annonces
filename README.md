@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/07/17 - [DEV FULL STACK H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6446/dev-full-stack-h-f-en-cdi-35000-44000 "DEV FULL STACK H/F en CDI 35000-44000")
 * 2020/02/26 - [Sysadmin / DevOps (télétravail)](http://www.pyjobs.fr/jobs/details/6482/sysadmin-devops-teletravail "Sysadmin / DevOps (télétravail)")
 * 2019/06/18 - [Développeur Back-end_Python/Django F/H en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6435/developpeur-back-end-python-django-f-h-en-cdi-35000-44000 "Développeur Back-end_Python/Django F/H en CDI 35000-44000")
 * 2020/01/29 - [Administratrice ou Administrateur - Système et Réseaux - Angers - CDI](http://www.pyjobs.fr/jobs/details/6481/administratrice-ou-administrateur-systeme-et-reseaux-angers-cdi "Administratrice ou Administrateur - Système et Réseaux - Angers - CDI")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/11/21 - [Administrateur Système (H/F)](http://www.pyjobs.fr/jobs/details/6472/administrateur-systeme-h-f "Administrateur Système (H/F)")
 * 2019/10/10 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6467/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2019/06/20 - [Senior Back-End Engineer (Python/Elixir) (H/F en CDI](http://www.pyjobs.fr/jobs/details/6437/senior-back-end-engineer-python-elixir-h-f-en-cdi "Senior Back-End Engineer (Python/Elixir) (H/F en CDI")
-* 2019/06/20 - [Administrateur Systèmes Linux (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6436/administrateur-systemes-linux-h-f-en-cdi "Administrateur Systèmes Linux (H/F) en CDI")
 

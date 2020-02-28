@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2020/02/28 - [Administrateur système Linux / Ansible (télétravail)](http://www.pyjobs.fr/jobs/details/6484/administrateur-systeme-linux-ansible-teletravail "Administrateur système Linux / Ansible (télétravail)")
 * 2019/07/16 - [Développeur Linux ouvert sur les technos du web - Saint Gratien - 95](http://www.pyjobs.fr/jobs/details/6445/developpeur-linux-ouvert-sur-les-technos-du-web-saint-gratien-95 "Développeur Linux ouvert sur les technos du web - Saint Gratien - 95")
 * 2020/02/27 - [Administrateur système et réseau (télétravail)](http://www.pyjobs.fr/jobs/details/6483/administrateur-systeme-et-reseau-teletravail "Administrateur système et réseau (télétravail)")
 * 2019/09/10 - [DevOps Manager en CDI >70000](http://www.pyjobs.fr/jobs/details/6459/devops-manager-en-cdi-70000 "DevOps Manager en CDI >70000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/08/04 - [[2019] Dev Python / JS à Paris 3ème arrondissement](http://www.pyjobs.fr/jobs/details/6453/2019-dev-python-js-a-paris-3eme-arrondissement "[2019] Dev Python / JS à Paris 3ème arrondissement")
 * 2019/12/12 - [Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris](http://www.pyjobs.fr/jobs/details/6478/admin-linux-pour-la-dsi-dune-bibliotheque-interuniversitaire-a-paris "Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris")
 * 2019/11/22 - [Mediapart recrute un·e administrateur·trice système à Paris](http://www.pyjobs.fr/jobs/details/6473/mediapart-recrute-un-e-administrateur-trice-systeme-a-paris "Mediapart recrute un·e administrateur·trice système à Paris")
-* 2019/06/14 - [Lead Tech OPS - Lille (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6432/lead-tech-ops-lille-h-f-en-cdi-45000-54000 "Lead Tech OPS - Lille (H/F) en CDI 45000-54000")
 

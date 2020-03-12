@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/12/12 - [Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris](http://www.pyjobs.fr/jobs/details/6478/admin-linux-pour-la-dsi-dune-bibliotheque-interuniversitaire-a-paris "Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris")
 * 2019/11/22 - [Mediapart recrute un·e administrateur·trice système à Paris](http://www.pyjobs.fr/jobs/details/6473/mediapart-recrute-un-e-administrateur-trice-systeme-a-paris "Mediapart recrute un·e administrateur·trice système à Paris")
 * 2020/03/12 - [ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H](http://www.pyjobs.fr/jobs/details/6485/administrateur-systeme-linux-devops-f-h "ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H")
 * 2020/02/28 - [Administrateur système Linux / Ansible (télétravail)](http://www.pyjobs.fr/jobs/details/6484/administrateur-systeme-linux-ansible-teletravail "Administrateur système Linux / Ansible (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/08/15 - [Ingénieur Python senior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6454/ingenieur-python-senior-h-f-en-cdi-35000-44000 "Ingénieur Python senior (H/F) en CDI 35000-44000")
 * 2019/07/04 - [Ingénieur DevOps H/F à Lyon](http://www.pyjobs.fr/jobs/details/6442/ingenieur-devops-h-f-a-lyon "Ingénieur DevOps H/F à Lyon")
 * 2019/10/23 - [Developer Python experimenté (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6470/developer-python-experimente-h-f-en-cdi-25000-34000 "Developer Python experimenté (H/F) en CDI 25000-34000")
-* 2019/08/04 - [[2019] Dev Python / JS à Paris 3ème arrondissement](http://www.pyjobs.fr/jobs/details/6453/2019-dev-python-js-a-paris-3eme-arrondissement "[2019] Dev Python / JS à Paris 3ème arrondissement")
 

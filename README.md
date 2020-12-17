@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/09/10 - [DevOps Manager en CDI >70000](http://www.pyjobs.fr/jobs/details/6459/devops-manager-en-cdi-70000 "DevOps Manager en CDI >70000")
 * 2019/07/24 - [DevOps / CI en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6450/devops-ci-en-cdi-60000-69000 "DevOps / CI en CDI 60000-69000")
 * 2019/07/24 - [DevOps Cloud en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6452/devops-cloud-en-cdi-45000-54000 "DevOps Cloud en CDI 45000-54000")
 * 2019/07/24 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6451/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2020/03/12 - [ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H](http://www.pyjobs.fr/jobs/details/6485/administrateur-systeme-linux-devops-f-h "ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H")
 * 2020/02/28 - [Administrateur système Linux / Ansible (télétravail)](http://www.pyjobs.fr/jobs/details/6484/administrateur-systeme-linux-ansible-teletravail "Administrateur système Linux / Ansible (télétravail)")
 * 2019/07/16 - [Développeur Linux ouvert sur les technos du web - Saint Gratien - 95](http://www.pyjobs.fr/jobs/details/6445/developpeur-linux-ouvert-sur-les-technos-du-web-saint-gratien-95 "Développeur Linux ouvert sur les technos du web - Saint Gratien - 95")
-* 2020/02/27 - [Administrateur système et réseau (télétravail)](http://www.pyjobs.fr/jobs/details/6483/administrateur-systeme-et-reseau-teletravail "Administrateur système et réseau (télétravail)")
 

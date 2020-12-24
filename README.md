@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/10/10 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6467/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2020/08/25 - [Ingénieur Système (H/F - CDI à Lyon)](http://www.pyjobs.fr/jobs/details/6488/ingenieur-systeme-h-f-cdi-a-lyon "Ingénieur Système (H/F - CDI à Lyon)")
 * 2020/08/24 - [Lead Développeur/Développeuse Strasbourg](http://www.pyjobs.fr/jobs/details/6487/lead-developpeur-developpeuse-strasbourg "Lead Développeur/Développeuse Strasbourg")
 * 2019/07/17 - [DEV FULL STACK H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6446/dev-full-stack-h-f-en-cdi-35000-44000 "DEV FULL STACK H/F en CDI 35000-44000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/07/05 - [ALTERNANCE Assistant Data Scientist (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6443/alternance-assistant-data-scientist-h-f-en-alternance "ALTERNANCE Assistant Data Scientist (H/F) en Alternance")
 * 2019/10/10 - [Développeur Python scraping (H/F)](http://www.pyjobs.fr/jobs/details/6468/developpeur-python-scraping-h-f "Développeur Python scraping (H/F)")
 * 2019/07/05 - [ALTERNANCE Assistant Data Scientist (H/F) en Alternance](http://www.pyjobs.fr/jobs/details/6444/alternance-assistant-data-scientist-h-f-en-alternance "ALTERNANCE Assistant Data Scientist (H/F) en Alternance")
-* 2019/11/21 - [Administrateur Système (H/F)](http://www.pyjobs.fr/jobs/details/6472/administrateur-systeme-h-f "Administrateur Système (H/F)")
 

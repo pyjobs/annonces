@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/10/22 - [Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris](http://www.pyjobs.fr/jobs/details/6469/integrateur-dapplications-pour-la-mise-en-operation-dun-centre-de-transformation-des-meta-donnees-a-paris "Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris")
 * 2021/03/01 - [OpenEdition recrute un·e administrateur·trice systèmes et réseaux à Marseille (télétravail)](http://www.pyjobs.fr/jobs/details/6495/openedition-recrute-un-e-administrateur-trice-systemes-et-reseaux-a-marseille-teletravail "OpenEdition recrute un·e administrateur·trice systèmes et réseaux à Marseille (télétravail)")
 * 2019/10/10 - [Développeur Python scraping (H/F)](http://www.pyjobs.fr/jobs/details/6468/developpeur-python-scraping-h-f "Développeur Python scraping (H/F)")
 * 2021/01/14 - [Administrateur Systèmes et réseaux F/H](http://www.pyjobs.fr/jobs/details/6494/administrateur-systemes-et-reseaux-f-h "Administrateur Systèmes et réseaux F/H")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/09/04 - [Ingénieur QA spécialisé en automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6458/ingenieur-qa-specialise-en-automatisation-en-cdi-35000-44000 "Ingénieur QA spécialisé en automatisation en CDI 35000-44000")
 * 2020/09/28 - [Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne](http://www.pyjobs.fr/jobs/details/6490/administrateur-trice-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne "Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne")
 * 2020/09/28 - [Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne](http://www.pyjobs.fr/jobs/details/6489/administrateur-trice-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne "Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne")
-* 2019/12/04 - [Ingénieur DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6477/ingenieur-devops-h-f-teletravail "Ingénieur DevOps H-F (télétravail)")
 

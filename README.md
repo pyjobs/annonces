@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/08/15 - [Ingénieur Python senior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6454/ingenieur-python-senior-h-f-en-cdi-35000-44000 "Ingénieur Python senior (H/F) en CDI 35000-44000")
 * 2020/12/23 - [Ingénieur(e) Développeur / DevOps H/F](http://www.pyjobs.fr/jobs/details/6493/ingenieur-e-developpeur-devops-h-f "Ingénieur(e) Développeur / DevOps H/F")
 * 2019/10/23 - [Developer Python experimenté (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6470/developer-python-experimente-h-f-en-cdi-25000-34000 "Developer Python experimenté (H/F) en CDI 25000-34000")
 * 2019/08/04 - [[2019] Dev Python / JS à Paris 3ème arrondissement](http://www.pyjobs.fr/jobs/details/6453/2019-dev-python-js-a-paris-3eme-arrondissement "[2019] Dev Python / JS à Paris 3ème arrondissement")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/09/18 - [Back-end Developer - Drupal (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6460/back-end-developer-drupal-h-f-en-cdi-25000-34000 "Back-end Developer - Drupal (H/F) en CDI 25000-34000")
 * 2019/08/21 - [Ingénieur SysOPS Lyon et Montpellier](http://www.pyjobs.fr/jobs/details/6456/ingenieur-sysops-lyon-et-montpellier "Ingénieur SysOPS Lyon et Montpellier")
 * 2019/08/16 - [Directeur technique pour Kozea à Lyon](http://www.pyjobs.fr/jobs/details/6455/directeur-technique-pour-kozea-a-lyon "Directeur technique pour Kozea à Lyon")
-* 2020/01/16 - [INGENIEUR INDUSTRIALISATION INFORMATIQUE](http://www.pyjobs.fr/jobs/details/6479/ingenieur-industrialisation-informatique "INGENIEUR INDUSTRIALISATION INFORMATIQUE")
 

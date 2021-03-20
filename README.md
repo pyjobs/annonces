@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2020/01/29 - [Administratrice ou Administrateur - Système et Réseaux - Angers - CDI](http://www.pyjobs.fr/jobs/details/6481/administratrice-ou-administrateur-systeme-et-reseaux-angers-cdi "Administratrice ou Administrateur - Système et Réseaux - Angers - CDI")
 * 2020/01/27 - [Responsable technique](http://www.pyjobs.fr/jobs/details/6480/responsable-technique "Responsable technique")
 * 2019/12/03 - [Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)](http://www.pyjobs.fr/jobs/details/6476/linux-aws-systems-administrator-at-code-enigma-remote-teletravail "Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)")
 * 2019/11/29 - [Administrateur-trice systèmes et réseaux pour ATD Quart Monde](http://www.pyjobs.fr/jobs/details/6475/administrateur-trice-systemes-et-reseaux-pour-atd-quart-monde "Administrateur-trice systèmes et réseaux pour ATD Quart Monde")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2020/08/24 - [Lead Développeur/Développeuse Strasbourg](http://www.pyjobs.fr/jobs/details/6487/lead-developpeur-developpeuse-strasbourg "Lead Développeur/Développeuse Strasbourg")
 * 2019/07/17 - [DEV FULL STACK H/F en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6446/dev-full-stack-h-f-en-cdi-35000-44000 "DEV FULL STACK H/F en CDI 35000-44000")
 * 2020/02/26 - [Sysadmin / DevOps (télétravail)](http://www.pyjobs.fr/jobs/details/6482/sysadmin-devops-teletravail "Sysadmin / DevOps (télétravail)")
-* 2020/06/09 - [Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F](http://www.pyjobs.fr/jobs/details/6486/architecte-web-experimente-lyon-a-partir-de-50keur-h-f "Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F")
 

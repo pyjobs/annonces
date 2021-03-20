@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/09/30 - [Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6463/administrateur-systemes-et-reseaux-devops-h-f-teletravail "Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)")
 * 2019/09/26 - [Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)](http://www.pyjobs.fr/jobs/details/6462/administrateur-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne-teletravail "Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)")
 * 2019/10/30 - [Developpeur Web Fullstack ou back H/F en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6471/developpeur-web-fullstack-ou-back-h-f-en-cdi-25000-34000 "Developpeur Web Fullstack ou back H/F en CDI 25000-34000")
 * 2019/09/19 - [Lead dev Ruby en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6461/lead-dev-ruby-en-cdi-55000-59000 "Lead dev Ruby en CDI 55000-59000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/11/27 - [Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion](http://www.pyjobs.fr/jobs/details/6474/administrateur-systemes-et-reseaux-pour-observatoire-volcanologique-a-la-reunion "Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion")
 * 2019/09/30 - [Devops Futur Lead (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6464/devops-futur-lead-h-f-en-cdi-55000-59000 "Devops Futur Lead (H/F) en CDI 55000-59000")
 * 2019/09/30 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6466/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
-* 2019/09/30 - [DevOps Cloud (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6465/devops-cloud-h-f-en-cdi-45000-54000 "DevOps Cloud (H/F) en CDI 45000-54000")
 

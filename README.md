@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/09/30 - [Devops Futur Lead (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6464/devops-futur-lead-h-f-en-cdi-55000-59000 "Devops Futur Lead (H/F) en CDI 55000-59000")
 * 2019/09/30 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6466/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
 * 2019/09/30 - [DevOps Cloud (H/F) en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6465/devops-cloud-h-f-en-cdi-45000-54000 "DevOps Cloud (H/F) en CDI 45000-54000")
 * 2019/09/30 - [Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6463/administrateur-systemes-et-reseaux-devops-h-f-teletravail "Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2020/01/27 - [Responsable technique](http://www.pyjobs.fr/jobs/details/6480/responsable-technique "Responsable technique")
 * 2019/12/03 - [Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)](http://www.pyjobs.fr/jobs/details/6476/linux-aws-systems-administrator-at-code-enigma-remote-teletravail "Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)")
 * 2019/11/29 - [Administrateur-trice systèmes et réseaux pour ATD Quart Monde](http://www.pyjobs.fr/jobs/details/6475/administrateur-trice-systemes-et-reseaux-pour-atd-quart-monde "Administrateur-trice systèmes et réseaux pour ATD Quart Monde")
-* 2019/11/27 - [Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion](http://www.pyjobs.fr/jobs/details/6474/administrateur-systemes-et-reseaux-pour-observatoire-volcanologique-a-la-reunion "Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion")
 

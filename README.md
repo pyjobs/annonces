@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/10/10 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6467/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2020/08/25 - [Ingénieur Système (H/F - CDI à Lyon)](http://www.pyjobs.fr/jobs/details/6488/ingenieur-systeme-h-f-cdi-a-lyon "Ingénieur Système (H/F - CDI à Lyon)")
 * 2020/08/24 - [Lead Développeur/Développeuse Strasbourg](http://www.pyjobs.fr/jobs/details/6487/lead-developpeur-developpeuse-strasbourg "Lead Développeur/Développeuse Strasbourg")
 * 2021/03/26 - [Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F](http://www.pyjobs.fr/jobs/details/6497/architecte-web-experimente-lyon-a-partir-de-50keur-h-f "Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2021/03/01 - [OpenEdition recrute un·e administrateur·trice systèmes et réseaux à Marseille (télétravail)](http://www.pyjobs.fr/jobs/details/6495/openedition-recrute-un-e-administrateur-trice-systemes-et-reseaux-a-marseille-teletravail "OpenEdition recrute un·e administrateur·trice systèmes et réseaux à Marseille (télétravail)")
 * 2019/10/10 - [Développeur Python scraping (H/F)](http://www.pyjobs.fr/jobs/details/6468/developpeur-python-scraping-h-f "Développeur Python scraping (H/F)")
 * 2021/01/14 - [Administrateur Systèmes et réseaux F/H](http://www.pyjobs.fr/jobs/details/6494/administrateur-systemes-et-reseaux-f-h "Administrateur Systèmes et réseaux F/H")
-* 2019/11/21 - [Administrateur Système (H/F)](http://www.pyjobs.fr/jobs/details/6472/administrateur-systeme-h-f "Administrateur Système (H/F)")
 

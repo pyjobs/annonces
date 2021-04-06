@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2021/04/06 - [Développeur Python & Flutter pour O'tera à Villeneuve d'Ascq](http://www.pyjobs.fr/jobs/details/6499/developpeur-python-flutter-pour-otera-a-villeneuve-dascq "Développeur Python & Flutter pour O'tera à Villeneuve d'Ascq")
 * 2021/03/31 - [H/F Ingénieur Développement C/C++/Linux (Lille) (télétravail)](http://www.pyjobs.fr/jobs/details/6498/h-f-ingenieur-developpement-c-c-linux-lille-teletravail "H/F Ingénieur Développement C/C++/Linux (Lille) (télétravail)")
 * 2020/12/16 - [Ingénieur DevOps - CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6492/ingenieur-devops-cdi-teletravail "Ingénieur DevOps - CDI (télétravail)")
 * 2020/11/12 - [Développeur (PHP+Symfony, + autres) en Belgique](http://www.pyjobs.fr/jobs/details/6491/developpeur-php-symfony-autres-en-belgique "Développeur (PHP+Symfony, + autres) en Belgique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/07/24 - [DevOps / CI en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6450/devops-ci-en-cdi-60000-69000 "DevOps / CI en CDI 60000-69000")
 * 2019/07/24 - [DevOps Cloud en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6452/devops-cloud-en-cdi-45000-54000 "DevOps Cloud en CDI 45000-54000")
 * 2019/07/24 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6451/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
-* 2019/07/23 - [TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI](http://www.pyjobs.fr/jobs/details/6448/technicien-support-et-exploitation-h-f-en-cdi "TECHNICIEN SUPPORT ET EXPLOITATION H/F en CDI")
 

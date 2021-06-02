@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/10/23 - [Developer Python experimenté (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6470/developer-python-experimente-h-f-en-cdi-25000-34000 "Developer Python experimenté (H/F) en CDI 25000-34000")
 * 2021/06/02 - [Ingénieur Cloud / DevOps (télétravail)](http://www.pyjobs.fr/jobs/details/6504/ingenieur-cloud-devops-teletravail "Ingénieur Cloud / DevOps (télétravail)")
 * 2019/12/12 - [Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris](http://www.pyjobs.fr/jobs/details/6478/admin-linux-pour-la-dsi-dune-bibliotheque-interuniversitaire-a-paris "Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris")
 * 2019/11/22 - [Mediapart recrute un·e administrateur·trice système à Paris](http://www.pyjobs.fr/jobs/details/6473/mediapart-recrute-un-e-administrateur-trice-systeme-a-paris "Mediapart recrute un·e administrateur·trice système à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/08/16 - [Directeur technique pour Kozea à Lyon](http://www.pyjobs.fr/jobs/details/6455/directeur-technique-pour-kozea-a-lyon "Directeur technique pour Kozea à Lyon")
 * 2020/01/16 - [INGENIEUR INDUSTRIALISATION INFORMATIQUE](http://www.pyjobs.fr/jobs/details/6479/ingenieur-industrialisation-informatique "INGENIEUR INDUSTRIALISATION INFORMATIQUE")
 * 2019/08/15 - [Ingénieur Python senior (H/F) en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6454/ingenieur-python-senior-h-f-en-cdi-35000-44000 "Ingénieur Python senior (H/F) en CDI 35000-44000")
-* 2020/12/23 - [Ingénieur(e) Développeur / DevOps H/F](http://www.pyjobs.fr/jobs/details/6493/ingenieur-e-developpeur-devops-h-f "Ingénieur(e) Développeur / DevOps H/F")
 

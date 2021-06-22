@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2019/11/29 - [Administrateur-trice systèmes et réseaux pour ATD Quart Monde](http://www.pyjobs.fr/jobs/details/6475/administrateur-trice-systemes-et-reseaux-pour-atd-quart-monde "Administrateur-trice systèmes et réseaux pour ATD Quart Monde")
 * 2019/11/27 - [Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion](http://www.pyjobs.fr/jobs/details/6474/administrateur-systemes-et-reseaux-pour-observatoire-volcanologique-a-la-reunion "Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion")
 * 2019/09/30 - [Devops Futur Lead (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6464/devops-futur-lead-h-f-en-cdi-55000-59000 "Devops Futur Lead (H/F) en CDI 55000-59000")
 * 2019/09/30 - [Infrastructure Engineer (H/F) en CDI 60000-69000](http://www.pyjobs.fr/jobs/details/6466/infrastructure-engineer-h-f-en-cdi-60000-69000 "Infrastructure Engineer (H/F) en CDI 60000-69000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2020/06/09 - [Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F](http://www.pyjobs.fr/jobs/details/6486/architecte-web-experimente-lyon-a-partir-de-50keur-h-f "Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F")
 * 2020/01/29 - [Administratrice ou Administrateur - Système et Réseaux - Angers - CDI](http://www.pyjobs.fr/jobs/details/6481/administratrice-ou-administrateur-systeme-et-reseaux-angers-cdi "Administratrice ou Administrateur - Système et Réseaux - Angers - CDI")
 * 2020/01/27 - [Responsable technique](http://www.pyjobs.fr/jobs/details/6480/responsable-technique "Responsable technique")
-* 2019/12/03 - [Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)](http://www.pyjobs.fr/jobs/details/6476/linux-aws-systems-administrator-at-code-enigma-remote-teletravail "Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)")
 

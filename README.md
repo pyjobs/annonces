@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2020/02/26 - [Sysadmin / DevOps (télétravail)](http://www.pyjobs.fr/jobs/details/6482/sysadmin-devops-teletravail "Sysadmin / DevOps (télétravail)")
 * 2020/06/09 - [Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F](http://www.pyjobs.fr/jobs/details/6486/architecte-web-experimente-lyon-a-partir-de-50keur-h-f "Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F")
 * 2020/01/29 - [Administratrice ou Administrateur - Système et Réseaux - Angers - CDI](http://www.pyjobs.fr/jobs/details/6481/administratrice-ou-administrateur-systeme-et-reseaux-angers-cdi "Administratrice ou Administrateur - Système et Réseaux - Angers - CDI")
 * 2020/01/27 - [Responsable technique](http://www.pyjobs.fr/jobs/details/6480/responsable-technique "Responsable technique")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/10/10 - [Full Stack Developer (H/F) en CDI](http://www.pyjobs.fr/jobs/details/6467/full-stack-developer-h-f-en-cdi "Full Stack Developer (H/F) en CDI")
 * 2020/08/25 - [Ingénieur Système (H/F - CDI à Lyon)](http://www.pyjobs.fr/jobs/details/6488/ingenieur-systeme-h-f-cdi-a-lyon "Ingénieur Système (H/F - CDI à Lyon)")
 * 2020/08/24 - [Lead Développeur/Développeuse Strasbourg](http://www.pyjobs.fr/jobs/details/6487/lead-developpeur-developpeuse-strasbourg "Lead Développeur/Développeuse Strasbourg")
-* 2021/03/26 - [Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F](http://www.pyjobs.fr/jobs/details/6497/architecte-web-experimente-lyon-a-partir-de-50keur-h-f "Architecte Web Expérimenté - Lyon - à partir de 50k€- H/F")
 

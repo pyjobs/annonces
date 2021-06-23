@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2020/09/28 - [Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne](http://www.pyjobs.fr/jobs/details/6490/administrateur-trice-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne "Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne")
 * 2020/09/28 - [Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne](http://www.pyjobs.fr/jobs/details/6489/administrateur-trice-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne "Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne")
 * 2019/12/04 - [Ingénieur DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6477/ingenieur-devops-h-f-teletravail "Ingénieur DevOps H-F (télétravail)")
 * 2019/10/22 - [Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris](http://www.pyjobs.fr/jobs/details/6469/integrateur-dapplications-pour-la-mise-en-operation-dun-centre-de-transformation-des-meta-donnees-a-paris "Intégrateur d'applications pour la mise en operation d'un centre de transformation des méta/données à Paris")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2020/12/16 - [Ingénieur DevOps - CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6492/ingenieur-devops-cdi-teletravail "Ingénieur DevOps - CDI (télétravail)")
 * 2020/11/12 - [Développeur (PHP+Symfony, + autres) en Belgique](http://www.pyjobs.fr/jobs/details/6491/developpeur-php-symfony-autres-en-belgique "Développeur (PHP+Symfony, + autres) en Belgique")
 * 2019/09/04 - [Solution Architecte en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6457/solution-architecte-en-cdi-45000-54000 "Solution Architecte en CDI 45000-54000")
-* 2019/09/04 - [Ingénieur QA spécialisé en automatisation en CDI 35000-44000](http://www.pyjobs.fr/jobs/details/6458/ingenieur-qa-specialise-en-automatisation-en-cdi-35000-44000 "Ingénieur QA spécialisé en automatisation en CDI 35000-44000")
 

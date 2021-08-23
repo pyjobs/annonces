@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2021/08/23 - [Lead Administrateurs Système Linux (H/F) pour BEDROCK à Lyon (télétravail)](http://www.pyjobs.fr/jobs/details/6508/lead-administrateurs-systeme-linux-h-f-pour-bedrock-a-lyon-teletravail "Lead Administrateurs Système Linux (H/F) pour BEDROCK à Lyon (télétravail)")
 * 2020/09/28 - [Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne](http://www.pyjobs.fr/jobs/details/6490/administrateur-trice-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne "Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne")
 * 2020/09/28 - [Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne](http://www.pyjobs.fr/jobs/details/6489/administrateur-trice-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne "Administrateur-trice des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne")
 * 2019/12/04 - [Ingénieur DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6477/ingenieur-devops-h-f-teletravail "Ingénieur DevOps H-F (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2021/03/31 - [H/F Ingénieur Développement C/C++/Linux (Lille) (télétravail)](http://www.pyjobs.fr/jobs/details/6498/h-f-ingenieur-developpement-c-c-linux-lille-teletravail "H/F Ingénieur Développement C/C++/Linux (Lille) (télétravail)")
 * 2020/12/16 - [Ingénieur DevOps - CDI (télétravail)](http://www.pyjobs.fr/jobs/details/6492/ingenieur-devops-cdi-teletravail "Ingénieur DevOps - CDI (télétravail)")
 * 2020/11/12 - [Développeur (PHP+Symfony, + autres) en Belgique](http://www.pyjobs.fr/jobs/details/6491/developpeur-php-symfony-autres-en-belgique "Développeur (PHP+Symfony, + autres) en Belgique")
-* 2019/09/04 - [Solution Architecte en CDI 45000-54000](http://www.pyjobs.fr/jobs/details/6457/solution-architecte-en-cdi-45000-54000 "Solution Architecte en CDI 45000-54000")
 

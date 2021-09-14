@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2021/03/19 - [Administrateur Systèmes et Bureautique - Baillet-en-France (95)](http://www.pyjobs.fr/jobs/details/6496/administrateur-systemes-et-bureautique-baillet-en-france-95 "Administrateur Systèmes et Bureautique - Baillet-en-France (95)")
 * 2020/02/27 - [Administrateur système et réseau (télétravail)](http://www.pyjobs.fr/jobs/details/6483/administrateur-systeme-et-reseau-teletravail "Administrateur système et réseau (télétravail)")
 * 2021/05/14 - [Ingénieur Infra Cloud Public pour une startup dans la signature e-mail (télétravail)](http://www.pyjobs.fr/jobs/details/6503/ingenieur-infra-cloud-public-pour-une-startup-dans-la-signature-e-mail-teletravail "Ingénieur Infra Cloud Public pour une startup dans la signature e-mail (télétravail)")
 * 2021/05/07 - [Ingénieur sécurité applicative H/F à Cagnes-sur-mer](http://www.pyjobs.fr/jobs/details/6502/ingenieur-securite-applicative-h-f-a-cagnes-sur-mer "Ingénieur sécurité applicative H/F à Cagnes-sur-mer")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2021/06/02 - [Ingénieur Cloud / DevOps (télétravail)](http://www.pyjobs.fr/jobs/details/6504/ingenieur-cloud-devops-teletravail "Ingénieur Cloud / DevOps (télétravail)")
 * 2019/12/12 - [Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris](http://www.pyjobs.fr/jobs/details/6478/admin-linux-pour-la-dsi-dune-bibliotheque-interuniversitaire-a-paris "Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris")
 * 2019/11/22 - [Mediapart recrute un·e administrateur·trice système à Paris](http://www.pyjobs.fr/jobs/details/6473/mediapart-recrute-un-e-administrateur-trice-systeme-a-paris "Mediapart recrute un·e administrateur·trice système à Paris")
-* 2020/03/12 - [ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H](http://www.pyjobs.fr/jobs/details/6485/administrateur-systeme-linux-devops-f-h "ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H")
 

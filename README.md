@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2021/06/04 - [DevOps/Administrateur Systèmes et réseaux F/H (télétravail)](http://www.pyjobs.fr/jobs/details/6505/devops-administrateur-systemes-et-reseaux-f-h-teletravail "DevOps/Administrateur Systèmes et réseaux F/H (télétravail)")
 * 2020/12/23 - [Ingénieur(e) Développeur / DevOps H/F](http://www.pyjobs.fr/jobs/details/6493/ingenieur-e-developpeur-devops-h-f "Ingénieur(e) Développeur / DevOps H/F")
 * 2021/06/02 - [Ingénieur Cloud / DevOps (télétravail)](http://www.pyjobs.fr/jobs/details/6504/ingenieur-cloud-devops-teletravail "Ingénieur Cloud / DevOps (télétravail)")
 * 2019/10/23 - [Developer Python experimenté (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6470/developer-python-experimente-h-f-en-cdi-25000-34000 "Developer Python experimenté (H/F) en CDI 25000-34000")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/09/19 - [Lead dev Ruby en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6461/lead-dev-ruby-en-cdi-55000-59000 "Lead dev Ruby en CDI 55000-59000")
 * 2019/09/18 - [Back-end Developer - Drupal (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6460/back-end-developer-drupal-h-f-en-cdi-25000-34000 "Back-end Developer - Drupal (H/F) en CDI 25000-34000")
 * 2021/06/22 - [AdminSys pour petite entreprise à Montbonnot (proche Grenoble) (télétravail)](http://www.pyjobs.fr/jobs/details/6507/adminsys-pour-petite-entreprise-a-montbonnot-proche-grenoble-teletravail "AdminSys pour petite entreprise à Montbonnot (proche Grenoble) (télétravail)")
-* 2021/06/04 - [Développeur web PYTHON projet open-source sur la biodiversité pour 12 mois à Paris](http://www.pyjobs.fr/jobs/details/6506/developpeur-web-python-projet-open-source-sur-la-biodiversite-pour-12-mois-a-paris "Développeur web PYTHON projet open-source sur la biodiversité pour 12 mois à Paris")
 

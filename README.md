@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2020/03/12 - [ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H](http://www.pyjobs.fr/jobs/details/6485/administrateur-systeme-linux-devops-f-h "ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H")
 * 2020/02/28 - [Administrateur système Linux / Ansible (télétravail)](http://www.pyjobs.fr/jobs/details/6484/administrateur-systeme-linux-ansible-teletravail "Administrateur système Linux / Ansible (télétravail)")
 * 2021/03/19 - [Administrateur Systèmes et Bureautique - Baillet-en-France (95)](http://www.pyjobs.fr/jobs/details/6496/administrateur-systemes-et-bureautique-baillet-en-france-95 "Administrateur Systèmes et Bureautique - Baillet-en-France (95)")
 * 2020/02/27 - [Administrateur système et réseau (télétravail)](http://www.pyjobs.fr/jobs/details/6483/administrateur-systeme-et-reseau-teletravail "Administrateur système et réseau (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2020/12/23 - [Ingénieur(e) Développeur / DevOps H/F](http://www.pyjobs.fr/jobs/details/6493/ingenieur-e-developpeur-devops-h-f "Ingénieur(e) Développeur / DevOps H/F")
 * 2019/10/23 - [Developer Python experimenté (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6470/developer-python-experimente-h-f-en-cdi-25000-34000 "Developer Python experimenté (H/F) en CDI 25000-34000")
 * 2021/06/02 - [Ingénieur Cloud / DevOps (télétravail)](http://www.pyjobs.fr/jobs/details/6504/ingenieur-cloud-devops-teletravail "Ingénieur Cloud / DevOps (télétravail)")
-* 2019/12/12 - [Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris](http://www.pyjobs.fr/jobs/details/6478/admin-linux-pour-la-dsi-dune-bibliotheque-interuniversitaire-a-paris "Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2020/02/27 - [Administrateur système et réseau (télétravail)](http://www.pyjobs.fr/jobs/details/6483/administrateur-systeme-et-reseau-teletravail "Administrateur système et réseau (télétravail)")
 * 2021/05/14 - [Ingénieur Infra Cloud Public pour une startup dans la signature e-mail (télétravail)](http://www.pyjobs.fr/jobs/details/6503/ingenieur-infra-cloud-public-pour-une-startup-dans-la-signature-e-mail-teletravail "Ingénieur Infra Cloud Public pour une startup dans la signature e-mail (télétravail)")
 * 2021/05/07 - [Ingénieur sécurité applicative H/F à Cagnes-sur-mer](http://www.pyjobs.fr/jobs/details/6502/ingenieur-securite-applicative-h-f-a-cagnes-sur-mer "Ingénieur sécurité applicative H/F à Cagnes-sur-mer")
 * 2021/05/06 - [Probesys recrute un⋅e AdminSys en CDI à Grenoble (38)](http://www.pyjobs.fr/jobs/details/6501/probesys-recrute-un-e-adminsys-en-cdi-a-grenoble-38 "Probesys recrute un⋅e AdminSys en CDI à Grenoble (38)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/12/12 - [Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris](http://www.pyjobs.fr/jobs/details/6478/admin-linux-pour-la-dsi-dune-bibliotheque-interuniversitaire-a-paris "Admin Linux pour la DSI d'une bibliothèque interuniversitaire à Paris")
 * 2019/11/22 - [Mediapart recrute un·e administrateur·trice système à Paris](http://www.pyjobs.fr/jobs/details/6473/mediapart-recrute-un-e-administrateur-trice-systeme-a-paris "Mediapart recrute un·e administrateur·trice système à Paris")
 * 2020/03/12 - [ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H](http://www.pyjobs.fr/jobs/details/6485/administrateur-systeme-linux-devops-f-h "ADMINISTRATEUR SYSTEME LINUX – DEVOPS F/H")
-* 2020/02/28 - [Administrateur système Linux / Ansible (télétravail)](http://www.pyjobs.fr/jobs/details/6484/administrateur-systeme-linux-ansible-teletravail "Administrateur système Linux / Ansible (télétravail)")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2020/11/12 - [Développeur (PHP+Symfony, + autres) en Belgique](http://www.pyjobs.fr/jobs/details/6491/developpeur-php-symfony-autres-en-belgique "Développeur (PHP+Symfony, + autres) en Belgique")
 * 2021/09/14 - [Site Reliability Engineer [SRE] - DevOps à LYON](http://www.pyjobs.fr/jobs/details/6510/site-reliability-engineer-sre-devops-a-lyon "Site Reliability Engineer [SRE] - DevOps à LYON")
 * 2021/09/14 - [Senior Data Engineer à LYON](http://www.pyjobs.fr/jobs/details/6509/senior-data-engineer-a-lyon "Senior Data Engineer à LYON")
 * 2021/08/23 - [Lead Administrateurs Système Linux (H/F) pour BEDROCK à Lyon (télétravail)](http://www.pyjobs.fr/jobs/details/6508/lead-administrateurs-systeme-linux-h-f-pour-bedrock-a-lyon-teletravail "Lead Administrateurs Système Linux (H/F) pour BEDROCK à Lyon (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2021/05/06 - [Probesys recrute un⋅e AdminSys en CDI à Grenoble (38)](http://www.pyjobs.fr/jobs/details/6501/probesys-recrute-un-e-adminsys-en-cdi-a-grenoble-38 "Probesys recrute un⋅e AdminSys en CDI à Grenoble (38)")
 * 2021/04/16 - [Développeurs applicatifs réseau/Linux ARM](http://www.pyjobs.fr/jobs/details/6500/developpeurs-applicatifs-reseau-linux-arm "Développeurs applicatifs réseau/Linux ARM")
 * 2021/04/06 - [Développeur Python & Flutter pour O'tera à Villeneuve d'Ascq](http://www.pyjobs.fr/jobs/details/6499/developpeur-python-flutter-pour-otera-a-villeneuve-dascq "Développeur Python & Flutter pour O'tera à Villeneuve d'Ascq")
-* 2021/03/31 - [H/F Ingénieur Développement C/C++/Linux (Lille) (télétravail)](http://www.pyjobs.fr/jobs/details/6498/h-f-ingenieur-developpement-c-c-linux-lille-teletravail "H/F Ingénieur Développement C/C++/Linux (Lille) (télétravail)")
 

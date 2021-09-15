@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2021/06/04 - [Développeur web PYTHON projet open-source sur la biodiversité pour 12 mois à Paris](http://www.pyjobs.fr/jobs/details/6506/developpeur-web-python-projet-open-source-sur-la-biodiversite-pour-12-mois-a-paris "Développeur web PYTHON projet open-source sur la biodiversité pour 12 mois à Paris")
 * 2020/01/16 - [INGENIEUR INDUSTRIALISATION INFORMATIQUE](http://www.pyjobs.fr/jobs/details/6479/ingenieur-industrialisation-informatique "INGENIEUR INDUSTRIALISATION INFORMATIQUE")
 * 2021/06/04 - [DevOps/Administrateur Systèmes et réseaux F/H (télétravail)](http://www.pyjobs.fr/jobs/details/6505/devops-administrateur-systemes-et-reseaux-f-h-teletravail "DevOps/Administrateur Systèmes et réseaux F/H (télétravail)")
 * 2020/12/23 - [Ingénieur(e) Développeur / DevOps H/F](http://www.pyjobs.fr/jobs/details/6493/ingenieur-e-developpeur-devops-h-f "Ingénieur(e) Développeur / DevOps H/F")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/09/26 - [Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)](http://www.pyjobs.fr/jobs/details/6462/administrateur-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne-teletravail "Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)")
 * 2019/10/30 - [Developpeur Web Fullstack ou back H/F en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6471/developpeur-web-fullstack-ou-back-h-f-en-cdi-25000-34000 "Developpeur Web Fullstack ou back H/F en CDI 25000-34000")
 * 2019/09/19 - [Lead dev Ruby en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6461/lead-dev-ruby-en-cdi-55000-59000 "Lead dev Ruby en CDI 55000-59000")
-* 2019/09/18 - [Back-end Developer - Drupal (H/F) en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6460/back-end-developer-drupal-h-f-en-cdi-25000-34000 "Back-end Developer - Drupal (H/F) en CDI 25000-34000")
 

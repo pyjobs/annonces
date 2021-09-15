@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2021/06/22 - [AdminSys pour petite entreprise à Montbonnot (proche Grenoble) (télétravail)](http://www.pyjobs.fr/jobs/details/6507/adminsys-pour-petite-entreprise-a-montbonnot-proche-grenoble-teletravail "AdminSys pour petite entreprise à Montbonnot (proche Grenoble) (télétravail)")
 * 2021/06/04 - [Développeur web PYTHON projet open-source sur la biodiversité pour 12 mois à Paris](http://www.pyjobs.fr/jobs/details/6506/developpeur-web-python-projet-open-source-sur-la-biodiversite-pour-12-mois-a-paris "Développeur web PYTHON projet open-source sur la biodiversité pour 12 mois à Paris")
 * 2020/01/16 - [INGENIEUR INDUSTRIALISATION INFORMATIQUE](http://www.pyjobs.fr/jobs/details/6479/ingenieur-industrialisation-informatique "INGENIEUR INDUSTRIALISATION INFORMATIQUE")
 * 2021/06/04 - [DevOps/Administrateur Systèmes et réseaux F/H (télétravail)](http://www.pyjobs.fr/jobs/details/6505/devops-administrateur-systemes-et-reseaux-f-h-teletravail "DevOps/Administrateur Systèmes et réseaux F/H (télétravail)")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/09/30 - [Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)](http://www.pyjobs.fr/jobs/details/6463/administrateur-systemes-et-reseaux-devops-h-f-teletravail "Administrateur Systèmes et Réseaux/DevOps H-F (télétravail)")
 * 2019/09/26 - [Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)](http://www.pyjobs.fr/jobs/details/6462/administrateur-des-systemes-informatiques-reseaux-et-telecommunication-linux-a-champs-sur-marne-teletravail "Administrateur des systèmes informatiques, réseaux et télécommunication Linux à Champs-sur-Marne (télétravail)")
 * 2019/10/30 - [Developpeur Web Fullstack ou back H/F en CDI 25000-34000](http://www.pyjobs.fr/jobs/details/6471/developpeur-web-fullstack-ou-back-h-f-en-cdi-25000-34000 "Developpeur Web Fullstack ou back H/F en CDI 25000-34000")
-* 2019/09/19 - [Lead dev Ruby en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6461/lead-dev-ruby-en-cdi-55000-59000 "Lead dev Ruby en CDI 55000-59000")
 

@@ -2,6 +2,7 @@
 
 Offres d'emploi python pour le marché français
 
+* 2021/12/09 - [Administrateur systèmes Unix/linux pour Hexanet à Paris, Lyon, Reims, Grenoble (télétravail)](http://www.pyjobs.fr/jobs/details/6516/administrateur-systemes-unix-linux-pour-hexanet-a-paris-lyon-reims-grenoble-teletravail "Administrateur systèmes Unix/linux pour Hexanet à Paris, Lyon, Reims, Grenoble (télétravail)")
 * 2021/11/22 - [Analyste développeur.se full stack (h/f) (télétravail)](http://www.pyjobs.fr/jobs/details/6515/analyste-developpeur-se-full-stack-h-f-teletravail "Analyste développeur.se full stack (h/f) (télétravail)")
 * 2021/11/10 - [Développeur-se web à l'Université Grenoble Alpes et à Tétras Libre en CDD à Grenoble (télétravail)](http://www.pyjobs.fr/jobs/details/6514/developpeur-se-web-a-luniversite-grenoble-alpes-et-a-tetras-libre-en-cdd-a-grenoble-teletravail "Développeur-se web à l'Université Grenoble Alpes et à Tétras Libre en CDD à Grenoble (télétravail)")
 * 2021/10/18 - [DevOps à LYON](http://www.pyjobs.fr/jobs/details/6513/devops-a-lyon "DevOps à LYON")
@@ -51,5 +52,4 @@ Offres d'emploi python pour le marché français
 * 2019/12/03 - [Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)](http://www.pyjobs.fr/jobs/details/6476/linux-aws-systems-administrator-at-code-enigma-remote-teletravail "Linux/AWS Systems Administrator at Code Enigma (Remote) (télétravail)")
 * 2019/11/29 - [Administrateur-trice systèmes et réseaux pour ATD Quart Monde](http://www.pyjobs.fr/jobs/details/6475/administrateur-trice-systemes-et-reseaux-pour-atd-quart-monde "Administrateur-trice systèmes et réseaux pour ATD Quart Monde")
 * 2019/11/27 - [Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion](http://www.pyjobs.fr/jobs/details/6474/administrateur-systemes-et-reseaux-pour-observatoire-volcanologique-a-la-reunion "Administrateur systèmes et réseaux pour observatoire volcanologique à la Réunion")
-* 2019/09/30 - [Devops Futur Lead (H/F) en CDI 55000-59000](http://www.pyjobs.fr/jobs/details/6464/devops-futur-lead-h-f-en-cdi-55000-59000 "Devops Futur Lead (H/F) en CDI 55000-59000")
 
